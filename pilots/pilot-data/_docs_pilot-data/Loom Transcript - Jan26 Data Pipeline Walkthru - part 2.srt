@@ -1,0 +1,1071 @@
+1
+00:00:00,560 --> 00:00:03,300
+Okay, after about two hours of troubleshooting and tuning,
+
+2
+00:00:03,700 --> 00:00:07,180
+we're back to pick up where we left off and,
+
+3
+00:00:07,520 --> 00:00:11,040
+uh, um, I think it's working now.
+
+4
+00:00:11,900 --> 00:00:14,820
+So, just let me show you where this is at.
+
+5
+00:00:16,040 --> 00:00:18,120
+Okay, so I took the,
+
+6
+00:00:19,100 --> 00:00:24,460
+um, metrics consistency check out of the
+
+7
+00:00:24,461 --> 00:00:27,720
+data pipeline. and now it's set up to just run separate.
+
+8
+00:00:28,800 --> 00:00:33,400
+So you can run it here. Okay and it
+
+9
+00:00:33,401 --> 00:00:37,560
+tells you here now it found only one inconsistent one.
+
+10
+00:00:38,340 --> 00:00:42,160
+I don't know whether this was done this before or not.
+
+11
+00:00:42,400 --> 00:00:47,220
+There is now a reference. Okay so there's a reference CSV.
+
+12
+00:00:47,760 --> 00:00:50,640
+This reference CSV is created with another function.
+
+13
+00:00:51,020 --> 00:00:54,040
+So this is all pretty manual. You can create the reference here.
+
+14
+00:00:54,320 --> 00:00:56,440
+I think it's set up to create from a brome,
+
+15
+00:00:56,700 --> 00:01:01,380
+so that's the reference one. I copied
+
+16
+00:01:01,381 --> 00:01:05,840
+these to all be the same at the Google sheet level but only for
+
+17
+00:01:05,841 --> 00:01:12,320
+the pub version. I didn't prop backpropagate it to the PHI and the DEID
+
+18
+00:01:12,321 --> 00:01:17,720
+non pub version and then from the pub version I extracted to the download
+
+19
+00:01:17,721 --> 00:01:22,920
+of the XLS X is again, and then I uploaded those to the
+
+20
+00:01:22,921 --> 00:01:28,980
+repo, and then ran the
+
+21
+00:01:28,981 --> 00:01:31,800
+CSV curated CSV creation,
+
+22
+00:01:32,000 --> 00:01:35,620
+both the regular one, for all of them, except FLMP and then the FLMP
+
+23
+00:01:35,621 --> 00:01:40,280
+one. So remember this has a single mode
+
+24
+00:01:40,281 --> 00:01:43,340
+for troubleshooting, single-site mode, and then all the sites together.
+
+25
+00:01:44,680 --> 00:01:49,340
+Okay so you know the key change in just while I'm at documenting this
+
+26
+00:01:49,341 --> 00:01:53,520
+was the identification of the section titles.
+
+27
+00:01:53,560 --> 00:01:58,200
+Well this one is weird because it's in this column D because it
+
+28
+00:01:58,201 --> 00:02:00,620
+has extra columns because they're combined.
+
+29
+00:02:01,280 --> 00:02:04,140
+But the key thing was that I just simply added this explicit tag for
+
+30
+00:02:04,141 --> 00:02:09,840
+the section here. That just makes it easier because for some of them I
+
+31
+00:02:09,841 --> 00:02:12,900
+don't know let me see yeah for something that I put this here and
+
+32
+00:02:12,901 --> 00:02:17,240
+this mess things up and it's helpful to see this not available.
+
+33
+00:02:18,060 --> 00:02:20,580
+I feel like people will miss it if it's over here even though it
+
+34
+00:02:20,581 --> 00:02:24,280
+says for all these fields, all these different ones not available.
+
+35
+00:02:25,600 --> 00:02:30,500
+So now the code explicitly looks in column C for either details
+
+36
+00:02:30,501 --> 00:02:34,080
+or section and if it finds that then it classifies that it says okay
+
+37
+00:02:34,081 --> 00:02:38,500
+you're starting a new section. Okay so So that's all sorted.
+
+38
+00:02:39,380 --> 00:02:43,380
+You can do this comparison, this check,
+
+39
+00:02:44,220 --> 00:02:48,220
+although unless you recreate the CSBs,
+
+40
+00:02:48,660 --> 00:02:53,180
+you won't need to. So that's all done
+
+41
+00:02:53,181 --> 00:02:56,880
+now. And yeah,
+
+42
+00:02:56,881 --> 00:02:59,560
+I guess this is a little walkie because now we need to come over
+
+43
+00:02:59,561 --> 00:03:03,160
+here. We're going to come run this one and then we're going to come
+
+44
+00:03:03,161 --> 00:03:05,640
+back and run the, add this.
+
+45
+00:03:06,640 --> 00:03:10,040
+It's a little clooch, but it should work.
+
+46
+00:03:12,860 --> 00:03:15,820
+And even here, we run this in a little bit weird order,
+
+47
+00:03:17,820 --> 00:03:24,380
+well actually, let
+
+48
+00:03:24,381 --> 00:03:29,380
+me
+
+49
+00:03:35,580 --> 00:03:39,680
+ask a going to do an ask. So for this code,
+
+50
+00:03:39,840 --> 00:03:42,340
+does the insert plots into all markdowns?
+
+51
+00:03:42,341 --> 00:03:45,800
+Does that create the plots? Or do I need to do the manually run
+
+52
+00:03:45,801 --> 00:03:48,120
+the runoff pilot plots first?
+
+53
+00:03:49,060 --> 00:03:52,800
+And then do the insert plots into all markdowns?
+
+54
+00:03:53,080 --> 00:03:58,220
+And if that's a case, why not move the the insert
+
+55
+00:03:58,221 --> 00:04:02,600
+plots into summary markdown files until after the runoff pilot plots?
+
+56
+00:04:02,700 --> 00:04:05,800
+Because that would make more sense in terms of order of operations,
+
+57
+00:04:06,580 --> 00:04:10,340
+okay,
+
+58
+00:04:11,060 --> 00:04:15,740
+so I'm just trying
+
+59
+00:04:15,741 --> 00:04:20,040
+to understand how this works again. So this says I shouldn't need to run
+
+60
+00:04:20,041 --> 00:04:24,600
+the insert plots in all Americans and
+
+61
+00:04:24,601 --> 00:04:28,040
+not create the plots yet, okay, that makes sense. But the runoff pilot plots
+
+62
+00:04:28,041 --> 00:04:29,120
+does the insert.
+
+63
+00:04:39,400 --> 00:04:42,400
+Okay, So for the runoff pilot plots,
+
+64
+00:04:42,580 --> 00:04:44,720
+if the run mode is set to markdown only,
+
+65
+00:04:45,520 --> 00:04:49,660
+that will not recreate the plots,
+
+66
+00:04:49,661 --> 00:04:51,700
+it will only insert them into the markdown,
+
+67
+00:04:51,760 --> 00:04:52,280
+is that correct?
+
+68
+00:04:56,620 --> 00:05:02,340
+And then what happens if I do the run mode to styled
+
+69
+00:05:02,341 --> 00:05:05,300
+prototypes, original? What are those?
+
+70
+00:05:05,301 --> 00:05:08,100
+what a styled prototypes and original do for the run mode.
+
+71
+00:06:12,980 --> 00:06:14,140
+Oh, sorry, I left this going.
+
+72
+00:06:18,540 --> 00:06:23,040
+Okay, insert these explanations for the modes into the,
+
+73
+00:06:23,380 --> 00:06:28,020
+into the comment, into the dox string for
+
+74
+00:06:28,021 --> 00:06:31,440
+this function, just so it's clear.
+
+75
+00:06:35,520 --> 00:06:37,820
+And then actually also just insert them into the,
+
+76
+00:06:38,440 --> 00:06:43,080
+into the M run, with the red mode set
+
+77
+00:06:43,081 --> 00:06:46,700
+to each one and with the comment afterwards and then comment them all out
+
+78
+00:06:46,701 --> 00:06:49,440
+except the markdown only.
+
+79
+00:07:08,570 --> 00:07:14,070
+Okay, so that
+
+80
+00:07:14,071 --> 00:07:18,610
+should just make it more clear. So we don't have to do that
+
+81
+00:07:18,611 --> 00:07:21,490
+by hand, I think that's like obsolete now.
+
+82
+00:07:25,710 --> 00:07:30,230
+So in that case, I could
+
+83
+00:07:30,231 --> 00:07:32,490
+delete that, but I'm just gonna leave it for now.
+
+84
+00:07:35,370 --> 00:07:38,890
+Okay, so I just confirmed I had to explain these options.
+
+85
+00:07:38,891 --> 00:07:44,430
+So, if you're one
+
+86
+00:07:44,431 --> 00:07:49,310
+to troubleshoot or tweak
+
+87
+00:07:49,311 --> 00:07:51,950
+the selected style,
+
+88
+00:07:52,150 --> 00:07:57,830
+then you could run
+
+89
+00:07:57,831 --> 00:08:03,110
+this without inserting them into the markdown. But
+
+90
+00:08:03,111 --> 00:08:06,670
+if you want to recreate the plots using the selected style,
+
+91
+00:08:06,671 --> 00:08:09,630
+which is B, and insert into markdown,
+
+92
+00:08:09,631 --> 00:08:12,010
+you leave a certain markdown true, run mode styled,
+
+93
+00:08:12,450 --> 00:08:14,790
+and this should do exactly that.
+
+94
+00:08:20,310 --> 00:08:23,330
+It doesn't take long to recreate the plots in this way.
+
+95
+00:08:23,810 --> 00:08:27,390
+This makes sure the plots are the same as the data.
+
+96
+00:08:27,391 --> 00:08:31,910
+so really for the final run I should recreate
+
+97
+00:08:31,911 --> 00:08:36,550
+the plots. I just thought about a sanity check to do.
+
+98
+00:08:38,990 --> 00:08:46,990
+Okay so that's all done. Let's go look at the pick
+
+99
+00:08:46,991 --> 00:08:51,410
+our usual guinea pig a broom and look at this.
+
+100
+00:08:52,390 --> 00:08:57,370
+Okay so if we go here and we look at the
+
+101
+00:08:58,010 --> 00:09:02,890
+That looks all right, then we should be able to look at like
+
+102
+00:09:02,891 --> 00:09:05,430
+my day,
+
+103
+00:09:05,550 --> 00:09:09,210
+carry,
+
+104
+00:09:09,930 --> 00:09:11,330
+one, one,
+
+105
+00:09:21,480 --> 00:09:24,160
+go, this all looks good. Let's look to aggregate one.
+
+106
+00:09:29,640 --> 00:09:32,080
+Okay. Cool.
+
+107
+00:09:35,140 --> 00:09:39,160
+Okay. So I'm going to I'm gonna do the sanity check and then show
+
+108
+00:09:39,161 --> 00:09:41,800
+it to him and do it and basically what I'm gonna do is cut
+
+109
+00:09:41,801 --> 00:09:46,800
+and paste all the stats
+
+110
+00:09:46,801 --> 00:09:52,580
+into one spreadsheet. Okay,
+
+111
+00:09:52,700 --> 00:09:55,900
+so here's another case of making an update.
+
+112
+00:09:56,820 --> 00:10:01,420
+Well, I'm working on this spreadsheet here compiling all these and I
+
+113
+00:10:01,421 --> 00:10:03,940
+saw this was no positives.
+
+114
+00:10:05,340 --> 00:10:09,340
+That's not available is not what we should use for no positives.
+
+115
+00:10:10,710 --> 00:10:13,620
+It's zero. There are a number of cases with frill just correspondence,
+
+116
+00:10:14,360 --> 00:10:16,560
+so it's the denominator zero.
+
+117
+00:10:20,940 --> 00:10:25,620
+Well actually, now I'm changing my mind.
+
+118
+00:10:26,700 --> 00:10:31,460
+I think the referrals testing correspondence doesn't is in a,
+
+119
+00:10:33,660 --> 00:10:35,920
+It's just not available, it's not applicable,
+
+120
+00:10:36,480 --> 00:10:38,680
+it's not that it's not available,
+
+121
+00:10:38,920 --> 00:10:43,960
+it's not applicable. But
+
+122
+00:10:43,961 --> 00:10:46,380
+for all the rest of them, it is getting a number,
+
+123
+00:10:47,400 --> 00:10:50,100
+like, how do I handle that on FTFC? Let me take a look.
+
+124
+00:10:51,880 --> 00:10:54,860
+Okay, so here's how I handled an FTFC. I think this is the correct
+
+125
+00:10:54,861 --> 00:10:57,480
+way to do it, and then not applicable,
+
+126
+00:10:58,020 --> 00:11:02,140
+yeah, so I'm going do need them the same way because they just didn't
+
+127
+00:11:02,141 --> 00:11:04,480
+have any positives. Same as FTFC.
+
+128
+00:11:05,620 --> 00:11:10,700
+Then that'll be consistent. Okay so I'll
+
+129
+00:11:10,701 --> 00:11:14,520
+just walk through updating this.
+
+130
+00:11:14,060 --> 00:11:18,320
+this is Needum.
+
+131
+00:11:20,240 --> 00:11:23,120
+Okay. Download.
+
+132
+00:11:28,660 --> 00:11:32,180
+Okay, so here's the downloads. I deleted the old version first.
+
+133
+00:11:32,920 --> 00:11:41,040
+So then then
+
+134
+00:11:41,041 --> 00:11:45,860
+drag that that was medium.
+
+135
+00:12:03,660 --> 00:12:04,000
+Okay.
+
+136
+00:12:08,760 --> 00:12:11,420
+Not the patched this one.
+
+137
+00:12:12,080 --> 00:12:15,220
+So I can I'm not going to run them all. I'm just going to
+
+138
+00:12:15,221 --> 00:12:16,660
+run Needum.
+
+139
+00:12:32,460 --> 00:12:38,760
+That's done. Now I can
+
+140
+00:12:38,761 --> 00:12:39,740
+come over here.
+
+141
+00:12:48,910 --> 00:12:53,430
+And this one doesn't take long and I haven't changed
+
+142
+00:12:53,431 --> 00:12:57,630
+anything else, so I can just run this whole thing again.
+
+143
+00:13:03,250 --> 00:13:07,090
+It was probably not awesome to like recreate, keep recreating the plots and inserting
+
+144
+00:13:07,091 --> 00:13:10,450
+them in when I'm only changing one. On one hand,
+
+145
+00:13:10,530 --> 00:13:15,550
+this makes sure that everything's current,
+
+146
+00:13:15,710 --> 00:13:18,470
+but then on the other hand, it reprocesses stuff that I checked,
+
+147
+00:13:18,750 --> 00:13:24,330
+so let me
+
+148
+00:13:24,331 --> 00:13:29,350
+review the need and mark down.
+
+149
+00:13:41,100 --> 00:13:45,060
+So, what I'm looking for here is under,
+
+150
+00:14:02,240 --> 00:14:05,660
+hang on,
+
+151
+00:14:06,020 --> 00:14:08,600
+let me double check something. Okay,
+
+152
+00:14:08,700 --> 00:14:11,100
+I'm just coming down here referral, corresponded to zero,
+
+153
+00:14:12,780 --> 00:14:16,260
+right in these hour,
+
+154
+00:14:18,120 --> 00:14:20,400
+not available. Oh,
+
+155
+00:14:21,200 --> 00:14:26,200
+no,
+
+156
+00:14:31,140 --> 00:14:33,580
+they should just, they should be did not zero now,
+
+157
+00:14:34,260 --> 00:14:37,180
+it should have updated that.
+
+158
+00:14:38,480 --> 00:14:39,300
+Hmm.
+
+159
+00:14:44,380 --> 00:14:54,920
+Let's check this file, yeah
+
+160
+00:14:54,921 --> 00:15:00,300
+this looks correct, it looks like the
+
+161
+00:15:00,301 --> 00:15:03,000
+markdown is updated. Now,
+
+162
+00:15:03,160 --> 00:15:03,700
+why did that be?
+
+163
+00:15:20,460 --> 00:15:23,380
+Let me try to shoot this a second.
+
+164
+00:15:24,260 --> 00:15:26,860
+Oh, it's because I missed this step. I mean,
+
+165
+00:15:26,900 --> 00:15:31,280
+that's why I'm making this video so that I can figure this out while
+
+166
+00:15:31,281 --> 00:15:34,020
+it's fresh in my head and then get it summarized.
+
+167
+00:15:34,560 --> 00:15:36,640
+So, you see,
+
+168
+00:15:36,680 --> 00:15:39,340
+it's these correct, but this, this makes,
+
+169
+00:15:39,660 --> 00:15:43,020
+this does the aggregation and the markdown. This really does everything.
+
+170
+00:15:43,700 --> 00:15:48,380
+And it's pretty fast. So this makes sure everything is
+
+171
+00:15:48,381 --> 00:15:53,380
+current because it draws from the CSVs and creates the markdowns.
+
+172
+00:15:54,140 --> 00:15:59,000
+And does the aggregation. So now we
+
+173
+00:15:59,001 --> 00:16:03,720
+can run the plots again. Then that makes sure the plots are current where
+
+174
+00:16:03,721 --> 00:16:09,000
+this is also pretty
+
+175
+00:16:09,001 --> 00:16:13,760
+fast. So this running
+
+176
+00:16:13,761 --> 00:16:17,040
+these two is just running everything again from the current CSVs.
+
+177
+00:16:33,040 --> 00:16:37,620
+Okay, so now when we go to this and we scroll
+
+178
+00:16:37,621 --> 00:16:43,560
+down, we should see the updates that we made.
+
+179
+00:16:43,561 --> 00:16:46,420
+to referral testing.
+
+180
+00:16:46,660 --> 00:16:50,360
+Yep. See, zeros. These were not available.
+
+181
+00:16:50,480 --> 00:16:52,920
+This is to non-zero. Okay. Perfect.
+
+182
+00:16:53,760 --> 00:16:58,340
+So that's working. Now I'm going to go back to
+
+183
+00:16:58,341 --> 00:17:01,420
+my sanity check. Okay.
+
+184
+00:17:02,120 --> 00:17:04,720
+I'm still doing some detailed troubleshooting here.
+
+185
+00:17:04,960 --> 00:17:08,800
+I'm tracking what I'm doing. The top line numbers are adding up.
+
+186
+00:17:09,360 --> 00:17:11,400
+Here's the hand compilation.
+
+187
+00:17:12,260 --> 00:17:15,880
+and now I'm going through this,
+
+188
+00:17:16,720 --> 00:17:20,200
+it's not summing the ones that have not available so I'm telling you to
+
+189
+00:17:20,201 --> 00:17:24,960
+change those to zero. So getting there.
+
+190
+00:17:26,960 --> 00:17:31,620
+Okay, so I finished updating the code to create a reference
+
+191
+00:17:31,621 --> 00:17:36,720
+file for the comparison of the values from the aggregate and then I
+
+192
+00:17:36,721 --> 00:17:41,500
+pasted those values in here All right, inserted some cells to give the spacing
+
+193
+00:17:41,501 --> 00:17:43,840
+and then I did a subtraction and they all match.
+
+194
+00:17:45,360 --> 00:17:50,300
+So that's good. And then the
+
+195
+00:17:50,301 --> 00:17:54,820
+code is doing this as well now. There's a function to do
+
+196
+00:17:54,821 --> 00:17:58,100
+the comparison. It's right here. If we run this,
+
+197
+00:17:58,760 --> 00:18:02,200
+it's gonna tell me there's zero discrepancies.
+
+198
+00:18:02,420 --> 00:18:06,720
+And I think it did something like a 10% comparison.
+
+199
+00:18:06,721 --> 00:18:10,200
+and so that could be tuned.
+
+200
+00:18:12,140 --> 00:18:14,180
+I'm not going to mess with that right now.
+
+201
+00:18:15,980 --> 00:18:18,260
+This works now.
+
+202
+00:18:20,200 --> 00:18:25,820
+I guess I'll just run this again just to make sure we
+
+203
+00:18:25,821 --> 00:18:30,500
+got the latest code and it's all running so that should just the aggregation
+
+204
+00:18:30,501 --> 00:18:33,100
+creates even yet another zip.
+
+205
+00:18:34,420 --> 00:18:38,440
+I'm moving the old ones up,
+
+206
+00:18:38,560 --> 00:18:41,860
+okay so these all,
+
+207
+00:18:42,240 --> 00:18:46,820
+I'm gonna move up to my git ignore because I just don't want
+
+208
+00:18:46,821 --> 00:18:53,440
+to blow my git with the
+
+209
+00:18:53,441 --> 00:18:57,820
+remote repo with too many of these, they're not huge but they're not small.
+
+210
+00:18:59,700 --> 00:19:04,780
+This was the other, I'll
+
+211
+00:19:04,781 --> 00:19:06,260
+get this one out of the way as well.
+
+212
+00:19:13,700 --> 00:19:16,640
+Okay, now this is the only current zip.
+
+213
+00:19:17,800 --> 00:19:22,420
+Let me run this again to just double check
+
+214
+00:19:22,421 --> 00:19:26,140
+it. Okay.
+
+215
+00:19:26,980 --> 00:19:29,560
+Now, I think everything's good.
+
+216
+00:19:31,060 --> 00:19:34,300
+I think there is one more thing to run.
+
+217
+00:19:38,620 --> 00:19:40,760
+So, we've already run the plots,
+
+218
+00:19:41,320 --> 00:19:43,340
+I think. Am I getting the order here,
+
+219
+00:19:43,500 --> 00:19:43,720
+right?
+
+220
+00:19:52,640 --> 00:19:56,640
+Do I need I need to run the plots now and it's gonna insert
+
+221
+00:19:56,641 --> 00:19:57,660
+the plots.
+
+222
+00:20:05,480 --> 00:20:07,540
+Yeah, insert into markdown,
+
+223
+00:20:08,560 --> 00:20:11,040
+what mode selected style B,
+
+224
+00:20:11,680 --> 00:20:14,700
+the mode is styled. It's gonna write all of them.
+
+225
+00:20:32,820 --> 00:20:34,740
+I wanna ask AI something, I wanna say,
+
+226
+00:20:48,680 --> 00:20:51,880
+okay, consider this Python module and in the way that I'm running it,
+
+227
+00:20:52,680 --> 00:20:55,060
+will it update the plots? I mean,
+
+228
+00:20:55,100 --> 00:20:58,840
+I know that it's going to overwrite the PNG and PDFs,
+
+229
+00:20:59,120 --> 00:21:01,260
+but then when it inserts them into the markdown, well,
+
+230
+00:21:01,400 --> 00:21:05,920
+it, I guess the markdowns
+
+231
+00:21:05,921 --> 00:21:10,480
+are just referencing those PNG
+
+232
+00:21:10,481 --> 00:21:15,240
+files in the underscore plots, as long as the core files are
+
+233
+00:21:15,241 --> 00:21:22,000
+updated and overwritten, then the markdowns will reference
+
+234
+00:21:22,001 --> 00:21:26,520
+the correct updated files and the references to the markdowns they should
+
+235
+00:21:26,521 --> 00:21:31,900
+need to get updated but I think
+
+236
+00:21:31,901 --> 00:21:36,960
+they would be is that correct how is that updating of the markdowns done
+
+237
+00:21:36,961 --> 00:21:41,020
+okay I think I answered my own questions.
+
+238
+00:21:41,021 --> 00:21:45,440
+I was doing this. I'll be in there.
+
+239
+00:21:47,540 --> 00:21:52,320
+The key one is to aggregate. I
+
+240
+00:21:52,321 --> 00:21:55,780
+think it's all good. Okay,
+
+241
+00:21:56,100 --> 00:21:58,640
+so let's assume it is. There's going to answer some of the second.
+
+242
+00:21:59,660 --> 00:22:02,940
+Then there should be just one more thing to do,
+
+243
+00:22:03,800 --> 00:22:07,400
+which is to create the extended CSVs.
+
+244
+00:22:10,380 --> 00:22:12,900
+I'm There is no such thing as extended CSVs,
+
+245
+00:22:13,140 --> 00:22:16,340
+it's been a long push here, I thought this was going to be quick,
+
+246
+00:22:16,720 --> 00:22:20,080
+it's been about five hours. Jeez.
+
+247
+00:22:20,620 --> 00:22:23,980
+Okay, so one more Python module.
+
+248
+00:22:27,140 --> 00:22:28,120
+Where is it?
+
+249
+00:22:32,240 --> 00:22:32,760
+Oh,
+
+250
+00:22:42,850 --> 00:22:46,430
+you know what? But I think it's not another Python module.
+
+251
+00:22:46,690 --> 00:22:50,270
+I think it's just another function in here.
+
+252
+00:22:50,430 --> 00:22:56,110
+Yep, that's right. OK, so one's
+
+253
+00:22:56,111 --> 00:22:56,610
+run it.
+
+254
+00:23:01,590 --> 00:23:02,850
+OK, so that's done.
+
+255
+00:23:07,210 --> 00:23:09,290
+Let's see here, where did that go?
+
+256
+00:23:09,670 --> 00:23:14,310
+OK, so that's here. So here are the extended zips and what the
+
+257
+00:23:14,311 --> 00:23:19,330
+extended are is the ones
+
+258
+00:23:19,331 --> 00:23:23,950
+with the MDs and the plots as well, yeah
+
+259
+00:23:23,951 --> 00:23:27,510
+and then that's all of them, okay,
+
+260
+00:23:27,750 --> 00:23:32,610
+so that's it, I think the
+
+261
+00:23:32,611 --> 00:23:36,250
+data is done.
+
+262
+00:23:37,370 --> 00:23:42,110
+Data done. Fingers crossed.
+
+263
+00:23:42,890 --> 00:23:44,930
+I don't find errors and have to propagate it,
+
+264
+00:23:45,430 --> 00:23:48,950
+but if I do, the last video on this one show how along with
+
+265
+00:23:48,951 --> 00:23:51,010
+also troubleshooting.
+
+266
+00:23:51,610 --> 00:23:54,590
+Commit this, check this off,
+
+267
+00:23:57,010 --> 00:23:59,310
+and breathe a big sigh relief,
+
+268
+00:23:59,550 --> 00:24:01,670
+okay.

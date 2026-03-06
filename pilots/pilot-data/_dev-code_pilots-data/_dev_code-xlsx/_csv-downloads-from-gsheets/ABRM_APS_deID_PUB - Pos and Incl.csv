@@ -1,0 +1,25 @@
+TUBE ID,COLLECTION DATE,COLLECTION TIME,SPONSOR PERSON ID,SPONSOR FIRSTNAME,SPONSOR LASTNAME,"APP
+RESULT",FINAL RESULT,RESULT DATE,RESULT TIME,Result Correct Code,Correction Notes,NOTE,NUM SAMPLES (Pool Level),Match Row in APS Data PHI - postDEL,Sample Person1,Sample Person2,Sample Person3,Sample Person4,Case Culster ID,Index Tube - First FL Pos/Incl of Case?,Referral Test Result,Referral Notes,3 ACCOUNTED FOR IN RTR?,Re-test?,Pool Deconvolution Indiv Test?,Correspondence but no Referral Test,Agreement with Referral or Correspondence?,Known Positive (not Re-test)?,0 Check,FloodLAMP Result Eval
+AG173,2022-12-08,7:06:41,SpABRM367540,,,Positive,Positive,2022-12-08,11:10:54,,,,3,1393,ABRM805764,ABRM771013,ABRM582390,,1,TRUE,Positive,,TRUE,,,FALSE,TRUE,,,Referral Confirmed - FL Positive - Positive Pool
+AH112,2022-12-20,7:44:17,SpABRM655136,,,Positive,Positive,2022-12-20,10:17:46,,,,1,1465,ABRM805764,,,,1,,Positive,,TRUE,TRUE,,,,,,Referral Confirmed - FL Positive - Re-test
+AJ9480,2022-12-20,7:44:42,SpABRM655136,,,Positive,Positive,2022-12-20,10:17:47,,,,1,1466,ABRM582390,,,,1,,Positive,,TRUE,TRUE,,,,,,Referral Confirmed - FL Positive - Re-test
+AK9881,2023-03-30,6:04:28,SpABRM297307,,,Positive,Positive,2023-03-30,10:29:29,,,,4,2419,ABRM624478,ABRM739674,ABRM303158,ABRM958852,2,,NONE,,FALSE,,,,,,,
+AB9291,2023-05-23,7:14:49,SpABRM128250,,,Positive,Positive,2023-05-23,9:37:06,,,,3,2880,ABRM362882,ABRM165120,ABRM735457,,3,,NONE,,FALSE,,,,,,,
+AR1265,2023-05-23,8:06:11,SpABRM655136,,,Positive,Positive,2023-05-23,9:37:04,,,,1,2887,ABRM362882,,,,3,,NONE,,FALSE,,TRUE,,,,,
+AR15,2023-05-23,8:07:14,SpABRM655136,,,Positive,Positive,2023-05-23,9:37:03,,,,1,2888,ABRM165120,,,,3,,NONE,,FALSE,,TRUE,,,,,
+AK9590,2023-05-23,8:07:49,SpABRM655136,,,Positive,Positive,2023-05-23,9:37:01,,,,1,2889,ABRM735457,,,,3,,NONE,,FALSE,,TRUE,,,,,
+AG1417,2023-01-12,6:04:09,SpABRM297307,,,Inconclusive,Inconclusive,2023-01-12,14:21:01,,,,3,1637,ABRM947679,ABRM303158,ABRM958852,,4,,NONE,,FALSE,,,,,,,
+AG1625,2023-01-13,7:45:24,SpABRM814022,,,Inconclusive,Inconclusive,2023-01-13,12:15:48,,,,1,1655,ABRM515295,,,,5,,NONE,,FALSE,,,,,,,
+AJ8942,2023-01-20,7:28:46,SpABRM655136,,,Negative,Inconclusive,2023-01-20,10:04:14,4.1,RT Jan26 - photo and LUM show Incl call,,2,1743,ABRM396076,ABRM492658,,,6,,NONE,,FALSE,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,5,Unique Names Above with Indiv Pos Tests,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,0,Add Confirmed Inconclusives,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,0,Subtract False Positives,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,5,Unique Positives,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,10,Unique Names Above including all in Pools,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,0,Add Confirmed Inconclusives,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,0,Subtract False Positives,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,10,Unique Positives including all in Pools,,,,,,,,,,,,,,

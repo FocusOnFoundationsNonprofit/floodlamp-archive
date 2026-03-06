@@ -1,0 +1,80 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Same Day,Same Day,,,,,
+,,,Vaccine,,Employee,Test Results Day 0,Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Day 8,Day 9 ,Day 10,Day 11,Day 12,Day 13,Day 14,Day 15,Day 10+,,,,,"FL +, B -","FL +, B +",,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Asymptomatic,3,12,,,,,
+,,,Vaccinated 1 dose,,,FL = FloodLAMP,,ASY = Asymptomatic,,,RTW = Return To Work,,,,,,,,,,,,,,,Symptomatic,1,26,,,,,
+,,,Vaccinated 2 doses,,,B = BinaxNOW Rapid Antigen,,SYM = Symptomatic,,,,,,,,,,,,,,,,,,Total,4,38,42,,,,
+,,,Vaccinated 3 doses (Booster),,,Asymptomatic + on FloodLAMP during daily testing,,,,,,,,,,,,,,,,,,,,% Asymp,75%,32%,Difference with Col C total is non day zero agree ones (employee # 18 and 21),,,,
+,,,Unvaccinated,,,+ on FloodLamp and - on BinaxNOW,,,,3,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,+ on FloodLAMP and + on BinaxNOW,,,,12,80%,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No Referral,Disagree,Agree,Vaccine,,Employee,Test Results Day 0,Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Day 8,Day 9 ,Day 10,Day 11,Day 12,Day 13,Day 14,Day 15,Day 10+,Start Date Range,End Date Range,Vaccinated Doses,Symptoms,"Day 0
+FloodLAMP Result","Day 0
+Antigen Result",FloodLAMP Test with Same Day Antigen,"Day #
+FloodLAMP Neg","Day #
+Antigen 
+Neg","Day #
+Return to Work",# FL Pos Tests after Initial before Neg
+7,1,43,,15,51,,,,,,,,,,,,,,,,,,,,,,,,42,,,,
+,,,Group 1 = Testing between Sept 15th and Dec 23rd (FloodLAMP used as main test and BinaxNOW used sometimes at home on day 0).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,TRUE,V2,1,1,"FL +, B +, ASY",,"FL +, SYM",,"FL +, SYM",,"FL +, SYM",FL -,RTW,,,,,,,,,2021-09-15,2021-12-23,2,Asymptomatic,Positive,Positive,TRUE,7,N/A,8,3
+,,TRUE,V3,,2,"FL +, B +, SYM",,"FL +, SYM",,"FL +, SYM",,"FL +, SYM",,FL +,,FL -,RTW,,,,,"Day 10 FL -, Day 11 RTW",2021-09-15,2021-12-23,3,Symptomatic,Positive,Positive,TRUE,10,N/A,11,4
+,,TRUE,V2,,3,"FL +, B +, SYM",,"FL +, SYM",,"FL +, SYM",,"FL +, SYM",FL -,RTW,,,,,,,,,2021-09-15,2021-12-23,2,Symptomatic,Positive,Positive,TRUE,7,N/A,8,3
+TRUE,,,UN,,4,"FL +, ASY",,FL +,,FL +,,FL +,,FL +,,FL +,FL -,RTW,,,,"Day 10 FL +, Day 11 FL -, Day 12 RTW",2021-09-15,2021-12-23,0,Asymptomatic,Positive,N/A,FALSE,11,N/A,12,5
+TRUE,,,V3,,5,"FL +, SYM",,FL +,,FL +,,FL +,,FL +,FL -,RTW,,,,,,Day 10 RTW,2021-09-15,2021-12-23,3,Symptomatic,Positive,N/A,FALSE,9,N/A,10,4
+TRUE,,,V3,,6,"FL +, SYM",,,"FL +, SYM","FL +, SYM",,FL +,,FL +,,FL +,,,FL -,RTW,,"Day 10 FL +, Day 13 FL -, Day 14 RTW",2021-09-15,2021-12-23,3,Symptomatic,Positive,N/A,FALSE,13,N/A,14,5
+,,TRUE,V2,,7,"FL +, B +, SYM",,FL +,,FL -,RTW,,,,,,,,,,,,2021-09-15,2021-12-23,2,Symptomatic,Positive,Positive,TRUE,4,N/A,5,1
+,,TRUE,UN,,8,"FL +, B +, SYM",,FL + SYM,FL +,,FL -,RTW,,,,,,,,,,,2021-09-15,2021-12-23,0,Symptomatic,Positive,Positive,TRUE,5,N/A,6,2
+,,TRUE,V3,,9,"FL +, B +, SYM",,FL + SYM,,FL + SYM,,FL -,RTW,,,,,,,,,,2021-09-15,2021-12-23,3,Symptomatic,Positive,Positive,TRUE,6,N/A,7,2
+,,TRUE,V3,,10,"FL +, B +, SYM",,FL + SYM,,FL +,,FL -,RTW,,,,,,,,,,2021-09-15,2021-12-23,3,Symptomatic,Positive,Positive,TRUE,6,N/A,7,2
+TRUE,,,V3,,11,"FL +, ASY",,FL + ASY,,FL +,,FL -,RTW,,,,,,,,,,2021-09-15,2021-12-23,3,Asymptomatic,Positive,N/A,FALSE,6,N/A,7,2
+TRUE,,,V3,,12,"FL +, ASY",,FL + ASY,,FL +,FL -,RTW,,,,,,,,,,,2021-09-15,2021-12-23,3,Asymptomatic,Positive,N/A,FALSE,5,N/A,6,2
+TRUE,,,UN,,13,"FL +, SYM",,,FL + SYM,,,FL + SYM,,,FL -,RTW,,,,,,Day 10 RTW,2021-09-15,2021-12-23,0,Symptomatic,Positive,N/A,FALSE,9,N/A,10,2
+,TRUE,,UN,1,14,"FL +, B -, ASY",,FL + SYM,,,FL + SYM,,FL + SYM,,,FL +,,,FL -,RTW,,"Day 10 FL +, Day 13 FL -, Day 14 RTW",2021-09-15,2021-12-23,0,Asymptomatic,Positive,Negative,TRUE,13,N/A,14,4
+TRUE,,,V3,,15,"FL +, SYM",,FL + SYM,,FL + SYM,,FL +,,,FL -,RTW,,,,,,Day 10 RTW,2021-09-15,2021-12-23,3,Symptomatic,Positive,N/A,FALSE,9,N/A,10,3
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Vaccine,,Employee,Test Results Day 0,Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Day 8,Day 9 ,Day 10,Day 11,Day 12,Day 13,Day 14,Day 15,Day 10+,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Group 2 = Testing between Dec 24th and Jan 9th ( Both FloodLAMP and BianxNOW used until cleared to RTW).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,TRUE,V3,1,16,"FL +, B +, ASY","FL +, B + SYM",,"FL +, B +",,,"FL -, B -",RTW,,,,,,,,,,2021-12-24,2022-01-09,3,Asymptomatic,Positive,Positive,TRUE,6,6,7,2
+,,TRUE,V2,1,17,"FL +, B +, ASY","FL +, B + SYM",,"FL +, B +",,,"FL +, B +",,"FL +, B +",,"FL +, B +",,B -,RTW,,,"Day 10 FL +, B +, Day 12 B -, Day 13 RTW",2021-12-24,2022-01-09,2,Asymptomatic,Positive,Positive,TRUE,N/A,12,13,5
+,,TRUE,UN,1,18,"FL +, B -, ASY",,"FL +, B + SYM",,"FL +, B + SYM",,"FL +, B + SYM",,"FL +, B + SYM",,"FL +, B +",,B +,B +,B -,RTW,"Day 10 FL +, B +, Day 12 B +, Day 13 B +, Day 14 B -, Day 15 RTW",2021-12-24,2022-01-09,0,Asymptomatic,Positive,Negative,TRUE,N/A,14,15,5
+,,TRUE,V3,,19,"FL +, B +, SYM",,"FL +, B + SYM",,"FL +, B + SYM",,"FL +, B + SYM",,,B -,RTW,,,,,,Day 10 RTW,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,N/A,9,10,3
+,,TRUE,V3,,20,"FL +, B +, SYM",,,,"FL +, B + SYM",,"FL +, B + SYM",,,B -,RTW,,,,,,Day 10 RTW,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,N/A,9,10,2
+,,TRUE,V3,,21,B + SYM,"FL +, B + SYM",,,"FL +, B + SYM",,"FL +, B + SYM",,,"FL +, B +","FL +, B +",,"FL -, B -",RTW,,,"Day 10 FL +, B +, Day 12 FL -, B -, Day 13 RTW",2021-12-24,2022-01-09,3,Symptomatic,N/A,Positive,FALSE,12,12,13,5
+,,TRUE,V2,,22,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL -, B - SYM",,SYM,SYM,SYM,,SYM,,,RTW,"Day 10 SYM, Day 12 SYM, Day 15 RTW",2021-12-24,2022-01-09,2,Symptomatic,Positive,Positive,TRUE,6,6,15,2
+,,TRUE,V1,1,23,"FL +, B +, ASY",,"FL +, B +",,"FL +, B +",,"FL +, B +",,"FL -, B -",RTW,,,,,,,,2021-12-24,2022-01-09,1,Asymptomatic,Positive,Positive,TRUE,8,8,9,3
+,,TRUE,V2,,24,"FL +, B +, SYM",,"FL +, B + SYM",,"FL +, B + SYM",,"FL +, B + SYM",,"FL -, B -",RTW,,,,,,,,2021-12-24,2022-01-09,2,Symptomatic,Positive,Positive,TRUE,8,8,9,3
+,,TRUE,V3,,25,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,"FL +, B +",,"FL -, B -",RTW,,,,,,Day 10 RTW,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,9,9,10,3
+,,TRUE,V3,,26,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,,"FL -, B -",RTW,,,,,,,,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,8,8,9,2
+,,TRUE,UN,,27,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,"FL +, B +","FL +, B +","FL +, B +","FL -, B -",RTW,,,,,"Day 10 FL -, B -, Day 11 RTW",2021-12-24,2022-01-09,0,Symptomatic,Positive,Positive,TRUE,10,10,11,5
+,,TRUE,V3,,28,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +",,,"FL -, B -",RTW,,,,,,Day 10 RTW,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,9,9,10,3
+,,TRUE,V3,,29,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,"FL +, B +",,"FL +, B +","FL +, B +",,"FL +, B +",,"FL -, B -",RTW,"Day 10 FL +, B +, Day 12 FL +, B +, Day 14 FL -, B -, Day 15 RTW",2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,14,14,15,6
+,,TRUE,V3,,30,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,"FL +, B +, SYM",,"FL +, B +","FL +, R +","FL +, B +","FL -, B -",RTW,,,"Day 10 FL +, B +, Day 11 FL +, B +, Day 12 FL -, B -, Day 13 RTW",2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,12,12,13,6
+,,TRUE,V3,1,31,"FL +, B +, ASY",,"FL +, B +, SYM",,,,,"FL +, B +, SYM",,,"FL -, B -",RTW,,,,,"Day 10 FL -, B -, Day 11 RTW",2021-12-24,2022-01-09,3,Asymptomatic,Positive,Positive,TRUE,10,10,11,2
+,,TRUE,V2,,32,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +",,"FL +, B +",,"FL +, B +",,"FL +, B +","FL -,B -",RTW,,,,"Day 10 FL +, B +, Day 11 FL -,B -, Day 12 RTW",2021-12-24,2022-01-09,2,Symptomatic,Positive,Positive,TRUE,11,11,12,5
+,,TRUE,V3,,33,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,,,"FL -, B -",RTW,,,,,,,,2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,8,8,9,2
+,,TRUE,V3,,34,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +",,"FL +, B +","FL +, B +","FL +, B +","FL +, B +","FL -, B -",RTW,,,,,"Day 10 FL -, B -, Day 11 RTW",2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,10,10,11,6
+,,TRUE,UN,,35,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +","FL -, B -",RTW,,,,,,,,,,,2021-12-24,2022-01-09,0,Symptomatic,Positive,Positive,TRUE,5,5,6,2
+,,TRUE,V3,1,36,"FL +, B +, ASY","FL +, B +, SYM",,,"FL +, B +, SYM",,,"FL +, B +","FL -, B -",RTW,,,,,,,,2021-12-24,2022-01-09,3,Asymptomatic,Positive,Positive,TRUE,8,8,9,3
+,,TRUE,V3,,37,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL +, B +, SYM",,"FL -, B -",RTW,,,,,"Day 10 FL -, B -, Day 11 RTW",2021-12-24,2022-01-09,3,Symptomatic,Positive,Positive,TRUE,10,10,11,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Vaccine,,Employee,Test Results Day 0,Day 1,Day 2,Day 3,Day 4,Day 5,Day 6,Day 7,Day 8,Day 9 ,Day 10,Day 11,Day 12,Day 13,Day 14,Day 15,Day 10+,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Group 3 = Testing between Jan 10th and Feb 7th ( FloodLAMP used for initial + diagnosis and BinaxNOW used to RTW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,TRUE,V2,1,38,"FL +, B +, ASY",,B + SYM,,B + SYM,,B +,B -,RTW,,,,,,,,,2022-01-10,2022-02-07,2,Asymptomatic,Positive,Positive,TRUE,N/A,7,8,0
+,,TRUE,V1,1,39,"FL +, B +, ASY",,B + SYM,,B + SYM,,B +,B -,RTW,,,,,,,,,2022-01-10,2022-02-07,1,Asymptomatic,Positive,Positive,TRUE,N/A,7,8,0
+,,TRUE,V3,1,40,"FL +, B +, ASY",,B + ASY,,B + SYM,B + SYM,,B + SYM,,B + SYM,B + SYM,,B +,,B +,,"Day 10 B + SYM, Day 12 B +, Day 14 B +, Day 16 B -, Day 17 RTW",2022-01-10,2022-02-07,3,Asymptomatic,Positive,Positive,TRUE,N/A,16,17,0
+,,TRUE,V3,,41,"FL +, B -, SYM",,B + SYM,,B + SYM,,B + SYM,,B +,B -,RTW,,,,,,Day 10 RTW,2022-01-10,2022-02-07,3,Symptomatic,Positive,Negative,TRUE,N/A,0,10,0
+,,TRUE,V3,,42,"FL +, B +, SYM",,B + SYM,,B + SYM,,B + SYM,,B +,,B +,B -,RTW,,,,"Day 10 B +, Day 11 B -, Day 12 RTW",2022-01-10,2022-02-07,3,Symptomatic,Positive,Positive,TRUE,N/A,11,12,0
+,,TRUE,UN,,43,SYM,,,,B + SYM,FL + SYM,,B + SYM,,B -,RTW,,,,,,Day 10 RTW,2022-01-10,2022-02-07,0,Symptomatic,N/A,N/A,FALSE,N/A,9,10,0
+,,TRUE,V2,1,44,"FL +, B +, ASY",,,,B + SYM,,B -,RTW,,,,,,,,,,2022-01-10,2022-02-07,2,Asymptomatic,Positive,Positive,TRUE,N/A,6,7,0
+,,TRUE,V3,1,45,"FL +, B -, ASY",,B + SYM,,B + SYM,,B -,RTW,,,,,,,,,,2022-01-10,2022-02-07,3,Asymptomatic,Positive,Negative,TRUE,N/A,0,7,0
+,,TRUE,V3,1,46,"FL +, B +, ASY",,B + SYM,,B + SYM,,B +,,B + ,B +   ,B +,B -,RTW,,,,"Day 10 B +, Day 11 B -, Day 12 RTW",2022-01-10,2022-02-07,3,Asymptomatic,Positive,Positive,TRUE,N/A,11,12,0
+,,TRUE,UN,1,47,"FL +, B +, ASY",,B + ASY,,B + ASY,B -,RTW, ,,,,,,,,,,2022-01-10,2022-02-07,0,Asymptomatic,Positive,Positive,TRUE,N/A,5,6,0
+,,TRUE,V3,,48,"FL +, B +, SYM",,B + SYM,,B + SYM,,B +,,B -,RTW,,,,,,,,2022-01-10,2022-02-07,3,Symptomatic,Positive,Positive,TRUE,N/A,8,9,0
+,,TRUE,V3,,49,"FL +, B +, SYM",,B + SYM,,B +,,B -,RTW,,,,,,,,,,2022-01-10,2022-02-07,3,Symptomatic,Positive,Positive,TRUE,N/A,6,7,0
+,,TRUE,UN,,50,"FL +, B +, SYM",,B + SYM,,B + SYM,,B +,,B +,B -,RTW,,,,,,Day 10 RTW,2022-01-10,2022-02-07,0,Symptomatic,Positive,Positive,TRUE,N/A,9,10,0
+,,TRUE,V3,,51,"FL +, B +, SYM",,B + SYM,,B + SYM,,B +,,B +,,B -,RTW,,,,,"Day 10 B -, Day 11 RTW",2022-01-10,2022-02-07,3,Symptomatic,Positive,Positive,TRUE,N/A,10,11,0

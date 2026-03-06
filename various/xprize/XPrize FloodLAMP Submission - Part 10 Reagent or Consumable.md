@@ -1,0 +1,51 @@
+METADATA
+last updated: 2026-02-24 BA
+file_name: XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
+file_date: 2020-09-08
+title: FloodLAMP XPRIZE Submission - Part 10 Reagent or Consumable
+category: various
+subcategory: xprize
+tags:
+source_file_type: gsheet
+xfile_type: xlsx
+gfile_url: https://docs.google.com/spreadsheets/d/1C5zZe9I1dL5b3srfZ2a1XzsXWGqghIXn/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2010%20Reagent%20or%20Consumable.xlsx
+pdf_gdrive_url: NA
+pdf_github_url: NA
+conversion_input_file_type: xlsx
+conversion: msmid
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+tokens: 933
+words: 449
+notes:
+summary_short: FloodLAMP's XPRIZE submission Part 10 Reagent or Consumable spreadsheet itemizes all reagents and consumables required for the pooled LAMP assay at 0.5mL volume with pool level of 10, including TCEP, NaI, NEB LAMP Master Mix, IDT primers, tubes, and PCR plates, with a total estimated cost of $0.46 per sample and $4.57 per run.
+
+
+CONTENT
+
+## FloodLAMP Reagent List
+**Reagent List (if you have a custom reagent the cost must be what you will sell it for)**
+| Reagent or Consumable                                                                                                      | Supplier       | Catalog #    | Cost per item (e.g., cost of a tube of enzyme) | Amount (in relevant units, e.g., ul, ug, U, count) per item (e.g., U per tube of enzyme) | Amount per test sample | Amount per test run | Cost per Sample | Cost per Run |
+|----------------------------------------------------------------------------------------------------------------------------|----------------|--------------|------------------------------------------------|------------------------------------------------------------------------------------------|------------------------|---------------------|-----------------|--------------|
+| Text                                                                                                                       | Text           | Numeric      | Numeric                                        | Numeric                                                                                  | Numeric                | Numeric             | USD ($)         | USD ($)      |
+| assumes we are running at the 0.5ml volume for 10 pools                                                                    |                |              |                                                |                                                                                          |                        |                     |                 |              |
+|                                                                                                                            |                |              |                                                | pool level                                                                               | 10                     |                     | -               | -            |
+| TCEP                                                                                                                       | Sigma          | C4706-10G    | $380                                           | 10                                                                                       | 0.00004                | 0.00036             | $0.00           | $0.01        |
+| NaI                                                                                                                        | Sigma          | 217638-2.5KG | $766                                           | 2500                                                                                     | 0.0225                 | 0.225               | $0.01           | $0.07        |
+| LAMP Master Mix                                                                                                            | NEB            | 1804L        | $1.83                                          | 1                                                                                        | 0.2                    | 2                   | $0.37           | $3.66        |
+| Primers                                                                                                                    | IDT            | 1umole       | $446                                           | 16100                                                                                    | 0.3                    | 3                   | $0.01           | $0.08        |
+| Remaining chemicals and primers are negligible cost, full recipes are listed on protocols.io and our website floodlamp.bio |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |
+| 15ml Falcon Tube                                                                                                           | Various        |              | $0.20                                          | 1                                                                                        | 0.1                    | 1                   | $0.02           | $0.20        |
+| 5ml Transport Tube                                                                                                         | Various        |              | $0.20                                          | 1                                                                                        |                        | 0                   | $0.00           | $0.00        |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |
+| 5ml tube                                                                                                                   | CellTreat      | 229449       | $23                                            | 100                                                                                      | 0.1                    | 1                   | $0.02           | $0.23        |
+| 1.5ml tube DNA Low Bind                                                                                                    | Eppendorf      |              | $39                                            | 250                                                                                      | 0.11                   | 1.1                 | $0.02           | $0.17        |
+| PCR Strip Tubes                                                                                                            | USA Scientific | 1402-2500    | $81                                            | 125                                                                                      | 0.004                  | 0.044               | $0.00           | $0.03        |
+| PCR Plates                                                                                                                 | Eppendorf      | EP951020303  | 130                                            | 25                                                                                       | 0.002                  | 0.022               | $0.01           | $0.12        |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+| Total                                                                                                                      |                |              |                                                |                                                                                          |                        |                     | $0.46           | $4.57        |
+||

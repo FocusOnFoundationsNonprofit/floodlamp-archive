@@ -1,0 +1,33 @@
+name,tokens,md_files,unique_basenames
+## guides,97767,44,44
+manufacturing,5595,5,5
+operations,24618,3,3
+qms-sops,5627,7,7
+sds,16858,5,5
+software,3204,3,3
+test-site,14016,16,16
+test-training,18960,3,3
+test-validation,8889,2,2
+## pilots,80283,19,18
+pilot-data,80283,19,18
+## regulatory,794197,105,105
+fda-euas,44009,1,1
+fda-policy,286088,47,47
+fl-fda-submissions,142566,15,15
+fl-fda-correspondence,20817,10,10
+irb,8945,2,2
+ldts,228328,10,10
+open-euas,11487,4,4
+reg-articles-misc,34806,3,3
+surveillance,17151,13,13
+## various,334949,55,55
+external-programs-reports,52966,10,10
+fl-patent,45622,1,1
+fl-presentations,45585,9,9
+fl-proposals,33688,6,6
+fl-whitepapers,7533,2,2
+glamp,79176,2,2
+lamp-tech,4595,1,1
+papers,1197,1,1
+papers-lamp,0,0,0
+xprize,64587,23,23

@@ -1,0 +1,66 @@
+section,metric,value,details,comments,source_sheet,source_row
+Files,RFR File,ABRM_RFR_deID_PUB,,,Stats,1
+Files,RTR File,ABRM_RTR_deID_PUB,,,Stats,2
+Files,RSR File,NONE,,,Stats,3
+Overall,Number of Tubes Tested (initial only - no re-runs),1379,initial run tubes only so excludes re-runs,,Stats,5
+Overall,Number of Tube Tests Run (includes re-runs),1519,includes re-runs,,Stats,6
+Overall,Number of Initial Runs,184,,,Stats,7
+Overall,Number of APS Only Tubes run,100,,,Stats,8
+Overall,Number of Test Reactions (RFR plus APS only tubes run),1730,includes technical replicates (the same tube sample in multiple reactions in the same run),,Stats,9
+Overall,Number of Participant Results,2954,counts individual samples in pools and excludes re-runs,,Stats,11
+Overall,Number of ARF Tubes,22,tubes run and present in RFR but not in Appivo - created tube IDs that start with ARF,,Stats,12
+Overall,Sum of Participant Results plus ARF Tubes,2976,Will be equal to the number of tubes tested if no pooling.,,Stats,13
+Overall,Avgerage Pool Level (excludes ARF),2.158085569,,,Stats,14
+Re-runs,Number of Run Tubes (Re-runs only),140,from RFR Audit Num Run Tubes,,Stats,17
+Re-runs,Number of Reactions (Re-runs only),331,from RFR Audit Num rxns (excl ctrls),,Stats,18
+Re-runs,Re-run % of Tubes,0.1015228426,re-run / initial,,Stats,19
+Re-runs,Number of Initial Runs with Re-runs,78,,,Stats,20
+Re-runs,% Initial Runs with Re-runs,0.4239130435,,,Stats,21
+Positives,Number of Tubes with Final Result Positive,8,,,Stats,24
+Positives,% of Tubes Positives (Final Result),0.005801305294,,,Stats,25
+Positives,Number of Cases with Final Result Positive (Indiv or Pool),3,Subtract off Re-tests,,Stats,26
+Positives,Known Positive Cases,2,Previous tested (including by FloodLAMP test) or reported positive,,Stats,27
+Positives,Unknown Positive Cases,1,,,Stats,28
+Inconclusives,Number of Tubes with Final Result Inconclusive,3,,,Stats,31
+Inconclusives,Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results,0.0,,,Stats,32
+Inconclusives,Total Number of Inconclusive Tubes,3,,,Stats,33
+Inconclusives,% of Tubes Inconclusive,0.002175489485,,,Stats,34
+Inconclusives,Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence,0.0,,,Stats,35
+Inconclusives,% Inconclusives resolved Positive by Referral Tests,0,,,Stats,36
+Inconclusives,Number of Inconclusive Tubes with Referral Test or Correspondence Negative,0.0,,,Stats,37
+Inconclusives,Number of Inconclusive Tubes with no Referral Test result or Correspondence,3,,"Likely Negative - otherwise admin would have reported a positive referral test result. Perhaps they were not follow up refferal tested at all, which may have been the case for 1 of these 3 which was resulted as Neg in the app.",Stats,38
+Inconclusives,Number of Tubes with Initial Inconclusives and Re-run Negative,4.0,"Count Result Correction Code=2.5 in preDel col AJ, or from RFR preExcl if not resulted as Incl in App",,Stats,39
+Inconclusives,Number of Inconclusive Test Run Calls,48,includes re-runs - from RFR Audit only and excludes any APS only resulted inconclusives,,Stats,40
+Inconclusives,% Tube Tests Run Called Inconclusive,0.03159973667,includes re-runs,,Stats,41
+Referrals and Correspondence,Number of FloodLAMP Cases with Referral Tests or Correspondence,1.0,"Indiv or Pool, Cases used instead of Person to account for people being contracting COVID multiple times, and instead of Results to exclude re-tests",Only Case Cluster 1 has Referral data shared with FloodLAMP,Stats,44
+Referrals and Correspondence,Agree Positives,1.0,,All were FL pos and confrimed with referral tests,Stats,45
+Referrals and Correspondence,FL Inconclusives with Referal / Correspondence Positive,0.0,,,Stats,46
+Referrals and Correspondence,% FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive,1,,,Stats,47
+Referrals and Correspondence,FL Inconclusives but Referral / Correspondence Negative,0.0,,,Stats,48
+Referrals and Correspondence,FL Inconclusives with No Referral Tests or Correspondence,3.0,,,Stats,49
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day),0.0,,,Stats,52
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests,0.0,,,Stats,53
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative,0.0,Agree with Referral Test Positive (usually PCR or later Antigen) but Initial Antigen Negative,,Stats,54
+Comparison to Antigen,% Confirmed FloodLAMP Positives with Same Day Antigen Negative,0.0,,,Stats,55
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Other Non-Antigen Test Negative,0.0,,,Stats,56
+Comparison to Antigen,% Confirmed FloodLAMP Positives that were Other Non-Antigen Test Negative,0.0,,,Stats,57
+False Calls,False Positives Final Results,0.0,From reviewing APS/Pos and Incl tab Unconfirmed FL Positives,,Stats,60
+False Calls,False Negative Final Results (Suspected),0.0,From reviewing Referral Tests by Person and correspondence with Program Admin,,Stats,61
+People,Number of Unique Indivuals Tested,87,Inlcudes UnknownPerson additions but not ARF tubes,,Stats,64
+People,Number of Unique Sponsors,17,People who collect using the app,,Stats,65
+Positivity,Number of Unique Individual Tested FloodLAMP Positive,5,includes Inconclusive FloodLAMP result confirmed Positive by followup or Referral,,Stats,68
+Positivity,% of Population FloodLAMP Positive (excluding pools not deconv),0.05747126437,,,Stats,69
+Positivity,Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool),10,,,Stats,70
+Positivity,% of Population FloodLAMP Positive (including everyone in a positive pool),0.1149425287,,,Stats,71
+Dates,Start Run Date,2022-09-05 00:00:00,,,Stats,74
+Dates,End Run Date,2023-06-02 00:00:00,,,Stats,75
+Info,Test Operator,Abrome School,Who ran the actual testing (running LAMP reactions),,Stats,78
+Info,Test Processing Site,Office,Where the test processing (running LAMP reactions) was done,,Stats,79
+Info,Population Tested,"Students, Staff, Families",Description of the participants,,Stats,80
+Info,Configuration,Mini w water bath,,,Stats,81
+Info,Collection Type,Pooled Household,"Pooled, Individual, or Both",,Stats,82
+Info,Self or HCW Collected,Self,HCW is Health Care Worker,,Stats,83
+Info,App Used?,Yes,,,Stats,84
+Info,Bringup Type,In Person,,,Stats,85
+Info,Site,Abrome K-12 School,,,Stats,86
+Info,Location,"Austin, TX",,,Stats,87

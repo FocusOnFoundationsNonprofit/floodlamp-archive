@@ -1,0 +1,74 @@
+section,metric,value,details,comments,source_sheet,source_row
+Files,RFR File,FLMP_RFR_deID_PUB,,,Stats,1
+Files,RTR File,FLMP_RTR_deID_PUB,,,Stats,2
+Files,RSR File,NONE,,,Stats,3
+Overall,Number of Tubes Tested (initial only - no re-runs),524,initial run tubes only so excludes re-runs,,Stats,5
+Overall,Number of Tube Tests Run (includes re-runs),532,includes re-runs,,Stats,6
+Overall,Number of Initial Runs,164,,divide CRLN by time period 1-2 to 5-31,Stats,7
+Overall,Number of APS Only Tubes run,325,,divide CRLN by time period 1-2 to 5-31,Stats,8
+Overall,Number of Test Reactions (RFR plus APS only tubes run),785,includes technical replicates (the same tube sample in multiple reactions in the same run),divide CRLN by time period 1-2 to 5-31 - 135 is num FLSP tubes in CRLN time period and 1290 is num RFR audit rxns during CRLN time period,Stats,9
+Overall,Number of Participant Results,1059,counts individual samples in pools and excludes re-runs,,Stats,11
+Overall,Number of ARF Tubes,0,tubes run and present in RFR but not in Appivo - created tube IDs that start with ARF,all during CRLN period so assign to CRLN,Stats,12
+Overall,Sum of Participant Results plus ARF Tubes,1059,Will be equal to the number of tubes tested if no pooling.,,Stats,13
+Overall,Average Pool Level (excludes ARF),2.020992366,,,Stats,14
+Re-runs,Number of Run Tubes (re-runs only),8,from RFR Audit Num Run Tubes,,Stats,17
+Re-runs,Number of Reactions (re-runs only),25,from RFR Audit Num rxns (excl ctrls),,Stats,18
+Re-runs,Re-run % of Tubes,0.01526717557,re-run / initial,,Stats,19
+Re-runs,Number of Initial Runs with Re-runs,6,,,Stats,20
+Re-runs,% Initial Runs with Re-runs,0.03658536585,,,Stats,21
+Positives,Number of Tubes with Final Result Positive,25,,count from VALUES Pos and Incl,Stats,24
+Positives,% of Tubes Positives (Final Result),0.04770992366,,,Stats,25
+Positives,Number of Cases with Final Result Positive (Indiv or Pool),6,Subtract off Re-tests,,Stats,26
+Positives,Known Positive Cases,0,Previous tested (including by FloodLAMP test) or reported positive,,Stats,27
+Positives,Unknown Positive Cases,6,,,Stats,28
+Inconclusives,Number of Tubes with Final Result Inconclusive,0,,,Stats,31
+Inconclusives,Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results,0,,,Stats,32
+Inconclusives,Total Number of Inconclusive Tubes,0,,,Stats,33
+Inconclusives,% of Tubes Inconclusive,0,,,Stats,34
+Inconclusives,Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence,0,,2022-05-08T00:00:00,Stats,35
+Inconclusives,% Inconclusives resolved Positive by Referral Tests,,,2/4 unknown and 1 of those was in household of positives,Stats,36
+Inconclusives,Number of Inconclusive Tubes with Referral Test or Correspondence Negative,0,,,Stats,37
+Inconclusives,Number of Inconclusive Tubes with no Referral Test result or Correspondence,0,,,Stats,38
+Inconclusives,Number of Tubes with Initial Inconclusives and Re-run Negative,3,"Count Result Correction Code=2.5 in preDel col AJ, or from RFR preExcl if not resulted as Incl in App","No 2.5 correction code, Sum AE - AF = 36",Stats,39
+Inconclusives,Number of Inconclusive Test Run Calls,3,includes re-runs - from RFR Audit only and excludes any APS only resulted inconclusives,,Stats,40
+Inconclusives,% Tube Tests Run Called Inconclusive,0.005639097744,includes re-runs,,Stats,41
+Referrals and Correspondence,Number of FloodLAMP Cases with Referral Tests or Correspondence,5,"Indiv or Pool, Cases used instead of Person to account for people being contracting COVID multiple times, and instead of Results to exclude re-tests",,Stats,44
+Referrals and Correspondence,Number of Referral Confirmed FloodLAMP Positives,5,Sometimes also termed Agree Positives - Include initial Inconclusive with Referral or Correspondence Positive,,Stats,45
+Referrals and Correspondence,FL Inconclusives with Referal / Correspondence Positive,0,,2022-05-08T00:00:00,Stats,46
+Referrals and Correspondence,% FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive,1,,,Stats,47
+Referrals and Correspondence,FL Inconclusives but Referral / Correspondence Negative,0,,2022-02-14T00:00:00,Stats,48
+Referrals and Correspondence,FL Inconclusives with No Referral Tests or Correspondence,0,,,Stats,49
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day),3,,,Stats,52
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests,3,,,Stats,53
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative,1,Agree with Referral Test Positive (usually PCR or later Antigen) but Initial Antigen Negative,,Stats,54
+Comparison to Antigen,% Confirmed FloodLAMP Positives with Same Day Antigen Negative,0.3333333333,,,Stats,55
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative,1,,,Stats,56
+Comparison to Antigen,% Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative,0.3333333333,,,Stats,57
+False Calls,False Positives Final Results,,From reviewing APS/Pos and Incl tab Unconfirmed FL Positives,,Stats,60
+False Calls,False Negative Final Results (Suspected),,From reviewing Referral Tests by Person and correspondence with Program Admin,,Stats,61
+People,Number of Unique Indivuals Tested,70,Includes UnknownPerson additions but not ARF tubes,,Stats,64
+People,Number of Unique Sponsors,9,People who collect using the app,,Stats,65
+Positivity,Number of Unique Individual Tested FloodLAMP Positive,9,includes Inconclusive FloodLAMP result confirmed Positive by follow-up or Referral,,Stats,68
+Positivity,% of Population FloodLAMP Positive (excluding pools not deconv),0.1285714286,,,Stats,69
+Positivity,Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool),12,,,Stats,70
+Positivity,% of Population FloodLAMP Positive (including everyone in a positive pool),0.1714285714,,,Stats,71
+Dates,Start Run Date,2020-12-11,,,Stats,74
+Dates,End Run Date,2023-01-02,,,Stats,75
+Info,Test Operator,FloodLAMP,Who ran the actual testing (running LAMP reactions),,Stats,78
+Info,Test Processing Site,"Biolab, Garage, Office",Where the test processing (running LAMP reactions) was done,,Stats,79
+Info,Population Tested,"Staff, Community",Description of the participants,,Stats,80
+Info,Configuration,Various,Equipment set used for test processing (relates to throughput and type of test tube used),,Stats,81
+Info,Collection Type,"Pooled Household, Individual","Pooled, Individual, or Both",,Stats,82
+Info,Self or HCW Collected,Self,HCW is Health Care Worker,,Stats,83
+Info,App Used?,Yes,Was the FloodLAMP Mobile App and Admin Portal utilized in the program,,Stats,84
+Info,Bring-up Type,In Person,How the initial setup and validation of the testing site was done,,Stats,85
+Info,Program Name,FloodLAMP Staff Plus,Shorthand name used internally at FloodLAMP and in other documents for this program,,Stats,86
+Info,Site,MBC Biolabs and Home Garage,Broader physical space where the testing was done and/or where participants congregated,,Stats,87
+Info,Site Type,Company,Type of entity or organization receiving the testing program,,Stats,88
+Info,Location,"San Carlos, CA",Geographical location of where the FloodLAMP testing program occurred,,Stats,89
+Pooling,Number of Initial FloodLAMP Positive Pools,3,,,Stats,92
+Pooling,Number of Initial FloodLAMP Positive Pools with Indiv Deconvolution,3,,,Stats,93
+Pooling,Number of Initial FloodLAMP Positive Pools Confirmed by Referral Testing,3,,,Stats,94
+Pooling,Number of Initial Confirmed FL Pools where the organization member (i.e. parent or other child) was Positive,1,,,Stats,95
+Pooling,Number of Initial Confirmed FL Pools where Positive Individual was not the organization member (i.e. parent or other child),2,,,Stats,96
+Pooling,% Confirmed Positive Pools where Positive Individual was not the organization member (i.e. parent or other child),0.6666666667,,,Stats,97

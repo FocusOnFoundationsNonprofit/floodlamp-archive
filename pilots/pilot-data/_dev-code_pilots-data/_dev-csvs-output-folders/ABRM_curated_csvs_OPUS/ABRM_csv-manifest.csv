@@ -1,0 +1,12 @@
+site_code,source_workbook,source_tab,output_csv,data_level,primary_key,join_keys,row_grain,notes
+ABRM,ABRM_APS_deID_PUB.xlsx,Stats,ABRM_APS_stats_key-values.csv,stats,,,one row per metric,"tidy key/value extraction from Stats A-D, sectioned by headers"
+ABRM,ABRM_APS_deID_PUB.xlsx,Stats,ABRM_APS_stats_referral-agreement.csv,stats,,,one row per FL result category (Positive/Inconclusive),"mini-table extracted from Stats E-L anchored by ""Number of Tubes with FL Result"""
+ABRM,ABRM_APS_deID_PUB.xlsx,REF Weekly,ABRM_APS_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,
+ABRM,ABRM_APS_deID_PUB.xlsx,Pos and Incl,ABRM_APS_pos-incl-cases.csv,tube,,tube_id;case_cluster_id,one row per tube (pos/incl),
+ABRM,ABRM_APS_deID_PUB.xlsx,postDEL,ABRM_APS_swabs-in-tubes.csv,participant_result,,,one row per swab-in-tube row,
+ABRM,ABRM_APS_deID_PUB.xlsx,APS Tubes,ABRM_APS_tubes.csv,tube,tube_id,tube_id,one row per tube,
+ABRM,ABRM_APS_deID_PUB.xlsx,APS Tubes by Date,ABRM_APS_daily-tubes-rollup.csv,daily_rollup,collect_date,collect_date,one row per collection date,
+ABRM,ABRM_RFR_deID_PUB.xlsx,ALL Tube Results,ABRM_RFR_all-tube-results.csv,tube,tube_id,tube_id;final_assigned_run_id,one row per tube,
+ABRM,ABRM_RFR_deID_PUB.xlsx,Weekly,ABRM_RFR_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,
+ABRM,ABRM_RTR_deID_PUB.xlsx,Referral Test Data,ABRM_RTR_referral-tests.csv,referral,referral_test_id,participant_id;case_cluster_id;init_fl_pos_tube_id,one row per referral test,
+ABRM,ABRM_RTR_deID_PUB.xlsx,Referral Tests by Person,ABRM_RTR_referral-tests-by-person.csv,referral,participant_id,participant_id,one row per participant,

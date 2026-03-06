@@ -1,0 +1,8 @@
+site_code,source_workbook,source_tab,output_csv,data_level,primary_key,join_keys,row_grain,notes
+ABRM,ABRM_APS_deID_PUB.xlsx,Stats,ABRM_APS_stats_key-values.csv,stats,,,one row per metric,Tidy key/value extraction from Stats A-D; sectioned by header rows in col B.
+ABRM,ABRM_APS_deID_PUB.xlsx,Stats,ABRM_APS_stats_referral-agreement.csv,stats,,,one row per FL result category,Extract mini-table anchored at 'Number of Tubes with FL Result' (cols E-L); includes pct status columns.
+ABRM,ABRM_APS_deID_PUB.xlsx,REF Weekly,ABRM_APS_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,Weekly screening rollup (imported from RFR when present); includes pct_positive_status.
+ABRM,ABRM_APS_deID_PUB.xlsx,Pos and Incl,ABRM_APS_pos-incl-cases.csv,tube,tube_id,tube_id;case_cluster_id,one row per pos/incl tube,Case-centric pos/incl subset with pool membership + referral linkage.
+ABRM,ABRM_APS_deID_PUB.xlsx,postDEL,ABRM_APS_swabs-in-tubes.csv,participant_result,,tube_id;participant_id,one row per swab-in-tube row,Trimmed participant-result table; drops QA scaffolding and blank PII columns.
+ABRM,ABRM_APS_deID_PUB.xlsx,APS Tubes,ABRM_APS_tubes.csv,tube,tube_id,tube_id,one row per tube,Canonical tube table (Appivo tubes); pool level + timing + results + corrections.
+ABRM,ABRM_APS_deID_PUB.xlsx,APS Tubes by Date,ABRM_APS_daily-tubes-rollup.csv,daily_rollup,collect_date,collect_date,one row per collection date,Exports only leftmost A-I rollup table; headers normalized to remove embedded totals.

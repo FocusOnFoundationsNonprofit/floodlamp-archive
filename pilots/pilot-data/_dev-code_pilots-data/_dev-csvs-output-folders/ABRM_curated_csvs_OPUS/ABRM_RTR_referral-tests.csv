@@ -1,0 +1,8 @@
+referral_test_id,participant_id,case_cluster_id,referral_test_collection_date,referral_test_collection_time,referral_test_result_date,referral_test_result_time,referral_test_type,referral_test_model,referral_test_result,referral_test_ct,symptoms_flag,vaccinated_flag,init_fl_pos_tube_id,appivo_collection_date,appivo_collection_time,other_fl_collection_timestamp,init_pos,init_neg,init_inc,rerun1_pos,rerun1_neg,rerun1_inc,rerun2_pos,rerun2_neg,rerun2_inc,fl_result
+F_ABRM-002,ABRM582390,,2022-12-08,12:30:00,2022-12-08,13:07:00,LAMP Device,Lucira,Negative,,0.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-003,ABRM582390,,2022-12-10,,,,LAMP Device,Lucira,Positive,,1.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-004,ABRM771013,,2022-12-08,13:00:00,2022-12-08,15:00:00,Rapid PCR,Mesa BioTech Accula SARS-CoV-2 RT PCR Test,Negative,,0.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-005,ABRM771013,,2022-12-09,,,,Antigen,,Negative,,1.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-006,ABRM771013,,2022-12-10,,,,Antigen,,Negative,,1.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-007,ABRM771013,,2022-12-11,,,,Antigen,,Positive,,,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID
+F_ABRM-001,ABRM805764,,2022-12-08,13:00:00,2022-12-08,15:00:00,Rapid PCR,Mesa BioTech Accula SARS-CoV-2 RT PCR Test,Positive,,0.0,,AG173,No ID,No ID,,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,No ID

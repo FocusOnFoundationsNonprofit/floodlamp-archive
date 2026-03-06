@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clinical Study Workflow</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #f4f5f7;
+    font-family: 'IBM Plex Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 32px;
+  }
+
+  .diagram-container {
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.06);
+    padding: 48px 56px;
+    max-width: 1400px;
+    width: 100%;
+  }
+
+  .diagram-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+  }
+
+  .diagram-subtitle {
+    font-size: 13px;
+    font-weight: 500;
+    color: #8b8fa3;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 40px;
+  }
+
+  svg {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .node-label {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    fill: #1a1a2e;
+    text-anchor: middle;
+    dominant-baseline: central;
+  }
+  .node-label-small {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    fill: #64748b;
+    text-anchor: middle;
+    dominant-baseline: central;
+  }
+
+  .edge-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    fill: #94a3b8;
+    text-anchor: middle;
+  }
+
+  .arrow-line {
+    stroke: #cbd5e1;
+    stroke-width: 1.8;
+    fill: none;
+    marker-end: url(#arrowhead);
+  }
+  .arrow-line-merge {
+    stroke: #cbd5e1;
+    stroke-width: 1.8;
+    fill: none;
+    stroke-dasharray: 6 3;
+    marker-end: url(#arrowhead);
+  }
+  .arrow-line-red {
+    stroke: #ec4899;
+    stroke-width: 2;
+    fill: none;
+    marker-end: url(#arrowhead-pink);
+  }
+
+  .section-divider {
+    stroke: #e2e8f0;
+    stroke-width: 1;
+    stroke-dasharray: 4 4;
+  }
+
+  .section-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    font-weight: 500;
+    fill: #94a3b8;
+    letter-spacing: 1px;
+  }
+
+  .swab-icon {
+    stroke: #818cf8;
+    stroke-width: 1.8;
+    fill: none;
+    stroke-linecap: round;
+  }
+</style>
+</head>
+<body>
+<div class="diagram-container">
+  <div class="diagram-title">Clinical Study Workflow</div>
+  <div class="diagram-subtitle">Sample Processing &amp; Validation Pipeline</div>
+
+  <svg viewBox="0 0 1260 720" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arrowhead" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+        <polygon points="0 0, 8 3, 0 6" fill="#94a3b8"/>
+      </marker>
+      <marker id="arrowhead-pink" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+        <polygon points="0 0, 8 3, 0 6" fill="#ec4899"/>
+      </marker>
+    </defs>
+
+    <!-- ======================================= -->
+    <!-- SECTION 1: ELUTE IN SALINE PATH         -->
+    <!-- ======================================= -->
+    <text class="section-label" x="18" y="24">PATH A — ELUTE IN SALINE</text>
+
+    <!-- Swab icon 1 -->
+    <g transform="translate(36, 58)">
+      <ellipse cx="12" cy="6" rx="7" ry="14" class="swab-icon" fill="#eef2ff"/>
+      <line x1="12" y1="20" x2="12" y2="48" class="swab-icon"/>
+    </g>
+
+    <!-- Arrow to Elute -->
+    <line x1="62" y1="82" x2="92" y2="82" class="arrow-line"/>
+
+    <!-- Elute in Saline -->
+    <g>
+      <rect x="94" y="60" width="130" height="44" fill="#f0fdf4" stroke="#4ade80" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="159" y="82">Elute in Saline</text>
+    </g>
+
+    <!-- Arrow to split -->
+    <line x1="224" y1="82" x2="278" y2="82" class="arrow-line"/>
+
+    <!-- Split ½ / ½ -->
+    <g>
+      <rect x="280" y="60" width="80" height="44" fill="#fefce8" stroke="#facc15" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="320" y="82">½  /  ½</text>
+    </g>
+
+    <!-- Top branch: ½ → Eurofins -->
+    <path d="M 360 72 L 390 72 L 390 36 L 430 36" class="arrow-line"/>
+    <text class="edge-label" x="397" y="28">½</text>
+
+    <g>
+      <rect x="432" y="14" width="110" height="44" fill="#fff7ed" stroke="#fb923c" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="487" y="36">Eurofins</text>
+    </g>
+
+    <!-- Bottom branch: ½ → 100x Inactivate -->
+    <path d="M 360 92 L 390 92 L 390 148 L 430 148" class="arrow-line"/>
+    <text class="edge-label" x="397" y="106">½</text>
+
+    <g>
+      <rect x="432" y="126" width="140" height="44" fill="#f0fdf4" stroke="#4ade80" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="502" y="148">100× Inactivate</text>
+    </g>
+
+    <!-- Dashed merge arrow from Inactivate down to combined -->
+    <path d="M 572 148 L 610 148 L 610 240 L 520 240" class="arrow-line-merge"/>
+    <text class="edge-label" x="618" y="195" transform="rotate(-90, 618, 195)" style="fill:#fb923c">merge</text>
+
+    <!-- ======================================= -->
+    <!-- SECTION 2: 1X ISS PATH                  -->
+    <!-- ======================================= -->
+    <line x1="0" y1="192" x2="1260" y2="192" class="section-divider"/>
+    <text class="section-label" x="18" y="216">PATH B — 1× ISS</text>
+
+    <!-- Swab icon 2 -->
+    <g transform="translate(36, 228)">
+      <ellipse cx="12" cy="6" rx="7" ry="14" class="swab-icon" fill="#eef2ff"/>
+      <line x1="12" y1="20" x2="12" y2="48" class="swab-icon"/>
+    </g>
+
+    <!-- Arrow to 1X ISS -->
+    <line x1="62" y1="252" x2="92" y2="252" class="arrow-line"/>
+
+    <!-- 1X ISS -->
+    <g>
+      <rect x="94" y="230" width="100" height="44" fill="#f0fdf4" stroke="#4ade80" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="144" y="252">1× ISS</text>
+    </g>
+
+    <!-- Arrow to combined -->
+    <line x1="194" y1="252" x2="300" y2="252" class="arrow-line"/>
+
+    <!-- Combined sample node -->
+    <g>
+      <rect x="302" y="224" width="210" height="56" fill="#eef2ff" stroke="#818cf8" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="407" y="245">Combined Sample</text>
+      <text class="node-label-small" x="407" y="264">(inactivated ½ + 1× ISS)</text>
+    </g>
+
+    <!-- Split from combined: top → FL QuickColor, bottom → FL EasyPCR -->
+    <!-- Top branch → FL QuickColor -->
+    <path d="M 512 242 L 556 242 L 556 242 L 590 242" class="arrow-line"/>
+
+    <!-- FL QuickColor -->
+    <g>
+      <rect x="592" y="216" width="140" height="52" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="662" y="235">FL QuickColor</text>
+      <text class="node-label-small" x="662" y="252">LAMP</text>
+    </g>
+
+    <!-- Bottom branch → FL EasyPCR (renamed from FL EPCR) -->
+    <path d="M 512 264 L 556 264 L 556 360 L 590 360" class="arrow-line"/>
+
+    <!-- FL EasyPCR (bottom, from combined) -->
+    <g>
+      <rect x="592" y="338" width="120" height="44" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="652" y="360">FL EasyPCR</text>
+    </g>
+
+    <!-- From FL QuickColor → branches to FL QuickColor LAMP and FL EasyPCR -->
+    <!-- Top: FL QuickColor → FL QuickColor LAMP -->
+    <path d="M 732 235 L 748 235 L 748 205 L 760 205" class="arrow-line"/>
+
+    <g>
+      <rect x="762" y="179" width="140" height="52" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="832" y="198">FL QuickColor</text>
+      <text class="node-label-small" x="832" y="215">LAMP</text>
+    </g>
+
+    <!-- Bottom: FL QuickColor → FL EasyPCR (upper) -->
+    <path d="M 732 252 L 748 252 L 748 275 L 760 275" class="arrow-line"/>
+
+    <g>
+      <rect x="762" y="253" width="120" height="44" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="822" y="275">FL EasyPCR</text>
+    </g>
+
+    <!-- ======================================= -->
+    <!-- COMPARE RNAse P — fed by BOTH EasyPCRs  -->
+    <!-- ======================================= -->
+
+    <!-- Compare RNAse P result box (pink) -->
+    <g>
+      <rect x="990" y="296" width="240" height="68" fill="#fdf2f8" stroke="#ec4899" stroke-width="2" rx="8"/>
+      <text class="node-label" x="1110" y="321">Compare RNAse P</text>
+      <text class="node-label-small" x="1110" y="341">over big sample sets</text>
+    </g>
+
+    <!-- Pink arrow from upper FL EasyPCR → Compare RNAse P -->
+    <path d="M 882 275 L 940 275 L 940 316 L 988 316" class="arrow-line-red"/>
+
+    <!-- Pink arrow from lower FL EasyPCR → Compare RNAse P -->
+    <path d="M 712 360 L 940 360 L 940 340 L 988 340" class="arrow-line-red"/>
+
+
+    <!-- ======================================= -->
+    <!-- SECTION 3: EUROFINS COMPARATOR          -->
+    <!-- ======================================= -->
+    <line x1="0" y1="410" x2="1260" y2="410" class="section-divider"/>
+    <text class="section-label" x="18" y="434">PATH C — COMPARATOR</text>
+
+    <!-- Multiple swabs -->
+    <g transform="translate(20, 456)">
+      <g transform="translate(0,0)">
+        <ellipse cx="10" cy="5" rx="6" ry="12" class="swab-icon" fill="#eef2ff"/>
+        <line x1="10" y1="17" x2="10" y2="40" class="swab-icon"/>
+      </g>
+      <g transform="translate(22,0)">
+        <ellipse cx="10" cy="5" rx="6" ry="12" class="swab-icon" fill="#eef2ff"/>
+        <line x1="10" y1="17" x2="10" y2="40" class="swab-icon"/>
+      </g>
+      <g transform="translate(44,0)">
+        <ellipse cx="10" cy="5" rx="6" ry="12" class="swab-icon" fill="#eef2ff"/>
+        <line x1="10" y1="17" x2="10" y2="40" class="swab-icon"/>
+      </g>
+      <g transform="translate(66,0)">
+        <ellipse cx="10" cy="5" rx="6" ry="12" class="swab-icon" fill="#eef2ff"/>
+        <line x1="10" y1="17" x2="10" y2="40" class="swab-icon"/>
+      </g>
+      <g transform="translate(88,0)">
+        <ellipse cx="10" cy="5" rx="6" ry="12" class="swab-icon" fill="#eef2ff"/>
+        <line x1="10" y1="17" x2="10" y2="40" class="swab-icon"/>
+      </g>
+    </g>
+    <text class="node-label-small" x="74" y="512">multiple swabs</text>
+
+    <!-- Arrow to Eurofins Comparator -->
+    <line x1="132" y1="482" x2="260" y2="482" class="arrow-line"/>
+
+    <!-- Eurofins Comparator -->
+    <g>
+      <rect x="262" y="454" width="170" height="56" fill="#fff7ed" stroke="#fb923c" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="347" y="475">Eurofins</text>
+      <text class="node-label-small" x="347" y="493">Comparator</text>
+    </g>
+
+    <!-- ======================================= -->
+    <!-- SECTION 4: ENRICHMENT PATH              -->
+    <!-- ======================================= -->
+    <line x1="0" y1="540" x2="1260" y2="540" class="section-divider"/>
+    <text class="section-label" x="18" y="564">PATH D — ENRICHMENT</text>
+
+    <!-- Swab icon -->
+    <g transform="translate(36, 584)">
+      <ellipse cx="12" cy="6" rx="7" ry="14" class="swab-icon" fill="#eef2ff"/>
+      <line x1="12" y1="20" x2="12" y2="48" class="swab-icon"/>
+    </g>
+
+    <!-- Arrow to Enrichment -->
+    <line x1="62" y1="608" x2="92" y2="608" class="arrow-line"/>
+
+    <!-- Enrichment -->
+    <g>
+      <rect x="94" y="586" width="120" height="44" fill="#f0fdf4" stroke="#4ade80" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="154" y="608">Enrichment</text>
+    </g>
+
+    <!-- Top branch → FL QuickColor LAMP -->
+    <path d="M 214 602 L 250 602 L 250 580 L 284 580" class="arrow-line"/>
+
+    <g>
+      <rect x="286" y="554" width="140" height="52" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="356" y="573">FL QuickColor</text>
+      <text class="node-label-small" x="356" y="590">LAMP</text>
+    </g>
+
+    <!-- Bottom branch → FL EasyPCR -->
+    <path d="M 214 614 L 250 614 L 250 640 L 284 640" class="arrow-line"/>
+
+    <g>
+      <rect x="286" y="618" width="140" height="44" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.5" rx="8"/>
+      <text class="node-label" x="356" y="640">FL EasyPCR</text>
+    </g>
+
+    <!-- ======================================= -->
+    <!-- LEGEND                                   -->
+    <!-- ======================================= -->
+    <g transform="translate(36, 692)">
+      <text class="section-label" x="0" y="0">LEGEND</text>
+
+      <rect x="0" y="14" width="20" height="14" rx="3" fill="#f0fdf4" stroke="#4ade80" stroke-width="1.2"/>
+      <text class="node-label-small" x="30" y="21" style="text-anchor:start">Process</text>
+
+      <rect x="120" y="14" width="20" height="14" rx="3" fill="#eef2ff" stroke="#818cf8" stroke-width="1.2"/>
+      <text class="node-label-small" x="150" y="21" style="text-anchor:start">Sample</text>
+
+      <rect x="240" y="14" width="20" height="14" rx="3" fill="#eff6ff" stroke="#3b82f6" stroke-width="1.2"/>
+      <text class="node-label-small" x="270" y="21" style="text-anchor:start">Assay / Test</text>
+
+      <rect x="380" y="14" width="20" height="14" rx="3" fill="#fff7ed" stroke="#fb923c" stroke-width="1.2"/>
+      <text class="node-label-small" x="410" y="21" style="text-anchor:start">External (Eurofins)</text>
+
+      <rect x="570" y="14" width="20" height="14" rx="3" fill="#fdf2f8" stroke="#ec4899" stroke-width="1.2"/>
+      <text class="node-label-small" x="600" y="21" style="text-anchor:start">Comparison / Result</text>
+
+      <line x1="770" y1="20" x2="800" y2="20" stroke="#ec4899" stroke-width="2" marker-end="url(#arrowhead-pink)"/>
+      <text class="node-label-small" x="810" y="21" style="text-anchor:start">Feeds into comparison</text>
+    </g>
+  </svg>
+</div>
+</body>
+</html>

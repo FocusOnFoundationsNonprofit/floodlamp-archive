@@ -1,0 +1,15 @@
+Program Name,Acronym,APS GDrive File,RFR GDrive File,RTR GDrive File,RSR GDrive File,Stats and Weekly
+Abrome,ABRM,ABRM_APS_deID_PUB,ABRM_RFR_deID_PUB,ABRM_RTR_deID_PUB,NA,APS
+Bend,BEND,BEND_APS_deID_PUB,BEND_RFR_deID_PUB,NA,NA,APS
+Combate,COMB,COMB_APS_deID_PUB,COMB_RFR_deID_PUB,COMB_RTR_deID_PUB,NA,APS
+FloodLAMP,FLMP,FLMP_APS_deID_PUB,FLMP_RFR_deID_PUB,FLMP_RTR_deID_PUB,NA,APS
+Needham,NDHM,NDHM_APS_deID_PUB,NDHM_RFR_deID_PUB,NA,NA,APS
+Rosa,ROSA,ROSA_APS_deID_PUB,NA - Weekly in APS,NA,ROSA_RSR_deID_PUB,APS
+Coral Springs,COSP,COSP_APS_deID_PUB,NA - Weekly in APS,NA,COSP_RSR_deID_PUB,APS
+Davie,DAVI,NA,NA,DAVI_RTR_deID_PUB,DAVI_RSR_deID_PUB,RSR
+Kent Camp,KENT,NA,NA,NA,NA,KENT_STS_PUB
+FTFC Conference,FTFC,NA,NA,NA,NA,FTFC_STS_PUB
+,,,,,,
+,,,,,,
+Carillon,CRLN,same as FLMP,split for summary,tabs in FLMP,,
+FloodLAMP Staff Plus,FLSP,same as FLMP,split for summary,tabs in FLMP,,

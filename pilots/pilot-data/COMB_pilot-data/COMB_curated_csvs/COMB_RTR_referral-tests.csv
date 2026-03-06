@@ -1,0 +1,20 @@
+participant_id,referral_test_collection_date,referral_test_collection_time,referral_test_result_date,referral_test_result_time,referral_test_type,referral_test_model,referral_test_result,referral_test_ct,symptoms_flag,vaccinated_flag,source_notes,init_fl_pos_tube_id
+COMB170110,2022-06-27,22:24:00,2022-06-27,,Antigen,,Positive,,False,True,Info Tab: C#3,FM2159
+COMB185924,2022-08-08,22:14:00,2022-08-08,,Antigen,,Negative,,False,True,Info Tab: H,FM3085
+COMB185924,2022-08-09,12:41:00,2022-08-09,,Lab Purif PCR,,Positive,20,False,True,Info Tab: H,FM3085
+COMB213226,2022-07-22,12:04:00,2022-07-22,,Antigen,,Positive,,False,True,Info Tab: G#1,FM1080
+COMB242905,2022-07-19,11:18:00,2022-07-19,,Antigen,,Negative,,False,False,Info Tab: F,FM1198
+COMB242905,2022-07-19,11:30:00,2022-07-19,,Lab Purif PCR,,Positive,33,False,False,Info Tab: F,FM1198
+COMB353066,2022-06-27,22:25:00,2022-06-27,,Antigen,,Negative,,False,True,Info Tab: C#1,FM2198
+COMB353066,2022-06-27,22:42:00,2022-06-27,,Lab Purif PCR,,Positive,21,False,True,Info Tab: C#1,FM2198
+COMB413047,2022-07-22,12:05:00,2022-07-22,,Antigen,,Positive,,False,False,Info Tab: G#2,FM1303
+COMB596496,2022-06-28,11:53:00,2022-06-28,,Antigen,,Negative,,True,True,Info Tab: X,FM2472
+COMB596496,2022-06-28,12:37:00,2022-06-28,,Lab Purif PCR,,Positive,36,True,True,Info Tab: X,FM2472
+COMB638337,2022-06-30,11:51:00,2022-06-30,,Antigen,,Positive,,True,True,Info Tab: D,
+COMB704360,2022-04-25,22:18:00,2022-04-25,,Antigen,,Negative,,True,True,Info Tab: A,FM4123
+COMB704360,2022-04-25,22:30:00,2022-04-25,,Lab Purif PCR,,Positive,21,True,True,Info Tab: A,FM4123
+COMB724402,2022-07-01,11:51:00,2022-07-01,,Antigen,,Positive,,True,True,Info Tab: Y,FM2492
+COMB770137,2022-06-06,22:30:00,2022-06-06,,Antigen,,Positive,,False,False,Info Tab: B,FM2799
+COMB945952,2022-06-27,22:27:00,2022-06-27,,Antigen,,Negative,,False,True,Info Tab: C#2,FM2128
+COMB945952,2022-06-27,22:43:00,2022-06-27,,Lab Purif PCR,,Positive,22,False,True,Info Tab: C#2,FM2128
+COMB999900,2022-07-01,23:02:00,2022-07-01,,Antigen,,Positive,,False,True,Info Tab: E,

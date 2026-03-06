@@ -1,0 +1,14 @@
+participant_id,num_sequential_referral_tests,num_floodlamp_results_pos_or_incl,floodlamp_tube_id,floodlamp_test_result,floodlamp_test_date,first_referral_test_date,referral_overall_result,first_referral_test_type,first_referral_test_result,second_referral_test_type,second_referral_test_result,third_referral_test_type,third_referral_test_result,antigen_neg_with_other_positive_flag,referral_eval
+COMB170110,1,1,FM2159,Positive,2022-06-27,2022-06-27,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Positive
+COMB185924,2,0,not found,not found,not found,2022-08-08,Negative,Antigen,Negative,,,,,0,Referral Confirmed FL Positive
+COMB213226,1,1,FM1080,Positive,2022-07-22,2022-07-22,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Positive
+COMB242905,2,1,FM1198,Positive,2022-07-19,2022-07-19,Positive,Antigen,Negative,Lab Purif PCR,Positive,,,1,Referral Confirmed FL Positive
+COMB353066,2,2,FM2198,Positive,2022-06-27,2022-06-27,Positive,Antigen,Negative,Lab Purif PCR,Positive,,,1,Referral Confirmed FL Positive
+COMB413047,1,1,FM1303,Positive,2022-07-22,2022-07-22,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Positive
+COMB596496,2,1,FM2472,Inconclusive,2022-06-28,2022-06-28,Positive,Antigen,Negative,Lab Purif PCR,Positive,,,1,Referral Confirmed FL Inconclusive
+COMB638337,1,0,not found,not found,not found,2022-06-30,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Positive - ARF positive but name is in App and was tested many other times
+COMB704360,2,2,FM4123,Positive,2022-04-25,2022-04-25,Positive,Antigen,Negative,Lab Purif PCR,Positive,,,1,Referral Confirmed FL Positive
+COMB724402,1,1,FM2492,Inconclusive,2022-07-01,2022-07-01,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Inconclusive
+COMB770137,1,1,FM2799,Positive,2022-06-06,2022-06-06,Positive,Antigen,Positive,,,,,0,Referral Confirmed FL Positive
+COMB945952,2,1,FM2128,Positive,2022-06-27,2022-06-27,Positive,Antigen,Negative,Lab Purif PCR,Positive,,,1,Referral Confirmed FL Positive
+COMB999900,1,0,not found,not found,not found,2022-07-01,Positive,Antigen,Positive,,,,,0,Name not in App anywhere - Appeared only in correspondence w Test Admin re: positive cases. Treat as not tested by FL because only pos/incl is accounted for.

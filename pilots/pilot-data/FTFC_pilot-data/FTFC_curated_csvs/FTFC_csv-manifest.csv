@@ -1,0 +1,4 @@
+site_code,source_workbook,source_tab,output_csv,data_level,primary_key,join_keys,row_grain,notes
+FTFC,FTFC_STS_PUB.xlsx,Stats,FTFC_STS_stats_key-values.csv,stats,,,one row per metric,Tidy key/value extraction from Stats A-D; sectioned by header rows in col B (Stats-only file).
+FTFC,FTFC_STS_PUB.xlsx,Stats,FTFC_STS_stats_referral-agreement.csv,stats,,,one row per FL result category,Extract mini-table anchored at 'Number of Tubes with FL Result' (if present in Stats-only file).
+FTFC,FTFC_STS_PUB.xlsx,Weekly,FTFC_STS_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,Weekly screening rollup from Stats-only file; includes pct_positive_status.
