@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1sUCW4idcd041WWuOUOgRoQvt1X5mqoNY
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20EDTA.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20EDTA.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain

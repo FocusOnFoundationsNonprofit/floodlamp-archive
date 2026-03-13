@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/15oCAL2T0or_BigVAw1kpXS_BojPpcPsMOw8aJ_qw5mA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hgxWFnT6RCJRAA6CyJWD1lnAr_5P1vNT
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

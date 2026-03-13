@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/10kiok18TcbatUeareNyUyrcr90_ib0gT56NpWsIh58U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1uyKevLkDpU1De9Gl8Y2fi1CHgNfvMl7f
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

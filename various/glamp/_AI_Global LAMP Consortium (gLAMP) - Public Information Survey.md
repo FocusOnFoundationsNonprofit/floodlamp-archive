@@ -9,7 +9,7 @@ tags: glamp, consortium, chris-mason, public-information
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1PGwuuKgfutn7BCQn8G2GRbe1U19wStXEzrnt3WkDFvw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/_AI_Global%20LAMP%20Consortium%20(gLAMP)%20-%20Public%20Information%20Survey.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/glamp/_AI_Global%20LAMP%20Consortium%20(gLAMP)%20-%20Public%20Information%20Survey.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

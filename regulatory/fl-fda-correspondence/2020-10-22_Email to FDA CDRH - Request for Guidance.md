@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2020-10-22_Email to FDA CDRH - Request for Guidance.md
 file_date: 2020-10-22
 title: Email to FDA CDRH - Request for Guidance
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mH0N7IRddKIaXaZAyHAqqyhh3epTeheieS20-dm3_U0
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JxojezTCq8L0bJutMf4yE4l64BP-b-xU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -24,9 +24,10 @@ summary_short: The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outli
 CONTENT
 
 ***INTERNAL TITLE:*** Pre-EUA email 10/22 sent to CDRH
+
 FloodLAMP Biotechnologies is a Public Benefit Corporation with a mission to improve public health with scalable, low-cost infectious disease screening programs. Our near-term goal is to help end the COVID-19 crisis through widely accessible SARS-CoV-2 pooled screening. We are based in San Carlos, CA and are engaged in a number of collaborations with mission-driven individuals and organizations.
 
-FloodLAMP is developing an integrated screening program consisting of efficient on-site and at-home pooled sample collection, combined with an ultra-low-cost, low-barrier-to-entry RT-LAMP assay protocol. The assay uses a chemical inactivation (TCEP/EDTA) and a bead purification step to achieve high sensitivity required for pooling. Amplification is via RT-LAMP, with 2 versions of the kit under development: 1) fluorimetric for real-time measurement on qPCR instruments and 2) colorimetric for endpoint visual and camera based readout. Preliminary LoD studies using Zeptometrix inactivated virions spiked into anterior nares swab extract have determined an LoD of 2 copies/ul for the colorimetric assay. We\'ve run thousands of samples to date.
+FloodLAMP is developing an integrated screening program consisting of efficient on-site and at-home pooled sample collection, combined with an ultra-low-cost, low-barrier-to-entry RT-LAMP assay protocol. The assay uses a chemical inactivation (TCEP/EDTA) and a bead purification step to achieve high sensitivity required for pooling. Amplification is via RT-LAMP, with 2 versions of the kit under development: 1) fluorimetric for real-time measurement on qPCR instruments and 2) colorimetric for endpoint visual and camera based readout. Preliminary LoD studies using Zeptometrix inactivated virions spiked into anterior nares swab extract have determined an LoD of 2 copies/ul for the colorimetric assay. We've run thousands of samples to date.
 
 |Concentration (copies/μL)|Positive Samples Detected|
 |---|---|
@@ -39,7 +40,7 @@ Our sample collection materials and procedures are configured to pool up to 10 s
 
 Our screening program is designed for asymptomatic populations that participate in the program as a group, such as a school or employer. During the program's initial phase, all participants will be tested individually or at small pool levels that are appropriate for the estimated prevalence. Immediately following the initial phase, participants that have tested negative will commence ongoing pooled screening, with no more than 3 days between tests and less than 24 hour turnaround (target less than 12 hours). Dedicated lab capacity will be committed to ensure screening continuity and rapid turnaround time.
 
-We understand that FloodLAMP\'s Screening Program and Test Kits comprise an ambitious plan. We are integrating several of the agency\'s priorities with the goal of unlocking mass, scalable screening for the U.S.
+We understand that FloodLAMP's Screening Program and Test Kits comprise an ambitious plan. We are integrating several of the agency's priorities with the goal of unlocking mass, scalable screening for the U.S.
 
 As a Public Benefit Corporation, we have explicitly committed to open protocols and the public good. We are already living that commitment through important collaborations and by publicly publishing our detailed protocols, workflow, and process videos. We will expand this material in support of our Test Kit IFU to facilitate rapid and reliable adoption of the FloodLAMP Screening Program at scale.
 

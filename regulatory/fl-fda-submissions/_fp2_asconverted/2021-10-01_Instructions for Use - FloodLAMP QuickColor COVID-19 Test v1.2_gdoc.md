@@ -1,5 +1,3 @@
-
-
 | FloodLAMP QuickColorTM  COVID-19 Test  Instructions for Use v1.2 \- DRAFT  IVD COVID-19 Emergency Use Authorization OnlyFor *in vitro* diagnostic (IVD) Use  www.floodlamp.bio FloodLAMP Biotechnologies, PBC | 4860 Alpine Rd. Portola Valley, CA USA |
 | ----- |
 

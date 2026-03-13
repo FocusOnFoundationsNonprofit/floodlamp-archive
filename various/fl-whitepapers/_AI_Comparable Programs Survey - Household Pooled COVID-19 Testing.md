@@ -9,7 +9,7 @@ tags: comparable-programs, household-pooling
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/14WBw9ClWZa9ATj2VJzPOWphDMR1ldbQo-HvDkCPmxvo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-whitepapers/Comparable%20Programs%20Survey%20-%20Household%20Pooled%20COVID-19%20Testing.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/fl-whitepapers/Comparable%20Programs%20Survey%20-%20Household%20Pooled%20COVID-19%20Testing.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

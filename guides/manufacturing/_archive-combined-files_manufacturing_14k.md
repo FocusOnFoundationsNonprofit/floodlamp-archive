@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_manufacturing_14k.md =====
-# manufacturing (7 files, 13,689 tokens)
-
-# 3,429  _AI_Reagent Concentrations.md
 METADATA
 last updated: 2026-02-17 RT initial creation
 file_name: _AI_Reagent Concentrations.md
@@ -13,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1gOeoQK0CY2kBKjLJ50EB9ObVzu74yotF_wSNu4nXYLs
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Reagent%20Concentrations.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Reagent%20Concentrations.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -339,9 +335,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/10kiok18TcbatUeareNyUyrcr90_ib0gT56NpWsIh58U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1uyKevLkDpU1De9Gl8Y2fi1CHgNfvMl7f
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -423,9 +419,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OE4rCaCn2htHdlq_Q_Nk9Mu-MpMgTtwO
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1QPBDtkL4h9dFd4yP_X8J5ZpmaJNkUPYJ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -559,9 +555,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1pzBrcBLajWdFH0M_ib3bILgtN7EN5h4G2KROieLmN78
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Th-fjY0mqBwXC74ZZwirwFW-iHAPIZ8F
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -641,9 +637,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mVuPCxzU2bUILebEfg7gvHwjzD6DwGqv
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1W7vkFU0raZso77GsFPm3LWNDMkqKmwm1
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -766,9 +762,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OkAplBX1wXaJ0g6SHvMH76DuvRYXXYz7
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/17gZaAVN_PZnOG81F7vwaNzTDuR74pjdI
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

@@ -4,6 +4,7 @@ primary file:
 source file:
 notes:
 
+
 CONTENT
 
 **Molecular Diagnostic Template for Laboratories**

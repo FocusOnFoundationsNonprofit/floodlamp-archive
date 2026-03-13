@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1zeyY8REZVb95yj9WG-PfppJ51BA3vpYtq5vYOoeRHXU/edit?usp=sharing
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1n2cKNd7SdqDiiBD7EILRsY-CutJ2vvpX
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

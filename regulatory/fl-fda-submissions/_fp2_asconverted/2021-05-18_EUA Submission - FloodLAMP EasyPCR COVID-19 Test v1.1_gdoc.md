@@ -411,4 +411,3 @@ Authorized laboratories will collect information on the performance of the test 
 QuantStudio  is a trademark of Thermo Fisher Scientific (NYSE: TMO)
 
 Bio-Rad and Bio-Rad CFX96 Touch  is a trademark of Bio-Rad Laboratories, Inc. (NYSE: BIO)
-

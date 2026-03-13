@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-08 RT
-file_name: gLAMP Global Consortium - JBT Review Paper (Sept 2021).pdf
+last updated: 2026-03-06 by BA
+file_name: gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
 file_date: 2021-09-01
 title: gLAMP Global Consortium - JBT Review Paper (Sept 2021)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/gLAMP%20Global%20Consortium%20-%20JBT%20Review%20Paper%20%28Sept%202021%29.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1qdf-dL2cmbB7aK4rw57CgjPmWQ9K5X0F
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/glamp/gLAMP%20Global%20Consortium%20-%20JBT%20Review%20Paper%20%28Sept%202021%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
@@ -103,68 +103,11 @@ Our emphasis is primarily methodological and although focused on LAMP, many aspe
 
 We have highlighted the different lenses and perspectives through which researchers can view LAMP technology, depending on whether they provide one-to-one patient care in a remote rural environment or conversely frequent mass testing for surveillance and epidemiology in a large public health laboratory. The series of choices (and corresponding compromises) that one makes to create a test that is fit for a specific purpose is a common theme: regardless of one's setting, budget or scale of testing, *‘there is a LAMP for that’* (**Figure 1**).
 
-[1 tool called]
-
-Based on the image and the file content, here's the complete figure as simple markdown:
-
-#### FIGURE: RT-LAMP Design Options
-
-##### Strategy
-- Individual
-- Pools
-
-##### Sampling
-###### Swabs
-1. NPS
-2. ANS
-3. OPS
-
-###### Liquid biopsy
-1. Saliva
-2. Gargle/wash
-
-###### Wastewater
-
-##### Inactivation & Release
-- Heat Only
-- Heat ± TCEP/EDTA
-- Proteinase K ± TCEP/EDTA
-- Commercial
-
-##### Extraction & Purification
-- Silica Beads
-- Magnetic Beads
-- Commercial extraction kit
-- None (Direct)
-
-##### Amplification
-- DIY Enzyme LAMP
-- Commercial Enzyme LAMP
-
-##### Readout
-###### Colorimetric
-1. Phenol red
-2. HNB
-3. LCV
-
-###### Fluorimetric - sequence independent
-- E.g SYTO9
-
-###### Fluorimetric - sequence specific
-1. DARQ
-2. QUASR
-3. OSD
-4. MolBeac
-5. Displ. Probe
-
-##### Instrument
-- qPCR
-- Tube / Plate Reader
-- Smartphone / camera
-- Naked eye
-- Microfluidic
-  1. Channel
-  2. Paper
+#### RT-LAMP Design Options
+| STRATEGY | SAMPLING | INACTIVATION & RELEASE | EXTRACTION & PURIFICATION | AMPLIFICATION | READOUT | INSTRUMENT |
+|---|---|---|---|---|---|---|
+| **Individual**<br><br>**Pools** | **Swab**<br>1. NPS<br>2. ANS<br>3. OPS<br><br>**Liquid biopsy**<br>1. Saliva<br>2. Gargle/wash<br><br>**Wastewater** | Heat Only<br><br>Heat ± TCEP/EDTA<br><br>Proteinase K ± TCEP/EDTA<br><br>Commercial | Silica Beads<br><br>Magnetic Beads<br><br>Commercial extraction kit<br><br>None (Direct) | **DIY Enzyme LAMP**<br><br>**Commercial Enzyme LAMP** | **Colorimetric**<br>1. Phenol red<br>2. HNB<br>3. LCV<br><br>**Fluorimetric - sequence independent**<br>E.g SYTO9<br><br>**Fluorimetric - sequence specific**<br>1. DARQ<br>2. QUASR<br>3. OSD<br>4. MolBeac<br>5. Displ. Probe | qPCR<br><br>Tube / Plate Reader<br><br>Smartphone / camera<br><br>Naked eye<br><br>**Microfluidic**<br>1. Channel<br>2. Paper |
+||
 
 ***Figure 1. “We have a LAMP for that”: major design choices when developing RT-LAMP tests.** At each stage in the design process, a series of decisions impact the final configuration of the test, be that for an individual patient or for surveillance testing with pooled screening. The inherent flexibility and comparative simplicity of LAMP means that for almost all settings and use cases there is one configuration of the LAMP toolbox that is fit-for-purpose. LAMP tests for use in any two settings or geographies can be dramatically different. Nasopharngeal Swab (NPS), Anterior Nares Swab (ANS), oralpharyngeal swab (OPS), tris(2-carboxyethyl) phosphine (TCEP), Ethylenediamine tetraacetic acid (EDTA), Do-it-yourself (DIY), Hydroxy naphthol blue (HNB), leuco crystal violet (LCV), Dark Quenching technique (DARQ), Quenching of Unincorporated Amplification Signal Reporters (QUASR), oligonucleotide strand exchange (OSD), Molecular Beacons (MolBeac).*
 

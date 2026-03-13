@@ -1,17 +1,17 @@
 METADATA
-last updated: 2026-02-24 RT initial conversion
-file_name: 2021-01-18_Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests.pdf
+last updated: 2026-03-05 by BA
+file_name: 2021-01-18_Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests.md
 file_date: 2021-01-18
-title: 2021-01-18_Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests
+title: Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests
 category: regulatory
 subcategory: reg-articles-misc
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/2021-01-18_Phillips%20and%20Dinakar%20-%20A%20Proposal%20for%20Increasing%20the%20Speed%20of%20Validating%20SARS-CoV-2%20Diagnostic%20Tests.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1JNV1qjtI2poNYGCp89FMRv1oNxOSpuBo
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/reg-articles-misc/2021-01-18_Phillips%20and%20Dinakar%20-%20A%20Proposal%20for%20Increasing%20the%20Speed%20of%20Validating%20SARS-CoV-2%20Diagnostic%20Tests.pdf
 conversion_input_file_type: pdf
 conversion: AI
 license: 3rd Party
@@ -30,11 +30,11 @@ Alexander James Phillips †, Karthik Dinakar ‡
 Correspondence to ajp@centerofci.org
 v0.1.9 - 2021 Jan 18th
 
-## Summary
+## SUMMARY
 
 Rapid access to diagnostics for emerging high priority pathogens is of great importance from a clinical, public health and economic point of view. Currently in the United States there are several technological, regulatory and organisational improvements that might be adopted for the COVID-19 and future pandemics. In this article, we suggest a proposal for increasing the speed of validating SARS-CoV-2 diagnostic tests, suggestions include: a structured (machine readable) EUA data submission process, distributed FDA directed CLIA led validation, and building an open synthetic patient clinical sample panel. This document is a work in progress, containing some ideas which may be of value to consider and implement. We welcome you to add your name to this proposal or make a contribution of any size and scope. This concept and paradigm will be of utmost importance for pandemics of diseases more prone to the emergence of new mutant strains that evade current diagnostics and vaccines.
 
-## Contents
+## CONTENTS
 
 1 The Opportunity and Goals
 - 1.1 Diagnostic tests are powerful tools, we need rapid access to them
@@ -63,7 +63,7 @@ Rapid access to diagnostics for emerging high priority pathogens is of great imp
 
 5 Revision History
 
-## 1 The Opportunity and Goals
+## 1 THE OPPORTUNITY AND GOALS
 
 ### 1.1 Diagnostic tests are powerful tools, we need rapid access to them
 
@@ -79,15 +79,15 @@ One of the objectives of the VITAL Act (Verified Innovative Testing in American 
 
 The United States Food and Drug Administration (FDA) oversees the Emergency Use Authorisation (EUA) process, including that for COVID-19 related medical devices [6]. The criteria for the issuance of EUAs are stated in Act 21 U.S.C. §§ 360bbb-3(c)(1-5) [30]. Included is the legal and binding duty to ensure:
 
-> the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product, taking into consideration the material threat posed
+    the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product, taking into consideration the material threat posed
 
 and that
 
-> there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition
+    there is no adequate, approved, and available alternative to the product for diagnosing, preventing, or treating such disease or condition
 
 This thought piece does not disagree with these objectives and criteria; it raises the question of whether and how we might fulfil these requirements but do so more quickly.
 
-## 2 The Current Situation
+## 2 THE CURRENT SITUATION
 
 ### 2.1 Initial response time
 
@@ -117,7 +117,7 @@ The lack of information or guarantees about the performance of diagnostics tests
 
 Viral positive control materials were produced early on and are now widely available. Providers include a range of commercial and government sources [7]. Viral material includes positive clinical specimens, naked RNA, virus like particles, live virus and inactivated virus.
 
-## 3 Possible Extensions to Current Validation Process
+## 3 POSSIBLE EXTENSIONS TO CURRENT VALIDATION PROCESS
 
 These proposals revolve around 3 main themes. Firstly, the merits of defining a minimum set of required data for a diagnostics EUA and doing so in a structured form. Secondly, utilising the validation work already done by some of the high complexity CLIA laboratories around the United States. Thirdly, combining existing quality control materials to provide a representative and extensible panel of synthetic clinical specimen challenges for tests to pass. We hope these suggestions aid further discussion around new models of validating tests, potentially helping bring tests to market sooner, both during this pandemic and any future pandemics.
 
@@ -133,9 +133,9 @@ For the same EUA submission type, for example "Molecular Diagnostic Template for
 
 Adopting a tool to enforce structured data upon submission for an EUA might aid both the companies in ensuring all the necessary fields are completed, and the reviewers in checking the data. There are many providers of such tools such as TypeForm, Microsoft Forms, etc. These off the shelf solutions are cheap, secure, fast to configure and reliable. The structured data they take in could then be provided as is or additionally used to automatically populate the templates mentioned earlier. The applications for structured data are many but at a minimum might allow laboratories looking for a new test to more easily compare and search across the available EUA data. The structured data might also aid the FDA's internal processes, allowing for better prioritisation, communication with and tracking of applicants.
 
-**Figure 1:** Locations in the current EUA process where structured data may be employed (solid red boxes) to expedite and enable related processes and workflows (dashed boxes) by ensuring data is present, formatted consistently and easier to parse, prioritise and compare against other EUAs. IFU: Instructions For Use documentation may form part of the package inserts. Adapted from FDA's SHIELDx presentation [25]. SHIELDx (Systemic Harmonization and Interoperability Enhancement for Lab Data) program's stated goal is to "Describe the same test data the same way".
-
 _Flowchart diagram showing the EUA process from test manufacturers through FDA review to approval and publication of EUAs/IFUs. Solid red boxes indicate where structured data could be employed at the submission, initial review, and laboratory use stages. Dashed boxes indicate downstream processes and workflows—such as prioritisation, clarification requests, and cross-EUA comparison—that may be aided by the presence of structured data._
+
+**Figure 1:** Locations in the current EUA process where structured data may be employed (solid red boxes) to expedite and enable related processes and workflows (dashed boxes) by ensuring data is present, formatted consistently and easier to parse, prioritise and compare against other EUAs. IFU: Instructions For Use documentation may form part of the package inserts. Adapted from FDA's SHIELDx presentation [25]. SHIELDx (Systemic Harmonization and Interoperability Enhancement for Lab Data) program's stated goal is to "Describe the same test data the same way".
 
 ### 3.2 FDA directed CLIA led validation
 
@@ -153,9 +153,9 @@ It has already been highlighted that expert validation work of newly purchased d
 
 This is one potential model for the distributed initial validation of diagnostics for emerging, high priority pathogens. It is coordinated by the FDA and uses the existing legislation but leverages the latent, capable and eager talent of our molecular pathology laboratories.
 
-**Figure 2:** Potential model leveraging validation work being performed in CLIA laboratories to maximise speed, volume and accuracy of authorising emergency diagnostics. IFU: Instructions For Use.
-
 _Flowchart diagram showing test manufacturers submitting EUAs along with machines and reagents to the FDA, which then distributes them to randomly selected available CLIA laboratories for independent validation. The laboratories conduct CLIA-led validation and report results back to the FDA for review, leading to approval and publication of EUAs/IFUs._
+
+**Figure 2:** Potential model leveraging validation work being performed in CLIA laboratories to maximise speed, volume and accuracy of authorising emergency diagnostics. IFU: Instructions For Use.
 
 ### 3.3 Synthetic clinical specimen panel challenge
 
@@ -185,19 +185,19 @@ With the FDA reference panel, or an open source panel constructed from harmonise
 
 If an open source list of ingredients for each of the reference panel specimens were made available, then over time it could be improved to more closely represent clinical specimens and extended to cover more edge cases. For example the inclusion of blood, mucin, a simulated concurrent bacterial infection and other interfering components and pharmaceuticals could be included in an extended reference panel.
 
-**Figure 3:** How the use of a pre made clinically relevant synthetic patient specimen panel spiked with inactivated viral material may allow more rapid validation of diagnostics. Based on the assumptions that rapid access to diagnostics aids public health test, trace and isolate interventions to curtail community transmission and secondly that limited clinical samples delayed validation of new diagnostics.
-
 _Timeline comparison diagram showing two parallel processes. The current process proceeds from pathogen isolation through sequencing, test development, waiting for community prevalence to rise, collecting sufficient clinical specimens, conducting test validations, and finally granting EUAs for widespread deployment. The proposed process using a synthetic specimen panel bypasses the need to wait for clinical specimens by spiking a pre-made panel with inactivated viral material, enabling earlier test validation and EUA granting. The diagram indicates that the time saved would result in avoided community infections._
+
+**Figure 3:** How the use of a pre made clinically relevant synthetic patient specimen panel spiked with inactivated viral material may allow more rapid validation of diagnostics. Based on the assumptions that rapid access to diagnostics aids public health test, trace and isolate interventions to curtail community transmission and secondly that limited clinical samples delayed validation of new diagnostics.
 
 #### 3.3.6 Potential advantages of a synthetic patient specimen panel
 
 Confronted with a new pathogen, or a mutant of an existing pandemic pathogen, it might be much faster to spike new synthetic or inactivated viral material into such a reference panel than wait for sufficient patient specimens to validate a diagnostic test. Such a panel would also offer the opportunity to include all the edge cases such a test should be able to handle. And finally with these consistent and characterised synthetic specimens a more consistent and reproducible validation of diagnostic tests may be conducted allowing the performance characteristics to be compared to each other. This would help lab staff make informed decisions about which diagnostic system to purchase or implement, this aids patient care, supports public health initiatives and provides a crucial piece of information to make the diagnostics market more competitive and efficient.
 
-## 4 Request for Comment
+## 4 REQUEST FOR COMMENT
 
 This is a work in progress and any contributors who would like to join the draft with any size and scope of change are welcome. We look forward to receiving your thoughts and integrating them in this or a subsequent document. Please contact ajp@centerofci.org.
 
-## References
+### REFERENCES
 
 [1] Ramy Arnaout et al. "SARS-CoV2 Testing: The Limit of Detection Matters". (June 2020). doi: 10.1101/2020.06.02.131144. [link](https://doi.org/10.1101/2020.06.02.131144).
 
@@ -267,7 +267,7 @@ This is a work in progress and any contributors who would like to join the draft
 
 [34] Y.-Z. Zhang et al. "Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, complete genome". 2020. [link](https://www.ncbi.nlm.nih.gov/nuccore/MN908947.1).
 
-## 5 Revision History
+## 5 REVISION HISTORY
 
 - v0.1.9 - 2021 Jan 18th - Integrate feedback, gratefully received from Dr Alex Greninger, University of Washington School of Medicine.
 - v0.1.8 - 2020 Nov 25th - Add 3 figures

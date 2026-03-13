@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1ldfbrQXievTqNcIeQi0-BVkwlGu1P4e8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1uoLP2EJrJEjgMtdMmsUOSn4HZ0XZp_x5
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain

@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_test-training_21k.md =====
-# test-training (4 files, 21,238 tokens)
-
-# 920  _context-commentary_guides-test-training.md
 METADATA
 last updated: 2026-02-17 RT
 file_name: _context-commentary_guides-test-training.md
@@ -47,9 +43,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1GGv3YLSyIv0J8WTbt61FhI57Bh6VmEEjdLQfmKOL79A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1W0SeYZ0LcjI0YUo5DO8QK0RzNqwiHDpe
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -179,9 +175,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1DhkmEUn15q0MnETtUb3tjp9VcBA5JtLnmHfB_PpRlFw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/17ZqwLhedEXXnS4H-lNeOXWmD1MzrCnno
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -319,9 +315,9 @@ tags:
 source_file_type: audio
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1t3yOYBBcFmnzhJSnOp4ZEvxHJlNKTiZf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1o2YbfHTBGRIiA6UpjDapjHwx9S60jIa6
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
 conversion_input_file_type: md
 conversion: none
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

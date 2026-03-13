@@ -1,17 +1,17 @@
 METADATA
-last updated: 2025-12-26 CT
+last updated: 2026-03-05 by BA
 file_name: 2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
 file_date: 2021-10-13
-title: 2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes
+title: FloodLAMP FDA Correspondence and 10-14 Meeting Notes
 category: regulatory
 subcategory: fl-fda-correspondence
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Vady3wfPmepEyRTHuS4lKEK7rVFtmcdi6eJAzaVOEYY
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-13_FloodLAMP%20FDA%20Correspondence%20and%2010-14%20Meeting%20Notes.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1l5xw8MsjT-traijB5RhkrNHsHnK7FhXB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-13_FloodLAMP%20FDA%20Correspondence%20and%2010-14%20Meeting%20Notes.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -22,6 +22,7 @@ summary_short: The email thread documents FDA’s October 2021 interactive revie
 
 
 CONTENT
+
 ## 2021-10-13_Email from FDA lead reviewer - Request for Additional Information pdf
 from: Li, Liang &lt;Liang.Li1@fda.hhs.gov&gt;
 to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
@@ -60,14 +61,17 @@ FLOODLAMP ARCHIVE FILE PATH FOR ATTACHMENT MARKDOWN FILE: regulatory/fl-fda-corr
 FLOODLAMP ARCHIVE FILE FOR ATTACHMENT - GDRIVE URL:  [2021-10-13_FDA Request for Additional Information.pdf](https://drive.google.com/file/d/1fapKSzKCQz3mCpQfZveqabVI-A6ANSr8)
 
 
-## 2021-10-13\_Email Followup from FDA lead reviewer offering zoom meeting next day
-from:**Li, Liang** &lt;Liang.Li1@fda.hhs.gov&gt;to:"randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
-cc:"Li, Li (CDRH)" &lt;Li.Li2@fda.hhs.gov&gt;,
+## 2021-10-13_Email Followup from FDA lead reviewer offering zoom meeting next day
+from: **Li, Liang** &lt;Liang.Li1@fda.hhs.gov&gt;
+to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
+cc: "Li, Li (CDRH)" &lt;Li.Li2@fda.hhs.gov&gt;,
 "Schlottmann, Silke" &lt;Silke.Schlottmann@fda.hhs.gov&gt;,
 "Roth, Kristian" &lt;Kristian.Roth@fda.hhs.gov&gt;,
 "Post, Justin" &lt;Justin.Post@fda.hhs.gov&gt;,
 "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;
-date:Oct 13, 2021, 10:15 AMsubject:EUA210582-Setting up a meetingsigned-by:fda.hhs.gov
+date: Oct 13, 2021, 10:15 AM
+subject: EUA210582-Setting up a meeting
+signed-by: fda.hhs.gov
 
 Dear Mr. True,
 
@@ -81,7 +85,7 @@ Thanks,
 Liang
 
 
-## 2021-10-14\_Zoom Meeting Notes for FloodLAMP and FDA
+## 2021-10-14_Zoom Meeting Notes for FloodLAMP and FDA
 FloodLAMP: Randy True (CEO), Anne Wyllie (Advisor)
 
 FDA: Liang Li, Silke Schlottmann, Kris Roth
@@ -107,7 +111,7 @@ FDA: Liang Li, Silke Schlottmann, Kris Roth
 - Agreed FloodLAMP would provide written response by Oct 20
 
 
-## 2021-10-20\_Email from FloodLAMP - Reply to FDA Additional Information Request
+## 2021-10-20_Email from FloodLAMP - Reply to FDA Additional Information Request
 from: Randy True &lt;randy@floodlamp.bio&gt;
 to: "Li, Liang" &lt;Liang.Li1@fda.hhs.gov&gt;
 cc: "Schlottmann, Silke" &lt;Silke.Schlottmann@fda.hhs.gov&gt;,
@@ -157,8 +161,8 @@ FLOODLAMP ARCHIVE FILE PATH FOR ATTACHMENT MARKDOWN FILE: regulatory/fl-fda-subm
 FLOODLAMP ARCHIVE FILE FOR ATTACHMENT - GDRIVE URL:  [2021-03-22_EUA Sub Supporting Data - FloodLAMP EasyPCR COVID-19 Test](https://docs.google.com/spreadsheets/d/1kmo5uzHk0_XLr2USMpalTUCzatXR2brmBFam80uJ_5k)
 
 
-## 2021-10-21\_Email from FDA lead reviewer - Final Decision
-from: Li, Liang &lt;[<u>Liang.Li1@fda.hhs.gov</u>](mailto:Liang.Li1@fda.hhs.gov)&gt;
+## 2021-10-21_Email from FDA lead reviewer - Final Decision
+from: Li, Liang &lt;[Liang.Li1@fda.hhs.gov](mailto:Liang.Li1@fda.hhs.gov)&gt;
 to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,
 "Post, Justin" &lt;Justin.Post@fda.hhs.gov&gt;,
@@ -172,7 +176,7 @@ subject: Final Decision for EUA210582 Request – letter attached
 
 Dear Mr. True,
 
-The additional information you provided does not demonstrate that your device is adequately validated for its intended use. Please see attached letter regarding your EUA request, EUA210582. This is the final decision on your EUA request, and your EUA is now closed. For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s <u>[FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).</u>
+The additional information you provided does not demonstrate that your device is adequately validated for its intended use. Please see attached letter regarding your EUA request, EUA210582. This is the final decision on your EUA request, and your EUA is now closed. For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
 
 Please confirm receipt of this email and attached letter.
 
@@ -204,7 +208,7 @@ Donald J. St.Pierre
 
 Deputy Director, New Product Evaluation
 
-## 2021-10-28\_Email from FloodLAMP - Reply to Final Decision
+## 2021-10-28_Email from FloodLAMP - Reply to Final Decision
 Randy True &lt;randy@floodlamp.bio&gt;
 to: "Li, Liang" &lt;Liang.Li1@fda.hhs.gov&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,
@@ -236,7 +240,7 @@ Best Regards,
 Randy
 
 
-## 2021-10-29\_Email from FDA lead reviewer - Reply regarding Deprioritization
+## 2021-10-29_Email from FDA lead reviewer - Reply regarding Deprioritization
 from: Li, Liang &lt;Liang.Li1@fda.hhs.gov&gt;
 to: Randy True &lt;randy@floodlamp.bio&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,

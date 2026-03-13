@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 11 Equipment Setup.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 11 Equipment Setup
@@ -24,7 +24,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 11 Equipment Setup spreadsheet
 CONTENT
 
 ## FloodLAMP Equipment
-**Equipment List**
+### Equipment List
 | Equipment                | Supplier | Catalog #        | Setup Cost |                                             |
 |--------------------------|----------|------------------|------------|---------------------------------------------|
 | Text                     | Text     | Text             | USD ($)    |                                             |

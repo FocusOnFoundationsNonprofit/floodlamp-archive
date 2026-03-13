@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1TLzIvQgv5lqrfg4TCI_fkFo_0IcU493j
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/ldts/2024-06-25_FDA%20Guidance%20-%20Laboratory%20Developed%20Tests%20Small%20Entity%20Compliance%20Guide.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

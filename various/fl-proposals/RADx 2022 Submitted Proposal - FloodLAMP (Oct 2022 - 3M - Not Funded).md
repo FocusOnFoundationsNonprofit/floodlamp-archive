@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-31 RT
+last updated: 2026-03-06 by BA
 file_name: RADx 2022 Submitted Proposal - FloodLAMP (Oct 2022 - 3M - Not Funded).md
 file_date: 2022-10-31
 title: RADx 2022 Submitted Proposal - FloodLAMP (Oct 2022 - 3M - Not Funded)
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1FD3-N6AC2PQKKS_WpqtdQ1FnSvZAhJdyZrOcnaXb_AI
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-proposals/RADx%202022%20Submitted%20Proposal%20-%20FloodLAMP%20%28Oct%202022%20-%203M%20-%20Not%20Funded%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1E75bmMN2ddomYiFTMdJC7rnz7uPzdebr/view?usp=drive_link
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-proposals/RADx%202022%20Submitted%20Proposal%20-%20FloodLAMP%20%28Oct%202022%20-%203M%20-%20Not%20Funded%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -23,9 +23,9 @@ summary_short: The FloodLAMP RADx submission outlines a next-generation, low-cos
 
 CONTENT
 
-***INTERNAL TITLE:*** FloodLAMP RADx Submission 10-31-2022 - CONFIDENTIAL
+***INTERNAL TITLE:*** FloodLAMP RADx Submission 10-31-2022
 
-[<u>https://www.poctrn.org/web/radx-tech-high-performance-tests</u>](https://www.poctrn.org/web/radx-tech-high-performance-tests)
+[https://www.poctrn.org/web/radx-tech-high-performance-tests](https://www.poctrn.org/web/radx-tech-high-performance-tests)
 
 
 ## Abstract (50)
@@ -55,22 +55,22 @@ For the POC/PON intended use, throughput is important and a primary design consi
 
 
 ## Key Performance Parameters
-<u>Sensitivity (This is a required field).</u>
+**Sensitivity (This is a required field).**
 88-96% (anticipated, based on comparables and FloodLAMP's QuickColor COVID-19 LAMP test performance in real world and clinical study)
 
-<u>Specificity (This is a required field).</u>
+**Specificity (This is a required field).**
 98-100% (anticipated, based on comparables and FloodLAMP's QuickColor COVID-19 test performance in real world and clinical study)
 
-<u>Level of detection (This is a required field).</u>
+**Level of detection (This is a required field).**
 300 - 3,000 copies per swab (anticipated, based on comparables and FloodLAMP's QuickColor COVID-19 test performance in real world and clinical study)
 
-<u>Time to run a single test (This is a required field).</u>
+**Time to run a single test (This is a required field).**
 30 minutes (anticipated, based on comparables and FloodLAMP's QuickColor COVID-19 test)
 
-<u>Production cost of the test (This is a required field).</u>
+**Production cost of the test (This is a required field).**
 $3-5 individual sample, $0.80-1.25 per sample with pool of 4 (anticipated)
 
-<u>Production cost of the instrument (put n/a if not applicable) (This is a required field).</u>
+**Production cost of the instrument (put n/a if not applicable) (This is a required field).**
 $1,000 for 60-sample version, $50 single sample version (anticipated)
 
 
@@ -130,7 +130,7 @@ Direct Colorimetric LAMP:
 - 90% clinical sensitivity (PPA 36/40);
 - 100% specificity (40/40);
 - no false positives;
-- missed positives only high Ct (&gt;36 with PCR).
+- missed positives only high Ct (>36 with PCR).
 
 Direct PCR:
 - analytical LOD: 3,000 copies/mL;
@@ -144,7 +144,7 @@ The real world performance of our surveillance LAMP test has been excellent, rob
 ## Implementation and Production (200)
 *Provide a summary of your implementation and production plans (including projected monthly production capacity) (200 words or less)*
 
-FloodLAMP’s implementation plans include initiating prototype development for the new device and instrument (see Work Package \#1). Simultaneously we will execute on 2 sets of deliverables that can both have independent impact in the field and are on the critical path of the overall plan of developing pandemic screening using the new platform. The first is gaining EUA for the OTC pooled collection kit and app, which we plan to broadly license and partner around. The second is assay work to translate our current test to POC format, comprising lyophilizing our current test, optimizing a 1-step chemistry, sourcing single reaction dispensers of the inactivation solution, and a dropper cap. These steps bridge to our new platform and offer significant workflow improvements that may themselves warrant scale up.
+FloodLAMP’s implementation plans include initiating prototype development for the new device and instrument (see Work Package #1). Simultaneously we will execute on 2 sets of deliverables that can both have independent impact in the field and are on the critical path of the overall plan of developing pandemic screening using the new platform. The first is gaining EUA for the OTC pooled collection kit and app, which we plan to broadly license and partner around. The second is assay work to translate our current test to POC format, comprising lyophilizing our current test, optimizing a 1-step chemistry, sourcing single reaction dispensers of the inactivation solution, and a dropper cap. These steps bridge to our new platform and offer significant workflow improvements that may themselves warrant scale up.
 
 Regarding production, we will utilize multiple suppliers and manufacturers and partner for US and global distribution, starting with companies with which we have existing relationships. We completed an order from LGC for a 1.2M reactions of our primer sets and are working with the OEM team at NEB.
 
@@ -154,29 +154,29 @@ Post COVID-19, we will source primers and assay technology IP from academic labs
 ## Other Information (750)
 *Provide other relevant information including handling variants, accessibility for individuals with disabilities, support for telemedicine and communications of results, platform and/or multiplexing capabilities, avoidance of common supply chain issues, addressing unmet needs of traditionally underserved and underprivliged populations, and scalability of production.*
 
-<u>Multiplexing</u>
+### Multiplexing
 Some new device designs incorporate multiple reaction chambers to multiplex targets. Additionally, some device designs utilize swappable reaction components to enable different pathogens to be tested from the same sample tube. Multicolor detection by the instrument is also possible but adds complexity and cost.
 
-<u>Variants</u>
+### Variants
 Our current LAMP test and primers are very robust to variants. We use 3 primer sets (18 oligos) all combined in the same reaction. The primers comprise 2 open sets (N2, E1) and 1 proprietary set “Rabe-Cepko AS1e” (ORF1ab). We used the NEB Primer Monitoring for our Evaluation of Impact of Viral Mutations section of our October 2021 EUA Submission. Further, NEB completed a large, comprehensive wet study earlier this year of the effect of mutations in our same 3 primer sets, finding “no effect on detection sensitivity at positions equivalent to those that significantly impact RT-qPCR assays.” FloodLAMP has an option to the exclusive license on Rabe-Cepko IP and is in late stage license negotiations with Harvard Medical School.
 
 These 3 primers have performed well in real world surveillance programs and our Stanford clinical study, offering high sensitivity and a low false positivity rate. Over 500 positive samples have been detected and confirmed, the vast majority Omicron variants.
 
-<u>Accessibility</u>
+### Accessibility
 The core of our new platform is ease of use, which in turn enables accessibility and scale. We have minimized the number of steps and components in the new test workflows. All actions of manipulating the consumables require low physical effort and have a high tolerance for error with no lab training necessary. We will provide alternative instruction materials in accordance with ADA guidelines in order to make them accessible to those with visual, audio, or other impairments.
 
-<u>Telemedicine Support</u>
+### Telemedicine Support
 We have an API to our digital platform that can automate all required federal, state and local reporting requirements, as well as interface to any 3rd party digital health platform or EMR system.
 
-<u>Supply Chain</u>
+### Supply Chain
 A key aspect of the primary device designs is that they utilize standard sample tubes, allowing us to leverage existing supplies and manufacturing capacity. The main instrument design also leverages existing systems, using a drop-in replacement of a standard sized dry block that is inserted into dry bath heaters.
 
-<u>Production Scalability</u>
+### Production Scalability
 The device design is relatively simple, facilitating large-scale production of the plastic cap units. An advantage is the enablement of distributed 2nd stage manufacturing of the reagent component, through a 2 part design that can be loaded by pipette, or at various production scales using liquid handlers. The low cost plastic components of the consumable device can be supplied to testing centers in LMICs as prepositioned assets to reduce supply chain risk during health emergencies. It also supports redundant domestic manufacturing.
 
 U.S. based reagent manufacturing is anticipated to use lyophilization. FloodLAMP is thankful to New England Biolabs, one of the largest enzyme producers globally, with whom we have a close relationship and multiple collaborations on community testing, including early childcare screening in the U.S., and 2 with universities in South America. We have had multiple meetings with the leadership team of NEB, which is also a Public Benefit Corporation, and they have provided us with a letter of support for federal funding that includes early access and recommendations, specifically for lyophilized formats.
 
-<u>Underserved Populations</u>
+### Underserved Populations
 Our new platform addresses underserved populations through the combination of low cost and scalability. A primary motivation for the new platform, and FloodLAMP’s work in general, has been to translate the on-demand rapid molecular programs enjoyed by sports and entertainment to the rest of society. It’s important that underprivileged communities have access to reliable tests for screening, which currently means molecular. One day in December 2021, our Coral Springs program had 22 positives in one run. They reran the plate, getting the same results. Per protocol, all LAMP positives were immediately tested with BinaXNow. Only 1 came back antigen positive. This caused some of the positive firefighters, paramedics, and police officers to question the LAMP test. Over the next few days of serial testing, all 22 turned antigen positive. Doubt in the reliability of antigen tests has been cited in studies as a primary reason for not participating in free screening programs.
 
 We see the potential for innovation on incentives to drive adoption in underserved communities, and we hope to work in this area as well in the future. Further advances in ease of use and cost, along with digital and program integration, are needed first to provide the foundational decentralized screening capacity.
@@ -185,11 +185,11 @@ We see the potential for innovation on incentives to drive adoption in underserv
 
 *Describe the result of the work you expect to complete in discrete "Deliverables" or outputs of your work. If you are selected we will work with you to finalize plans, including access to needed resources.*
 
-**Work Package \#1 is intended to address high-risk barriers to success which, when successfully resolved, will enable Work Package \#2 which will focus on implementation***
+***Work Package #1 is intended to address high-risk barriers to success which, when successfully resolved, will enable Work Package #2 which will focus on implementation***
 
-## Work Package \#1 (200)
+## Work Package #1 (200)
 *Budget – Please indicate your expected direct budget (including labor and all expenses with full Federal OH rates) – Short answer*
-*Duration – What is the expected duration of WP \#1 (in weeks) – Short answer*
+*Duration – What is the expected duration of WP #1 (in weeks) – Short answer*
 *Deliverables (200 words or less)*
 
 Budget - $3M
@@ -201,35 +201,35 @@ We first propose to publish the results of our EMS and school pilots, with feedb
 To de-risk key elements of the new platform, we propose the following deliverables:
 
 1.  Prototypes of new device designs and instrument:
-    1.  devices built at Stanford Nanofabrication Lab and CRO;
-    2.  instrument design and build (subcontract).
+    a.  devices built at Stanford Nanofabrication Lab and CRO;
+    b.  instrument design and build (subcontract).
 
 2.  Large scale, multi-site clinical studies:
-    1.  for OTC pooled collection kit and FloodLAMP Mobile App;
-    2.  for 2 moderate complexity tests - direct LAMP and PCR;
-    3.  leverages current surveillance program infrastructure;
-    4.  uses enrichment strategy in surveillance population and site/household exposure;
-    5.  daily serial testing to evaluate performance in identifying new infections;
-    6.  comparison against both antigen tests and high sensitivity lab PCR;
-    7.  single site fast-tracked for EUA’s;
-    8.  expansion to multiple sites for 510K data collection;
-    9.  sites primed for clinical studies using new platform prototypes;
-    10. proposal for adjunct funding (RADx-UP) for saturation screening in 10,000+ person population (endpoint outcomes: disease burden reduction, staff/student outage, and adoption rate, comparing different incentives).
+    a.  for OTC pooled collection kit and FloodLAMP Mobile App;
+    b.  for 2 moderate complexity tests - direct LAMP and PCR;
+    c.  leverages current surveillance program infrastructure;
+    d.  uses enrichment strategy in surveillance population and site/household exposure;
+    e.  daily serial testing to evaluate performance in identifying new infections;
+    f.  comparison against both antigen tests and high sensitivity lab PCR;
+    g.  single site fast-tracked for EUA’s;
+    h.  expansion to multiple sites for 510K data collection;
+    i.  sites primed for clinical studies using new platform prototypes;
+    j.  proposal for adjunct funding (RADx-UP) for saturation screening in 10,000+ person population (endpoint outcomes: disease burden reduction, staff/student outage, and adoption rate, comparing different incentives).
 
 3.  FDA EUA submissions for tests, pooled collection kit, and app.
 
 4.  Bridge assay development.
 
 5.  Manufacturing partnerships:
-    1.  NEB, LGC, Twist, and CMO;
-    2.  manufacturing and kitting of 1st 800,000 LAMP test kits.
+    a.  NEB, LGC, Twist, and CMO;
+    b.  manufacturing and kitting of 1st 800,000 LAMP test kits.
 
 6.  Fully integrated digital suite for program execution and management.
 
 
-## Work Package \#2 (200)
+## Work Package #2 (200)
 *Budget – Please indicate your expected direct budget (including labor and all expenses with full Federal OH rates) – Short answer*
-*Duration – What is the expected duration of WP \#2 (in weeks) – Short answer*
+*Duration – What is the expected duration of WP #2 (in weeks) – Short answer*
 *Deliverables (200 words or less)*
 
 Budget - $20M
@@ -276,20 +276,20 @@ Team Member Name – Randy True
 Role on Team – Founder and CEO
 Level of Effort – 100%
 
-<u>Relevant Experience</u>
+### Relevant Experience
 Randy brings a broad background in science, engineering, and management to the company, as well as specialized experience in molecular detection technology, including DNA and RNA bioassay development and microfabrication. His particular strengths are in innovation and integration, drawing on engineering skills spanning hardware, software, and materials. He has led the rapid execution of multidisciplinary projects, design at scale, and successfully transfer processes to high volume manufacturing facilities. Randy is the inventor of ten issued US patents.
 
 Randy has been an advisor and consultant across many industries. In 2018, he founded Focus on Foundations, a science education 501(c)3 non-profit whose mission is to develop innovative, impactful STEM curricula by connecting hands-on learning and practical skills with deep theoretical knowledge.
 
 Randy has a B.S. in Physics and M.S. in Electrical Engineering from Stanford University. While at Stanford, he did research on quantum electronic devices, training at the Stanford Nanofabrication Facility. He worked in startups and the semiconductor industry, and as a microfabrication consultant at the Stanford Nanofab for 10+ years. This extensive experience in rapid iteration on designing, building, and testing microdevices is well suited to development of the new platform.
 
-<u>Current or most recent position - Include start and end dates, title and position description</u>
+### Current or most recent position - Include start and end dates, title and position description
 FloodLAMP Biotechnologies, PBC
 August 2020 - present, Founder and CEO
 
 As FloodLAMP’s CEO, Randy is responsible for the key executive functions of fundraising and recruiting. He also leads the regulatory and communications strategy. Being a startup, Randy also contributes to engineering and design, as well as overseeing the company’s training program and quality system.
 
-<u>Past position \#1 - Include start and end dates, title and position description</u>
+### Past position #1 - Include start and end dates, title and position description
 True Materials Inc. and Affymetrix
 December 2005 - 2010, Founder and CEO, VP R&D
 
@@ -297,7 +297,7 @@ Randy previously founded the biotech startup True Materials, Inc., which develop
 
 True Materials was acquired by Affymetrix in 2008 where Randy served as VP of R&D, Liquid Arrays. He built and managed an interdisciplinary team of 20 that brought the technology to pilot production, prior to the Affymetrix sale to Thermo Fisher.
 
-<u>Past position \#2 - Include start and end dates, title and position description</u>
+### Past position #2 - Include start and end dates, title and position description
 Shaper Tools, Inc
 January 2016 - January 2018, Technical and Business Advisor
 Technical consulting, fundraising, and patent strategy.
@@ -308,14 +308,14 @@ Team Member Name – Gary Withey
 Role on Team – VP of R&D
 Level of Effort – Full-time
 
-<u>Relevant Experience (up to 200 words)</u>
+### Relevant Experience (up to 200 words)
 Gary brings fifteen years of industrial biotech experience in technology development, invention, process development, and product development. He has broad expertise spanning diagnostic platforms, therapeutic discovery platforms, microfluidics, semiconductor microfabrication, rapid prototyping, automated liquid handling, molecular biology, and data science. He is the inventor of three U.S. patents and two patent applications in the fields of microfluidics, diagnostics, molecular biology, and single-cell sequencing.
 
 In his work at Atreca and Gigagen, Gary has designed and constructed droplet microfluidic devices and associated emulsion chemistry and molecular biology for high throughput single cell screening and analysis. This work included rapid prototyping via 3D printing and CNC machining of custom components and extensive design and execution of experiments to optimize droplet stability and performance of biomolecular assays on single cells. He also performed downstream bioinformatic analysis of large single cell sequencing datasets.
 
 At Affymetrix, he developed a process to produce DNA-labeled, barcoded microparticles for highly customizable, low-to-mid-plex, particle-based DNA microarrays for genetic and transcriptomic applications in diagnostics and research. He served as company liaison at a semiconductor microfabrication core to produce barcoded microparticles. He designed and managed a pilot production facility to conjugate particles to synthetic DNA via high throughput, automated liquid handling.
 
-<u>Current or most recent position - Include start and end dates, title and position description (198)</u>
+### Current or most recent position - Include start and end dates, title and position description (198)
 FloodLAMP Biotechnologies, PBC
 Nov 2020 - present, VP of R&D
 
@@ -325,13 +325,13 @@ Gary has played a key role in overseeing the initiation and ongoing operational 
 
 Gary also led the IP effort for our new platform technology, contributing many of the core design aspects of the consumable cap and the heater/reader instrument to our provisional patent application.
 
-<u>Past position \#1 - Include start and end dates, title and position description (123)</u>
+### Past position #1 - Include start and end dates, title and position description (123)
 Atreca, Inc
 July 2013 - March 2022, Associate Director of Engineering, Head of Engineering
 
 Gary’s responsibilities included the construction of a microfluidic system for high-throughput single-cell transcriptome analysis. This involved fabrication of custom microfluidic components through collaboration with external partners as well as hands-on fabrication of device components using CNC machining, laser cutters, 3D printers, milling machines, and other standard workshop equipment. He performed extensive studies to optimize complex emulsion-based RT-PCR reactions to enable a phage display technology built on this microfluidic system for the discovery of promising antibodies for immuno-oncological therapeutics. Gary also performed bioinformatic analysis and protein engineering based on sequencing pipeline data in order to optimize antibody synthesis yield. He developed IP that led to three issued patents and one patent application.
 
-<u>Past position \#2 - Include start and end dates, title and position description (108)</u>
+### Past position #2 - Include start and end dates, title and position description (108)
 GigaGen, Inc
 March 2011 - July 2013, Director of Engineering
 
@@ -343,10 +343,10 @@ Team Member Name – Theresa Ling
 Role on Team – Lead, Design and Program Experience
 Level of Effort – Part-time
 
-<u>Relevant Experience</u>
+### Relevant Experience
 Theresa Ling is a Product and Experience Design professional seasoned in creating systems and tools for complex information and interactions. Her work has spanned projects for Fortune 500 companies, startups, and nonprofit organizations, and she has participated in the inception and launch of multiple large scale software efforts spanning different platforms and industries. Notable projects prior to joining FloodLAMP include creating a new sales platform for Nike’s Global Sales department (pilot program sales exceeded $1B), designing and launching New Relic’s Infrastructure product, and devising a unifying web access strategy for Uber’s many, disparate apps in advance of their IPO. Before transitioning to design, Theresa worked in the performing arts as a dancer and choreographer. This background informs her human-centered design approach and strengthens her ability to see the connections between people and the programs, spaces, and tools they use.
 
-<u>Current or most recent position - Include start and end dates, title and position description</u>
+### Current or most recent position - Include start and end dates, title and position description
 FloodLAMP Biotechnologies, PBC
 August 2020 - present, Program Experience and Design
 
@@ -354,13 +354,13 @@ Theresa has contributed extensively to the user experience of FloodLAMP’s test
 
 Theresa has integrated user feedback into ongoing improvements in the app design, including streamlining the core participant flow and updating interaction patterns for the staff user, and continued to design new tools for program registration. Theresa additionally manages the company website and communications, and will be leading the user experience and design of the new platform. Theresa also contributed to the IP effort for FloodLAMP’s digital tools featuring pooled self-collection as well as the followup provisional application covering additional inventions on digital components of screening programs.
 
-<u>Past position \#1 - Include start and end dates, title and position description</u>
+### Past position #1 - Include start and end dates, title and position description
 Uber
 November 2017 - May 2019, UX Lead
 
 Hybrid IC/manager managing several designers within the web team as well as leading key design initiatives. Key projects include leading the creation of web design system templates for Uber’s international operations workforce, and designing and planning a new web portal experience to unify a fragmented app ecosystem prior to IPO.
 
-<u>Past position \#2 - Include start and end dates, title and position description</u>
+### Past position #2 - Include start and end dates, title and position description
 New Relic
 February 2016 - June 2017, Senior Product Designer
 
@@ -375,13 +375,13 @@ Relevant Experience (up to 200 words)
 
 Dr. Antevy is a Pediatric Emergency Medicine Physician at Joe DiMaggio Children’s Hospital in South Florida and the Founder & CMO of Handtevy Pediatric Emergency Standards Inc. He serves as the Medical Director for Coral Springs Fire Department, Davie Fire-Rescue, Southwest Ranches Fire Rescue and American Ambulance, and is the Associate Medical Director for several other agencies. He is also a longstanding medical director for two paramedic training programs and several mobile integrated healthcare (MIH) programs. Dr. Antevy has authored studies and spearheaded a system used to expedite resuscitative care for children. He is involved in his departments’ continuous quality improvement (CQI) programs and has seen dramatic improvements in the outcomes of cardiac arrest patients. This year, he helped bring the Seattle Resuscitation Academy to Florida and has demonstrated a significant impact on prehospital cardiac arrest outcomes.
 
-<u>Current or most recent position - Include start and end dates, title and position description</u>
+### Current or most recent position - Include start and end dates, title and position description
 FloodLAMP Biotechnologies, PBC
 December 2021 - present, Medical Director
 
 Peter serves as FloodLAMP’s Medical Director, where he has been instrumental in building both the relationships and program protocols to make FloodLAMP’s EMS COVID-19 surveillance programs successful. As a nationally recognized leader in EMS, Peter provides important connections to EMS departments at state and regional levels. In addition, he advises on testing procedures, communications, and clinical studies.
 
-<u>Past position \#1 - Include start and end dates, title and position description</u>
+### Past position #1 - Include start and end dates, title and position description
 Handtevy - Pediatric Emergency Standards, Inc
 January 2010 - present, Founder & Chief Medical Officer
 
@@ -389,7 +389,7 @@ Peter founded Handtevy with the mission to improve pediatric resuscitation and r
 
 Peter founded and built Handtevy from the ground up. He currently serves as Handtevy’s Chief Medical Director, managing key staff as well as leading high level outreach to state health departments and other stakeholders.
 
-<u>Past position \#2 - Include start and end dates, title and position description</u>
+### Past position #2 - Include start and end dates, title and position description
 C3MD, LLC
 December 2014 - Present, President
 

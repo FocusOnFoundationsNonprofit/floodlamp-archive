@@ -1,17 +1,17 @@
 METADATA
-last updated: 2026-01-06 BA after CT
-file_name: 2021-10-08_FDA Report - EUA Assessment by Booze Allen.pdf
+last updated: 2026-03-05 by BA
+file_name: 2021-10-08_FDA Report - EUA Assessment by Booze Allen.md
 file_date: 2021-10-08
-title: 2021-10-08_FDA Report - EUA Assessment by Booze Allen
+title: FDA Report - EUA Assessment by Booze Allen
 category: regulatory
 subcategory: reg-articles-misc
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/2021-10-08_FDA%20Report%20-%20EUA%20Assessment%20by%20Booze%20Allen.NA
 pdf_gdrive_url: https://drive.google.com/file/d/13-zuJBhVAxgYMoiFMYajWIkbo8xxAzJ_
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/reg-articles-misc/2021-10-08_FDA%20Report%20-%20EUA%20Assessment%20by%20Booze%20Allen.pdf
 conversion_input_file_type: pdf
 conversion: gdoc markdown
 license: Public Domain
@@ -166,6 +166,7 @@ FDA recognized the need to quickly detect the spread of COVID-19, and the first 
 Prior to the declaration of the PHE, FDA took actions to advance development of diagnostic tests to control the emergence  and spread of COVID-19. To support early engagement with EUA requestors, FDA began proactively coordinating EUA related activities including the development of voluntary EUA review templates, interactive review with requestors, policy  development, initiating the development of reference materials, and external communications. Such initial efforts  required internal coordination across the Center and were made possible by policies and procedures put in place during  prior PHEs. In January 2020, FDA reached out to requestors with previous EUA experience to solicit interest in  development of a COVID-19 test. In addition, FDA reached out to requestors with existing authorized tests for similar  viruses to ask that they conduct analyses to determine whether their tests could be used to detect COVID-19. Figure 1-1 outlines the key actions FDA took to provide guidance and flexibility to test developers, communicate regularly with EUA  requestors, implement prioritization and efficiency efforts, and develop tools and templates.
 
 **Figure 1-1. Key Actions in FDA’s Response to Development and Authorization of COVID-19 Tests**
+_Horizontal timeline spanning January 2020 through April 2021, with milestone markers organized across four action categories — Created Multiple Pathways & Notification Process, Established Communication Channels, Implemented Prioritization & Process Efforts, and Developed Tools & Templates — plus HHS Actions, showing key dates such as the PHE declaration (1/31), mailbox establishment (2/20), Town Hall launch (3/2), and content screen implementation (11/30)._
 \* FDA first posted notice of template availability on its website on 1/27/2020. See Figure 3-1 for additional EUA template milestones.
 \*\* Policies A through D are outlined in FDA’s “Policy for Coronavirus Disease-2019 Tests During the Public Health Emergency.” See Table 3-1 for  descriptions of each policy. 
 
@@ -242,7 +243,9 @@ CDRH developed voluntary templates to support developers with EUA requests, as w
 
 The templates were initially available upon request, which allowed CDRH to track who was developing tests and provide  this information to government partners such as the Biomedical Advanced Research and Development Authority (BARDA).  On February 29, 2020, the same day that FDA issued guidance, FDA made the template available on its website to support  its new notification policy. As CDRH gained experience with reviewing EUA requests for specific test types and noticed  certain information was commonly missing in submissions, they revised the templates to include more specific details  about test validation. Templates were revised a total of 11 times as of April 12, 2021\. These templates also expanded over  time to address different testing scenarios that increased access and availability of testing.  
 
-**Figure 3-1. Submission Templates Published** 
+**Figure 3-1. Submission Templates Published**
+_Horizontal timeline spanning January 2020 through April 2021, showing publication and update dates for ten EUA submission templates covering molecular diagnostics, serology, antigen, home specimen collection, and non-laboratory-use test types for both Commercial Manufacturers and Laboratories._
+
 **STAKEHOLDER PERSPECTIVES AND LESSONS LEARNED** 
 To help inform current and future public health needs, Table 3-4 outlines stakeholder perspectives and lessons learned  on the approach to development, review, and authorization of COVID-19 tests. Stakeholders included a mix of  experienced/inexperienced firms, small and large companies, multiple technologies and Laboratories as well as  Commercial Manufacturers, and developers with varied previous EUA experience.  
 
@@ -295,8 +298,9 @@ CDRH observed that some EUA requests frequently lacked information that was reco
 **Allocation of Staff to Support COVID-19 Response**   
 As the PHE progressed, CDRH continued to receive a high  volume of EUA requests, regular workload continued to  accrue, and inexperienced EUA requestors required  extensive support from FDA. These challenges led FDA to  develop processes to refocus resources from lower impact  EUA requests to higher impact EUA requests. Additional  reviewers were allocated to help address the COVID  workload and support the response. Some came from within  OHT7, but CDRH also leveraged reviewers from other offices and hired term employees. The specialized nature of IVD  scientific expertise and regulatory experience limits how  quickly a large volume of staff can be quickly or easily trained  in this area. Training of reallocated staff requires time from  the IVD specialists which pulls them away from review work.
    
-**Figure 3-2. Percentage of OHT7 Working on COVID-19** 
- \*excludes Division of Radiological Health and Division of Mammography Quality Standards 
+**Figure 3-2. Percentage of OHT7 Working on COVID-19**
+_Bar chart showing the monthly percentage of OHT7 staff working on COVID-19 from April 2020 through March 2021, with values rising from around 62% in Spring 2020 to 84% by February–March 2021._
+*excludes Division of Radiological Health and Division of Mammography Quality Standards 
 
 The number of staff conducting review of COVID-19 tests fluctuated throughout the pandemic. In Spring 2020, CDRH  directed some reviewers of other medical devices from other offices to focus on COVID-19 work. In Fall 2020, additional IVD reviewers performing non-COVID-19 work were shifted to focus on review of COVID-19 tests. Figure 3-2 shows a representative piece of the larger picture, showing the percentage  of OHT7 staff (excluding the Division of Radiological Health and Division of Mammography Quality Standards) working on  the COVID-19 response.16 These data include review and non-review work, but they do not indicate the percentage of a  *person’s time* dedicated to COVID-19. Data were not available for contractors or staff from other Offices of Health  Technology (OHTs) or Centers who provided OHT7 with assistance in the review of COVID-19 tests.  
 
@@ -306,10 +310,12 @@ Reallocating staff and resources from product areas less impacted to those with 
 As of April 2021, CDRH reviewed and closed out over 2,000 EUA requests, including Original EUAs and Supplements (i.e.,  requests for revisions to previously authorized tests), Authorizing or Acknowledging 812 requests as of April 12, 2021\.  Acknowledged decisions reflect files where CDRH concurs with changes in Supplements or Amendments that do not  require an update to the Letter of Authorization (e.g., addition of a new laboratory instrument, extraction method, or  sample type). Supplements that result in changes to the Letter of Authorization are reauthorized by OCET and include  changes that commonly involve new indications such as home collection or screening. The number of Original Authorized  EUA requests (360) dwarfs the number of tests authorized during all previous PHEs combined (Figure 3-3). Figure 3-4 shows the trends in authorization by month. In addition to these authorized tests, several tests had submitted notification  to FDA and were marketing their tests while FDA reviewed their EUA requests. This substantially increased the volume of  available tests, particularly in Spring 2020.  
 
 **Figure 3-3. Authorized IVDs During Previous PHEs**
-\*IVDs includes serology, molecular, and antigen tests. Prior PHE values represent authorized devices. COVID-19 value represents authorized Original EUAs. Data as of April 12, 2021.    
+_Bar chart comparing the number of authorized IVDs across seven PHEs, with prior emergencies ranging from 1 to 20 authorizations each, dwarfed by COVID-19's 360 authorized Original EUAs._
+*IVDs includes serology, molecular, and antigen tests. Prior PHE values represent authorized devices. COVID-19 value represents authorized Original EUAs. Data as of April 12, 2021.    
 
 **Figure 3-4. EUA Authorizations and Acknowledgements by Month**
-\*Includes authorized Original EUAs and Supplements. Time is month FDA made  decision, not month submitted. Data as of April 12, 2021.  
+_Bar chart showing monthly EUA authorization and acknowledgement counts from February 2020 through March 2021, with separate series for all test types and molecular-only, peaking at 104 total authorizations in September 2020._
+*Includes authorized Original EUAs and Supplements. Time is month FDA made  decision, not month submitted. Data as of April 12, 2021.  
 
 Table 3-6 shows a breakdown of decisions made on EUA requests, both for all COVID-19 test types (i.e., including molecular,  serology, and antigen) as well as molecular diagnostics in particular since they represented the majority of CDRH’s files  reviewed. As of April 12, 2021, 2,133 EUA requests were closed out. Of these, 61% (1,294) were molecular diagnostic tests,  29% (623) were serology and 9% (199) were antigen tests. Molecular IVD EUA requests were split evenly between  Commercial Manufacturers and Laboratories, with more Original requests than Supplements. Overall, molecular tests  were Authorized or Acknowledged more and Denied/Declined, Withdrawn, or Closed with Requests for Information  slightly less frequently than all tests combined. While only a small percentage of molecular tests were either Denied or  Declined to Issue due to concerns with the EUA request (e.g., regarding test validation), CDRH Declined to Review a larger  proportion of low-priority files (e.g., low-volume tests) that were deemed to have a smaller impact on the PHE. Withdrawn  files were done so at the request of the requestor for a variety of reasons (e.g., after receiving deficiencies from FDA or  utilizing the flexible policy that does not require an EUA when bridging to an authorized test).  
 
@@ -329,7 +335,8 @@ Table 3-6 shows a breakdown of decisions made on EUA requests, both for all COVI
 Figure 3-5 shows the trend of all files submitted in that month, including Original EUA requests and Supplements, as well  as 1,070 Pre-EUA requests. This includes all files received each month between March 2020 and March 2021, including those that have been closed and those that remain under review, and represents the total number (3,672) of COVID-19  IVD submissions for CDRH to review. This demonstrates a large influx in the early months of the pandemic with sustained  numbers throughout the Summer, then leveling out in the Winter. As submission volume grew, CDRH pivoted to focus  efforts on authorizing tests that would make the largest impact on public health, as described in Section 3.2.
 
 **Figure 3-5. Number of IVD EUA Requests Received by Month**
-\* These include Pre-EUA requests as well as requests for Original EUAs and Supplements: all test types and all developers. Time is the month  submitted, not the month FDA began active review. Data as of June 9, 2021.  
+_Stacked bar chart showing monthly IVD EUA request volumes broken down by Pre-EUA, Original EUA, and Supplement requests from February 2020 to March 2021, peaking at 554 total submissions in April 2020 and declining to around 150–200 per month by Winter._
+* These include Pre-EUA requests as well as requests for Original EUAs and Supplements: all test types and all developers. Time is the month  submitted, not the month FDA began active review. Data as of June 9, 2021.  
 
 † In February 2020, there were 21 Pre-EUA requests and two Original EUA requests received. 
 
@@ -337,30 +344,36 @@ Figure 3-5 shows the trend of all files submitted in that month, including Origi
 As shown in Figure 3-6, review times for denied EUA requests were initially much higher than for authorized EUAs, which  reflects the many layers of review in the denial process. CDRH implemented its Decline to Review and streamlined Decline  to Issue processes for IVD EUAs in October 2020 (as described above), which deprioritized a large volume of low-priority tests and tests with validation or performance concerns, reducing burden on staff and allowing them to focus on high impact submissions. Review times for authorized tests steadily increased during the Fall months, corresponding to the  high volume of requests received. In addition, EUA requests for tests available through the notification process were not  as highly prioritized as others which were not already in use, unless the triage revealed performance or safety concerns.  Review times for authorized tests ultimately decreased and then remained steady throughout the Winter as process  improvements were implemented (e.g., content screen, closing incomplete files with requests for information), Center staff were reallocated, and the number of new requests submitted each month began to decrease. Median review times  may increase as more files are closed out. 
 
 **Figure 3-6. Review Times of Original EUA Requests (Authorized and Declined to Issue or Denied)**
-\*These are EUA Originals: all test types and all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
+_Bar chart showing median review times in days by month submitted (February 2020–March 2021) for authorized versus declined/denied Original EUA requests, illustrating that denial review times were initially much higher (peaking at 186 days) before dropping after streamlined deprioritization processes were introduced in October 2020._
+*These are EUA Originals: all test types and all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
 
 Review times for authorization/acknowledgement of Supplements compared to Originals were relatively fast in the early  months of the pandemic, during which there were relatively fewer Supplements received. As developers began to modify  their tests (e.g., using saliva as a specimen type, seeking authorization for at-home collection or POC settings for use in  asymptomatic patients), review times for both types increased. Although Supplements made up only one-third of EUA requests reviewed for COVID-19 tests, Figure 3-7 shows that Supplements can take as long (if not longer) to review than  Original EUA requests. While some Supplements included changes in the device use (e.g., at-home collection or POC  settings), others included changes to add instruments, extraction methods, or indications for sample pooling and screening. Validating these changes can involve new clinical and analytical studies, similar to or beyond that of the Original  Authorization. Many of these changes were implemented immediately upon submission of validation data to FDA under  CDRH’s modification policy. As a result, many Supplements were not high priorities for review. 
 
 **Figure 3-7. Review Times of Authorized and Acknowledged EUA Requests (Originals and Supplements)**
-\*These are EUA Originals and Supplements: all test types and all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
+_Bar chart comparing median review times for Original versus Supplement EUA requests by month submitted (February 2020–March 2021), showing that Supplements could take as long as or longer than Originals to review, with both peaking in the Fall 2020 months._
+*These are EUA Originals and Supplements: all test types and all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
 
 Figure 3-8 and Figure 3-9 show how review times for Original molecular EUA requests varied by month, broken down by  decision and manufacturer type. Similar to observations presented in Figure 3-6, denials initially took much longer than  authorizations for both Laboratories and Commercial Manufacturers, although review times for requests from Commercial Manufacturers tended to be longer compared to those from Laboratories, except during the Summer months. The decrease in review times for tests approaching Fall 2020 highlights the impact the streamlined Decline to Issue process  had on review times.This could possibly be explained by the higher number of tests from Laboratories submitted early in  the pandemic and certain Laboratories’ relative inexperience in preparing EUA requests. Review times for authorized tests  were initially longer for tests from Laboratories than those from Commercial Manufacturers, although they began to  converge in the Summer and then the trend reversed in the Fall and Winter months.   
 
-**Figure 3-8. Review Times of Original Molecular EUA Requests from Laboratories (Authorized and Declined to Issue or  Denied)** 
-\*These are EUA Originals: Molecular tests from Laboratories. Time is the month submitted, not the month FDA began active review. Data as of  April 12, 2021.  
+**Figure 3-8. Review Times of Original Molecular EUA Requests from Laboratories (Authorized and Declined to Issue or  Denied)**
+_Bar chart showing median review times for Laboratory-submitted Original molecular EUA requests by month (February 2020–March 2021), with authorized test review times ranging from 1 to 73 days and declined/denied times spiking to 216 days in July 2020 before dropping sharply after the streamlined Decline to Issue process was implemented._
+*These are EUA Originals: Molecular tests from Laboratories. Time is the month submitted, not the month FDA began active review. Data as of  April 12, 2021.  
 
-**Figure 3-9. Review Times of Original Molecular EUA Requests from Commercial Manufacturers (Authorized and Declined to Issue or Denied)** 
-\*These are EUA Originals: Molecular tests from Commercial Manufacturers. Time is the month submitted, not the month FDA began active review.  Data as of April 12, 2021.  
+**Figure 3-9. Review Times of Original Molecular EUA Requests from Commercial Manufacturers (Authorized and Declined to Issue or Denied)**
+_Bar chart showing median review times for Commercial Manufacturer–submitted Original molecular EUA requests by month (February 2020–March 2021), with authorized test review times rising from 1 day in February to a peak of 100 days in October 2020, and declined/denied times peaking at 255 days in May 2020._
+*These are EUA Originals: Molecular tests from Commercial Manufacturers. Time is the month submitted, not the month FDA began active review.  Data as of April 12, 2021.  
 
 Figure 3-10 shows a subset of the graph above, comparing review times of Original EUA requests from Commercial  Manufacturers and Laboratories that were authorized while overlaying the number of submissions (regardless of test type  or decision) submitted in each month. The figure demonstrates the large number of new submissions received each month,  particularly at the beginning of the pandemic. The number of EUA requests submitted peaked at over 550 in April,  declining into the early Summer, and then becoming relatively stable in October.  
 
-**Figure 3-10. Review Times of Original, Authorized, Molecular EUA Requests (Commercial Manufacturers and  Laboratories) with Overlay of Number of IVD EUA Requests by Month** 
-\*Review Time bars are EUA Originals: Molecular tests. Volume line includes Pre-EUAs as well as EUA Originals and Supplements: all test types and  all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
+**Figure 3-10. Review Times of Original, Authorized, Molecular EUA Requests (Commercial Manufacturers and  Laboratories) with Overlay of Number of IVD EUA Requests by Month**
+_Dual-axis chart with grouped bars showing median review times for authorized Original molecular EUA requests from Laboratories and Commercial Manufacturers, overlaid with a line showing total monthly IVD EUA request volume peaking above 550 in April 2020._
+*Review Time bars are EUA Originals: Molecular tests. Volume line includes Pre-EUAs as well as EUA Originals and Supplements: all test types and  all developers. Time is the month submitted, not the month FDA began active review. Data as of April 12, 2021.  
 
 Figure 3-11 shows that a greater percentage of Original EUA requests from Commercial Manufacturers were authorized  (37%) compared to those from Laboratories (25%). In addition, requests from Commercial Manufacturers were Declined  to Issue or Denied (15%) at a higher rate than those from Laboratories (3%). The Decline to Review rate for Laboratories  (48%) is higher compared to Commercial Manufacturers (22%) because as the pandemic progressed, LDTs were  deprioritized in October 2020 following HHS’ statement on LDTs. 
 
-**Figure 3-11. Distribution of Original Molecular EUA Requests by Decision (Commercial Manufacturers and  Laboratories)** 
-\*These are EUA Originals: Molecular tests. Data as of April 12, 2021.  
+**Figure 3-11. Distribution of Original Molecular EUA Requests by Decision (Commercial Manufacturers and  Laboratories)**
+_Grouped bar chart showing the percentage of Original molecular EUA requests by decision type — Authorized (25% Labs, 37% Commercial), Declined to Issue or Denied (3% Labs, 15% Commercial), and Declined to Review (48% Labs, 22% Commercial) — highlighting the higher deprioritization rate for Laboratory-submitted requests following HHS's October 2020 LDT statement._
+*These are EUA Originals: Molecular tests. Data as of April 12, 2021.  
 
 **STAKEHOLDER PERSPECTIVES AND LESSONS LEARNED**
 To help inform current and future public health needs, Table 3-7 outlines stakeholder perspectives and lessons learned  on the approach to process improvements and review times.  

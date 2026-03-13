@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-26 BA
+last updated: 2026-03-06 by BA
 file_name: Bend Pilot Program Bring-up (12-01-2021).md
 file_date: 2021-12-01
 title: Bend Pilot Program Bring-up (12-01-2021)
@@ -53,19 +53,19 @@ Special Thanks to:
 ## Slide 3: We Still Need Better Testing
 FloodLAMP's mission is to improve global health and resiliency through universal access to rapid molecular testing.
 
-FloodLAMP delivers:
+### FloodLAMP delivers:
 - New testing technology that does not require any instrumentation or clinical lab overhead - it can be done at scale anywhere by anyone.
 - Turnkey screening programs with all of the wraparound components that give people and organizations what they want.
 - Disruptive open source strategy that unlocks molecular testing for our country and the world.
 
 
 ## Slide 4: Technology Readiness - TRL 6/8
-Successful real world programs:
+### Successful real world programs:
 - With EMS departments in 3 states, screening first responders and city employees;
 - Commercial contract screening TV production crew 3X per week with <2hr TAT;
 - Local community pre-school testing program with at-home family pooling enabled by the FloodLAMP Mobile App.
 
-Regulatory progress and potential:
+### Regulatory progress and potential:
 - EMS programs green-lit as surveillance by top officials at FDA and CMS;
 - 2 full FDA EUA submissions for open source protocol EUA's (direct PCR and LAMP);
 - Successful clinical evaluation from Stanford CLIA Lab;
@@ -73,12 +73,12 @@ Regulatory progress and potential:
 - IRB approved for clinical study of pooling, home collection and App;
 - Experienced consultants and advisors on board, including Anne Wyllie (SalivaDirect).
 
-Key IP protection:
+### Key IP protection:
 - Broad coverage of pooling and digital integration;
 - License to core assay chemistry from Harvard Medical School (Rabe-Cepko protocol);
 - New game-changing platform IP in development.
 
-Pilot manufacturing:
+### Pilot manufacturing:
 - Relationships with top reagent suppliers;
 - 1.3M reactions of primers ready-to-go in freezers (for 5M people with 4X pooling).
 
@@ -275,8 +275,7 @@ Comparator Test: Hologic Panther Fusion SARS-CoV-2 Assay and Hologic Panther Apt
 
 
 ## Slide 10: Open EUAs
-Path to establishing generics in Dx
-
+### Path to establishing generics in Dx
 |  | Typical IVD EUA | CDC EUA | SalivaDirect™ | SHIELD | FloodLAMP EasyPCR™ | FloodLAMP QuickColor™ |
 |---|---|---|---|---|---|---|
 | Disclosure of all chemicals and reagents? | No | Yes | Yes | Yes | Yes | Yes |
@@ -292,26 +291,26 @@ Path to establishing generics in Dx
 ## Slide 11: Team
 Mission driven and execution experience, with a growing network of influential advisors and collaborators.
 
-Randy True
+#### Randy True
 Founder & CEO
 - Founder TMI Inc. - Acq. Affymetrix 25MM
 - VP of R&D at Affymetrix
 
-Kevin Schallert
+#### Kevin Schallert
 COO
 - Co-Director covid19sci.org, National Volunteer Scientist DB
 - Founder & COO of VineEye
 
-Theresa Ling
+#### Theresa Ling
 UX/Design Lead
 Former Uber, New Relic, R/GA
 
-Gary Withey, Ph.D.
+#### Gary Withey, Ph.D.
 Director Process Development
 - Current Associate Director, Atreca Inc.
 - Former Pilot Production Manager, Affymetrix
 
-Brandon Smith
+#### Brandon Smith
 Lab Assistant
 - Silicon Valley CTE Graduate
 
@@ -422,7 +421,7 @@ FloodLAMP Safety Data Sheets - [bit.ly/floodlamp-sds](https://bit.ly/floodlamp-s
 
 
 ## Slide 16: Contamination Procedures - Protecting the Tests!
-Focus on 4 Types of Contamination:
+### Focus on 4 Types of Contamination:
 1. RNAse Contamination
 2. Positive Control Contamination
 3. Sample Cross Contamination

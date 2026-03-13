@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1m4HObbyS64MgEHEjBI8qo8tRdMwaMzLh
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1R2Li5C0Ocvbin1IHQRAwiYZQ9RfFe3oE
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain

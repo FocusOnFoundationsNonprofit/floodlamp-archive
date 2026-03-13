@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_sds_30k.md =====
-# sds (7 files, 30,058 tokens)
-
-# 10,048  _AI_Waste Disposal and Risk Assessment.md
 METADATA
 last updated: 2026-02-17 RT initial creation
 file_name: _AI_Waste Disposal and Risk Assessment.md
@@ -13,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: 
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/sds/Waste%20Disposal%20and%20Risk%20Assessment.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/sds/Waste%20Disposal%20and%20Risk%20Assessment.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -625,7 +621,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1VwgYf7av-AJU_gvS-kpyu0THWaCg2Tvo
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Clorox%20Bleach%20Regular.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Clorox%20Bleach%20Regular.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -1111,7 +1107,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1sUCW4idcd041WWuOUOgRoQvt1X5mqoNY
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20EDTA.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20EDTA.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -1480,7 +1476,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1t3nmM5TzDTYJGdCxjStDCkqXa49rh947
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Isopropyl%20Alcohol%2070%20percent.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Isopropyl%20Alcohol%2070%20percent.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -1757,7 +1753,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/189DnIKWpB47VrvaCwIgxdtrQpn8uPSHA
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20TCEP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20TCEP.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -2135,7 +2131,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1B5fQriqklnc_y3yi8kntGGb4s7Nj3HNZ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Twist%20Synthetic%20SARS-CoV-2%20RNA%20Control%20Rev7%20001038v7.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Twist%20Synthetic%20SARS-CoV-2%20RNA%20Control%20Rev7%20001038v7.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain

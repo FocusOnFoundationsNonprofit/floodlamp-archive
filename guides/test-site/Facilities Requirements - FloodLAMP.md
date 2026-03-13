@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1W5Me_GTy66gafTKzOFJ1T4MyR_DclZWb_MpSJMdCZ9M
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1PLwIec9rLQxcyD8pH9uZMwRTkVaSrWU8
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

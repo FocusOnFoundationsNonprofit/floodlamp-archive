@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1pzBrcBLajWdFH0M_ib3bILgtN7EN5h4G2KROieLmN78
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Th-fjY0mqBwXC74ZZwirwFW-iHAPIZ8F
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

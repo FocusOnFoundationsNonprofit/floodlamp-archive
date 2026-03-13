@@ -9,7 +9,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1eWD8z2MqoZEVoTFPJWcxr7-UsxcyYGklwmAUhEuawbM/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx

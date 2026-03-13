@@ -1,14 +1,14 @@
 METADATA
-last updated: 2025-12-19 RT
+last updated: 2026-03-05 by BA
 file_name: 2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 file_date: 2020-08-15
-title: 2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect
+title: FDA Website - Press Release FDA Issues EUA for SalivaDirect
 category: regulatory
 subcategory: open-euas
 tags: 
 source_file_type: webcopy
 xfile_type: NA
-gfile_url: https://docs.google.com/document/d/1AI0m-P7DGfK2HivDJYcSRgkLbsf3G2KRTPmfOpJXAyA
+gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: NA
 pdf_github_url: NA

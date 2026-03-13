@@ -64,7 +64,4 @@ The study will utilize an enrichment strategy to obtain specimens from 20 positi
 
 Eligible subjects will register using the FloodLAMP Mobile App, sign the Research Subject Information and Consent Form, then be mailed a version of the FloodLAMP Home Collection Kit for self-collection and sample return.
 
-Duplicate anterior nares swabs will be self-collected with the order being randomized and at least 10 but no more than 30 minutes between collection of the two swabs. One swab will be used to run the comparator test (EUA purified PCR test) and the other will be used to run the FloodLAMP EasyPCRTM and QuickColorTM COVID-19 Tests. 
-
-
-
+Duplicate anterior nares swabs will be self-collected with the order being randomized and at least 10 but no more than 30 minutes between collection of the two swabs. One swab will be used to run the comparator test (EUA purified PCR test) and the other will be used to run the FloodLAMP EasyPCRTM and QuickColorTM COVID-19 Tests.

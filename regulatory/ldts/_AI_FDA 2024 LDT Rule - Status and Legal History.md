@@ -9,7 +9,7 @@ tags: ldt, fda, regulation, enforcement-discretion, vacatur
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/14vtSNC5z-q58VK2eLzQdMLqvG8DG1jgZP0kG2IPFBeI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/ldts/_AI_FDA%202024%20LDT%20Rule%20-%20Status%20and%20Legal%20History.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/ldts/_AI_FDA%202024%20LDT%20Rule%20-%20Status%20and%20Legal%20History.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

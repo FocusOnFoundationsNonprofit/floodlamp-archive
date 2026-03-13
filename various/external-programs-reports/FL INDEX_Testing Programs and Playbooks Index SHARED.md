@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
+last updated: 2026-03-06 by BA
 file_name: FL INDEX_Testing Programs and Playbooks Index SHARED.md
 file_date: 2021-05-21
 title: Compilation of Links to Testing Programs and Playbooks - Index SHARED (May 2021)
@@ -23,13 +23,13 @@ summary_short: The “Testing Programs and Playbooks” index is a curated compi
 
 CONTENT
 
-## National Links
+### National Links
 [https://www.whitehouse.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf](https://www.whitehouse.gov/wp-content/uploads/2021/01/National-Strategy-for-the-COVID-19-Response-and-Pandemic-Preparedness.pdf)
 [https://covidactiongroup.net/](https://covidactiongroup.net/)
 [https://www.covidcollaborative.us/](https://www.covidcollaborative.us/)
 [Rockefeller new plan](https://www.prnewswire.com/news-releases/the-rockefeller-foundations-new-plan-provides-covid-19-testing-strategy-to-open-all-of-americas-public-schools-by-march-301194114.html)
 
-## CALIF State Testing Lab
+### CALIF State Testing Lab
 [https://testing.covid19.ca.gov/wp-content/uploads/sites/332/2020/11/CDPH-Valencia-Branch-Laboratory-Playbook.pdf](https://testing.covid19.ca.gov/wp-content/uploads/sites/332/2020/11/CDPH-Valencia-Branch-Laboratory-Playbook.pdf)
 Perkin Elmer lab - sesntive PCR test (swab only based?)
 Color providing digital - just raised $167M for last mile healthcare
@@ -38,7 +38,7 @@ Naomi Bardoch point person from UCSF
 [https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/COVID-19Guidance.aspx#](https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/COVID-19Guidance.aspx#)
 [https://testing.covid19.ca.gov/covid-19-testing-task-force-laboratory-list/](https://testing.covid19.ca.gov/covid-19-testing-task-force-laboratory-list/)
 
-## Memphis and Poplar
+### Memphis and Poplar
 [https://covid19.memphistn.gov/test-to-protect/](https://covid19.memphistn.gov/test-to-protect/)
 Lists Poplar and 2 other labs
 [Home swabbing video](https://www.youtube.com/watch?v=Qs8FMxchFC8)
@@ -48,7 +48,7 @@ Dr. Manoj Jain, a local infectious disease physician, advising the city on its C
 Jim Sweeney - CEO Poplar
 [https://www.phc-covid.com/organization/pod-testing/](https://www.phc-covid.com/organization/pod-testing/)  
 
-## Ginkgo
+### Ginkgo
 5 week pilot 100's [https://twitter.com/jrkelly/status/1341852769918078976](https://twitter.com/jrkelly/status/1341852769918078976)
 Ned says internall called pooled swabbing "Randy method"
 Shared them on detailed prodecured for swabbing and on-site pooling (get link)
@@ -57,16 +57,12 @@ Looks like they are using green shaft cleanroom swabs (\*ask Christina)
 Looks like they are planning this as a sample collection program far beyond their own NGS test
 "Scalable: Existing labs running individual molecular tests (i.e. PCR) can also run pooled samples. This means pooling could multiply our existing testing capacity by twenty times or more"
 
-### Image of Tweets
+_X/Twitter Screenshots_
 Matt Condon Retweeted
 
 Kim Driscoll @MayorDriscoll · Jan 3
 Starting tomorrow, thru Jan 6th all @SalemSchoolsk12 students + family members living in the same household are able to participate in FREE COVID-19 testing. This testing is a saliva based model. A sample pic of the test kit is below - it’s super easy - just spit in the tube!
-_2 Photos_
-Before:
-After
-
-⸻
+_Photos of testing kits, before and after usage_
 
 Matt Condon @condonmatt · Dec 24, 2020
 @Ginkgo Bioworks Launches COVID-19 Pooled Classroom Testing Pilot for K-12 Schools. Collins Middle @cmshappenings was one of the first schools to provide testing for our scholars. @SalemSchoolsk12 @SzrikeSPS #LEGACY 🦨
@@ -77,22 +73,22 @@ prnewswire.com
 
 Dueling projects, Salem has connections
 
-## NSV
+### NSV
 [https://www.glenbard87.org/covid-19-surveillance-faq/](https://www.glenbard87.org/covid-19-surveillance-faq/)
 [https://www.safeguardscreeningllc.com/](https://www.safeguardscreeningllc.com/) Ed Campbell saliva LAMP testing company
 
-## JCMA
+### JCMA
 provides software and logistics solution for school testing, takes care of running entire program and delivers tubes to labs to run
 [Google Doc on JCMA](https://docs.google.com/document/d/1HGp-SwfV8PWSnnsy_t4GnQydNxCyQUOGnByHy52Z1mw/edit?usp=sharing)
 
-## Darwin Biosceinces
+### Darwin Biosceinces
 Colorado
 
-## O'Connor
+### O'Connor
 [https://openresearch.labkey.com/wiki/Coven/page.view?name=field-testing](https://openresearch.labkey.com/wiki/Coven/page.view?name=field-testing)
 [https://openresearch.labkey.com/wiki/Coven/page.view?name=antigen\_testing\_schools](https://openresearch.labkey.com/wiki/Coven/page.view?name=antigen_testing_schools)
 
-## Wellesley Schools in Mass
+### Wellesley Schools in Mass
 [https://wellesleyps.org/viral-testing/](https://wellesleyps.org/viral-testing/)
 “WPS COVID-19 Pool Surveillance Testing”
 *“DO YOUR PART: Help Schools Start & Stay in Person”*
@@ -104,30 +100,30 @@ The samples are then transported to a Mirimus clinical lab, where they are **poo
 
 The school is notified of any pair of samples that contains a positive result, and the 2 people in that pair are directed to obtain a physician’s order for a diagnostic COVID test. The diagnostic tests may be performed by Mirimus (which uses the [MeentaSafe reporting platform](https://marketplace.meenta.io/)) or by another clinical lab.
 
-## Mirimus
+### Mirimus
 [Mirimus Saliva Clear website](https://www.salivaclear.com/)
 uses the [MeentaSafe reporting platform](https://marketplace.meenta.io/)
 
-## Mass Schools
+### Mass Schools
 [Massachusetts Dept of Education Memo - Jan 8](https://docs.google.com/document/d/1nyWydcwPYk9sM5kbzpk2WDA0ZELwS7wD1reLOcoXWII/edit?usp=sharing)
 [https://covidedtesting.com/pooled-testing-in-watertown-public-schools](https://covidedtesting.com/pooled-testing-in-watertown-public-schools)
 
-## UnitedHealth Group Visby School Pilot
+### UnitedHealth Group Visby School Pilot
 
-## UnitedHealth Group Calculator and Plans
+### UnitedHealth Group Calculator and Plans
 [https://calculator.unitedinresearch.com/complex\_dashboard](https://calculator.unitedinresearch.com/complex_dashboard)
 
-## Rockefeller
+### Rockefeller
 [Rockefeller - Dec20 Plan SHARED](https://drive.google.com/file/d/15I8sCoo7J_-jg4P9Emdygejyw3CHxlwZ/view?usp=sharing)
 [Covid-19 Antigen Testing in K-12 Schools: Early Lessons from Six Pilot Sites](https://www.rockefellerfoundation.org/report/covid-19-antigen-testing-in-k-12-schools-early-lessons-from-six-pilot-sites/)
 
-## ICGEB NEB Gates LAMP project in Africa
+### ICGEB NEB Gates LAMP project in Africa
 [https://www.icgeb.org/gates-foundation-to-fund-icgeb-collaboration-with-new-england-biolabs/](https://www.icgeb.org/gates-foundation-to-fund-icgeb-collaboration-with-new-england-biolabs/)
 [https://www.icgeb.org/icgeb-cape-town-covid-19-diagnostic-testing-activities/](https://www.icgeb.org/icgeb-cape-town-covid-19-diagnostic-testing-activities/)
 [https://www.icgeb.org/wp-content/uploads/2020/03/Protocol002\_Covid19\_RT\_qPCR.pdf](https://www.icgeb.org/wp-content/uploads/2020/03/Protocol002_Covid19_RT_qPCR.pdf)
 
 [https://www.cnbc.com/2020/04/29/coronavirus-testing-chief-says-no-way-on-earth-us-can-test-5-million-a-day.html](https://www.cnbc.com/2020/04/29/coronavirus-testing-chief-says-no-way-on-earth-us-can-test-5-million-a-day.html)
 
-## Recent Papers
+### Recent Papers
 [Curative NP Comparison](https://www.medrxiv.org/content/10.1101/2021.01.26.21250523v1.full.pdf)
 [BinaxNow MD DPH](https://www.medrxiv.org/content/10.1101/2021.01.09.21249499v1)

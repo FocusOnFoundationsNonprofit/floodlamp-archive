@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-context-commentary_guides_9k.md =====
-# guides context & commentary (8 files, 9,037 tokens)
-
-# 1,669  _context-commentary_guides-manufacturing.md
 METADATA
 last updated: 2026-02-16 RT
 file_name: _context-commentary_guides-manufacturing.md

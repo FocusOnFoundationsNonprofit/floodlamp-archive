@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-30 CT
+last updated: 2026-03-05 by BA
 file_name: FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver.md
 file_date: 2022-08-20
 title: FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1-PRKoreVDQMN_69fPmctDcbyA-7so3eBtGXkM0Hw4y8
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/FloodLAMP%20Non-Diagnostic%20Surveillance%20Testing%20Materials%20Acknowledgment%20and%20Waiver.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1naqR7kPOfiVc3GvRZafSWpHx26AJKUF_
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/FloodLAMP%20Non-Diagnostic%20Surveillance%20Testing%20Materials%20Acknowledgment%20and%20Waiver.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -62,3 +62,5 @@ Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Doc Control ID: EAWM01

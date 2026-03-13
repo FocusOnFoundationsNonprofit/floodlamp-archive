@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after RT
-file_name: BARDA Market Research - FloodLAMP Presentation (2022-03-07).pdf
+last updated: 2026-03-06 by BA
+file_name: BARDA Market Research - FloodLAMP Presentation (2022-03-07).md
 file_date: 2022-03-07
 title: BARDA Market Research - FloodLAMP Presentation (2022-03-07)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1lv_tXtw7Q8OPwji6TB_aq1aPFF-616rdeIvVkBWr_AM
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/BARDA%20Market%20Research%20-%20FloodLAMP%20Presentation%20%282022-03-07%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1Sp3L8CDqbgKZSwP5pnEArSbJWVted2MY
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/BARDA%20Market%20Research%20-%20FloodLAMP%20Presentation%20%282022-03-07%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -211,12 +211,14 @@ _Bar chart collage showing weekly screening volumes and positive results/positiv
 Coral Springs, FL
 _Bar chart collage showing weekly screening volumes and positive results/positivity during the Omicron surge, with peaks in early 2022._
 
+
 ## Slide 9: FloodLAMP's successful response to surges
 Bend, OR
 _Bar chart plotting week starting date (x-axis) versus number of people (y-axis), showing people screened with positives overlaid (percent positive labeled)_
 
 Preschool, CA
 _Bar chart plotting week starting date (x-axis) versus number of people (y-axis), showing people screened with positives overlaid (percent positive labeled)_
+
 
 ## Slide 10: Case Report: Pre-School Screening
 - Several infections detected by FloodLAMP 1-2 days before symptoms or antigen tests
@@ -296,8 +298,7 @@ High need for screening critical first-responders  owing to the large degree of 
 
 
 ## Slide 14: FloodLAMP Team
-### FloodLAMP Staff
-Randy True
+#### Randy True
 Founder & CEO
 Founder TMI Inc. Acq. Affymetrix
 Former VP of R&D at. Affymetrix
@@ -305,16 +306,16 @@ bit.ly/biosketch-randalltrue
 co-author global LAMP consortium review: bit.ly/GLAMP-review.
 https://abrf.memberclicks.net/ibt-2021-september-issue
 
-Theresa Ling
+#### Theresa Ling
 UX/Design Lead
 
-Gary Withey, Ph.D.  
+#### Gary Withey, Ph.D.  
 Vice President of Research & Development
 
-Dr. Peter Antevy, MD
+#### Dr. Peter Antevy, MD
 Program Medical Director 
 
-Brandon Smith
+#### Brandon Smith
 Lab Assistant
 
 ### Scientific Advisory Board
@@ -353,7 +354,6 @@ _Presentation Section Separator Slide_
 
 
 ## Slide 16: Quad Chart
-
 ### Upper Left Quadrant
 #### Objective:
 FloodLAMP's mission is to improve global health and resiliency through universal access to rapid molecular testing. We have developed a key capability that can help realize the enormous potential of the field of diagnostics in ending this pandemic, preparing for the next one, and improving human health globally. Our near term objective is to deploy hundreds of sites delivering easy to use, flexible, fast turnaround COVID surveillance screening to drive durable adoption in the communities most in need. 
@@ -364,7 +364,6 @@ FloodLAMP's mission is to improve global health and resiliency through universal
 - Currently 8 systems deployed with EMS departments in 3 states, 11 staff trained to run test (5 with no experience), 5,600 people screened, 36 unknown positive cases detected, 44 known confirmed (100%), no known FN;
 - Full FDA EUAs submitted for 2 tests, duplex PCR and colorimetric LAMP, as open source protocol EUAs, clinical evaluation by Stanford CLIA lab with 98% (PCR) and 90% (LAMP) sensitivity, and 100% specificity, pre-EUA sub for pooled home collection w/ FloodLAMP Mobile App, IRB approved.
 - Key advisors, collaborators and industry connections (Anne Wyllie of SalivaDirect, Robby Sikka's Sports & Society call, gLAMP consortium, NEB, LGC)
-
 
 ### Lower Left Quadrant
 #### Benefits:
@@ -389,7 +388,6 @@ FloodLAMP's mission is to improve global health and resiliency through universal
 - Reagent supply partners in place (LGC Biosearch and New England Biolabs);
 - Quality system and training program in development.
 
-
 ### Upper Right Quadrant
 #### FloodLAMP Mobile App:
 - At home collection of family pools;
@@ -402,7 +400,6 @@ _Screenshot of the FloodLAMP Mobile App interface used for at-home family pool c
 - 2 hrs to setup and validate site,
 - 10K+/day throughput at <$5K cost.
 _Photo of a QuickColor™ testing setup showing reaction tubes/plate and simple lab supplies for an instrument-free rapid molecular screening workflow._
-
 
 ### Lower Right Quadrant
 #### Major Milestones:
@@ -427,6 +424,7 @@ _Photo of a QuickColor™ testing setup showing reaction tubes/plate and simple 
 - Phase 0: 1 week – deep dive due diligence;
 - Phase 1: 2-4 weeks – workplan incl Milestone 1 and TBD based on feedback;
 - Phase 2: 2-6 weeks – workplan incl Milestones 1, 2, 3  and TBD based on feedback.
+
 
 ## Slide 17: Filling a Gap in the Testing Landscape
 At Home OTC -> Point of Care -> Point of Need -> CLIA Labs
@@ -475,6 +473,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | NaCl | 5 M | Sodium Chloride | Thermo Fisher | 24740011 |
 | Guanidine HCl | 6 M | Guanidine Hydrochloride | Sigma-Aldrich | SRE0066 |
 | Colorimetric LAMP MM* |  | Colorimetric LAMP Master Mix | New England Biolabs | M1804 |
+||
 
 ### Table 2: Primer names and sequences
 | Primer Name | Sequence (5’-3’) |
@@ -493,6 +492,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | N2_B3 | GACTTGATCTTTGAAATTTGGATCT |
 | N2_LF | GGGGGCAAATTGTGCAATTTG |
 | N2_LB | CTTCGGGAACGTGGTTGACC |
+||
 
 ### Table 7: Primer-Guanidine: Solution
 | Component | Volume (1 reaction) | Volume (1 reaction x 100) 1 x 96-plate w/ 4% overage |
@@ -502,6 +502,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | Guanidine HCl (6 M) |  | 16.7 µL |
 | Nuclease-free Water | 5.5 µL | 783 µL |
 | **TOTAL VOLUME** | **10.5 µL** | **1050 µL** |
+||
 
 ### Table 8: Colorimetric LAMP Amplification Reaction
 | Component | Volume (1 reaction) | Volume (100 reactions) |
@@ -511,6 +512,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | **SUBTOTAL VOLUME** | **23 µL** | **2300 µL** |
 | Sample | 2 µL |  |
 | **REACTION VOLUME** | **25 µL** |  |
+||
 
 
 ## Slide 20: Push for Regulatory Progress
@@ -560,16 +562,16 @@ _Screenshot of the SalivaDirect™ FDA EUA lab authorization request form, illus
 - Yale can "designate" CLIA labs
 
 ### SalivaDirect: Lab authorization request form
-> SalivaDirect received Emergency Use Authorization (EUA) from the Food and Drug
-> Administration (FDA) on August 15th, 2020.
-> 
-> The SalivaDirect FDA EUA is for a Laboratory Developed Test, but we have the right to designate other labs its use.
-> 
-> Only high complexity CLIA-certified labs in the United States C I become authorized to ru un SalivaDirect. Please fill out this form if you would like to receive more information on how to become a designated lab.
-> 
-> Do you have access to at least 5x SARS-COV-2 positive and 5x negative saliva samples for CLIA verification?*
-> 
-> Would you be open to collaboration on bridging studies for your automation
+SalivaDirect received Emergency Use Authorization (EUA) from the Food and Drug
+Administration (FDA) on August 15th, 2020.
+
+The SalivaDirect FDA EUA is for a Laboratory Developed Test, but we have the right to designate other labs its use.
+
+Only high complexity CLIA-certified labs in the United States C I become authorized to ru un SalivaDirect. Please fill out this form if you would like to receive more information on how to become a designated lab.
+
+Do you have access to at least 5x SARS-COV-2 positive and 5x negative saliva samples for CLIA verification?*
+
+Would you be open to collaboration on bridging studies for your automation
 systems?
 
 
@@ -884,6 +886,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Negative | 1 | 40 | 41 |
 | Invalid | 0 | 0 | 0 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **97.5% (39/40)**; 95% CI: **86.8% to 99.9%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -894,6 +897,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Positive | 36 | 0 | 36 |
 | Negative | 4 | 40 | 44 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **90.0% (36/40)**; 95% CI: **76.3% to 97.2%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -903,7 +907,7 @@ Specimen Type: Anterior Nares Swab in PBS, previously tested and frozen
 Comparator Test: Hologic Panther Fusion SARS-CoV-2 Assay and Hologic Panther Aptima SARS-CoV-2 Assay
 
 
-## Slide 47: Clinical Evaluation by Stanfora CLIA Lab
+## Slide 47: Clinical Evaluation by Stanford CLIA Lab
 _Screenshot/photo from the Stanford CLIA Lab evaluation microtiter wellplate of LAMP reactions._
 
 
@@ -918,7 +922,7 @@ _Bar chart of Stanford CLIA QuickColor™ evaluation outcomes for 40 positive an
 40 Negative by FloodLAMP QuickColor(TM) Test
 
 
-## Slide 49: Clinical Evaluation by Stanfora CLIA Lab
+## Slide 49: Clinical Evaluation by Stanford CLIA Lab
 ### Clinical Evaluation: 40 SARS-CoV2 Positive Remnant Samples
 _Scatter Plot with Direct PCR (FloodLAMP EasyPCR) thawed after 2 months Ct values (y-axis) vs (Comparator Purified PCR (Hologic Fusion) original fresh sample Ct values (x-axis)_
 One sample Undetermined (not detected) by FloodLAMP(TM) EasyPCR
@@ -935,9 +939,9 @@ Both FloodLAMP EasyPCR(TM) and  QuickColor(TM) had no false positives
 (NPA   40/40  100%)
 
 
-## Slide 50: Clinical Evaluation by Stanfora CLIA Lab
-### FloodLAMP Stanford Clinical Evaluation - All 3 Tests: Fluorimetric LAMP, COlorimetric LAMP, and PCR
-_Scatter Plot with FloodLAMP QuickFluor LAMP Ct (minutes) vs FloodLAMP EasyPCT Ct_
+## Slide 50: Clinical Evaluation by Stanford CLIA Lab
+### FloodLAMP Stanford Clinical Evaluation - All 3 Tests: Fluorimetric LAMP, Colorimetric LAMP, and PCR
+_Scatter Plot with FloodLAMP QuickFluor LAMP Ct (minutes) vs FloodLAMP EasyPCR Ct_
 One sample not detected by
 FloodLAMP EasyPCR(TM)
 (PPA 39/40 97.5%)
@@ -953,10 +957,10 @@ FloodLAMP QuickColor(TM) test
 PCR
 
 All 3 Tests:
-FloodLAMP EasyPCR(TM)
-QuickColor(TM) LAMP
-QuickFluor(TM) LAMP
-had no false positives
+No false positives
+- FloodLAMP EasyPCR(TM)
+- QuickColor(TM) LAMP
+- QuickFluor(TM) LAMP
 (NPA 40/40 100%)
 
 
@@ -972,9 +976,9 @@ March 1, 2022
 medRxiv
 THE PREPRINT SERVER FOR HEALTH SCIENCES
 CSH (Cold Spring Harbor Laboratory) • BMJ • Yale
-View current version of this article
+
 Comparison of Rapid Antigen Tests’ Performance between Delta (B.1.617.2;AY.X) and Omicron (B.1.1.529;BA.1) Variants of SARS-CoV-2: Secondary Analysis from a Serial Home Self-Testing Study
-Apurv Soni; Carly Herbert; Andreas Filippaios; John Broach; Andres Colubri; Nisha Fahey; Kelsey Woods; Janvi Nanavati; Colton Wright; Taylor Orwig; Karen Gilliam; Vik Kheterpal; Tejas Suvarna; Chris Nowak; Summer Schrader; Honghuang Lin; Laurel O’Connor; Caitlin Pretz; Didem Ayturk; Elizabeth Orvek; Julie Flahive; Peter Lazar; Qiming Shi; Chad Achenbach; Robert Murphy; Matthew Robinson; Laura Gibson; Pamela Stagemna; Nathaniel Hafer; Katherine Luzuriaga; Bruce Barton; William Heetderks; Yukari C. Manabe; David McManus
+Apurv Soni; Carly Herbert; Andreas Filippaios; John Broach; Andres Colubri; Nisha Fahey; Kelsey Woods; Janvi Nanavati; Colton Wright; Taylor Orwig; Karen Gilliam; Vik Kheterpal; Tejas Suvarna; Chris Nowak; Summer Schrader; Honghuang Lin; Laurel O’Connor; Caitlin Pretz; Didem Ayturk; Elizabeth Orvek; Julie Flahive; Peter Lazar; Qiming Shi; Chad Achenbach; Robert Murphy; Matthew Robinson; Laura Gibson; Pamela Stamegna; Nathaniel Hafer; Katherine Luzuriaga; Bruce Barton; William Heetderks; Yukari C. Manabe; David McManus
 doi: https://doi.org/10.1101/2022.02.27.22271090
 
 Results From the 7,349 participants enrolled in the parent study, 5,506 met the eligibility criteria for this analysis. **A total of 153 participants were RT-PCR+ (61 Delta, 92 Omicron); among this group, 36 (23.5%) tested Ag-RDT+ on the same day and 36 (23.5%) tested Ag-RDT+ within 48 hours as first RT-PCR+.** The differences in sensitivity between variants were not statistically significant (same-day: Delta 16.4% [95% CI: 8.2-28.1] vs Omicron 28.2% [95% CI: 19.4-38.6]; and 48-hours: Delta 45.9% [33.1-59.2] vs.
@@ -988,7 +992,6 @@ _Screenshot collage of the participant-facing mobile app showing registration/ch
 ## Slide 53: App
 For the lab
 _Screenshot collage of the lab-facing app workflow for scanning samples, tracking runs, and recording/reporting results._
-
 
 
 ## Slide 54: Admin portal

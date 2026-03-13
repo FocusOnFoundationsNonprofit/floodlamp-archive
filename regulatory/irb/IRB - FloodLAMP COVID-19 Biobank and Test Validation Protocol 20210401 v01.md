@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-31 RT
+last updated: 2026-03-05 by BA
 file_name: IRB - FloodLAMP COVID-19 Biobank and Test Validation Protocol 20210401 v01.md
 file_date: 2021-04-01
 title: IRB - FloodLAMP COVID-19 Biobank and Test Validation Protocol 20210401 v01
@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1wNnoBzlP1McAloqnas98yz7QE37SgjsI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1CfEjaewV5HUNElL7qOOUbGFf8OthwZ2E
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -29,19 +29,21 @@ CONTENT
 
 **Protocol Number: 20210401**
 
-**REVISION HISTORY**
+## REVISION HISTORY
 
 | **ECR** | **Version Number** | **Date issued** | **Author(s) of changes** | **Details of changes made** |
 |-----------|-----------|-----------|-----------------|----------------------|
 | N/A | 01 |  |  | Original release ||
+||
 
-**KEY STUDY CONTACTS**
+## KEY STUDY CONTACTS
 | **Field** | **Value** |
 | :---- | :---- |
 | Sponsor | FloodLAMP Biotechnologies, PBC 930 Brittan Ave San Carlos, CA 94070 ||
 | Primary Study Contact | Randy True Chief Scientific Officer randy@floodlamp.bio xxx-xxx-xxxx ||
+||
 
-**INVESTIGATOR SIGNATURE PAGE**
+## INVESTIGATOR SIGNATURE PAGE
 
 **Protocol Title: FloodLAMP COVID-19 Biobank and Test Validation Protocol**
 
@@ -72,10 +74,10 @@ I agree to comply with all other requirements regarding the obligations and resp
 |                               |               |          |
 |-------------------------------|---------------|----------|
 | **Investigator Printed Name** | **Signature** | **Date** |
+||
 
-**PROTOCOL SYNOPSIS**
-
-| **Field** | **Value** |
+## PROTOCOL SYNOPSIS
+|  |  |
 | :---- | :---- |
 | Clinical Study Protocol Title | FloodLAMP COVID-19 Test Development Study ||
 | Protocol Number | 20210401 ||
@@ -91,6 +93,7 @@ I agree to comply with all other requirements regarding the obligations and resp
 | Device Class | Class II, Nonsignificant Risk ||
 | Primary Objective | The objective of this study is to generate clinical performance and usability data for the FloodLAMP QuickColor TM , QuickFluor TM , and EasyPCR TM Tests and FloodLAMP Home Collection Kit. ||
 | Analysis Method | Upon completion of the clinical validation studies, Positive and Negative Percent Agreement for each target will be calculated and presented in 2x2 tables with the reference vs. subject device including 95% two-sided confidence intervals. ||
+||
 
 ## 1. INTRODUCTION
 ### 1.1. BACKGROUND
@@ -105,7 +108,7 @@ The scope of the study is to validate the FloodLAMP COVID-19 Tests and Home Coll
 Will depend on the prevalence of SARS-CoV-2 in the intended use populations.
 
 ## 2. INVESTIGATIONAL DEVICE PROPOSED INTENDED USE STATEMENT
-FloodLAMP QuickColor<sup>TM</sup> COVID-19 Test and FloodLAMP QuickFluor<sup>TM</sup> COVID-19 Test are reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) assay. The FloodLAMP EasyPCR<sup>TM</sup> COVID-19 Test is a real-time reverse transcriptase polymerase chain reaction (RT-qPCR) assay. The tests are intended for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when tested at a weekly interval with no more than 9 days between tests. Testing is limited to laboratories certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a, to perform high complexity tests, or by similarly qualified non-U.S. laboratories.
+FloodLAMP QuickColor(TM) COVID-19 Test and FloodLAMP QuickFluor(TM) COVID-19 Test are reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) assay. The FloodLAMP EasyPCR(TM) COVID-19 Test is a real-time reverse transcriptase polymerase chain reaction (RT-qPCR) assay. The tests are intended for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when tested at a weekly interval with no more than 9 days between tests. Testing is limited to laboratories certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a, to perform high complexity tests, or by similarly qualified non-U.S. laboratories.
 
 Results are for the identification of SARS-CoV-2 RNA. The SARS-CoV-2 RNA is generally detectable in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs during the acute phase of infection. Positive results are indicative of the presence of SARS-CoV-2 RNA; clinical correlation with patient history and other diagnostic information is necessary to determine patient infection status. Positive results do not rule out bacterial infection or co-infection with other viruses. The agent detected may not be the definite cause of disease. Laboratories within the United States and its territories are required to report all test results to the appropriate public health authorities.
 
@@ -114,7 +117,7 @@ Negative results do not preclude SARS-CoV-2 infection and should not be used as 
 The FloodLAMP COVID-19 Tests are intended for use by qualified and trained clinical laboratory personnel specifically instructed and trained in the techniques of *in vitro* diagnostic procedures. The FloodLAMP COVID-19 Tests are only for use under the Food and Drug Administration’s Emergency Use Authorization.
 
 ## 3. STUDY OBJECTIVE
-The objective of this study is to generate clinical performance data for the FloodLAMP QuickColor<sup>TM</sup> COVID-19 Test, FloodLAMP QuickFluor<sup>TM</sup> COVID-19 Test, FloodLAMP EasyPCR<sup>TM</sup> COVID-19 Test, and the FloodLAMP Home Collection Kit.
+The objective of this study is to generate clinical performance data for the FloodLAMP QuickColor(TM) COVID-19 Test, FloodLAMP QuickFluor(TM) COVID-19 Test, FloodLAMP EasyPCR(TM) COVID-19 Test, and the FloodLAMP Home Collection Kit.
 
 ## 4. STUDY DESIGN OVERVIEW
 ### 4.1. PROTOCOL SUMMARY
@@ -137,7 +140,7 @@ Variations in the self-collection kits will include both supervised and unsuperv
 ### 4.2. PRIMARY MEASURE OF PERFORMANCE
 The results of the FloodLAMP COVID-19 Tests will be compared against results from a reference test for the same set of patient specimens.
 
-**<u>Examination and Interpretation of Patient Specimen Results</u>:**
+***Examination and Interpretation of Patient Specimen Results:***
 
 Assessment of the FloodLAMP COVID-19 Tests of clinical specimen test results should be performed after the positive and negative controls have been examined and determined to be valid and acceptable. If the controls are not valid, the patient results cannot be interpreted. Results will be interpreted according to the Instructions for Use.
 
@@ -183,11 +186,11 @@ See Instructions for Use: Running Tests
 The enrollment period will span from the date of first specimen is enrolled to the date of last specimen is enrolled at a site as determined by the Sponsor. Valid specimens are those that meet the criteria outlined in sections 7.2 and 7.3. Patient informed consent (documented using forms provided by the site, provided online, or within the FloodLAMP Mobile App) will be required for this study. No results derived from the investigational device will be included as part of any subject patient management diagnostic algorithm.
 
 ### 6.2. INCLUSION CRITERIA
-Specimens must meet <u>all</u> the below criteria to be considered for study enrollment.
+Specimens must meet **all** the below criteria to be considered for study enrollment.
 
 1.  The specimen is an anterior nasal swab using the swab and QR code labeled tubes included with the FloodLAMP Home Collection Kit.
 
-2.  The swab specimen can be tested within 56 hours of collection. If frozen, specimens are to be stored at &lt;-70℃ until tested.
+2.  The swab specimen can be tested within 56 hours of collection. If frozen, specimens are to be stored at ≤-70℃ until tested.
 
 3.  Subjects with any of the following:
 
@@ -200,17 +203,15 @@ Specimens must meet <u>all</u> the below criteria to be considered for study enr
 4.  The specimen is from a consenting male or female subject of any age.
 
 ### 6.3. EXCLUSION CRITERIA
-Specimens that meet <u>any</u> of the below criteria may not be considered for study enrollment.
+Specimens that meet **any** of the below criteria may not be considered for study enrollment.
 
 1.  The specimen was not properly collected, identified, transported, processed, or stored according to the instructions provided by the sponsor.
 
 2.  The specimen was collected at a site which is not covered under the study IRB.
 
-<!-- -->
-
 ## 7. STUDY PROCEDURE
 ### 7.1. BLINDING OF THE STUDY AND PROCEDURES TO MINIMIZE BIAS
-> In order to preserve the confidentiality of subjects, the following procedures will be implemented:
+In order to preserve the confidentiality of subjects, the following procedures will be implemented:
 
 1.  Clinical data will be de-identified.
 
@@ -231,14 +232,14 @@ Best efforts will be made to enroll and test at least 20 fresh, prospectively (F
 #### 7.2.2. Specimen Collection and Processing
 **Refer to the Instructions for Use**
 
-FloodLAMP COVID-19 Test swab samples should preferably not be frozen or refrigerated prior to elution and should be tested within 56 hours from collection. If frozen, specimens are to be stored at &lt;-70℃ until tested.
+FloodLAMP COVID-19 Test swab samples should preferably not be frozen or refrigerated prior to elution and should be tested within 56 hours from collection. If frozen, specimens are to be stored at ≤-70℃ until tested.
 
 ### 7.3. QUALITY CONTROL
-<u>Procedural Control:</u>
+***Procedural Control:***
 
 Prior to testing patient specimens, QC for each test system should be run according to local, state and federal regulations and the Instructions for Use.
 
-<u>External Positive and Negative Controls:</u>
+***External Positive and Negative Controls:***
 
 One positive and one negative control will be included on every 96-well plate with up to 94 samples, or with every batch of strip tubes on each heater. All test controls should be examined prior to interpretation of patient specimen results. If the controls are not valid and the expected result, the specimen results cannot be interpreted. Refer to the Instructions for Use.
 
@@ -290,7 +291,7 @@ During the study, representatives from the Sponsor may visit the site to carry o
 ### 9.7. STUDY COMPLETION AND CLOSE OUT
 Upon completion of the study, the Investigator shall notify the IRB of the conclusion of the study. The final report will be sent to the IRB.
 
-## 10. STATISTICAL ANALYSES**
+## 10. STATISTICAL ANALYSES
 Upon completion of the clinical validation studies, Positive and Negative Percent Agreement for each reportable target will be calculated and presented in 2x2 tables with the reference vs. subject device. Data will be combined across sites.
 
 Initial call rates will be calculated. For specimens with invalid results, regardless of the reason, one repeat per specimen will be permitted. Final call rates will then be calculated using the results from the repeat analyses.
@@ -322,11 +323,11 @@ NOTE: Anticipated: an effect which by its nature, incidence, severity or outcome
 Use of human subjects in this evaluation will be subject to approval by an Institutional Review Board (IRB). Written statements of the IRB approvals of this protocol will be documented in the study file. The current investigation is in accordance with 21 CFR Part 812 (c)(3) and the FDA Information Sheet Guidance for IRBs, Clinical Investigators, and Sponsors (January 2006).
 
 ## 14. ASSOCIATED DOCUMENTS
-14.1. Instructions for Use FloodLAMP QuickColor<sup>TM</sup> COVID-19 Test v1.0
+14.1. Instructions for Use FloodLAMP QuickColor(TM) COVID-19 Test v1.0
 
-14.2. Instructions for Use FloodLAMP QuickFluor<sup>TM</sup> COVID-19 Test v1.0
+14.2. Instructions for Use FloodLAMP QuickFluor(TM) COVID-19 Test v1.0
 
-14.3. Instructions for Use FloodLAMP EasyPCR<sup>TM</sup> COVID-19 Test v1.0
+14.3. Instructions for Use FloodLAMP EasyPCR(TM) COVID-19 Test v1.0
 
 14.4. Instructions for Use FloodLAMP Home Collection Kit
 

@@ -9,7 +9,7 @@ tags: fda-correspondence, deprioritization, eua, quickcolor, october-2021, open-
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1mT_Hg7gHwWScfWfmGuaJcWK9gVLXB-NV3j0UthTwuDw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-correspondence/_AI_FloodLAMP%20FDA%20October%202021%20Correspondence%20Analysis.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/_AI_FloodLAMP%20FDA%20October%202021%20Correspondence%20Analysis.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

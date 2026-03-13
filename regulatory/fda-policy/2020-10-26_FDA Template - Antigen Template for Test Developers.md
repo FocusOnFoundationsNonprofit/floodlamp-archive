@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OyO2APHZT9jSsb8K_CfHwLvWHUYPGI5O
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1RqXofsfYYYPUt_aHN9z9l46tMDWtiY6y
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

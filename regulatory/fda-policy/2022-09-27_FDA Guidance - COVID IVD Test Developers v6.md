@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1E0cRvVwMURRjdzvBD_95HOaD5hLkPLAM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2022-09-27_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v6.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2022-09-27_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v6.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
+last updated: 2026-03-06 by BA
 file_name: 2021-02-01_School Testing_San Francisco Unified School District - COVID Testing Implementation and Coordination.md
 file_date: 2021-02-01
 title: San Francisco Unified School District - COVID Testing Implementation and Coordination (Feb 2021)
@@ -24,6 +24,7 @@ summary_short: San Francisco Unified School District’s February 2021 RFP seeks
 CONTENT
 
 San Francisco Unified School District RFP SFC 2021
+
 ***INTERNAL TITLE:*** END-TO-END COVID-19 STUDENT & STAFF ASYMPTOMATIC TESTING SERVICES
 
 ### Background
@@ -309,7 +310,7 @@ Proposer must check each below requirement either as "Yes" or "No." An answer of
 | Will the Proposer provide an end-to-end, flexible solution for student and staff surveillance testing that can meet current and evolving City, State, and Federal guidelines and requirements. | □ | □ |
 | Will the Proposer's data structure include unique identifiers that can be associated with an individual student, such as Student ID and/or student email. Unique identifiers will be determined by SFUSD in consultation with the vendor ? | □ | □ |
 | Will the Proposer's data structure allow for district central staff to access data across testing site locations through a common entry point/portal; and be flexible so that specific, identified data elements can be shared across testing locations for ease of use, scheduling and registration? | □ | □ |
-| WIl the Proposer's reporting functionality encompasses and integrates data from all work streams described in Scope of Work which can be modified on an as-needed basis and integrated SFUSD's Return to School data management system powered by Smartsheets and accessible on SFUSD's district dashboards, when appropriate, hosted at sfusd.edu, a Drupal-based content management system? | □ | □ |
+| Will the Proposer's reporting functionality encompasses and integrates data from all work streams described in Scope of Work which can be modified on an as-needed basis and integrated SFUSD's Return to School data management system powered by Smartsheets and accessible on SFUSD's district dashboards, when appropriate, hosted at sfusd.edu, a Drupal-based content management system? | □ | □ |
 | **Registration, Scheduling, Resulting, Reporting** |||
 | Will the Proposer and its team possess the licenses, certifications, and/or permits necessary to perform the services specified registration, scheduling, resulting and reporting as required by the laws of the United States and the State of California by the start of the contract? | □ | □ |
 | **Staffing & On-Site Management of test sites** |||
@@ -317,10 +318,8 @@ Proposer must check each below requirement either as "Yes" or "No." An answer of
 | **Other On-Site Logistics and Supplies** |||
 | Will the proposer have the resources to stand up test sites including provide secure internet and staffing resources for set up and storing as needed? | □ | □ |
 | **Lab Testing** |||
-| Will the Proposer or all proposed subcontractors lab(s) be CLIA-certified by the proposal due date? |||
-| Please provide the license/certification ID number or a copy of the certificate/license if already certified. If this certification is in progress, please so indicate and provide evidence that the certification will be obtained by the proposal due date. | □ | □ |
-| If the Proposer or any proposed subcontractors is an out-of-state lab, will it be licensed by the California Laboratory Field Services (CA LFS) by the proposal due date? | □ | □ |
-| Please provide the license/certification ID number or a copy of the certificate/license if already licensed.. If this license is in progress, please so indicate and provide evidence that license will be obtained by the proposal due date. |||
+| Will the Proposer or all proposed subcontractors lab(s) be CLIA-certified by the proposal due date? Please provide the license/certification ID number or a copy of the certificate/license if already certified. If this certification is in progress, please so indicate and provide evidence that the certification will be obtained by the proposal due date. | □ | □ |
+| If the Proposer or any proposed subcontractors is an out-of-state lab, will it be licensed by the California Laboratory Field Services (CA LFS) by the proposal due date? Please provide the license/certification ID number or a copy of the certificate/license if already licensed. If this license is in progress, please so indicate and provide evidence that license will be obtained by the proposal due date. | □ | □ |
 | Can the Proposer or its subcontracted lab(s) provide molecular, antigen and/or genomic COVID-19 testing that is FDA approved for asymptomatic screening and surveillance? | □ | □ |
 | **Billing** |||
 | Will the Proposer's solution support billing and claims management so that employees do not have to pay out of pocket? | □ | □ |
@@ -329,38 +328,6 @@ Proposer must check each below requirement either as "Yes" or "No." An answer of
 ### 5.3 Proposal Evaluation Criteria (100 points)
 #### Evaluation Team
 District representatives, along with potential subject matter experts from other public entities and institutions, will serve as the Evaluation Team responsible for evaluating Proposers. Specifically, the team will be responsible for the evaluation and rating of the Proposals, conducting reference checks, and conducting interviews, if desired by the District.
-
-Each RFP Proposal that meets the Minimum Qualifications will be evaluated in accordance with the criteria below.
-
-[Content for pages 15-20 of the PDF]
-
-### 5.2 Minimum Qualifications Checklist
-Proposer must check each below requirement either as "Yes" or "No." An answer of "No" will result in failure to meet the Minimum Qualifications. To download a copy of the Minimum Qualifications Document click here
-
-| Minimum Qualifications | Yes | No |
-|------------------------|-----|-----|
-| **Project Management, Data Management, and Reporting** | | |
-| Will the Proposer provide an end-to-end, flexible solution for student and staff surveillance testing that can meet current and evolving City, State, and Federal guidelines and requirements. | ☐ | ☐ |
-| Will the Proposer's data structure include unique identifiers that can be associated with an individual student, such as Student ID and/or student email. Unique identifiers will be determined by SFUSD in consultation with the vendor ? | ☐ | ☐ |
-| Will the Proposer's data structure allow for district central staff to access data across testing site locations through a common entry point/portal; and be flexible so that specific, identified data elements can be shared across testing locations for ease of use, scheduling and registration? | ☐ | ☐ |
-| Wll the Proposer's reporting functionality encompasses and integrates data from all work streams described in Scope of Work which can be modified on an as-needed basis and integrated SFUSD's Return to School data management system powered by Smartsheets and accessible on SFUSD's district dashboards, when appropriate, hosted at sfusd.edu, a Drupal-based content management system? | ☐ | ☐ |
-| **Registration, Scheduling, Resulting, Reporting** | | |
-| Will the Proposer and its team possess the licenses, certifications, and/or permits necessary to perform the services specified registration, scheduling, resulting and reporting as required by the laws of the United States and the State of California by the start of the contract? | ☐ | ☐ |
-| **Staffing & On-Site Management of test sites** | | |
-| Will the Proposer have the staffing and resources to provide multilingual services for on site management of test sites? | ☐ | ☐ |
-| **Other On-Site Logistics and Supplies** | | |
-| Will the proposer have the resources to stand up test sites including provide secure internet and staffing resources for set up and storing as needed? | ☐ | ☐ |
-| **Lab Testing** | | |
-| Will the Proposer or all proposed subcontractors lab(s) be CLIA-certified by the proposal due date? Please provide the license/certification ID number or a copy of the certificate/license if already certified. If this certification is in progress, please so indicate and provide evidence that the certification will be obtained by the proposal due date. | ☐ | ☐ |
-| If the Proposer or any proposed subcontractors is an out-of-state lab, will it be licensed by the California Laboratory Field Services (CA LFS) by the proposal due date? Please provide the license/certification ID number or a copy of the certificate/license if already licensed.. If this license is in progress, please so indicate and provide evidence that license will be obtained by the proposal due date. | ☐ | ☐ |
-| Can the Proposer or its subcontracted lab(s) provide molecular, antigen and/or genomic COVID-19 testing that is FDA approved for asymptomatic screening and surveillance? | ☐ | ☐ |
-| **Billing** | | |
-| Will the Proposer's solution support billing and claims management so that employees do not have to pay out of pocket? | ☐ | ☐ |
-||
-
-### 5.3 Proposal Evaluation Criteria (100 points)
-#### Evaluation Team
-District representatives, along with, potential, subject matter experts from other public entities and institutions, will serve as the Evaluation Team responsible for evaluating Proposers. Specifically, the team will be responsible for the evaluation and rating of the Proposals, conducting reference checks, and conducting interviews, if desired by the District.
 
 Each RFP Proposal that meets the Minimum Qualifications will be evaluated in accordance with the criteria below.
 

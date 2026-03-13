@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_xprize_81k.md =====
-# xprize (25 files, 81,247 tokens)
-
-# 5,385  _AI_gLAMP and XPrize - pre-competitive vs open-source.md
 METADATA
 last updated: 2026-02-24 AI and RT
 file_name: _AI_gLAMP and XPrize - pre-competitive vs open-source.md
@@ -13,7 +9,7 @@ tags: glamp, pre-competitive, open-source, pandemic-testing, public-goods
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1453cKnhM8CnfD95gOKvNS-qosJfenbaqR1sjGr2wvWk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/_AI_Global%20LAMP%20Consortium%20%28gLAMP%29%20-%20pre-competitive%20vs%20open-source.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/glamp/_AI_Global%20LAMP%20Consortium%20%28gLAMP%29%20-%20pre-competitive%20vs%20open-source.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -268,9 +264,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1k8SyKMYW6BS44V1ZaPGZoKV3aMFEXPkiSxWAZ1rBsgs/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wdQMjL-HXOsiDgdWtENM6Z25oS6DG2tZ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -333,9 +329,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Tp0hbGabVjm50FpnC3QaUuE2DAskmU6Z6pkDLUwnLRE/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1pFYmqP3xaUT8HX01uvdj_UxnxZvubYp_/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -591,7 +587,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1cI6IPAKNXoI9MOOl6ghgqPJDLSGVkmQK/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20Semifinalists%20and%20Competition%20Letter-Shipping.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20Semifinalists%20and%20Competition%20Letter-Shipping.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -864,9 +860,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1DFBBbP7CQd8wzN5ZKcMdgrl-qECGjp_pIgu02pJoYzc/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JMS9K85AAtlsF3ZVeHx4poXJD0yS2WXw/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -938,9 +934,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1RK-axKhjF-C3hQcZXBqFpu8653tag6gI7zbFvR1xgyk/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1un8cgfjBgfuICOqKNFLxDxgifOhNw_OV/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -994,7 +990,7 @@ tags: xprize, proficiency-test, results, LAMP, performance
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1kBM2uK_QlB8YW2YHPm1bV6q-jtbv5_qH_ckKkVGXg9s
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Proficiency%20Test%20Results.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Proficiency%20Test%20Results.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1203,7 +1199,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1C5zZe9I1dL5b3srfZ2a1XzsXWGqghIXn/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2010%20Reagent%20or%20Consumable.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2010%20Reagent%20or%20Consumable.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1257,7 +1253,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1ISK1xG-KtccAZa8MYlH_G7qUnX0bZl5Y/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2011%20Equipment%20Setup.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2011%20Equipment%20Setup.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1310,7 +1306,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1K6wkOvyBhdVZBEKIYphTfM18wlJ0xKoG/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%207%20Targets.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%207%20Targets.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1368,7 +1364,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1A7XmTQysodHBUUbLf-cBhAZOQLpkIIGV/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%208%20Results.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%208%20Results.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1474,7 +1470,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1W4o2wfltdjJq0MHjf2qvL7-PI3Z2QICj/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%209%20Results%20Interpretation.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%209%20Results%20Interpretation.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1520,7 +1516,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1anBtyopz0Au-hRg19S1sUtt-J1q98n9A/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%201_%20Contact%20_%20Design.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%201_%20Contact%20_%20Design.pdf
 conversion_input_file_type: pdf
 conversion: msmid (note: msmid produced binary output; content extracted via PDF text reader)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1588,7 +1584,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1yi2ENCjoLdCUSZPqvt4yTjFfGyJOX9Ol/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%202_%20Results.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%202_%20Results.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1653,7 +1649,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1sQKsJTu9oNw76n8sHOpnzwf6LHd0j_8q/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%203_%20Current%20Capacity%20_%20Scalability.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%203_%20Current%20Capacity%20_%20Scalability.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1721,7 +1717,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1Vc87logYUNc-fLuXBXMkH5StXjA2rBMQ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%204_%20Innovation.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%204_%20Innovation.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1799,9 +1795,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1-Dd9oNqmi2FmppZ0Xpw7G6Hh5zIz2bsI044IPjb2x5U/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1cJaAi1EGXlDuoViG8LRER1EnwJgVYmcL/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pdf
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1938,9 +1934,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TedJlyh6UsNWcFVnEV-9aOIdkoOTGm29c7-wcjD9FAc/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1xpkId8BJRVRpSSdZXJRI8ubDLo6-5fAJ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2422,9 +2418,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1s2OLcJDaSRc5WsaGxCYGtSf8FTM7JOWXaskm3f1OvB0/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1gZQia4vjJcbtjWZAjcM5_y4meQUxzwCW/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2493,7 +2489,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1P05UkYPfngq6hq-8zQUTO8xjbG_6cx8n/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Kits%20-%20Rapid%20Testing%20Proficiency%20Kit%20Handling%20Instructions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Kits%20-%20Rapid%20Testing%20Proficiency%20Kit%20Handling%20Instructions.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2550,7 +2546,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1vK_P5Fgi_P_YtnUBV4bK3i-s0Mo_INFE/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement%20(certificate%20summary).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement%20(certificate%20summary).pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2699,7 +2695,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1wKZGHnesUQ4tVi5bfaZ-AxN0VZhsVua7/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement_FINAL_2020.08.04.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement_FINAL_2020.08.04.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -3426,7 +3422,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/12lmH7kzDPyaIqi88xlP8KaXgqdAWJd_F/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Registration%20Fee%20(certificate%20summary).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Registration%20Fee%20(certificate%20summary).pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -3571,7 +3567,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1k4YGkqhOnC8dX3jlh_kqcDtSqmM3owFX/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20(Team%20Member).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20(Team%20Member).pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

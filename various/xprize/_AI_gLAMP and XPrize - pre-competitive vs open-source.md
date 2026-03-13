@@ -9,7 +9,7 @@ tags: glamp, pre-competitive, open-source, pandemic-testing, public-goods
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1453cKnhM8CnfD95gOKvNS-qosJfenbaqR1sjGr2wvWk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/_AI_Global%20LAMP%20Consortium%20%28gLAMP%29%20-%20pre-competitive%20vs%20open-source.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/glamp/_AI_Global%20LAMP%20Consortium%20%28gLAMP%29%20-%20pre-competitive%20vs%20open-source.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

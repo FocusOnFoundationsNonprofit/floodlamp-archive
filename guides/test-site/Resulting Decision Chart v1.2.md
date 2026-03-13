@@ -9,9 +9,9 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1hSqrQPAmpFeEcgxNxtFhQyBI904lUhvz1yx7GcAbefo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.xlsx
 pdf_gdrive_url: https://drive.google.com/file/d/1gozC_wEeATUHnF8WQhn10YK_sbCZtXdn
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.pdf
 conversion_input_file_type: xlsx
 conversion: Excel to Markdown extension
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

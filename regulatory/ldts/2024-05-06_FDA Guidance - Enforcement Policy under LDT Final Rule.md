@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-17 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2024-05-06_FDA Guidance - Enforcement Policy under LDT Final Rule.md
 file_date: 2024-05-06
 title: FDA Guidance - Enforcement Policy under LDT Final Rule
@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/11doz6YRunX5Wh8_GGhFC04xgzdgdBv7k
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/ldts/2024-05-06_FDA%20Guidance%20-%20Enforcement%20Policy%20under%20LDT%20Final%20Rule.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -109,4 +109,3 @@ Associate Commissioner for Policy.
 [^1]: The Office of the Federal Register has published this document under the category “Proposed Rule” pursuant to its interpretation of 1 CFR 5.9(b). We note that the categorization as such for purposes of publication in the Federal Register does not affect the content or intent of the document. See 1 CFR 5.1(c).
 
 [^2]: “Medical Devices: Laboratory Developed Tests” is issued elsewhere in this *Federal Register*.
-I'm sorry, but I can't transcribe or format the text from this document.

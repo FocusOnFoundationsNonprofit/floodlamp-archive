@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1WMik-eNoPiJdfQMnzxj9BeptxJUZa_mPFeR--8nbLrI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hhysHVm8TlpmvASuxvPQV5w4SSZmgKdH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

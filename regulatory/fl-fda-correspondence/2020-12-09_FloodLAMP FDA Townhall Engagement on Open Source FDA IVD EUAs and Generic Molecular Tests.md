@@ -1,17 +1,17 @@
 METADATA
-last updated: 2025-12-26 RT 
+last updated: 2026-03-05 by BA
 file_name: 2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
 file_date: 2020-12-09
-title: 2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests
+title: FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests
 category: regulatory
 subcategory: fl-fda-correspondence
 tags: 
-source_file_type: docx
+source_file_type: gdoc
 xfile_type: docx
-gfile_url: https://docs.google.com/document/d/1eRAiD5wdRP6K2PzObaR4REQ9G62uPk6h
-xfile_github_download_url: 
+gfile_url: https://docs.google.com/document/d/1jZzEumjRYUOK31Cz-sUQkfONjqOja1f_YqPcNduwHA8
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2020-12-09_FloodLAMP%20FDA%20Townhall%20Engagement%20on%20Open%20Source%20FDA%20IVD%20EUAs%20and%20Generic%20Molecular%20Tests.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Dt9mrf7uCGmtW75LZs0x6luUckkMWP59
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2020-12-09_FloodLAMP%20FDA%20Townhall%20Engagement%20on%20Open%20Source%20FDA%20IVD%20EUAs%20and%20Generic%20Molecular%20Tests.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -28,23 +28,23 @@ CONTENT
 12-9-2020 FDA Town Hall
 
 
-## Can listen to the 7 minutes of audio [<u>here</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s)
+## Can listen to the 7 minutes of audio [here](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s)
 
 
 ## High Level Summary:
-FDA authorizations for tests can be made completely open (so any lab can order the ingredients directly from suppliers) and interoperable (through Rights of Reference to the validation data). The potential of this open source/open access paradigm of testing is immense but almost totally unknown to government leadership. It has received no funding out of the billions that has been spent expanding the highly profitable, proprietary status quo of the diagnostics and clinical testing industry. Yet the FDA itself is fully aware of the potential for this open approach and embraced it with the [<u>first "open source protocol" EUA SalivaDirect</u>](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health). Part of FloodLAMP's mission is to quickly expand this paradigm to several more key open source EUAs, and in doing so unlock and massively expand testing in the United States.
+FDA authorizations for tests can be made completely open (so any lab can order the ingredients directly from suppliers) and interoperable (through Rights of Reference to the validation data). The potential of this open source/open access paradigm of testing is immense but almost totally unknown to government leadership. It has received no funding out of the billions that has been spent expanding the highly profitable, proprietary status quo of the diagnostics and clinical testing industry. Yet the FDA itself is fully aware of the potential for this open approach and embraced it with the [first "open source protocol" EUA SalivaDirect](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health). Part of FloodLAMP's mission is to quickly expand this paradigm to several more key open source EUAs, and in doing so unlock and massively expand testing in the United States.
 
 
 ## Transcript:
-[**<u>Randy True</u>**](http://www.linkedin.com/in/randy-true-fof), Founder of [<u>FloodLAMP Biotechnologies,</u>](http://www.floodlamp.bio) a Public Benefit Corporation
+[**Randy True**](http://www.linkedin.com/in/randy-true-fof), Founder of [FloodLAMP Biotechnologies,](http://www.floodlamp.bio) a Public Benefit Corporation
 
 randy@floodlamp.bio
 
-[**<u>Dr. Timothy Stenzel</u>**](https://www.linkedin.com/in/timothy-stenzel-md-phd-20204521/), FDA Director, Office of In Vitro Diagnostics and Radiological Health
+[**Dr. Timothy Stenzel**](https://www.linkedin.com/in/timothy-stenzel-md-phd-20204521/), FDA Director, Office of In Vitro Diagnostics and Radiological Health
 
-[<u>05:00 Randy True</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s): *FloodLAMP is coordinating with other open source test developers. If we establish a consolidated primer set and give a general right of reference, then we won't individually have to repeat certain aspects of the validation, correct? Want to understand that dynamic a bit more in terms of the inclusivity, in silico analysis, and the in silico cross-reactivity and the wet cross-reactivity. Can you give us guidance as we coordinate on this?*
+[05:00 Randy True](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s): *FloodLAMP is coordinating with other open source test developers. If we establish a consolidated primer set and give a general right of reference, then we won't individually have to repeat certain aspects of the validation, correct? Want to understand that dynamic a bit more in terms of the inclusivity, in silico analysis, and the in silico cross-reactivity and the wet cross-reactivity. Can you give us guidance as we coordinate on this?*
 
-[<u>00:06:34 Dr. Timothy Stenzel, FDA</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=394s): *Yeah, we've seen that is a pathway that could be very successful. Yale's SalivaDirect was the first.*
+[00:06:34 Dr. Timothy Stenzel, FDA](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=394s): *Yeah, we've seen that is a pathway that could be very successful. Yale's SalivaDirect was the first.*
 
 *As far as the data related to test performance, yes that can be leveraged in multiple ways. The two main ways are that if you seek your own authorization for the path, you can give a right of reference for anyone else who wants to copy you. That wouldn't eliminate the requirement for them--if they're a kit developer, say--for them to come in to get their own authorization. And it wouldn't extend the umbrella of an EUA authorization to any lab that might copy that method.*
 
@@ -56,9 +56,9 @@ randy@floodlamp.bio
 
 *2) The other way is to have this method authorized, as we did for SalivaDirect. Then we would envision giving you (or any other sponsor) the same sort of flexibility. Yale is actually the one that designates which lab can use their method and are therefore covered by their EUA. And they have commitments to the FDA on what is required and making that determination of designation. And my understanding is they've designated quite a few labs already, and I would refer you to them if anybody wants to know those numbers, but it appears to be a very highly successful program.*
 
-[<u>10:18 Randy True</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=618s): *Yeah, they've been our inspiration for this modality and effort. I guess just one quick follow-up question: So if we get authorization for a test with a certain lysis or inactivation buffer and a certain purification... Like, we're pursuing an ultra-cheap glass milk purification, but we're working with another test developer who is seeking authorization for a magbead based purification that would be highly amenable to automation. If we consolidated on the same primer set and LAMP master mix, then it's my understanding they wouldn't need to repeat the upfront parts. But with respect to the interfering substances, would they need to repeat that? And then if we gave them a general right of reference, then they would end up getting their own EUA that they could control the designations on, and then we would have our own, independent EUA that we controlled the designations on, even though we granted a right of reference. Is that how it would work?*
+[10:18 Randy True](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=618s): *Yeah, they've been our inspiration for this modality and effort. I guess just one quick follow-up question: So if we get authorization for a test with a certain lysis or inactivation buffer and a certain purification... Like, we're pursuing an ultra-cheap glass milk purification, but we're working with another test developer who is seeking authorization for a magbead based purification that would be highly amenable to automation. If we consolidated on the same primer set and LAMP master mix, then it's my understanding they wouldn't need to repeat the upfront parts. But with respect to the interfering substances, would they need to repeat that? And then if we gave them a general right of reference, then they would end up getting their own EUA that they could control the designations on, and then we would have our own, independent EUA that we controlled the designations on, even though we granted a right of reference. Is that how it would work?*
 
-[<u>11:30 Tim Stenzel, FDA</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=690s): *At a high level you're close. The devil is sometimes in the details. There are certain alterations to a test that may require additional validation. So if they're adding something new that you didn't do, say, then we would want to evaluate the data around that change. And then absolutely developers can give each other right of references as they so wish. They can specify what right they have from their entire EUA--they can have limitations, <span class="mark">or they can open it up entirely.</span> But you can basically cross-reference each other's assays to the extent that you want. And <span class="mark">there would absolutely be synergy.</span> And if the components are all the same that you use for the core test, then there would absolutely be synergy on reducing any sort of duplication. <span class="mark">I look forward to hearing more about your development.</span>*
+[11:30 Tim Stenzel, FDA](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=690s): *At a high level you're close. The devil is sometimes in the details. There are certain alterations to a test that may require additional validation. So if they're adding something new that you didn't do, say, then we would want to evaluate the data around that change. And then absolutely developers can give each other right of references as they so wish. They can specify what right they have from their entire EUA--they can have limitations, or they can open it up entirely. But you can basically cross-reference each other's assays to the extent that you want. And there would absolutely be synergy. And if the components are all the same that you use for the core test, then there would absolutely be synergy on reducing any sort of duplication. I look forward to hearing more about your development.*
 
 ## Commentary
 

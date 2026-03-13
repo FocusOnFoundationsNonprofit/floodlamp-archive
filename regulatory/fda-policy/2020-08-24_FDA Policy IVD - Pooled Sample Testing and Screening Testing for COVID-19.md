@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1zUrK-zdaEbo4pRihH60blFNzvDfmcW5QJfYOBCaVKHk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1vW6FNrru6W_OWgL8Nr_wubXYmFmU9HwR
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

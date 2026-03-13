@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1q3PbLhynUpyUkF-XkqQwVIy8ObeEQUzH0NNchRFEiqM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1H7qxRSJ-M1aBj1bTTdbeljQXmkmrvIJd
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

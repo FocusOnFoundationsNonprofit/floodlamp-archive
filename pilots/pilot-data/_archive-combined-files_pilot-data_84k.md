@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_pilot-data_84k.md =====
-# pilot-data (17 files, 84,223 tokens)
-
-# 505  2021-12-28_Case Report - Randy.md
 METADATA
 last updated: 2026-02-25 BA
 file_name: 2021-12-28_Case Report - Randy.md
@@ -13,7 +9,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1ZIbYYZ873RjV6IuUyhZ22wNdFKRv6zz1v5_Gm9VBlwE/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/2021-12-28_Case%20Report%20-%20Randy.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2021-12-28_Case%20Report%20-%20Randy.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -59,7 +55,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1hdTOuLxX7SnE7VL9Rdw61PeU-HE4ylli/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -126,7 +122,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1eWD8z2MqoZEVoTFPJWcxr7-UsxcyYGklwmAUhEuawbM/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -283,7 +279,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/ABRM_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/ABRM_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -466,7 +462,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/BEND_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/BEND_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -623,7 +619,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/COMB_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/COMB_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -800,7 +796,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/COSP_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/COSP_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -962,7 +958,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/CRLN_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/CRLN_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1164,7 +1160,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/DAVI_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/DAVI_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1377,7 +1373,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/DAVI_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/DAVI_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1540,7 +1536,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/FLMP_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/FLMP_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1791,7 +1787,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/FLSP_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/FLSP_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2051,7 +2047,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/FTFC_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/FTFC_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2183,7 +2179,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/KENT_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/KENT_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2314,7 +2310,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/NDHM_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/NDHM_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2471,7 +2467,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/ROSA_xlsx_downloads
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/ROSA_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2617,7 +2613,7 @@ tags:
 source_file_type: csv
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1b1uWHNGBL9yatTUNnzrbOTdWOMlD-XYVsn4V6pSYmmk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/pilots/pilot-data/Aggregate%20Pilot%20Data%20Summary.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/Aggregate%20Pilot%20Data%20Summary.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

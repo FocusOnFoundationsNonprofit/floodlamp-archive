@@ -9,7 +9,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1nbUmpJf2iGyJ4u03bYdk83R4k4-YOd9NJHYaG-zFV6k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx

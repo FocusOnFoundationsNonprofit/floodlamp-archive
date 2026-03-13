@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-31 RT
-file_name: BRADx 2022 Solicitation - High-Performance COVID-19 Rapid Tests (Oct 2022).md
+last updated: 2026-03-06 by BA
+file_name: RADx 2022 Solicitation - High-Performance COVID-19 Rapid Tests (Oct 2022).md
 file_date: 2022-10-01
 title: RADx 2022 Solicitation - High-Performance COVID-19 Rapid Tests (Oct 2022 - 5M - Not Funded)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1n-zVjY9Sqp9nAQadvJX3jM9D7OTXn3GbSX68JfjNeB4
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-proposals/RADx%202022%20Solicitation%20-%20High-Performance%20COVID-19%20Rapid%20Tests%20%28Oct%202022%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1anxBJ4Gc3hX5cKiWkit2VeRp9263DOYf
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-proposals/RADx%202022%20Solicitation%20-%20High-Performance%20COVID-19%20Rapid%20Tests%20%28Oct%202022%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -29,11 +29,11 @@ CONTENT
 The RADx Coordination Center at CIMIT, on behalf of the National Institute of Biomedical Imaging and Bioengineering (NIBIB) of the National Institutes of Health (NIH), is soliciting proposals to further advance next-generation *(next-gen)* over-the-counter (OTC) and point-of-care (POC) testing technologies for COVID-19 under its Rapid Acceleration of Diagnostics (RADx) fast-track program.
 
 ## Program Description
-*Under this RADx Tech Performance solicitation, NIBIB is seeking to accelerate the development of next Next-Gen COVID-19 diagnostic technologies with a focus on performance innovations: Innovations that provide significantly improved clinical and technical performance compared to current, best-in-class OTC/POC technologies. These platforms must also integrate universal design features in order to ensure the <span class="mark">broadest possible ease of use</span> and accessibility for all populations. Test platforms should return results quickly, demonstrate potential for <span class="mark">integration with digital health reporting</span> standards, and be capable of achieving regulatory clearance during both pandemic and non-pandemic periods.*
+*Under this RADx Tech Performance solicitation, NIBIB is seeking to accelerate the development of next Next-Gen COVID-19 diagnostic technologies with a focus on performance innovations: Innovations that provide significantly improved clinical and technical performance compared to current, best-in-class OTC/POC technologies. These platforms must also integrate universal design features in order to ensure the broadest possible ease of use and accessibility for all populations. Test platforms should return results quickly, demonstrate potential for integration with digital health reporting standards, and be capable of achieving regulatory clearance during both pandemic and non-pandemic periods.*
 
-The availability of OTC and POC COVID-19 tests has greatly assisted the nation in dealing with the SARS-CoV-2 pandemic. However, the SARS-CoV-2 virus has continued to evolve, spreading and mutating into new variants. The emergence of these variants can potentially impact test performance, depending on the type and design of the tests and the prevalence of the variants circulating in the population. Serial testing over multiple days has been recommended for tests currently on the market to maximize performance in infected populations. Further benefit could be gained from OTC/POC tests with higher performance that <span class="mark">approaches</span> or exceeds the level of lab-based tests.
+The availability of OTC and POC COVID-19 tests has greatly assisted the nation in dealing with the SARS-CoV-2 pandemic. However, the SARS-CoV-2 virus has continued to evolve, spreading and mutating into new variants. The emergence of these variants can potentially impact test performance, depending on the type and design of the tests and the prevalence of the variants circulating in the population. Serial testing over multiple days has been recommended for tests currently on the market to maximize performance in infected populations. Further benefit could be gained from OTC/POC tests with higher performance that approaches or exceeds the level of lab-based tests.
 
-Therefore, NIBIB is seeking to accelerate the development of Next-Gen COVID-19 diagnostic technologies with *significantly* improved performance and features compared to current widely available platforms. Tests with superior analytical, technical, and clinical performance in terms of absolute detection limits (e.g. genome copies per mL, moles of proteins), <span class="mark">variant agnostic capabilities</span>, and <span class="mark">real-world clinically significant and relevant performance</span> are needed to <span class="mark">improve convenience, reduce time to result,</span> and minimize if not eliminate the need for serial testing.
+Therefore, NIBIB is seeking to accelerate the development of Next-Gen COVID-19 diagnostic technologies with *significantly* improved performance and features compared to current widely available platforms. Tests with superior analytical, technical, and clinical performance in terms of absolute detection limits (e.g. genome copies per mL, moles of proteins), variant agnostic capabilities, and real-world clinically significant and relevant performance are needed to improve convenience, reduce time to result, and minimize if not eliminate the need for serial testing.
 
 RADx has assembled a national network of expert technical, clinical, business, manufacturing, and regulatory advisors who will provide individualized assistance for funded projects. Funding for projects selected for this program *will be dependent* on successfully meeting aggressive project milestones. NIBIB will provide financial and in-kind support to accelerate commercialization of projects that meet milestones. To ensure that innovations are available to the public as quickly as possible, NIH will leverage established partnerships with federal agencies, such as FDA, CDC, CMS, and ASPR/BARDA, as well as commercial and private entities to propel technologies developed with RADx support toward FDA approval and widespread use.
 
@@ -72,8 +72,7 @@ Additional factors that should be addressed and will be considered:
 
 - Time to commercialization readiness and ability to meet regulatory requirements for intended use (OTC and/or POC): submissions for EUA within 24 to 36 months and standard clearance within 24 months
 
-- <span class="mark">Innovations that can potentially reduce manufacturing costs and retail prices, facilitate rapid scale-up during surge demands, and improve supply chain resilience</span>
-
+- Innovations that can potentially reduce manufacturing costs and retail prices, facilitate rapid scale-up during surge demands, and improve supply chain resilience
 - Support for digital health platforms including ability to communicate results to appropriate healthcare providers and, as appropriate or required, public health authorities
 
 - Ability to work with/adapt to rapidly changing variants and be multiplexed and/or adapted for multiple pathogens/diseases
@@ -89,7 +88,7 @@ Proposals submitted to RADx Tech will be reviewed rapidly as applications are re
 Awards are milestone-based and selected teams must work collaboratively with assigned RADx experts and associated web-based tools, including the CIMIT's [GAITS platform](http://gaits.org/) to continue. Full Federal overhead rates apply.
 
 ## How to Apply
-Applicants may [<u>preview the application content here</u>](https://www.poctrn.org/documents/461099/0/RADx+Tech+High+Performance+Application+Preview.docx/69468216-16f7-87f4-9d41-57bca460ad43?t=1663685182706).
+Applicants may [preview the application content here](https://www.poctrn.org/documents/461099/0/RADx+Tech+High+Performance+Application+Preview.docx/69468216-16f7-87f4-9d41-57bca460ad43?t=1663685182706).
 
 To submit an application you can:
 1.  [Use our online submission tool](https://colab.secure-platform.com/a/solicitations/111/home).
@@ -102,4 +101,4 @@ Please do not send applications to this address.
 ## Frequently Asked Questions
 If you have questions please visit our [Frequently Asked Questions page](https://www.poctrn.org/web/radx-tech-high-performance-tests/faqs).
 
-For other programmatic or technical questions <u>please contact info.radx@poctrn.org</u>.
+For other programmatic or technical questions please contact info.radx@poctrn.org.

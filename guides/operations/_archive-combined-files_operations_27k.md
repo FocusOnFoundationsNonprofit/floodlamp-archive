@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_operations_27k.md =====
-# operations (4 files, 26,965 tokens)
-
-# 1,145  _context-commentary_guides-operations.md
 METADATA
 last updated: 2026-02-16 RT
 file_name: _context-commentary_guides-operations.md
@@ -51,7 +47,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/18F8cJ7T0qBaF9k7fSI5S5kFisnrAayJfrjh1DQRoXuE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/Cost%20Model%20-%20FloodLAMP.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/Cost%20Model%20-%20FloodLAMP.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -542,7 +538,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1nbUmpJf2iGyJ4u03bYdk83R4k4-YOd9NJHYaG-zFV6k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -983,7 +979,7 @@ tags:
 source_file_type: xlsx
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1yrgBbJJtmFw3edxbjYx7XaO3ecsXNemaOtbrY2RnuoY
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/LAMP%20Primers%20UPDATED%2012-17-2020.xlsx.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/LAMP%20Primers%20UPDATED%2012-17-2020.xlsx.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx

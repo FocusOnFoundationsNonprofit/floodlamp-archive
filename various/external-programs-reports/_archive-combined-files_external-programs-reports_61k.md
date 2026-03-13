@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_external-programs-reports_61k.md =====
-# external-programs-reports (12 files, 60,842 tokens)
-
-# 2,429  _AI_RADx Program Overview - NIH Rapid Acceleration of Diagnostics.md
 METADATA
 last updated: 2026-02-20 RT initial creation
 file_name: _AI_RADx Program Overview - NIH Rapid Acceleration of Diagnostics.md
@@ -13,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/13X6tcUSaSfGbyhfCm6BDQK9HW27khP3Ung6iUe5d67k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/RADx%20Program%20Overview%20-%20NIH%20Rapid%20Acceleration%20of%20Diagnostics.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/external-programs-reports/RADx%20Program%20Overview%20-%20NIH%20Rapid%20Acceleration%20of%20Diagnostics.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -206,7 +202,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1pvPDW9TWeag782XHRh4uscIMoZDLJMiN
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2020-09-01_School%20Testing_UnitedHealth%20Group%20-%20Safe%20and%20Strategic%20Return%20to%20School.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/external-programs-reports/2020-09-01_School%20Testing_UnitedHealth%20Group%20-%20Safe%20and%20Strategic%20Return%20to%20School.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: 3rd Party
@@ -726,9 +722,9 @@ tags: school testing, massachusetts
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/11ny790H6RTIaqZ5jSNR2HfcDAfQ2VANGJJ9OTznkc6g
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1icm3UyACrqmflRPeUPhpVAHVNFR-zX5F
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/external-programs-reports/2021-01-08_School%20Testing_Massachusetts%20Dept%20of%20Education%20-%20Memo%20on%20Pooled%20Testing%20in%20K-12%20Schools.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: 3rd Party
@@ -815,7 +811,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/15luDz7Vkgtx7pp-CDt89VE-I3kAkC7zM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-02-01_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20COVID%20Testing%20Implementation%20and%20Coordination.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/external-programs-reports/2021-02-01_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20COVID%20Testing%20Implementation%20and%20Coordination.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: 3rd Party
@@ -1301,7 +1297,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1kr-Bm4mrs53LKJclZH4d5QUvDwvRYgfS
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-02-11_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20RFP%20Questions%20and%20Answers%20Document.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/external-programs-reports/2021-02-11_School%20Testing_San%20Francisco%20Unified%20School%20District%20-%20RFP%20Questions%20and%20Answers%20Document.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: 3rd Party
@@ -2604,9 +2600,9 @@ tags: compilation, testing programs
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1-lsLymVsCkU4KMHzpcGr4qheCq72AmtfbHixyGN8Ebo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1lJMDVc_xYGFM6ooIBGRfhw5va45H8wNi
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/external-programs-reports/FL%20INDEX_Testing%20Programs%20and%20Playbooks%20Index%20SHARED.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

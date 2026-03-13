@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_lamp-tech_6k.md =====
-# lamp-tech (2 files, 5,547 tokens)
-
-# 416  _context-commentary_various-lamp-tech.md
 METADATA
 last updated: 2026-02-23 RT
 file_name: _context-commentary_various-lamp-tech.md

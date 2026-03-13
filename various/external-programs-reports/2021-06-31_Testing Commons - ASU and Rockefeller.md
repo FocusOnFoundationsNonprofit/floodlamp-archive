@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-08 RT
-file_name: 2021-06-31_Testing Commons - ASU and Rockefeller.pdf
+last updated: 2026-03-06 by BA
+file_name: 2021-06-31_Testing Commons - ASU and Rockefeller.md
 file_date: 2021-06-31
 title: 2021-06-31_Testing Commons - ASU and Rockefeller
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2021-06-31_Testing%20Commons%20-%20ASU%20and%20Rockefeller.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1m_gTH8wy_efWW3tnJcbfEmDBXwIggf0u
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-06-31_Testing%20Commons%20-%20ASU%20and%20Rockefeller.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party

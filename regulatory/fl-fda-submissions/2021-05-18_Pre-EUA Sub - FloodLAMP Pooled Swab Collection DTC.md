@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC.md
 file_date: 2021-05-18
 title: Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC
@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1SixDbR0YTTz5b1xIA92TCH0dt6Yul5hG
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1xyDz50WSzjhaVNuEXPk5GfsRWQojUJRP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20DTC.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -24,6 +24,7 @@ summary_short: The Pre-EUA submission for the FloodLAMP Pooled Swab Collection K
 CONTENT
 
 ***INTERNAL TITLE:*** Home Specimen Collection Molecular Diagnostic Template
+
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for distribution and/or use of the **FloodLAMP Pooled Swab Collection Kit DTC** for the **unsupervised collection** of **1 to 4 pooled nasal swabs** in a **dry tube** to transport viral SARS-CoV-2 RNA, from **any individual, including individuals without symptoms or other reasons to suspect COVID-19**. The collection kit is for use in conjunction with molecular diagnostic testing performed at a clinical laboratory using an in vitro diagnostic (IVD) test for the detection of SARS-CoV-2 that is authorized for use with the **FloodLAMP Pooled Swab Collection Kit DTC**.
 
@@ -155,7 +156,7 @@ End-to-end testing and validation occurs on the oldest and most recent supported
 Records are not stored on user devices and are stored on a secure cloud based database.
 
 ## G. PRODUCT MANUFACTURING
-The**FloodLAMP Pooled Swab Collection Kit DTC \[**has been\] validated using only the components referenced in this submission.
+The **FloodLAMP Pooled Swab Collection Kit DTC** [has been] validated using only the components referenced in this submission.
 
 ### 1) Overview of Manufacturing and Distribution: 
 
@@ -224,7 +225,7 @@ PROPOSED USABILITY STUDY
 
 -   The samples collected during the study will be tested for specimen adequacy using the **FloodLAMP EasyPCR(TM) COVID-19 Test** which includes an internal human sample control (RNaseP). The RNaseP Ct value will be used to determine if sufficient sample was collected by the user. \[To CDRH Reviewers: Is it acceptable to utilize the FloodLAMP EasyPCR(TM) COVID-19 Test for determining the pass/fail of specimen adequacy? It is not yet an EUA authorized test but a full EUA submission is included along with this pre-EUA for review. The test uses the CDC primers from the EUA authorized SalivaDirect(TM) Test. In the clinical evaluation performed by the Stanford University Clinical Lab, the test showed a 98% sensitivity. The LoD was determined at 3,100 copies/mL.\]
 
--   Participants will include individuals representing varying education levels and ages. Participants with prior medical or laboratory training will be excluded. <s>Participants who have prior experience with self-collection should be excluded.</s> \[To CDRH Reviewers: Is it acceptable to strike this exclusion since self-collection has become much more widespread?\]
+-   Participants will include individuals representing varying education levels and ages. Participants with prior medical or laboratory training will be excluded. ~~Participants who have prior experience with self-collection should be excluded.~~ \[To CDRH Reviewers: Is it acceptable to strike this exclusion since self-collection has become much more widespread?\]
 
 -   The study will have pre-defined acceptance criteria and errors identified in the study will be mitigated by modifying the instructions.
 

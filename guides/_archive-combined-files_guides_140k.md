@@ -1,10 +1,3 @@
-# ===== START OF FILE _archive-combined-files_guides_140k.md =====
-# guides (54 files, 140,221 tokens)
-
-# ===== START OF SUBCATEGORY _archive-combined-files_manufacturing_14k.md =====
-# manufacturing (7 files, 13,689 tokens)
-
-# 3,429  _AI_Reagent Concentrations.md
 METADATA
 last updated: 2026-02-17 RT initial creation
 file_name: _AI_Reagent Concentrations.md
@@ -16,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1gOeoQK0CY2kBKjLJ50EB9ObVzu74yotF_wSNu4nXYLs
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Reagent%20Concentrations.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Reagent%20Concentrations.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -342,9 +335,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/10kiok18TcbatUeareNyUyrcr90_ib0gT56NpWsIh58U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1uyKevLkDpU1De9Gl8Y2fi1CHgNfvMl7f
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/Assay%20and%20Reagent%20Manufacturing%20Diagrams.pdf
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -426,9 +419,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OE4rCaCn2htHdlq_Q_Nk9Mu-MpMgTtwO
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1QPBDtkL4h9dFd4yP_X8J5ZpmaJNkUPYJ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-201-A_2%20PGS48%20Manufacturing%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -562,9 +555,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1pzBrcBLajWdFH0M_ib3bILgtN7EN5h4G2KROieLmN78
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Th-fjY0mqBwXC74ZZwirwFW-iHAPIZ8F
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-202-A_1%20100XIS%20Manufacturing%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -644,9 +637,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mVuPCxzU2bUILebEfg7gvHwjzD6DwGqv
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1W7vkFU0raZso77GsFPm3LWNDMkqKmwm1
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-301%20PGS48%20Verification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -769,9 +762,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OkAplBX1wXaJ0g6SHvMH76DuvRYXXYz7
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/17gZaAVN_PZnOG81F7vwaNzTDuR74pjdI
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/manufacturing/SOP-302%20100XIS%20Verification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -908,7 +901,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/18F8cJ7T0qBaF9k7fSI5S5kFisnrAayJfrjh1DQRoXuE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/Cost%20Model%20-%20FloodLAMP.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/Cost%20Model%20-%20FloodLAMP.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1399,7 +1392,7 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1nbUmpJf2iGyJ4u03bYdk83R4k4-YOd9NJHYaG-zFV6k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/Inventory%20Dashboard%20-%20FloodLAMP%20%28Updated%20Aug%202022%29.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1840,7 +1833,7 @@ tags:
 source_file_type: xlsx
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1yrgBbJJtmFw3edxbjYx7XaO3ecsXNemaOtbrY2RnuoY
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/operations/LAMP%20Primers%20UPDATED%2012-17-2020.xlsx.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/operations/LAMP%20Primers%20UPDATED%2012-17-2020.xlsx.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1961,9 +1954,9 @@ tags: operations
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1MP7r3NDctnwQJLbl2PKkOQPdX-S789Fw9EvIRoETvnI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1oixE09e0pqHo8uFcBDhzC1OPvf5YzHMT
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2045,9 +2038,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1YiosM1yHUjlkwg_aE_j-xyOyT_9hJk_tyT2OU4qDjW8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1P9W2Zu3esKwstzSynPQJKBlZu_PPjR0S
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2122,9 +2115,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Imf8TlrMkjeEpDY0buot0fgfkaJpuJApnaZ7Cm9XbOs
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1ajTg1-lEiXJXvt_bZlWTOeTd41GDQ0Xa
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2200,9 +2193,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1XFMcUP6L8pzn2crTuWiHZF-UeybzBO64FLrGozo9O3M
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1yhaVkXZJYI7PtKd7kGpM0AGN4aA2IPi8
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2316,9 +2309,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Nk586b_UbYKr6iE7Yrhe7NHN1tl4qSttFPYquUHJQJQ
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JmcisdqvDVhxCmCFEHRi3YacFW9xYaBB
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2487,9 +2480,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/15oCAL2T0or_BigVAw1kpXS_BojPpcPsMOw8aJ_qw5mA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hgxWFnT6RCJRAA6CyJWD1lnAr_5P1vNT
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2599,9 +2592,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1IO3MjHxGCzMMlYJsnHvZyzYv-ohpRolbGJksY8S08-E
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1RR_V3e6fn0g7xCESHnX3t-6VYQi3r1NU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2697,7 +2690,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: 
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/sds/Waste%20Disposal%20and%20Risk%20Assessment.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/sds/Waste%20Disposal%20and%20Risk%20Assessment.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -3309,7 +3302,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1VwgYf7av-AJU_gvS-kpyu0THWaCg2Tvo
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Clorox%20Bleach%20Regular.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Clorox%20Bleach%20Regular.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -3795,7 +3788,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1sUCW4idcd041WWuOUOgRoQvt1X5mqoNY
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20EDTA.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20EDTA.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -4164,7 +4157,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1t3nmM5TzDTYJGdCxjStDCkqXa49rh947
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Isopropyl%20Alcohol%2070%20percent.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Isopropyl%20Alcohol%2070%20percent.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -4441,7 +4434,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/189DnIKWpB47VrvaCwIgxdtrQpn8uPSHA
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20TCEP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20TCEP.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -4819,7 +4812,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1B5fQriqklnc_y3yi8kntGGb4s7Nj3HNZ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20Twist%20Synthetic%20SARS-CoV-2%20RNA%20Control%20Rev7%20001038v7.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20Twist%20Synthetic%20SARS-CoV-2%20RNA%20Control%20Rev7%20001038v7.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain
@@ -5013,9 +5006,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1K8CDEafa-U68ia6kPqE3_r6Qd37HyehMN1Ef7BYAzxc
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Wuje2Az8mBWCFBU2P0cQzJjWITW1Wpbv
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5055,9 +5048,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/16TH6wjOZtRGVMECh5dU7p88Pb2hLBkOeHCjvSKsdGGY
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Hv6mrzamP3zl4O4USFQNSjGtElrOGVd0
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5228,9 +5221,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1gck3ruk1d_Lcp0M5JMt4FT6kzniqxV3-E443ElkEYUQ
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).docx
 pdf_gdrive_url: https://drive.google.com/file/d/1lMrxJdblUZKo9-9AkB_tIKDt8nxGU7ZV
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5370,9 +5363,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Plnksj-OwJzUV9f0WIvhQncd_pBCS50HJuw-lSi7IqM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Abrome%20Site%20Checklists%20INTERNAL%20COPY%20BEFORE%20SHARING.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Abrome%20Site%20Checklists%20INTERNAL%20COPY%20BEFORE%20SHARING.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1jy34vLE5VOkjL2RXIq_ATPv92UBJhfgP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Abrome%20Site%20Checklists%20INTERNAL%20COPY%20BEFORE%20SHARING.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Abrome%20Site%20Checklists%20INTERNAL%20COPY%20BEFORE%20SHARING.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5473,9 +5466,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1hvCX0wkVYzJ2bgV_zHoNgcqvENygnY97Urr5HYGEB7U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Assay%20Cart%20Drawer%20Arrangement%20with%20Photos.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Assay%20Cart%20Drawer%20Arrangement%20with%20Photos.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wOotzHFPOWPVEB_3xbo3CtBq5xyla-2S
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Assay%20Cart%20Drawer%20Arrangement%20with%20Photos.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Assay%20Cart%20Drawer%20Arrangement%20with%20Photos.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5523,9 +5516,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TLE4ChqEiY2n5xBTj0efXt7ygX9NDs-sMJYA8q57_cw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Collection%20Kit%20Assembly%20Instructions%20for%20Staff.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Collection%20Kit%20Assembly%20Instructions%20for%20Staff.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1eW8gsLLEJRJihes-ZUCjVIchpoFxdpOL
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Collection%20Kit%20Assembly%20Instructions%20for%20Staff.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Collection%20Kit%20Assembly%20Instructions%20for%20Staff.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5570,9 +5563,9 @@ tags: surveillance
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Pf-n0xZRnbGOfqi7SqMR25_3LfaKdTq2fd5vvN3FOP0
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Consent%20Adult%20and%20Minor%20CC3%20-%20RT%20Ctrl.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Consent%20Adult%20and%20Minor%20CC3%20-%20RT%20Ctrl.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1PTBMz0IaQtJwJ7Ku-X67Ez7rMVPDNzCL
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Consent%20Adult%20and%20Minor%20CC3%20-%20RT%20Ctrl.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Consent%20Adult%20and%20Minor%20CC3%20-%20RT%20Ctrl.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5625,9 +5618,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1v7rhZUefNCPczjkAUY3J8IHDkIn_23ZJ7zA5iTjWv6c
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Decontamination%20Procedures.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Decontamination%20Procedures.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1fmixGyoyCiyXrQfdTgMft8BYyTwJ3Lgf
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Decontamination%20Procedures.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Decontamination%20Procedures.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5709,9 +5702,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Xd88OCuanZ3WnFr68PNmiUvEznPpSUOf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Dos%20and%20Donts%20-%20Kent%20Camp%20(June%202021).docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Dos%20and%20Donts%20-%20Kent%20Camp%20(June%202021).docx
 pdf_gdrive_url: https://drive.google.com/file/d/1maMLYydLOYVQXY8FFTemcnoU4chYdVBw
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Dos%20and%20Donts%20-%20Kent%20Camp%20(June%202021).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Dos%20and%20Donts%20-%20Kent%20Camp%20(June%202021).pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5756,9 +5749,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1U6gToUGEZFUz4XcJpMaoGXLZqO7pSyZ9mnrx1fYm8wo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Drop%20Ship%20Initial%20Receiving%20Instructions%20-%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Drop%20Ship%20Initial%20Receiving%20Instructions%20-%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1dUAWAKOhsDeaNV61Ad3aTu-vScCBzxxQ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Drop%20Ship%20Initial%20Receiving%20Instructions%20-%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Drop%20Ship%20Initial%20Receiving%20Instructions%20-%20Template.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5808,9 +5801,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1W5Me_GTy66gafTKzOFJ1T4MyR_DclZWb_MpSJMdCZ9M
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1PLwIec9rLQxcyD8pH9uZMwRTkVaSrWU8
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Facilities%20Requirements%20-%20FloodLAMP.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -5972,9 +5965,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1zeyY8REZVb95yj9WG-PfppJ51BA3vpYtq5vYOoeRHXU/edit?usp=sharing
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1n2cKNd7SdqDiiBD7EILRsY-CutJ2vvpX
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/FloodLAMP%20Guides%20-%20one-pagers%20for%20different%20roles.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6056,9 +6049,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1g9NkXHjJIvmyAXnyXNY7ctofU7yGkKvcXavsalms1jk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/FloodLAMP%20School%20Program%20-%20Information%20flyer%20for%20families%20TEMPLATE.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/FloodLAMP%20School%20Program%20-%20Information%20flyer%20for%20families%20TEMPLATE.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1snjAR6JeRPm3cLRSGODPr7bpsnS714IL
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/FloodLAMP%20School%20Program%20-%20Information%20flyer%20for%20families%20TEMPLATE.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/FloodLAMP%20School%20Program%20-%20Information%20flyer%20for%20families%20TEMPLATE.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6141,9 +6134,9 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1hSqrQPAmpFeEcgxNxtFhQyBI904lUhvz1yx7GcAbefo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.xlsx
 pdf_gdrive_url: https://drive.google.com/file/d/1gozC_wEeATUHnF8WQhn10YK_sbCZtXdn
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Resulting%20Decision%20Chart%20v1.2.pdf
 conversion_input_file_type: xlsx
 conversion: Excel to Markdown extension
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6312,7 +6305,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1Yzxo03RifzDk05rTzOVQn3MM4mpcoIEK
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Resulting%20Decision%20Flow%20Chart%20(Single%20Triplicate%20Re-run)%20v1.2.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Resulting%20Decision%20Flow%20Chart%20(Single%20Triplicate%20Re-run)%20v1.2.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6372,9 +6365,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1qeZHKgUPQ7ENf7JxHa9MjvVvWuVkw0IUbxPmbd0U9-A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Site%20Checklist%20-%20Alpine.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Site%20Checklist%20-%20Alpine.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1PKufMY-68iBrvLUC6dRfTwBpOqOZSQh-
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Site%20Checklist%20-%20Alpine.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Site%20Checklist%20-%20Alpine.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6474,9 +6467,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1VjrKcGU7XtUMZuwqIMw1UJnDdK1PEeQb2AfyvthtE6U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Site%20Checklist%20-%20Portola.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Site%20Checklist%20-%20Portola.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1WKJ43rBcsk0E8T4wQjf85n9E5rbS5U53
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Site%20Checklist%20-%20Portola.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Site%20Checklist%20-%20Portola.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6583,9 +6576,9 @@ tags: surveillance
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1qvBfxsHzN5l8vTx4uRy_AD2JZTaYP0LwInrdAJ5JLP8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/Surveillance%20Program%20Results%20Communications%20Guidelines.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/Surveillance%20Program%20Results%20Communications%20Guidelines.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1YmyeRJUikyfidHVQQR1MJDCun6_hOGNf
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/Surveillance%20Program%20Results%20Communications%20Guidelines.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/Surveillance%20Program%20Results%20Communications%20Guidelines.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6673,9 +6666,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1GGv3YLSyIv0J8WTbt61FhI57Bh6VmEEjdLQfmKOL79A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1W0SeYZ0LcjI0YUo5DO8QK0RzNqwiHDpe
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/CRTT%20Moodle%20and%20EdPuzzle%20Guide.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6805,9 +6798,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1DhkmEUn15q0MnETtUb3tjp9VcBA5JtLnmHfB_PpRlFw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/17ZqwLhedEXXnS4H-lNeOXWmD1MzrCnno
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -6945,9 +6938,9 @@ tags:
 source_file_type: audio
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1t3yOYBBcFmnzhJSnOp4ZEvxHJlNKTiZf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1o2YbfHTBGRIiA6UpjDapjHwx9S60jIa6
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
 conversion_input_file_type: md
 conversion: none
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -7156,9 +7149,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Sss5KtnmrR1csGJSlSSKshiTlS4El3k_CljpIJOR41Y
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hfNOLRB8Ll70VGhYW8gJIky-nywqM9TF
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -7394,9 +7387,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1WMik-eNoPiJdfQMnzxj9BeptxJUZa_mPFeR--8nbLrI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hhysHVm8TlpmvASuxvPQV5w4SSZmgKdH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-validation/FloodLAMP%20Test%20Validation%20Guide%20v1.0.pdf
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-context-commentary_pilots_12k.md =====
-# pilots context & commentary (2 files, 11,644 tokens)
-
-# 3,225  _context-commentary_pilot-data_data-processing.md
 METADATA
 last updated: 2026-02-27 RT
 file_name: README_pilot-data_data-processing

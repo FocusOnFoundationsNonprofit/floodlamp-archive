@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2020-11-06_Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test.md
 file_date: 2020-11-06
 title: Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test
@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/17NMbkJOYgDgA1mdlawn10Hw3067GZ1wI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1pvKMujtiyxrQ7_OwkXEO6Uy4m4ejGY6_
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2020-11-06_Pre-EUA%20Sub%20-%20FloodLAMP%20Glass%20Milk%20LAMP%20Test.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -24,6 +24,7 @@ summary_short: The Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test (Nov 6, 2020) is
 CONTENT
 
 ***INTERNAL TITLE:*** Molecular Diagnostic Template for Laboratories
+
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for use of FloodLAMP to be performed for the in vitro qualitative detection of RNA from the SARS-CoV-2 in anterior nares swab specimens and saliva samples from individuals \[suspected of COVID-19 by their healthcare provider\]\[as recommended for testing by public health authority guidelines for screening of asymptomatic individuals\]. FloodLAMP will be performed in CLIA-certified, high-complexity laboratories. Additional testing and confirmation procedures should be performed in consultation with public health and/or other authorities to whom reporting is required. Positive results should also be reported in accordance with local, state, and federal regulations.
 
@@ -56,7 +57,7 @@ QJR
 
 ## E. PROPOSED INTENDED USE
 ### 1) Intended Use:
-The FloodLAMP Glass Milk Test is a reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) test intended for the qualitative detection of RNA from SARS-CoV-2 in saliva and anterior nares (nasal) swab specimens. Testing is limited to screening of asymptomatic individuals. Testing is limited to laboratories certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a, to perform high complexity tests, or by similarly qualified non-U.S. laboratories. [Sample pooling is at a baseline level of 10, with on-site and at-home modalities. Pooling of pools to levels greater than 10 will be investigated pending LoD determination and validation studies.]{.mark}
+The FloodLAMP Glass Milk Test is a reverse transcriptase loop-mediated isothermal amplification (RT-LAMP) test intended for the qualitative detection of RNA from SARS-CoV-2 in saliva and anterior nares (nasal) swab specimens. Testing is limited to screening of asymptomatic individuals. Testing is limited to laboratories certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a, to perform high complexity tests, or by similarly qualified non-U.S. laboratories. Sample pooling is at a baseline level of 10, with on-site and at-home modalities. Pooling of pools to levels greater than 10 will be investigated pending LoD determination and validation studies.
 
 Results are for the identification of SARS-CoV-2 RNA. The SARS-CoV-2 RNA is generally detectable in upper respiratory specimens during the acute phase of infection. Positive results are indicative of the presence of SARS-CoV-2 RNA; clinical correlation with patient history and other diagnostic information is necessary to determine patient infection status. Positive results do not rule out bacterial infection or co-infection with other viruses. The agent detected may not be the definite cause of disease. Laboratories within the United States and its territories are required to report all positive results to the appropriate public health authorities.
 
@@ -246,8 +247,8 @@ All test controls should be examined prior to interpretation of patient results.
 |Invalid|Orange|
 ||
 
-#### Table 10: Image of Acceptable Binary Test results**
-![][image1]
+#### Table 10: Image of Acceptable Binary Test results
+_Photo showing acceptable binary test results with yellow (positive) and pink (negative) colorimetric LAMP reactions in PCR strip tubes._
 
 Invalid test results will be retested by repeating the purification and amplification on the inactivated sample. Results from retested samples will follow the same interpretation as listed in **Table 9**.
 
@@ -266,7 +267,7 @@ As a part of the Xprize Rapid Test Competition, \"proficiency plates\" consistin
 
 Below is an image of a completed FloodLAMP Glass Milk Test plate, including 8 alternating positive and negative controls in well positions H5-12.
 
-![][image2]
+_Photo of a completed 96-well FloodLAMP Glass Milk Test plate showing yellow and pink colorimetric results with alternating positive and negative controls in positions H5-12._
 
 ### 2) Inclusivity (analytical sensitivity): TBD 
 In silico inclusivity analysis to be performed by mapping the primers and probes to the complete SARS-CoV-2 genomes that are available in the current GISAID (Global Initiative on Sharing All Influenza Data) database. The rate of mismatches will be calculated and potential for amplification failure analyzed.
@@ -284,9 +285,9 @@ HM-121 Streptococcus salivarius SK126
 **Clinical specimens**
 The FloodLAMP Glass Milk Test has been performed on a single clinical positive saliva sample, however no concentration or comparator Ct values were available. The nucleic acid bound pellet was split evenly and the standard FloodLAMP Glass Milk Test colorimetric LAMP reaction was run on one set of 8 (duplicates of clinical positive and 6 controls) and the fluorimetric LAMP reaction (NEB E1700) was run on the 2nd set of 8 using an ABI QuantStudio 7 qPCR machine. SARS-CoV-2 was detected for the clinical positive samples in both sets, with expected results from all controls.
 
-![][image3]
+_Photo showing colorimetric and fluorimetric LAMP results from a clinical positive saliva sample with expected control results._
 
-*/thanks to collaborators at Montana St Univ, Chang & Keil
+*thanks to collaborators at Montana St Univ, Chang & Keil
 
 ## H. UNMET NEED ADDRESSED BY THE PRODUCT 
 *This section will be completed by FDA.*

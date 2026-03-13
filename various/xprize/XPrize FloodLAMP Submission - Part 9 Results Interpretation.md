@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 9 Results Interpretation
@@ -24,18 +24,18 @@ summary_short: FloodLAMP's XPRIZE submission Part 9 Results Interpretation sprea
 CONTENT
 
 ## FloodLAMP Results Interpretation
-**Result Interpretation**
-| Result | Next Step | Batch Control (+) | Batch Control (-) | SARS Target(s) | Human Internal Control Target |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Text | Text |  |  | Numeric | Numeric |
-| Finding of Potential Clinical Significance | Report result | Positive | Negative | Positive | Positive |  |
-| No Finding of Potential Clinical Significance | Report result | Positive | Negative | Negative | Positive |  |
-| Finding of Potential Clinical Significance | Run again | Positive | Negative | Positive | Negative/Inconclusive | EUA's say to report this result as positive even if internal control is negative |
-| Sample/Pool Invalid | Run again |  |  | Negative | Negative/Inconclusive |  |
-| Batch Invalid | Run again | Negative/Inconclusive | Positive/Inconclusive |  |  |  |
+### Result Interpretation
+| Result                                        | Next Step     | Batch Control (+)     | Batch Control (-)     | SARS Target(s) | Human Internal Control Target |                                                                                  |
+|-----------------------------------------------|---------------|-----------------------|-----------------------|----------------|-------------------------------|----------------------------------------------------------------------------------|
+| Text                                          | Text          |                       |                       | Numeric        | Numeric                       |                                                                                  |
+| Finding of Potential Clinical Significance    | Report result | Positive              | Negative              | Positive       | Positive                      |                                                                                  |
+| No Finding of Potential Clinical Significance | Report result | Positive              | Negative              | Negative       | Positive                      |                                                                                  |
+| Finding of Potential Clinical Significance    | Run again     | Positive              | Negative              | Positive       | Negative/Inconclusive         | EUA's say to report this result as positive even if internal control is negative |
+| Sample/Pool Invalid                           | Run again     | NA                    | NA                    | Negative       | Negative/Inconclusive         |                                                                                  |
+| Batch Invalid                                 | Run again     | Negative/Inconclusive | Positive/Inconclusive | NA             | NA                            |
 ||
 
 For a positive pool, we will run the other aliquot of the pool as a confirmation, and run the individual samples.
 
-**Targets**
+### Targets
 Target numbers (1,2,n..) need to correspond to names in "targets" table. Define every possibility of target result and how test result is interpreted.

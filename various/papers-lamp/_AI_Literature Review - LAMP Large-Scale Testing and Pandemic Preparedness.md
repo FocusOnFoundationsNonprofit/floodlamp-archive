@@ -9,7 +9,7 @@ tags: rt-lamp, large-scale-testing, pandemic-preparedness, screening, literature
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1eBTpcCDwtiveSf4OiU0KJ1U0TBswM9_BBUPJJTVXrQI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/papers/Literature%20Review%20-%20RT-LAMP%20Large-Scale%20Testing%20and%20Pandemic%20Preparedness.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/papers/Literature%20Review%20-%20RT-LAMP%20Large-Scale%20Testing%20and%20Pandemic%20Preparedness.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

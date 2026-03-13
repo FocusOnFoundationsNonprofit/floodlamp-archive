@@ -9,7 +9,7 @@ tags:
 source_file_type: xlsx
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1TgmptVRgCZa3yxD5hQcRTQGxrIKOeA-WnMH7JzkzJ6k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/FDA%20SARS-CoV-2%20Reference%20Panel%20Comparative%20Data%20-%20Complied%20by%20Matt%20McFarlane.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/FDA%20SARS-CoV-2%20Reference%20Panel%20Comparative%20Data%20-%20Complied%20by%20Matt%20McFarlane.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx

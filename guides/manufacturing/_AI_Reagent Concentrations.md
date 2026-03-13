@@ -9,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1gOeoQK0CY2kBKjLJ50EB9ObVzu74yotF_wSNu4nXYLs
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/manufacturing/Reagent%20Concentrations.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/manufacturing/Reagent%20Concentrations.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

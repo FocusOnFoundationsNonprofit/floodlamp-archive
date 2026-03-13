@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-17 BA
+last updated: 2026-03-05 by BA
 file_name: 2024-05-29_ACLA Website - ACLA Challenges FDAs Final Rule.md
 file_date: 2024-05-29
 title: ACLA Website - ACLA Challenges FDAs Final Rule
@@ -18,7 +18,7 @@ license: Public Domain
 tokens: 824
 words: 498
 notes: date converted 2024-06-03
-link_web: https://www.acla.com/acla-challenges-fdas-final-rule-to-regulate-laboratory-developed-testing-services-as-medical-devices/
+web_url: https://www.acla.com/acla-challenges-fdas-final-rule-to-regulate-laboratory-developed-testing-services-as-medical-devices/
 summary_short: ACLA Challenges FDA’s Final Rule announces ACLA and HealthTrackRx’s May 29, 2024 lawsuit in the Eastern District of Texas contesting FDA’s May 6, 2024 Final Rule that treats laboratory-developed testing services as medical devices. It argues FDA lacks statutory authority because lab testing services are regulated under CLIA by CMS, and claims the rule is arbitrary and capricious under the Administrative Procedure Act and would disrupt patient access, costs, and innovation in clinical laboratory services.
 
 

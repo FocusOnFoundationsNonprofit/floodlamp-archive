@@ -1,5 +1,3 @@
-
-
 | FloodLAMP QuickFluorTM COVID-19 Test  Instructions for Use v1.0 \*\*DRAFT\*\*  IVD COVID-19 Emergency Use Authorization OnlyFor *in vitro* diagnostic (IVD) Use  www.floodlamp.bio FloodLAMP Biotechnologies, PBC | 930 Brittan Ave. San Carlos, CA 94070 USA |
 | ----- |
 

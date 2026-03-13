@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_open-euas_28k.md =====
-# open-euas (6 files, 27,747 tokens)
-
-# 12,968  _AI_open-euas-open-access-diagnostics-report.md
 METADATA
 last updated: 2026-03-02 RT
 file_name: _AI_open-euas-open-access-diagnostics-report.md
@@ -13,7 +9,7 @@ tags: open-eua, open-source-diagnostics, salivadirect, fda-eua, cdc-test, open-a
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1EZbWftQkdu0VnPlYXqMveg-ZhTDXMqtYZMz5NR-3Z9A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/open-euas/_AI_open-euas-open-access-diagnostics-report.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/_AI_open-euas-open-access-diagnostics-report.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

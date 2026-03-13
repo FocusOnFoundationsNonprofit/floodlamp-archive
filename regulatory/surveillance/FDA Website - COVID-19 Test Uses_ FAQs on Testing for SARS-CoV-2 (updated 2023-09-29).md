@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-31 CT
-file_name: FDA Website - COVID-19 Test Uses_ FAQs on Testing for SARS-CoV-2 (updated 2023-09-29)
+last updated: 2026-03-05 by BA
+file_name: FDA Website - COVID-19 Test Uses_ FAQs on Testing for SARS-CoV-2 (updated 2023-09-29).md
 file_date: 2023-09-29
 title: COVID-19 Test Uses_ FAQs on Testing for SARS-CoV-2 _ FDA
 category: regulatory
@@ -26,7 +26,7 @@ CONTENT
 
 ***INTERNAL TITLE:*** COVID-19 Test Uses: FAQs on Testing for SARS-CoV-2
 
-This page is part of the [FAQs on Testing for SARS-CoV-2](https://arc.net/l/quote/bbuhxxxkhttps://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2) and provides answers to frequently asked questions related to uses for different types of COVID-19 tests and the settings in which they can be used.
+This page is part of the [FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2) and provides answers to frequently asked questions related to uses for different types of COVID-19 tests and the settings in which they can be used.
 
 Questions and answers regarding other policies described in the [Policy for Coronavirus Disease-2019 Tests](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/policy-coronavirus-disease-2019-tests-revised) are found in other pages in [this section](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2).
 

@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-27 CT
+last updated: 2026-03-06 by BA
 file_name: Florida State EMS Proposal - FloodLAMP (Jan 12 2022).md
 file_date: 2022-01-12
 title: Florida State EMS Proposal - FloodLAMP (Jan 12 2022)
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1W00pK_W1mP8zCbIniHvOyc1arpFgp8HIss4gpHQJAqQ
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-proposals/Florida%20State%20EMS%20Proposal%20-%20FloodLAMP%20%28Jan%2012%202022%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/10yO6guXCDJG5O01QY8c3FwwtjI7BUIDi/view?usp=drive_link
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-proposals/Florida%20State%20EMS%20Proposal%20-%20FloodLAMP%20%28Jan%2012%202022%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -52,11 +52,11 @@ kevin@floodlamp.bio
 
 **[Phase 1 Implementation Plan - 10 Sites](#phase-1-implementation-plan---10-sites) 5**
 
-> [Systems](#systems) 5
->
-> [Test Kits](#test-kits) 5
->
-> [Digital Tools](#digital-tools) 6
+[Systems](#systems) 5
+
+[Test Kits](#test-kits) 5
+
+[Digital Tools](#digital-tools) 6
 
 **[Phase 2 Implementation Plan - 50 Sites plus Mobile](#phase-2-implementation-plan---50-sites-plus-mobile) 7**
 
@@ -70,7 +70,7 @@ FloodLAMP’s mission is to enable globally scalable mass disease screening, for
 ## Resilient Florida Overview 
 FloodLAMP is eager to work with the State of Florida to rapidly develop multi-scale molecular surveillance capability at local emergency response agencies. The State is well positioned to support the bring up of processing sites at local emergency agencies because of the cost and time savings inherent to parallel training and deployment. This capability will provide local agencies another viral suppression tool to protect critical human infrastructure at a low cost during normal operations and in emergency response. State sponsored deployments are well suited to hand off to local agency operation once local staff are trained, and local agencies can source test kits on an as needed basis from their discretionary budgets.
 
-The current configuration of our test system supports non-diagnostic testing of COVID-19. In the future, new disease targets can be added, as required by local and state agencies, by changing out only one component of the test (the primers). This plug-and-play capability is a key feature of molecular tests, however most companies in the industry operate as closed, proprietary systems, keeping their test ingredients secret (including the test chemistry and primer sequences). FloodLAMP takes the opposite approach and as a public benefit company, we have a commitment to open protocols and transparency built into our corporate charter. What this means for the Resilient Florida proposal is that the physical infrastructure deployed along with the experience gained through running surveillance screening programs at scale, in partnership with FloodLAMP, extends far beyond this pandemic and specific virus. We’re helping the State of Florida build a new tool, to use when needed for pathogen detection, pandemic response, and flexible critical workforce disease surveillance screening. <span class="mark">Together we're adding to local resilience and positioning communities to self-sufficiently respond to the challenges they face.</span>
+The current configuration of our test system supports non-diagnostic testing of COVID-19. In the future, new disease targets can be added, as required by local and state agencies, by changing out only one component of the test (the primers). This plug-and-play capability is a key feature of molecular tests, however most companies in the industry operate as closed, proprietary systems, keeping their test ingredients secret (including the test chemistry and primer sequences). FloodLAMP takes the opposite approach and as a public benefit company, we have a commitment to open protocols and transparency built into our corporate charter. What this means for the Resilient Florida proposal is that the physical infrastructure deployed along with the experience gained through running surveillance screening programs at scale, in partnership with FloodLAMP, extends far beyond this pandemic and specific virus. We’re helping the State of Florida build a new tool, to use when needed for pathogen detection, pandemic response, and flexible critical workforce disease surveillance screening. Together we're adding to local resilience and positioning communities to self-sufficiently respond to the challenges they face.
 
 ## Proposal Summary 
 FloodLAMP proposes the State of Florida lead the rapid bring up of sites across the state in a two phase roll out. The State role will be strictly capability building toward local resilience and handoff whereas the local partner agencies will assume financial and program management responsibility. Phase 1 will bring FloodLAMP testing assets in-house to 10 urban, suburban, and rural sites and Phase 2 will expand five–fold. FloodLAMP is equipped to begin Phase 1 immediately and Phase 2 within 10 days of initiation, with completion of both phases within 30 days. The proposal assumes active buy-in from local partner agencies.
@@ -118,63 +118,12 @@ Each FloodLAMP site includes all the equipment and supplies for turnkey operatio
 
 3 different system configurations are provided:
 
-<table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
-<col style="width: 6%" />
-<col style="width: 11%" />
-<col style="width: 13%" />
-<col style="width: 13%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"><strong>Pipettes</strong></th>
-<th style="text-align: center;"><strong>Prep Heater</strong></th>
-<th style="text-align: center;"><strong>Amp Heater</strong></th>
-<th style="text-align: center;"><strong>Pool Level</strong></th>
-<th style="text-align: center;"><strong>Max Capacity per 24hrs</strong></th>
-<th style="text-align: center;"><strong>Recommended Daily Max Throughput</strong></th>
-<th style="text-align: center;"><p><strong>Recommended Staff</strong></p>
-<p><strong>(single shift)</strong></p></th>
-</tr>
-<tr>
-<th><strong>System Large</strong></th>
-<th style="text-align: center;">2 premium sets</th>
-<th style="text-align: center;">2 x Water Bath</th>
-<th style="text-align: center;">2 x 96 Dry Bath</th>
-<th style="text-align: center;">4</th>
-<th style="text-align: center;">40,000</th>
-<th style="text-align: center;">10,000</th>
-<th style="text-align: center;">6</th>
-</tr>
-<tr>
-<th><strong>System Medium</strong></th>
-<th style="text-align: center;">1 premium set</th>
-<th style="text-align: center;">2 x Water Bath</th>
-<th style="text-align: center;">1 x 96 Dry Bath</th>
-<th style="text-align: center;">4</th>
-<th style="text-align: center;">20,000</th>
-<th style="text-align: center;">6,000</th>
-<th style="text-align: center;">4</th>
-</tr>
-<tr>
-<th><strong>System Mobile</strong></th>
-<th style="text-align: center;">1 premium set</th>
-<th style="text-align: center;">1 x 15 Dry Bath</th>
-<th style="text-align: center;">1 x 40 Dry Bath</th>
-<th style="text-align: center;">2</th>
-<th style="text-align: center;">3,500</th>
-<th style="text-align: center;">1,000</th>
-<th style="text-align: center;">1</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| | Pipettes | Prep Heater | Amp Heater | Pool Level | Max Capacity per 24hrs | Recommended Daily Max Throughput | Recommended Staff (single shift) |
+|---|---|---|---|---|---|---|---|
+| **System Large** | 2 premium sets | 2 x Water Bath | 2 x 96 Dry Bath | 4 | 40,000 | 10,000 | 6 |
+| **System Medium** | 1 premium set | 2 x Water Bath | 1 x 96 Dry Bath | 4 | 20,000 | 6,000 | 4 |
+| **System Mobile** | 1 premium set | 1 x 15 Dry Bath | 1 x 40 Dry Bath | 2 | 3,500 | 1,000 | 1 |
+||
 
 Rapid stand-up and validation assigns a FloodLAMP staff scientist to synchronously support the remote set up of the site and initial validation runs. This process quickly turns an empty room into a fully operational test processing site with high throughput capability.
 
@@ -183,7 +132,7 @@ Staffing for the sites will be a mix of FloodLAMP Test Technicians (test operato
 ### Test Kits
 FloodLAMP All-in Test Kits are unique in the space because they are inclusive of all components required to run large scale testing programs. The kits include collection materials that test up to four people per pool ($2 per person tested), software, and a digital app to manage collection, operations and reporting, as well as all laboratory consumables and reagents. FloodLAMP manages test kit orders for processing sites so they can easily update expected throughput and have their inventory restocked each week on a per test basis. All-in Test Kits contain all of the reagents (liquids needed for the test) and plastic consumables (tubes, pipette tips, plates), as well as the sample collection kit materials (QR coded tubes and nasal swabs), necessary to run the test. These are provided on a per reaction (or per pool) basis and indexed to the LAMP reaction master mix.
 
-## Digital Tools
+### Digital Tools
 FloodLAMP has custom created digital tools to facilitate the testing process. They serve three key user groups:
 
 1.  **Participants**
@@ -216,262 +165,31 @@ Selection of deployment sites as well as implementation details will be informed
 FloodLAMP will work directly with local agencies to sustainably manage test capability. FloodLAMP will work with the State of Florida on mobile and pop-up site infrastructure to add capacity during emergency response.
 
 ## Proposal Financials
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 12%" />
-<col style="width: 16%" />
-<col style="width: 12%" />
-<col style="width: 14%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Item</strong></th>
-<th style="text-align: center;"><strong>Unit Type</strong></th>
-<th style="text-align: center;"><strong>Unit Cost</strong></th>
-<th style="text-align: center;"><strong>Phase 1</strong></th>
-<th style="text-align: center;"><strong>Phase 1 Totals</strong></th>
-<th style="text-align: center;"><strong>Phase 2</strong></th>
-<th style="text-align: center;"><strong>Phase 2 Totals</strong></th>
-</tr>
-<tr>
-<th><strong>Systems<sup>1</sup></strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>System Large</p>
-</blockquote></th>
-<th>Per Site</th>
-<th style="text-align: right;">$18,000</th>
-<th style="text-align: right;">4</th>
-<th style="text-align: right;">$72,000</th>
-<th style="text-align: right;">6</th>
-<th style="text-align: right;">$108,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>System Medium</p>
-</blockquote></th>
-<th>Per Site</th>
-<th style="text-align: right;">$11,000</th>
-<th style="text-align: right;">6</th>
-<th style="text-align: right;">$66,000</th>
-<th style="text-align: right;">34</th>
-<th style="text-align: right;">$374,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>System Mobile</p>
-</blockquote></th>
-<th>Per System</th>
-<th style="text-align: right;">$6,000</th>
-<th></th>
-<th></th>
-<th style="text-align: right;">10</th>
-<th style="text-align: right;">$60,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Rapid Stand Up &amp; Validation</p>
-</blockquote></th>
-<th>Per Site</th>
-<th style="text-align: right;">$8,000</th>
-<th style="text-align: right;">10</th>
-<th style="text-align: right;">$80,000</th>
-<th style="text-align: right;">40</th>
-<th style="text-align: right;">$320,000</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th style="text-align: right;">$218,000</th>
-<th></th>
-<th style="text-align: right;">$862,000</th>
-</tr>
-<tr>
-<th><strong>Staff<sup>2</sup></strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>FloodLAMP Lab Technicians</p>
-</blockquote></th>
-<th>Per Person Per Week</th>
-<th style="text-align: right;">$5,000</th>
-<th style="text-align: right;">20</th>
-<th style="text-align: right;">$100,000</th>
-<th style="text-align: right;">80</th>
-<th style="text-align: right;">$400,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Technical Training &amp; Certification</p>
-</blockquote></th>
-<th>Per Person</th>
-<th style="text-align: right;">$2,000</th>
-<th style="text-align: right;">20</th>
-<th style="text-align: right;">$40,000</th>
-<th style="text-align: right;">80</th>
-<th style="text-align: right;">$160,000</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$140,000</th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$560,000</th>
-</tr>
-<tr>
-<th><strong>Licenses</strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>FloodLAMP Digital Suite License</p>
-</blockquote></th>
-<th>1 year</th>
-<th>incl with Test Kit purchase</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>FloodLAMP QuickColor(TM) COVID19 Test License</p>
-</blockquote></th>
-<th>1 year</th>
-<th>incl with Test Kit purchase</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><strong><mark>All-in Test Kits<sup>1</sup></mark></strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Reagents and Consumables</p>
-</blockquote></th>
-<th>Per Reaction/Pool</th>
-<th style="text-align: right;">$8</th>
-<th style="text-align: right;">40,000</th>
-<th style="text-align: right;">$320,000</th>
-<th style="text-align: right;">300,000</th>
-<th style="text-align: right;">$2,400,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Collection Kit Materials</p>
-</blockquote></th>
-<th>Per 4 Person Pool</th>
-<th>incl w Test Kits</th>
-<th style="text-align: right;">40,000</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$320,000</th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$2,400,000</th>
-</tr>
-<tr>
-<th><strong>Deposits</strong></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Systems</p>
-</blockquote></th>
-<th>critical supplies</th>
-<th style="text-align: right;">$1,200</th>
-<th style="text-align: right;">40</th>
-<th style="text-align: right;">$48,000</th>
-<th style="text-align: right;">50</th>
-<th style="text-align: right;">$60,000</th>
-</tr>
-<tr>
-<th><blockquote>
-<p>Test Kits</p>
-</blockquote></th>
-<th>critical consumables</th>
-<th style="text-align: right;">$0.80</th>
-<th style="text-align: right;">300,000</th>
-<th style="text-align: right;">$240,000</th>
-<th style="text-align: right;">600,000</th>
-<th style="text-align: right;">$480,000</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$288,000</th>
-<th style="text-align: right;">Subtotal</th>
-<th style="text-align: right;">$540,000</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th style="text-align: right;"><strong>Phase 1 Total</strong></th>
-<th style="text-align: right;"><strong>$966,000</strong></th>
-<th style="text-align: right;"><strong>Phase 2 Total</strong></th>
-<th style="text-align: right;"><strong>$4,362,000</strong></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+| Item | Unit Type | Unit Cost | Phase 1 | Phase 1 Totals | Phase 2 | Phase 2 Totals |
+|---|---|---|---|---|---|---|
+| **Systems¹** | | | | | | |
+| System Large | Per Site | $18,000 | 4 | $72,000 | 6 | $108,000 |
+| System Medium | Per Site | $11,000 | 6 | $66,000 | 34 | $374,000 |
+| System Mobile | Per System | $6,000 | | | 10 | $60,000 |
+| Rapid Stand Up & Validation | Per Site | $8,000 | 10 | $80,000 | 40 | $320,000 |
+| | | | | $218,000 | | $862,000 |
+| **Staff²** | | | | | | |
+| FloodLAMP Lab Technicians | Per Person Per Week | $5,000 | 20 | $100,000 | 80 | $400,000 |
+| Technical Training & Certification | Per Person | $2,000 | 20 | $40,000 | 80 | $160,000 |
+| | | | Subtotal | $140,000 | Subtotal | $560,000 |
+| **Licenses** | | | | | | |
+| FloodLAMP Digital Suite License | 1 year | incl with Test Kit purchase | | | | |
+| FloodLAMP QuickColor(TM) COVID19 Test License | 1 year | incl with Test Kit purchase | | | | |
+| **All-in Test Kits¹** | | | | | | |
+| Reagents and Consumables | Per Reaction/Pool | $8 | 40,000 | $320,000 | 300,000 | $2,400,000 |
+| Collection Kit Materials | Per 4 Person Pool | incl w Test Kits | 40,000 | | | |
+| | | | Subtotal | $320,000 | Subtotal | $2,400,000 |
+| **Deposits** | | | | | | |
+| Systems | critical supplies | $1,200 | 40 | $48,000 | 50 | $60,000 |
+| Test Kits | critical consumables | $0.80 | 300,000 | $240,000 | 600,000 | $480,000 |
+| | | | Subtotal | $288,000 | Subtotal | $540,000 |
+| | | | **Phase 1 Total** | **$966,000** | **Phase 2 Total** | **$4,362,000** |
+||
 
 **Terms**
 (1) delivery 10 days from PO  

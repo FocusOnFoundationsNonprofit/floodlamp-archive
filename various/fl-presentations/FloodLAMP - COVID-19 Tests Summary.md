@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-31 RT
-file_name: FloodLAMP - COVID-19 Tests Summary.pdf
+last updated: 2026-03-06 by BA
+file_name: FloodLAMP - COVID-19 Tests Summary.md
 file_date: 2021-05-20
 title: FloodLAMP - COVID-19 Tests Summary
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/FloodLAMP%20-%20COVID-19%20Tests%20Summary.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1Y8Q09VdMMTB1PnBQv2xJuvRAuvq8yv1-
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/FloodLAMP%20-%20COVID-19%20Tests%20Summary.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -67,13 +67,13 @@ FloodLAMP is a public beneﬁt corporation advancing public health with low cost
 - Kits and guide available upon request
 
 
-## Clinical evaluation
+### Clinical evaluation
 - Performed by Stanford University CLIA lab 
 - 100% speciﬁcity for both tests (no FP) 
 - Praise for "really straightforward" protocol
 
 
-## Regulatory status
+### Regulatory status
 - Full EUAs for QuickColorTM and EasyPCR(TM) COVID-19 Tests submitted to FDA
 - FloodLAMP Pooled Swab Home Collection Kit DTC pre-EUA submitted to FDA 
 - IRB approved for clinical studies

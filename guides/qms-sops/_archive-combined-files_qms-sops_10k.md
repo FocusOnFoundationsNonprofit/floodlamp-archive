@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_qms-sops_10k.md =====
-# qms-sops (8 files, 9,679 tokens)
-
-# 737  _context-commentary_guides-qms-sops.md
 METADATA
 last updated: 2026-02-17 RT
 file_name: _context-commentary_guides-qms-sops.md
@@ -45,9 +41,9 @@ tags: operations
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1MP7r3NDctnwQJLbl2PKkOQPdX-S789Fw9EvIRoETvnI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1oixE09e0pqHo8uFcBDhzC1OPvf5YzHMT
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-030-A_1%20Shipping%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -129,9 +125,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1YiosM1yHUjlkwg_aE_j-xyOyT_9hJk_tyT2OU4qDjW8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1P9W2Zu3esKwstzSynPQJKBlZu_PPjR0S
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -206,9 +202,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Imf8TlrMkjeEpDY0buot0fgfkaJpuJApnaZ7Cm9XbOs
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1ajTg1-lEiXJXvt_bZlWTOeTd41GDQ0Xa
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-102-A_2%20Reaction%20Mix%20Prep%20-%20Table%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -284,9 +280,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1XFMcUP6L8pzn2crTuWiHZF-UeybzBO64FLrGozo9O3M
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1yhaVkXZJYI7PtKd7kGpM0AGN4aA2IPi8
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-103-A_1%20Amplification%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -400,9 +396,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Nk586b_UbYKr6iE7Yrhe7NHN1tl4qSttFPYquUHJQJQ
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JmcisdqvDVhxCmCFEHRi3YacFW9xYaBB
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-104-A_1%20Test%20Training%20-%20Run%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -571,9 +567,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/15oCAL2T0or_BigVAw1kpXS_BojPpcPsMOw8aJ_qw5mA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hgxWFnT6RCJRAA6CyJWD1lnAr_5P1vNT
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-105-A_1%20QuickColor%20Test%20Diagrams.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -683,9 +679,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1IO3MjHxGCzMMlYJsnHvZyzYv-ohpRolbGJksY8S08-E
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1RR_V3e6fn0g7xCESHnX3t-6VYQi3r1NU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-105-B_1%20QuickColor%20Test%20Signage.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

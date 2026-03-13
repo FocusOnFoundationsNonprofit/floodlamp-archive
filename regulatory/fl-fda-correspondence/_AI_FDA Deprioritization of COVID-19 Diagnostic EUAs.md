@@ -9,7 +9,7 @@ tags: fda-deprioritization, eua, covid-diagnostics, cdrh, oht7, decline-to-revie
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1XgCWcEhzhNktZGdiY2jo5xlOvuYBQAv7fPymbe2pmfA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/reg-articles-misc/_AI_FDA%20Deprioritization%20of%20COVID-19%20Diagnostic%20EUAs.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/_AI_FDA%20Deprioritization%20of%20COVID-19%20Diagnostic%20EUAs.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after RT
-file_name: Quad Chart v2 - FloodLAMP (Jan 2022).pdf
+last updated: 2026-03-06 by BA
+file_name: Quad Chart v2 - FloodLAMP (Jan 2022).md
 file_date: 2022-01-08
 title: Quad Chart v2 - FloodLAMP (Jan 2022)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1u_Qs33LHnoKvucNNd2IrayJ4TYcxtkxWT44ZY5Hy8-I
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/Quad%20Chart%20v2%20-%20FloodLAMP%20%28Jan%202022%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1YOMiDATjQhI2J0nLTT4IQs69x-g5ezwU
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/Quad%20Chart%20v2%20-%20FloodLAMP%20%28Jan%202022%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

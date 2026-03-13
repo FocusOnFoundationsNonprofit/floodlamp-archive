@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1FWhHbpMOCezPXxhqFQ4lcSdcWr9ymoPK
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1tyB60wMUVIcWN_lubM6rveH69LIqiKsd
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

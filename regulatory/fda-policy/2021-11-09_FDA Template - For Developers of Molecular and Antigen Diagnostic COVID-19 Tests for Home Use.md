@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/14JA_n_w-eB6BQFbq5l4mBDA28Fb7uP5s
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1s_gKxPpC4qxEtUQJHjaIdeW_k4GGvBXr
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

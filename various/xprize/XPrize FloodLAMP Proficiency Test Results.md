@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-03-03 AI and RT
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Proficiency Test Results.md
 file_date: 2021-01-08
 title: FloodLAMP XPRIZE Proficiency Test Results — Submitted Results Merged with Answer Key
@@ -26,7 +26,6 @@ CONTENT
 FloodLAMP's blinded proficiency test results from the XPRIZE Rapid Covid Testing competition, merged with the answer key that XPRIZE released after judging. FloodLAMP submitted results under Team ID 3362. The "Detected" column contains FloodLAMP's submitted calls (1=detected, 0=not detected). The remaining columns show the unblinded sample compositions.
 
 ## Performance Summary
-
 ### Rack NSP17634 (Zepto particles, PBS/Saliva/Nasal, 4°C)
 - 69 samples total
 - 51 correct calls, 18 false negatives, 0 false positives

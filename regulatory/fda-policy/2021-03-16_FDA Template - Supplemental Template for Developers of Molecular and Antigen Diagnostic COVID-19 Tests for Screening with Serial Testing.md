@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1BGy9inkqbEknOnry56qBgFuzzZ-Wj4Xk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1J6jb30Gfn8udjX_wb6YXqjPMQfrwCwUP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

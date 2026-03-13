@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Proficiency Kit Handling Instructions
@@ -23,7 +23,7 @@ summary_short: Detailed handling instructions for the XPRIZE Rapid Testing profi
 
 CONTENT
 
-***INTERNAL TITLE:***  XPRIZE Rapid Testing Proficiency Kit Instructions
+***INTERNAL TITLE:*** XPRIZE Rapid Testing Proficiency Kit Instructions
 
 This shipment contains a test kit for semifinalists of the XPRIZE Rapid Testing competition. It is for research use only and has no commercial value.
 
@@ -41,12 +41,12 @@ If your test does not function with a particular matrix fluid, you may dilute th
 
 If your test requires knowledge of prevalence (e.g., for pooling strategies), you may choose to individually analyze a portion of each sample and determine this yourself. XPRIZE will not be revealing this information.
 
-## Antigen Test Kit
+### Antigen Test Kit
 If you are testing for antigen, your kit consists of one rack shipped on dry ice. The kit ideally should be stored at -80°C until analysis. For short term storage for a week or less, -20°C is sufficient. Additional freeze-thaw cycles should be avoided. While performing your testing protocol, samples still should be kept on ice or as cold as reasonably possible until the moment of analysis.
 
 The positive control has virus material with 10^4 RNA copies/µL. Units here are RNA copies/µL because the material was analyzed by PCR. Rest assured that antigen components are also present.
 
-## RNA Test Kit
+### RNA Test Kit
 If you are testing for RNA, your kit consists of two racks, one shipped on dry ice and one on cold packs. The rack shipped on dry ice should be stored at -80°C until analysis. For short term storage for a week or less, -20°C is sufficient. The rack shipped on cold packs should be stored at 4°C until analysis. While performing your testing protocol, samples still should be kept on ice or as cold as reasonably possible until the moment of analysis.
 
 The dry ice-shipped positive control has 10^4 RNA copies/µL. The cold pack-shipped positive control has 10^2 RNA copies/µL.

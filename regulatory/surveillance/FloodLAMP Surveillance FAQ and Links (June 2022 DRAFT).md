@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1u7I8qHl8sGRQJo-qjH1NSAg5nSrcFb_leaJdvMTyDag
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/FloodLAMP%20Surveillance%20FAQ%20and%20Links%20%28June%202022%20DRAFT%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/124Vk07Y-KUmMP3Sb-QIe59oyMyX2V8cf
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/FloodLAMP%20Surveillance%20FAQ%20and%20Links%20%28June%202022%20DRAFT%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

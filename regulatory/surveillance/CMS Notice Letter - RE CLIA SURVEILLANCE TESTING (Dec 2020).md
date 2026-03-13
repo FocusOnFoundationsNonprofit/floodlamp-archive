@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-27 CT
+last updated: 2026-03-05 by BA
 file_name: CMS Notice Letter - RE CLIA SURVEILLANCE TESTING (Dec 2020).md
 file_date: 2020-12-28
 title: CMS Notice Letter - RE CLIA SURVEILLANCE TESTING (Dec 2020)
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1LU0avTD5u8AQTM_Ybz_jY8mRwK7FVr11o_NR_6nfIM8
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/CMS%20Notice%20Letter%20-%20RE%20CLIA%20SURVEILLANCE%20TESTING%20%28Dec%202020%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/16GgSq3IeZElT55GLwFVo2iY8MUyiiiby
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/CMS%20Notice%20Letter%20-%20RE%20CLIA%20SURVEILLANCE%20TESTING%20%28Dec%202020%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -43,7 +43,7 @@ It has come to our attention that your facility \[Recipient Redacted\], is perfo
 
 To become CLIA-certified, laboratories must comply with the accuracy, quality, and reliability requirements as dictated by the statute. The purpose of these requirements is to ensure that the information that patients or their health care providers receive from a clinical laboratory is accurate and reliable test results. Laboratories that wish to become CLIA certified must apply for a CLIA
 
-Certificate. You may access the CLIA regulations at: <u>https://www.ecfr.gov/cgi-bin/text-idx?SID=1248e3189da5e5f936e55315402bc38b&node=pt42.5.493&rgn=div5</u>
+Certificate. You may access the CLIA regulations at: https://www.ecfr.gov/cgi-bin/text-idx?SID=1248e3189da5e5f936e55315402bc38b&node=pt42.5.493&rgn=div5
 
 If you elect to apply for CLIA certificate, a CLIA application may be obtained from:
 \[State Public Health Department\]

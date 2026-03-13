@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-context-commentary_various_12k.md =====
-# various context & commentary (10 files, 11,892 tokens)
-
-# 822  _context-commentary_various-external-programs-reports.md
 METADATA
 last updated: 2026-02-18 RT
 file_name: _context-commentary_various-external-programs-reports_WIP.md

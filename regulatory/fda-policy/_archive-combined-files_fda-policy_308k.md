@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_fda-policy_308k.md =====
-# fda-policy (48 files, 308,163 tokens)
-
-# 1,795  _context-commentary_regulatory-fda-policy.md
 METADATA
 last updated: 2026-03-01 RT
 file_name: _context-commentary_regulatory-fda-policy.md
@@ -90,9 +86,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1ldfbrQXievTqNcIeQi0-BVkwlGu1P4e8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1uoLP2EJrJEjgMtdMmsUOSn4HZ0XZp_x5
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-02-29_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v1.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -215,9 +211,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1-zO3MLxstI36OMxAVf9sMtC9UHwXw49L
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-03-16_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v2.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-03-16_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v2.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1-Vd8UMwecmMKVLa2FaIh52fOEBYDur63
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-03-16_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v2.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-03-16_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v2.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -521,9 +517,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1znZ6frcoKUCeafYZdDkTZ1S2r9uklCrH
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-05-04_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v3.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-05-04_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v3.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1gH7xdIi7L0hRx97Eob9oEUcMSend_7f7
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-05-04_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v3.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-05-04_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v3.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -1272,9 +1268,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1sN6jmf7QO8-vVP3NyP63bfPEKt30kvce
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-05-11_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v4.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-05-11_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v4.docx
 pdf_gdrive_url: https://drive.google.com/file/d/156DvhiACDugunlE7Bxu7qmmroCgCR_fB
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-05-11_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v4.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-05-11_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v4.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -1576,9 +1572,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1q3PbLhynUpyUkF-XkqQwVIy8ObeEQUzH0NNchRFEiqM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1H7qxRSJ-M1aBj1bTTdbeljQXmkmrvIJd
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-05-29_FDA%20Template%20-%20Home%20Specimen%20Collection%20Molecular%20Diagnostic%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -1920,9 +1916,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/10alSr49q6Asxz7EN7eZ3QCqTF04Dic_o
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1oYZw2TXJUthcT1Nw7FARgjj17adCS06x
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -1976,9 +1972,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1FWhHbpMOCezPXxhqFQ4lcSdcWr9ymoPK
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1tyB60wMUVIcWN_lubM6rveH69LIqiKsd
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-07-28_FDA%20Template%20-%20Molecular%20Diagnostic%20Template%20for%20Commercial%20Manufacturers.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -2801,9 +2797,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/13h-zhpM5i5FWbNsCF7YxKpyeBsQyJk2O
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-07-29_FDA%20Template%20-%20For%20Manufacturers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Non-Laboratory%20Use.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-07-29_FDA%20Template%20-%20For%20Manufacturers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Non-Laboratory%20Use.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1mCrJMZs-3PF-FTrHrr7zIeDJyIaY-83z
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-07-29_FDA%20Template%20-%20For%20Manufacturers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Non-Laboratory%20Use.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-07-29_FDA%20Template%20-%20For%20Manufacturers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Non-Laboratory%20Use.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -3305,9 +3301,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1FMvrhPsnQmty_4uPUNfBY5CWV3MJb1Eh
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20ABBREVIATED%20STUDY.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20ABBREVIATED%20STUDY.docx
 pdf_gdrive_url: https://drive.google.com/file/d/19SljciDKAcVOk7hX9gfyQmeHzNhsx-Zs
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20ABBREVIATED%20STUDY.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20ABBREVIATED%20STUDY.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -3519,9 +3515,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1SqJHxNoWQvg1EIY-Dr2ngahed4UIY2Oo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.docx
 pdf_gdrive_url: https://drive.google.com/file/d/15aOYfuHk4JV44odELrt66CvA_carCuPm
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -3717,9 +3713,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1zUrK-zdaEbo4pRihH60blFNzvDfmcW5QJfYOBCaVKHk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1vW6FNrru6W_OWgL8Nr_wubXYmFmU9HwR
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-08-24_FDA%20Policy%20IVD%20-%20Pooled%20Sample%20Testing%20and%20Screening%20Testing%20for%20COVID-19.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -3864,9 +3860,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1OyO2APHZT9jSsb8K_CfHwLvWHUYPGI5O
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1RqXofsfYYYPUt_aHN9z9l46tMDWtiY6y
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-10-26_FDA%20Template%20-%20Antigen%20Template%20for%20Test%20Developers.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -4431,9 +4427,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1m4HObbyS64MgEHEjBI8qo8tRdMwaMzLh
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1R2Li5C0Ocvbin1IHQRAwiYZQ9RfFe3oE
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-03-13_FDA%20Fact%20Sheet%20-%20Screening%20for%20COVID-19%20Deciding%20Which%20Test%20to%20Use%20When%20Establishing%20Testing%20Programs.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -4492,9 +4488,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1BGy9inkqbEknOnry56qBgFuzzZ-Wj4Xk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1J6jb30Gfn8udjX_wb6YXqjPMQfrwCwUP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-03-16_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -4643,7 +4639,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1EL5kfQsyIGs57SDK8lm-9LWnwr41Fgtv
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Health%20Care%20Providers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Health%20Care%20Providers.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -4769,7 +4765,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1PLLYvCrnxebmuK4V06Fd6f_VjwnbZobM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Patients.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Patients.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain
@@ -4872,7 +4868,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1j5PHj5Ukp0M4RfIlJL03CkOGzitr2_gY
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Letter%20-%20Amendment%20Letter.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Letter%20-%20Amendment%20Letter.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -5329,7 +5325,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1gZNI6dqEWCLUV53lH6YIuPVIjQ9K8hxZ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-09-23_FDA%20Letter%20-%20Viral%20Mutation%20Revision%20Letter.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-09-23_FDA%20Letter%20-%20Viral%20Mutation%20Revision%20Letter.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -5470,9 +5466,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1APPBLs59clpaOt2qBMzYbHVXvFpqkJas
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-10-06_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20Diagnostic%20Tests.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-10-06_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20Diagnostic%20Tests.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1xQ8iaicJm2rzOVlw351yDv5gKlFahDqc
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-10-06_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20Diagnostic%20Tests.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-10-06_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20Diagnostic%20Tests.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -6673,9 +6669,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1gvgvAbMp-_Wt1052LgnBYHXZPFyNsQlv
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-10-25_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-10-25_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1HbLhhdrodfUARlyXtCY0tBF8z-oPFI2A
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-10-25_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-10-25_FDA%20Template%20-%20Supplemental%20Template%20for%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Screening%20with%20Serial%20Testing.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -6781,9 +6777,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/14JA_n_w-eB6BQFbq5l4mBDA28Fb7uP5s
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1s_gKxPpC4qxEtUQJHjaIdeW_k4GGvBXr
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-09_FDA%20Template%20-%20For%20Developers%20of%20Molecular%20and%20Antigen%20Diagnostic%20COVID-19%20Tests%20for%20Home%20Use.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -7345,9 +7341,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z89Vls227zXt8-XD3KID4OYRZWMjgFZH
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1KrfwKAHzjWluT23JNvaWm28NY7idzlzM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -7503,7 +7499,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1XVkWqGSIzELmcylCR4lSIPlc8NVI62Cv
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Healthcare%20Providers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Healthcare%20Providers.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -7603,9 +7599,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1buxdsyDhN_T_c6FVW3PIPMM_duc8Nnv4
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1NIqDxLqy-csW9Upw2VhSpQtXYZ90LoM7
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -7729,7 +7725,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/15IYuV9oStHUdX__pWbgcong0pukyfFSz
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -7811,9 +7807,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1hCGpvQwuLnzFif5So2fCKvXc6HbzDlqf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1YClkMKU4YVojP28wnwyDhl_7QIzaQylH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain
@@ -8023,7 +8019,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1WVtreLbJjhtvMg0XN2nBpBVIiQkRTf9h
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v5.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v5.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -8301,7 +8297,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1PPfe8g7BINm0em8x3rRu0_-7dHyuRrS0
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20EUA%20Letter%20of%20Authorization.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20EUA%20Letter%20of%20Authorization.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -9228,7 +9224,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1NzCFlg7IGG9P2x4JmM0y0GmxeRQ9V_ZP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20Laboratories%20Who%20Have%20Developed%20a%20Molecular-Based%20Test.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20Laboratories%20Who%20Have%20Developed%20a%20Molecular-Based%20Test.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -9429,7 +9425,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1E0cRvVwMURRjdzvBD_95HOaD5hLkPLAM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2022-09-27_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v6.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2022-09-27_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v6.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -9642,7 +9638,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1qHkP78BzsRbR4EqZe3xOhENS7iomOdj1
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2022-11-01_FDA%20Letter%20-%20Repeat%20Testing%20Revision%20Letter.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2022-11-01_FDA%20Letter%20-%20Repeat%20Testing%20Revision%20Letter.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -10130,7 +10126,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1o5E3GGbch8fkfwT1IsOLGgrENB96AFIx
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-01-12_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v7.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-01-12_FDA%20Guidance%20-%20COVID%20IVD%20Test%20Developers%20v7.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -10375,7 +10371,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1PfmmbYNYg5QEfeL-bSV9BvFDl_q0Jj5Y
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20Issued%20EUAs.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20Issued%20EUAs.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -10708,7 +10704,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1ffNjyQ1oymPQh4SJQRXQ7bPu2QXgnZxK
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20That%20Fall%20Within%20Enforcement%20Policies.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20That%20Fall%20Within%20Enforcement%20Policies.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
@@ -11164,7 +11160,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/12TN_DQShtSnmCa-hJFLGRq-n2W2JJICu
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-09-23_FDA%20Response%20Letter%20-%20To%20Compliant%20regarding%20FDA%20Reference%20Panel%20from%20Dec%202020.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-09-23_FDA%20Response%20Letter%20-%20To%20Compliant%20regarding%20FDA%20Reference%20Panel%20from%20Dec%202020.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
@@ -11326,7 +11322,7 @@ tags:
 source_file_type: xlsx
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1TgmptVRgCZa3yxD5hQcRTQGxrIKOeA-WnMH7JzkzJ6k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/FDA%20SARS-CoV-2%20Reference%20Panel%20Comparative%20Data%20-%20Complied%20by%20Matt%20McFarlane.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/FDA%20SARS-CoV-2%20Reference%20Panel%20Comparative%20Data%20-%20Complied%20by%20Matt%20McFarlane.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx

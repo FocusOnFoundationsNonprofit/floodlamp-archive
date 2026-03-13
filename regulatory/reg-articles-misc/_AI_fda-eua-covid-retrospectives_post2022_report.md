@@ -9,7 +9,7 @@ tags: EUA, diagnostics, FDA, COVID-19, retrospective, oversight, policy-critique
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1NS-w0RRsCFNLmdCXj0qEnpuSAPoZwuSOVVZjPjoM7AM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/reg-articles-misc/_AI_fda-eua-covid-retrospectives_post2022_report.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/_AI_fda-eua-covid-retrospectives_post2022_report.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

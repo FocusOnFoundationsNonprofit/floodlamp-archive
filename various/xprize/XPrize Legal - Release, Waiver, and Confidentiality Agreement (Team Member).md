@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-25 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Legal - Release, Waiver, and Confidentiality Agreement (Team Member).md
 file_date: 2020-09-08
 title: XPRIZE Competitor Agreement Exhibit E - Team Member Release, Waiver and Confidentiality Agreement (FloodLAMP)
@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1k4YGkqhOnC8dX3jlh_kqcDtSqmM3owFX/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20(Team%20Member).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20%28Team%20Member%29.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -23,7 +23,7 @@ summary_short: Exhibit E of the XPRIZE Rapid Covid Testing Competitor Agreement,
 
 CONTENT
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -54,7 +54,7 @@ Team Member Name:
 Team Member Signature: 
 Date of Signature: 
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -85,7 +85,7 @@ Team Member Name: Antanas Sadunas
 Team Member Signature: _Signature_ Verified by PDFfiller
 Date of Signature: 09/08/2020
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -116,7 +116,7 @@ Team Member Name: Carey Tan
 Team Member Signature: _Signature_
 Date of Signature: Sept. 8, 2020
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 

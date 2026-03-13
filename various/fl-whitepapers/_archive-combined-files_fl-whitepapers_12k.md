@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_fl-whitepapers_12k.md =====
-# fl-whitepapers (4 files, 11,948 tokens)
-
-# 2,141  _AI_Comparable Programs Survey - Household Pooled COVID-19 Testing.md
 METADATA
 last updated: 2026-02-22 AI
 file_name: _AI_Comparable Programs Survey - Household Pooled COVID-19 Testing.md
@@ -13,7 +9,7 @@ tags: comparable-programs, household-pooling
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/14WBw9ClWZa9ATj2VJzPOWphDMR1ldbQo-HvDkCPmxvo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-whitepapers/Comparable%20Programs%20Survey%20-%20Household%20Pooled%20COVID-19%20Testing.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/fl-whitepapers/Comparable%20Programs%20Survey%20-%20Household%20Pooled%20COVID-19%20Testing.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -221,9 +217,9 @@ tags: whitepaper
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TOnklq-65XUX-v-li018rteK9jeL8NgqbNrtbndgD_o
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.docx
 pdf_gdrive_url: https://drive.google.com/file/d/13SD5Rw_TGwIU_lrhvFahxA8VSoRIImdH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -410,9 +406,9 @@ tags: whitepaper
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1cy1jJfdq3YQdIZII3_f0FEe1_XVrv0O-YWX6M3UbyEM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1TIcfX_lUYoYx_UW9kYgKSk79vcU3DHFj
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

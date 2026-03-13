@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1NzCFlg7IGG9P2x4JmM0y0GmxeRQ9V_ZP
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20Laboratories%20Who%20Have%20Developed%20a%20Molecular-Based%20Test.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Letter%20-%20Laboratories%20Who%20Have%20Developed%20a%20Molecular-Based%20Test.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

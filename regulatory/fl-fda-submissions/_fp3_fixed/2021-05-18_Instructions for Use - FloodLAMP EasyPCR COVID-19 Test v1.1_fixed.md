@@ -708,4 +708,4 @@ eua.support@floodlamp.bio
 
 QuantStudioTM  is a trademark of Thermo Fisher Scientific (NYSE: TMO)
 
-Bio-RadTM and Bio-Rad CFX96 TouchTM  are trademarks of Bio-Rad Laboratories, Inc. (NYSE: BIO)  
+Bio-RadTM and Bio-Rad CFX96 TouchTM  are trademarks of Bio-Rad Laboratories, Inc. (NYSE: BIO)

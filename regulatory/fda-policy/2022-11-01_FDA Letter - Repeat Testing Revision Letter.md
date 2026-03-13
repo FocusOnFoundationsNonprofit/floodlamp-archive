@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1qHkP78BzsRbR4EqZe3xOhENS7iomOdj1
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2022-11-01_FDA%20Letter%20-%20Repeat%20Testing%20Revision%20Letter.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2022-11-01_FDA%20Letter%20-%20Repeat%20Testing%20Revision%20Letter.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

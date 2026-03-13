@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/189DnIKWpB47VrvaCwIgxdtrQpn8uPSHA
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/sds/SDS%20-%20TCEP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/sds/SDS%20-%20TCEP.pdf
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: public domain

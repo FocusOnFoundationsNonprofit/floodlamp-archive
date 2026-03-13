@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
+last updated: 2026-03-06 by BA
 file_name: 2020-09-01_School Testing_UnitedHealth Group - Safe and Strategic Return to School.md
 file_date: 2020-09-01
 title: UnitedHealth Group - Safe and Strategic Return to School (Sept 2020)
@@ -24,6 +24,7 @@ summary_short: UnitedHealth Group’s Safe and Strategic Return to School (Septe
 CONTENT
 
 UNITEDHEALTH GROUP
+
 ***INTERNAL TITLE:*** Safe and Strategic Return to School
 September 2020
 

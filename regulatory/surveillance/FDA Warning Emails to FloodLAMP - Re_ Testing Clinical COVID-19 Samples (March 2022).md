@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-31 RT
-file_name: FDA Warning Emails to FloodLAMP - Re_ Testing Clinical COVID-19 Samples (March 2022).pdf
+last updated: 2026-03-05 by BA
+file_name: FDA Warning Emails to FloodLAMP - Re_ Testing Clinical COVID-19 Samples (March 2022).md
 file_date: 2022-03-01
 title: FDA Warning Emails to FloodLAMP - Re_ Testing Clinical COVID-19 Samples (March 2022)
 category: regulatory
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/FDA%20Warning%20Emails%20to%20FloodLAMP%20-%20Re_%20Testing%20Clinical%20COVID-19%20Samples%20%28March%202022%29.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1dUoHPLqsXbjQIPnRv4NLXVP6on1OViS6
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/FDA%20Warning%20Emails%20to%20FloodLAMP%20-%20Re_%20Testing%20Clinical%20COVID-19%20Samples%20%28March%202022%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -28,7 +28,7 @@ CONTENT
 ## EMAIL 2022-03-24 From FDA to FloodLAMP
 
 Condon, Peter * <Peter.Condon@fda.hhs.gov>
-To: Randy rue <randy@floodlamp.bio>
+To: Randy True <randy@floodlamp.bio>
 Thu, Mar 24, 2022 at 6:20 AM
 
 Good Morning Randy,
@@ -46,18 +46,18 @@ Contractor, Tunnell Consulting, Inc.
 Center for Devices and Radiological Health
 OPEQ, OHT7
 U.S. Food and Drug Administration
-Peter.condon@tda.hhs.gov
+Peter.condon@fda.hhs.gov
 
 Excellent customer service is important to us. Please take a moment to provide feedback regarding the customer service
 you have received:
-https:/www.research.net/s/cdrhcustomerservice?ID=1930&S=E
+https://www.research.net/s/cdrhcustomerservice?ID=1930&S=E
 
-This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not oind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that iS protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please mmediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-lemplates <Covid19DX@tda.hhs.gov> immediately.
+This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not bind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that is protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please immediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-Templates <Covid19DX@fda.hhs.gov> immediately.
 
 
 ## EMAIL 2022-03-07 From FloodLAMP to FDA
 From: Randy True <randy@floodlamp.bio>
-Sent: Monday, March 7, 2022 3:29 PM
+Sent: Monday, March 7, 2022 8:29 PM
 To: Condon, Peter * <Peter.Condon@fda.hhs.gov>
 Subject: EXTERNAL Re: Testing Clinical COVID-19 Samples
 
@@ -66,7 +66,7 @@ recognize the sender and know the content is safe.
 
 Hi Peter,
 
-Apologies for the delay in replying, was traveling for work last week.
+Apologies for the delay in replying, I was traveling for work last week.
 
 We removed that question in our web FAQ regarding individual follow up testing to avoid any confusion. We're very
 careful in all of our communications to emphasize our testing is surveillance and not diagnostic.
@@ -75,26 +75,25 @@ Best Regards,
 Randy
 
 
-## EMAIL 2022-01-03 From FDA to FloodLAMP
+## EMAIL 2022-03-03 From FDA to FloodLAMP
 
 On Thu Mar 3 2022 at 6:57 AM Condon Peter <Peter Condon@fda.hhs.gov>wrote:
 
 Dear Randy,
 
 I wanted to follow up with you regarding my initial inquiry into the Floodlamp Testing Service.
-You have indicated that you are offering a surveillance testing service and that your protocol was vetted during a conference call with representatives of CMS. will point out that this conference was not attended by representatives of the FDA and therefore any information that you received does not indicate FDA's thinking on your testing methodology.
+You have indicated that you are offering a surveillance testing service and that your protocol was vetted during a conference call with representatives of CMS. I will point out that this conference was not attended by representatives of the FDA and therefore any information that you received does not indicate FDA's thinking on your testing methodology.
 
-On your web page https:/floodlamp.bio/#FAQ you indicate that if a pool is positive, you
+On your web page https://floodlamp.bio/#FAQ you indicate that if a pool is positive, you
 recommend evaluating the individuals in the pool using the Floodlamp Molecular Test. Any
 testing that would provide results for individuals would not be construed as surveillance testing. This statement is antithetical to your assertion that you are providing solely surveillance testing. Please remove any claims on your site that are not consistent with your stated policy of providing surveillance testing.
 
->**What happens if a pool is positive?**
->If a pool is positive, we recommend immediate follow up testing of the individuals in the pool, both with our test and a diagnostic test. The
-exact. protocol is decided by the organization, as well as which diagnostic tes st is used. The protocol may vary depending on the relationship
-of the people in the pool (ie. whether they are family members or had exposure to each other). Follow up testing with antigen es IS works
+**What happens if a pool is positive?**
+- If a pool is positive, we recommend immediate follow up testing of the individuals in the pool, both with our test and a diagnostic test. The exact protocol is decided by the organization, as well as which diagnostic test is used. The protocol may vary depending on the relationship
+of the people in the pool (ie. whether they are family members or had exposure to each other). Follow up testing with antigen tests works
 well to "rule-in" an individual as positive, but because our test has higher sensitivity, we also recommend running the individuals with FloodLAMP or another molecular test.
->
->Procedurally, when our lab staff reports a pool as positive in the system, it automatically notifies the administrators of the organization with the name and contact information for everyone in the pool. The administrators contact the individuals and instruct them on the next steps.
+
+- Procedurally, when our lab staff reports a pool as positive in the system, it automatically notifies the administrators of the organization with the name and contact information for everyone in the pool. The administrators contact the individuals and instruct them on the next steps.
 
 I would like to remind you that the response to the ongoing pandemic is evolving as the nature of the pandemic itself evolves. The information conveyed to you during the August 2021 conversation you had with CMS may become obsolete as the response to the pandemic becomes updated.
 
@@ -115,9 +114,9 @@ U.S. Food and Drug Administration
 Peter.condon@fda.hhs.gov
 
 Excellent customer service is important to us. Please take a moment to provide feedback regarding the customer service you have received:
-https://www.research.net/s/cdrhcustomerservice?ID=19308S=E
+https://www.research.net/s/cdrhcustomerservice?ID=1930&S=E
 
-This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not bind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that iS protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please mmediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-lemplates <Covid19DX@tda.hhs.gov> immediately.
+This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not bind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that is protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please immediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-Templates <Covid19DX@fda.hhs.gov> immediately.
 
 
 ## EMAIL 2022-01-04 From FloodLAMP to FDA
@@ -131,22 +130,22 @@ CAUTION: This email originated from outside of the organization. Do not click li
 
 Hi Peter,
 
-We operate surveillance not diagnostic programs. The first question in our FAQ explains that SO I'm a bit confused. Did you see that and are you familiar with surveillance? We follow CMS guidance on surveillance testing.
+We operate surveillance not diagnostic programs. The first question in our FAQ explains that so I'm a bit confused. Did you see that and are you familiar with surveillance? We follow CMS guidance on surveillance testing.
 
 Best,
 Randy
 
 **What is the difference between FloodLAMP's surveillance testing and diagnostic COVID testing?**
-Diagnostic testing IS within the medical framework, with exclusive focus on the individual and gaining information for the purpose of their care as a patient. Surveillance testing looks for infection in a population or community, and has expanded greatly during the COVID Public Health Emergency. The information from surveillance testing can be used for the purpose of stopping the spread of the disease and for managing risk mitigation measures for the group, such as wearing masks. No exchange of personal health information is required for surveillance. Further, a much greater degree of flexibility in where and how it's implemented enables programs such as FloodLAMP's to better meet the needs of groups looking to interact safely and protect their community.
+Diagnostic testing is within the medical framework, with exclusive focus on the individual and gaining information for the purpose of their care as a patient. Surveillance testing looks for infection in a population or community, and has expanded greatly during the COVID Public Health Emergency. The information from surveillance testing can be used for the purpose of stopping the spread of the disease and for managing risk mitigation measures for the group, such as wearing masks. No exchange of personal health information is required for surveillance. Further, a much greater degree of flexibility in where and how it's implemented enables programs such as FloodLAMP's to better meet the needs of groups looking to interact safely and protect their community.
 
 
 ## EMAIL 2022-01-04 From FDA to FloodLAMP
 
-On Tue, Jan 4, 2022 at 11:28 AM Condon, Peter * Peter.Condon@rda.nns.gov> wrote:
+On Tue, Jan 4, 2022 at 11:28 AM Condon, Peter * Peter.Condon@fda.hhs.gov> wrote:
 
 Dear Mr. True,
 
-After evaluating your website https://floodlamp.biol, and https:/floodlamp.bio/#FAQ, you appear to be offering a testing service for COVID-19 clinical samples. We were unable to find a CLIA Identification Number associated with your organization. Could you please provide your CLIA Identification Number. Also could you please identify the testing method that you are using and indicate if the method has been authorized for emergency use?
+After evaluating your website https://floodlamp.bio/, and https://floodlamp.bio/#FAQ, you appear to be offering a testing service for COVID-19 clinical samples. We were unable to find a CLIA Identification Number associated with your organization. Could you please provide your CLIA Identification Number. Also could you please identify the testing method that you are using and indicate if the method has been authorized for emergency use?
 
 Best regards,
 
@@ -162,4 +161,4 @@ Peter.condon@fda.hhs.gov
 Excellent customer service is important to us. Please take a moment to provide feedback regarding the customer service you have received:
 https://www.research.net/s/cdrhcustomerservice?ID=1930&S=E
 
-This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not oind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that iS protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please mmediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-lemplates Covid19DX@tda.hhs.gov immediately.
+This communication is consistent with 21 CFR 10.85 (k) and constitutes an informal communication that represents my best judgment at this time but does not constitute an advisory opinion, does not necessarily represent the formal position of FDA, and does not bind or otherwise obligate or commit the agency to the views expressed. This communication is intended for the exclusive use of the recipient(s) named in this correspondence. It may contain information that is protected, privileged, or confidential, and it should not be modified. It may not be disseminated, distributed, reproduced, or copied to persons not authorized to receive such information. If you are not the intended recipient, any dissemination, distribution, or copying is strictly prohibited. If you think you have received this communication in error, please immediately delete all copies from the saved sources and notify FDA by email at: CDRH-EUA-Templates Covid19DX@fda.hhs.gov immediately.

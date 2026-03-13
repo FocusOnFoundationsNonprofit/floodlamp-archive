@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2021-03-22_EUA Submission - FloodLAMP EasyPCR COVID-19 Test v1.0.md
 file_date: 2021-03-22
 title: EUA Submission - FloodLAMP EasyPCR COVID-19 Test v1.0
@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1xwO9T_T6XRCow_941mS-ylJI9VvL3yCb
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1-2gpnYSgfG6f8OUmL5_OXBBWpXlJ4lB9
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-03-22_EUA%20Submission%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.0.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -24,6 +24,7 @@ summary_short: The EUA Submission for the FloodLAMP EasyPCR COVID-19 Test v1.0 d
 CONTENT
 
 ***INTERNAL TITLE:*** EUA Submission - FloodLAMP EasyPCR(TM) COVID-19 Test
+
 ## A. PURPOSE FOR SUBMISSION
 Emergency Use Authorization (EUA) request for distribution and/or use of the **FloodLAMP EasyPCR(TM) COVID-19 Test** for the *in vitro* qualitative detection of RNA from the SARS-CoV-2 in in upper respiratory specimens including oropharyngeal and nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs **from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when tested at a weekly interval with no more than 9 days between tests.** Additional testing and confirmation procedures should be performed in consultation with public health and/or other authorities to whom reporting is required. Test results should be reported in accordance with local, state, and federal regulations.
 

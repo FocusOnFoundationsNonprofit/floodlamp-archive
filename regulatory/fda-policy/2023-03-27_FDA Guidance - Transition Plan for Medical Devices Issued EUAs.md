@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1PfmmbYNYg5QEfeL-bSV9BvFDl_q0Jj5Y
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20Issued%20EUAs.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-03-27_FDA%20Guidance%20-%20Transition%20Plan%20for%20Medical%20Devices%20Issued%20EUAs.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

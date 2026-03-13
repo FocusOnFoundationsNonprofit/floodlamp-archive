@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1YiosM1yHUjlkwg_aE_j-xyOyT_9hJk_tyT2OU4qDjW8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1P9W2Zu3esKwstzSynPQJKBlZu_PPjR0S
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/qms-sops/SOP-101-A_2%201X%20Inactivation%20Saline%20Solution%20Prep%20-%20Table%20Form.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

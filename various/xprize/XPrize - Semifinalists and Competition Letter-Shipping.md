@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - Semifinalists and Competition Letter-Shipping.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Semifinalists Competition Letter and Shipping Authorization
@@ -32,7 +32,6 @@ This shipment they are receiving contains a test kit for research use only and h
 The kit does not contain hazardous chemicals. No infectious agents have been added to any of the samples. Sample targets in the antigen test kit include gamma-irradiated cell line products and purified recombinant proteins. Targets in the RNA test kit include chemically-inactivated cell line products and synthetic RNA.
 
 ## Official Semi-Finalist List
-
 - Total Semi-Finalist Teams: 219
 - Total Countries: 35
 

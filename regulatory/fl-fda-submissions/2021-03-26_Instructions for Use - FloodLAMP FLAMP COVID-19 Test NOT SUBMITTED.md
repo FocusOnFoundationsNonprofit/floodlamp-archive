@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2021-03-26_Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED.md
 file_date: 2021-03-26
 title: Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1fsdl_yjBbAV7MnQiwihumJziZApkTa1IJ8RewS4qz-U
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.docx
 pdf_gdrive_url: https://drive.google.com/file/d/16kki-qqeTDNdmg-mscq5PByURqvKy3hC
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-03-26_Instructions%20for%20Use%20-%20FloodLAMP%20FLAMP%20COVID-19%20Test%20NOT%20SUBMITTED.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -300,7 +300,7 @@ For dry swabs, a preparation of 1X Inactivation Saline Solution should be prepar
 | Nuclease-free Water | Thermo Fisher | 10977015 | 4,895 µl |
 ||
 
-### 10X LAMP Primer Mix Preparation {#10x-lamp-primer-mix-preparation}
+### 10X LAMP Primer Mix Preparation
 The FloodLAMP QuickFluor(TM) COVID-19 Test uses 18 LAMP primers targeted for 3 different SARS-CoV-2 genes, with 6 primers for each target. Primer names and sequences are shown above in Table 2. All 18 primers are mixed together and input into a single amplification reaction. 
 
 Primers may be purchased from the vendor LGC Biosearch Technologies as 3 pre-blended sets, or the primers may be purchased as 18 individual custom oligos. Table 6 below lists the primer products to be ordered.   
@@ -664,8 +664,7 @@ The As1e, E1 and N2 primer regions of all SARS-CoV-2 genomes present in GISAID a
 The aggregate of current published mutations are not expected to reduce performance of the FloodLAMP QuickFluor(TM) COVID-19 Test by more than 5% from that established by the performance evaluation in this EUA submission. Further, the use of 3 primer sets targeting different regions in the SARS-CoV-2 genome should make the test robust to new genetic variants.
 
 #### Table 14: Variant Analysis of LAMP Primers
-![][image1]  
-![][image2]
+_Heatmap charts showing variant frequency at LAMP primer binding sites across 30 countries for AS1e, N2, and E1 primer sets, based on GISAID sequences aligned to the SARS-CoV-2 reference genome._
 
 ### Analytical Specificity: Cross-Reactivity (*in silico*)
 *In silico* cross-reactivity analysis was performed by aligning the primer sequences of the FloodLAMP QuickFluor(TM) COVID-19 Test against sequences of other coronaviruses and common respiratory flora using the BLASTn alignment tool from NCBI. Results of this analysis are presented in Tables 15A, 15B, and 15C. 
@@ -673,16 +672,142 @@ The aggregate of current published mutations are not expected to reduce performa
 The % identity range (\# identical bases/ \# primer bases) is shown for each primer and organism. Darker font indicates % identity greater than 80%. Organisms with \>= 50% identity primer hits are shown. This analysis is not intended to predict amplification. Near perfect homology across B3, F3, FIP and BIP is necessary to support successful amplification. With the exception of SARS-CoV, simultaneous homologies do not occur between any of the primers and microorganisms screened. With respect to clinical relevance of the *in silico* cross-reactivity analysis, there are no known circulating strains of SARS-CoV circulating in humans, thus the overall probability for the test to produce a cross-reactive signal is negligible.
 
 #### Table 15A: *In Silico* Cross-Reactivity Analysis for AS1e Primers
-
-![][image3]
+| Organism Group | Organism Name | Organism ID | As1_B3 (22 bp) | As1e_BIP (49 bp) | As1_F3 (18 bp) | As1e_FIP (51 bp) | As1_LB (27 bp) | As1_LF (28 bp) |
+|---|---|---|---|---|---|---|---|---|
+| Same genetic family | SARS coronavirus 2 | NC_045512.2 | 100% | 47%-55% | 100% | 43%-53% | 100% | 100% |
+| | Human coronavirus HKU1 | NC_006577.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus NL63 | NC_005831.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus OC43 strain ATCC VR-759 | NC_006213.1 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | SARS coronavirus | NC_004718 | 0% | 0% | 0% | 0% | 0% | 0% |
+| Other high priority organisms | Candida albicans SC5314 chromosome 6 sequence | NC_032094.1 | | | 72%-89% | 29% | 52%-67% | |
+| | Candida albicans SC5314 chromosome R sequence | NC_032096.1 | 77% | | 89% | 37%-51% | 52%-89% | |
+| | Haemophilus influenzae NCTC8143, chromosome: 1 | NZ_LN831035.1 | 59%-73% | 33%-35% | 89% | 33%-45% | 52% | |
+| | Candida albicans SC5314 chromosome 2 sequence | NC_032090.1 | 59%-73% | 31% | 72%-83% | 29%-59% | 52% | |
+| | Mycobacterium tuberculosis H37Rv | NC_000962.3 | | | 83% | | | |
+| | Candida albicans SC5314 chromosome 4 sequence | NC_032092.1 | 59%-82% | 39% | | 29%-41% | 67% | 61% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.3 | NW_017264777.1 | 59%-82% | | 72% | 39%-87% | 59% | |
+| | Streptococcus pyogenes NCTC8198, chromosome: 1 | NZ_LN831034.1 | 59%-82% | 31% | 72% | 31% | 52%-67% | |
+| | Candida albicans SC5314 chromosome 7 sequence | NC_032095.1 | | | 72%-78% | | 70% | |
+| | Mycoplasma pneumoniae FH chromosome | NZ_CP010546.1 | | | 72% | 29%-35% | 78% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.15 | NW_017264789.1 | 59% | | | 78% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.11 | NW_017264785.1 | 77% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.7 | NW_017264781.1 | 77% | | | 35% | 63% | |
+| | Candida albicans SC5314 chromosome 1 sequence | NC_032089.1 | 59% | 43%-49% | 72% | 29%-57% | 63%-74% | 68% |
+| | Legionella pneumophila subsp. pascullei strain NCTC12273, chromosome: 1 | NZ_LR134380.1 | 59%-73% | 49% | 72% | 31%-41% | 56%-74% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.12 | NW_017264786.1 | | | | 31%-43% | 74% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.8 | NW_017264782.1 | 73% | | 72% | 29%-39% | 52% | |
+| | Staphylococcus epidermidis ATCC 12228 | NC_004461.1 | 59%-68% | 31%-37% | 72% | 29%-35% | 56%-67% | 57%-71% |
+| | Streptococcus pneumoniae NCTC7465, chromosome: 1 | NZ_LN831051.1 | 59%-68% | 37%-41% | 72% | 29%-41% | 52%-63% | 50% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.14 | NW_017264788.1 | | | | 35% | | 71% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.6 | NW_017264780.1 | | | | 29%-47% | 70% | 68% |
+| | Candida albicans SC5314 chromosome 5 sequence | NC_032093.1 | 59%-68% | 35% | | 29%-43% | | 68% |
+| | Chlamydia pneumoniae TW-183 | NC_005043.1 | 68% | 37% | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.2 | NW_017264776.1 | 68% | | | 33%-49% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.5 | NW_017264779.1 | | 43% | | 38% | | 68% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.16 | NW_017264790.1 | 64% | | | | | 57% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.1 | NW_017264775.1 | | | | 33%-35% | 59% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.13 | NW_017264787.1 | 59% | | | | | 50% |
+| | Bordetella pertussis 18323 | NC_018518.1 | | | | | | 57% |
+| | Rothia mucilaginosa DY-18 DNA | NC_013715.1 | | | | | 52% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.25 | NW_017264799.1 | | | | | | 50% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.66 | NW_017264840.1 | | | | | | 50% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.4 | NW_017264778.1 | | | | 39%-47% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.54 | NW_017264828.1 |  | 47% | | | | |
+| | Candida albicans SC5314 chromosome 3 sequence | NC_032091.1 | | 31% | | 31%-45% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.10 | NW_017264784.1 | | | | 33%-45% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.19 | NW_017264793.1 | | | | 38% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.9 | NW_017264783.1 | | | | 35% | | |
+| | Respiratory syncytial virus | NC_001803.1 | | | | 33% | | |
+||
 
 #### Table 15B: *In Silico* Cross-Reactivity Analysis for N2 Primers
-
-![][image4]
+| Organism Group | Organism Name | Organism ID | N2_B3 (25 bp) | N2_BIP (40 bp) | N2_F3 (21 bp) | N2_FIP (42 bp) | N2_LB (20 bp) | N2_LF (21 bp) |
+|---|---|---|---|---|---|---|---|---|
+| Same genetic family | SARS coronavirus 2 | NC_045512.2 | 100% | 53% | 100% | 48%-55% | 100% | 100% |
+| | SARS coronavirus | NC_004718 | 64% | 53% | 90% | 55% | 85% | 90% |
+| | Human coronavirus HKU1 | NC_006577.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus NL63 | NC_005831.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus OC43 strain ATCC VR-759 | NC_006213.1 | 0% | 0% | 0% | 0% | 0% | 0% |
+| Other high priority organisms | Streptococcus pneumoniae NCTC7465, chromosome: 1 | NZ_LN831051.1 | 60%-80% | | 95% | | 75% | 62%-71% |
+| | Rothia mucilaginosa DY-18 DNA | NC_013715.1 | | | | 40% | 75%-90% | |
+| | Bordetella pertussis 18323 | NC_018518.1 | | 35% | | | 65%-80% | 81% |
+| | Candida albicans SC5314 chromosome 6 sequence | NC_032094.1 | 56%-72% | 43% | | | | 62%-81% |
+| | Candida albicans SC5314 chromosome 7 sequence | NC_032095.1 | 56%-76% | | 62%-71% | 45% | | 62%-81% |
+| | Candida albicans SC5314 chromosome R sequence | NC_032096.1 | 56%-80% | 35%-68% | 62% | | | 62%-81% |
+| | Candida albicans SC5314 chromosome 4 sequence | NC_032092.1 | 60%-80% | 35%-45% | 71% | | | 62%-71% |
+| | Candida albicans SC5314 chromosome 1 sequence | NC_032089.1 | 60%-72% | 35%-45% | 71%-76% | | | 62%-76% |
+| | Chlamydia pneumoniae TW-183 | NC_005043.1 | 56%-76% | | 76% | 36% | 65% | |
+| | Legionella pneumophila subsp. pascullei strain NCTC12273, chromosome: 1 | NZ_LR134380.1 | 60%-76% | 43% | | 36%-55% | | 62%-76% |
+| | Mycoplasma pneumoniae FH chromosome | NZ_CP010546.1 | 60% | | | | 65%-75% | 76% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.7 | NW_017264781.1 | 68%-64% | | | | | 76% |
+| | Pseudomonas aeruginosa PAO1 | NC_002516.2 | | 35% | | | 75% | |
+| | Candida albicans SC5314 chromosome 2 sequence | NC_032090.1 | 56%-72% | 48% | 62% | 40% | | 67%-71% |
+| | Candida albicans SC5314 chromosome 3 sequence | NC_032091.1 | 56%-72% | | 71% | | | 62% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.17 | NW_017264791.1 | 56%-72% | | | | | 62% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.4 | NW_017264778.1 | 60%-72% | | 71% | | | |
+| | Candida albicans SC5314 chromosome 5 sequence | NC_032093.1 | 56%-68% | 35% | | | | 62%-71% |
+| | Human parainfluenza virus 1 | NC_003461.1 | | | 71% | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.16 | NW_017264790.1 | 60%-68% | | | | | 62%-71% |
+| | Haemophilus influenzae NCTC8143, chromosome: 1 | NZ_LN831035.1 | 60%-68% | 50% | | 43% | | 62%-67% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.13 | NW_017264787.1 | 68% | | | | | |
+| | Staphylococcus epidermidis ATCC 12228 | NC_004461.1 | 60%-68% | | 62% | | | 62% |
+| | Mycobacterium tuberculosis H37Rv | NC_000962.3 | | | | | | 67% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.1 | NW_017264775.1 | 56% | | | | | 67% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.3 | NW_017264777.1 | 56%-60% | | | | | 67% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.8 | NW_017264782.1 | 64% | 35% | | | | |
+| | Streptococcus pyogenes NCTC8198, chromosome: 1 | NZ_LN831034.1 | 60%-64% | 43%-50% | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.6 | NW_017264780.1 | 60% | | | | | 62% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.25 | NW_017264799.1 | 60% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.5 | NW_017264779.1 | 60% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.51 | NW_017264825.1 | 60% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.66 | NW_017264840.1 | 60% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.67 | NW_017264841.1 | 60% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.2 | NW_017264776.1 | 56% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.21 | NW_017264795.1 | 52% | | | | | |
+||
 
 #### Table 15C: *In Silico* Cross-Reactivity Analysis for E1 Primers
-
-![][image5]
+| Organism Group | Organism Name | Organism ID | E1_B3 (22 bp) | E1_BIP (44 bp) | E1_F3 (23 bp) | E1_FIP (42 bp) | E1_LB (19 bp) | E1_LF (18 bp) |
+|---|---|---|---|---|---|---|---|---|
+| Same genetic family | SARS coronavirus 2 | NC_045512.2 | 100% | 45%-57% | 100% | 45%-62% | 100% | 100% |
+| | SARS coronavirus | NC_004718 | 95% | 55% | 100% | 43%-62% | 100% | 100% |
+| | Human coronavirus HKU1 | NC_006577.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus NL63 | NC_005831.2 | 0% | 0% | 0% | 0% | 0% | 0% |
+| | Human coronavirus OC43 strain ATCC VR-759 | NC_006213.1 | 0% | 0% | 0% | 0% | 0% | 0% |
+| Other high priority organisms | Candida albicans SC5314 chromosome R sequence | NC_032096.1 | | | | 40%-50% | | 72%-89% |
+| | Pseudomonas aeruginosa PAO1 | NC_002516.2 | | | | | 84% | 72% |
+| | Legionella pneumophila subsp. pascullei strain NCTC12273, chromosome: 1 | NZ_LR134380.1 | 59%-73% | | | 36%-40% | | 78%-83% |
+| | Candida albicans SC5314 chromosome 2 sequence | NC_032090.1 | 59%-82% | | 43% | | | 72% |
+| | Candida albicans SC5314 chromosome 4 sequence | NC_032092.1 | | | | 43%-50% | | 78% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.12 | NW_017264786.1 | | | | | | 78% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.7 | NW_017264781.1 | | | | | | 78% |
+| | Staphylococcus epidermidis ATCC 12228 | NC_004461.1 | | 45% | | 43%-48% | | 72%-78% |
+| | Haemophilus influenzae NCTC8143, chromosome: 1 | NZ_LN831035.1 | 77% | | | 36%-43% | | |
+| | Candida albicans SC5314 chromosome 1 sequence | NC_032089.1 | 59%-73% | | | 38%-48% | | 72% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.3 | NW_017264777.1 | 59%-73% | | 65% | 43% | | |
+| | Streptococcus pyogenes NCTC8198, chromosome: 1 | NZ_LN831034.1 | 73% | 41% | | 48% | | 72% |
+| | Candida albicans SC5314 chromosome 3 sequence | NC_032091.1 | 59% | | | 43%-48% | | 72% |
+| | Candida albicans SC5314 chromosome 7 sequence | NC_032095.1 | | | | 36%-50% | | 72% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.4 | NW_017264778.1 | | | | | | 72% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.5 | NW_017264779.1 | | | 65% | | | 72% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.9 | NW_017264783.1 | 59%-68% | | | | | 72% |
+| | Streptococcus pneumoniae NCTC7465, chromosome: 1 | NZ_LN831051.1 | 59%-68% | | | 40% | 68% | 72% |
+| | Candida albicans SC5314 chromosome 6 sequence | NC_032094.1 | | | 70% | | 40%-50% | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.13 | NW_017264787.1 | | | 70% | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.1 | NW_017264775.1 | 68% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.2 | NW_017264776.1 | 68% | | | 45% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.6 | NW_017264780.1 | 68% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.16 | NW_017264790.1 | 59%-64% | | | 40% | | |
+| | Candida albicans SC5314 chromosome 5 sequence | NC_032093.1 | 59% | | | 40%-43% | | |
+| | Chlamydia pneumoniae TW-183 | NC_005043.1 | 0%-59% | 0% | 0% | 0%-36% | 0% | 0% |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.10 | NW_017264784.1 | 59% | | | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.20 | NW_017264794.1 | 59% | | | | | |
+| | Mycobacterium tuberculosis H37Rv | NC_000962.3 | | 34% | 57% | | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.30 | NW_017264804.1 | | | | 50% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.69 | NW_017264843.1 | | | | 50% | | |
+| | Mycoplasma pneumoniae FH chromosome | NZ_CP010546.1 | | | | 43% | | |
+| | Pneumocystis jirovecii RU7 chromosome Unknown supercont1.8 | NW_017264782.1 | | | | 40% | | |
+||
 
 ### Analytical Specificity: Cross-Reactivity (*wet testing*)
 Wet testing was performed to demonstrate that the FloodLAMP QuickFluor(TM) COVID-19 Test does not react with related pathogens, high prevalence disease agents and normal or pathogenic flora that are reasonably likely to be encountered in a clinical specimen.  SARS-CoV, RSV, Flu, Human Metapneumovirus. and Streptococcus Salivarius were tested for potential cross-reactivity, as shown in Table 16 and Supporting Data. 5 µL of each stock of cross-reactivity organism was spiked on dried AN swab specimens. A contrived positive control was produced by spiking gamma irradiated SARS-CoV-2 virus cell lysate (BEI NR-52287) onto dried AN swab specimens. Control dried swabs obtained simultaneously were confirmed to be SARS-CoV-2 negative by PCR using the CDC primers. The gamma irradiated SARS-CoV-2 virus and cross-reactivity organisms were spiked into the dried swabs prior to the heat inactivation step, and carried through the full test protocol. The contrived positive had 38 µL of 1e6 copies/mL irradiated virus stock spiked in, producing after elution of the swab in 1 mL of Inactivation Saline Solution at most a concentration of 38,000 copies/mL in the sample input into the amplification reaction.

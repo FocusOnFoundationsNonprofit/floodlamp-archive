@@ -1,17 +1,17 @@
 METADATA
-last updated: 2025-12-26 CT
+last updated: 2026-03-05 by BA
 file_name: 2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
 file_date: 2021-04-02
-title: 2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254
+title: FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254
 category: regulatory
 subcategory: fl-fda-correspondence
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1qbX9jeURHdrgrreOVksMThNkB1mP77W3oO28vz0WSSA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-04-02_FloodLAMP%20FDA%20Correspondence%20-%20Deprioritization%20EUA210252%20EUA210254.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1XOKe8WQZNDY0Bfl8VbKakCQ719mq-TtC
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-04-02_FloodLAMP%20FDA%20Correspondence%20-%20Deprioritization%20EUA210252%20EUA210254.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -23,7 +23,7 @@ summary_short: The April 2, 2021 FDA email and attached deprioritization letter 
 
 CONTENT
 
-***INTERNAL TITLE:*** 2021-04-02\_Email from FDA - Final Decision and Deprioritization
+***INTERNAL TITLE:*** 2021-04-02_Email from FDA - Final Decision and Deprioritization
 
 ## Email Header
 from: Walia, Vijay &lt;Vijay.Walia@fda.hhs.gov&gt;
@@ -41,11 +41,11 @@ Dear Randall J. True,
 
 Please see attached letter regarding your EUA request, EUA210252. This is the final decision on your EUA request, and your EUA is now closed.
 
-The reason for our decision is that we are currently in a different phase of the pandemic with respect to tests than we were previously, where many COVID-19 tests are now authorized. We prioritize review of EUA requests for tests taking into account a variety of factors, as discussed in the [<u>Emergency Use Authorization of Medical Products and Related Authorities Guidance</u>](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical-products-and-related-authorities), such as the public health need for the product and the availability of the product. We have, for example, prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, and at-home tests) or would significantly increase testing capacity (e.g., high-throughput tests).
+The reason for our decision is that we are currently in a different phase of the pandemic with respect to tests than we were previously, where many COVID-19 tests are now authorized. We prioritize review of EUA requests for tests taking into account a variety of factors, as discussed in the [Emergency Use Authorization of Medical Products and Related Authorities Guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical-products-and-related-authorities), such as the public health need for the product and the availability of the product. We have, for example, prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, and at-home tests) or would significantly increase testing capacity (e.g., high-throughput tests).
 
 Regarding your request, FDA determined that review of your EUA request is not a priority because, for example, authorization of the test would have relatively limited impact on testing accessibility or testing capacity in the United States.
 
-For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [<u>FAQs on Testing for SARS-CoV-2</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
+For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
 
 Please confirm receipt of this email and attached letter.
 
@@ -96,6 +96,6 @@ Food and Drug Administration
 (1) For example, the agency has prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, at-home tests) or would significantly increase testing
 capacity (e.g., tests that reduce reliance on test supplies, high-throughput, widely distributed tests). See
 
-[<u>https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities).
+[https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities).
 
-(2) FDA’s current thinking on prioritization of EUA requests is explained in FDA’s guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [<u>https://www.fda.gov/media/97321/download</u>](https://www.fda.gov/media/97321/download).
+(2) FDA’s current thinking on prioritization of EUA requests is explained in FDA’s guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [https://www.fda.gov/media/97321/download](https://www.fda.gov/media/97321/download).

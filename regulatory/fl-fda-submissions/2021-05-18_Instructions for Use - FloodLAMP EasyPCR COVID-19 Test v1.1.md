@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1ZeJ4WLC4KXchsf5Lha6SL-JNIaNHX12dtqlFoInGEwE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JmITEap5NAd9_dyouusNwFNYAb2-5F7c
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-05-18_Instructions%20for%20Use%20-%20FloodLAMP%20EasyPCR%20COVID-19%20Test%20v1.1.pdf
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

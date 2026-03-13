@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-30 CT
+last updated: 2026-03-05 by BA
 file_name: Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
 file_date: 2022-06-03
 title: Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/16muU80i9sAFPsCQNosyrK6ZYJqMPxf0gSqZcsudqYZM
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/Anne%20Wyllie%20Nomination%20for%20FDA%20Foundation%202022%20Innovations%20in%20Regulatory%20Science%20Awards.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1w5MajWqU_1w4aIgNZJ3HKzbzlzGAc9tB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/open-euas/Anne%20Wyllie%20Nomination%20for%20FDA%20Foundation%202022%20Innovations%20in%20Regulatory%20Science%20Awards.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -27,7 +27,7 @@ CONTENT
 
 June 3, 2022
 
-The FDA called it the most unusual submission they had ever received. They were referring to the EUA for the SalivaDirect SARS-CoV-2 RT-PCR Test EUA, developed by Anne Wyllie and a small, dedicated team at the Yale School of Public Health. Dr. Wyllie, working with Professor Nathan Grubaugh, pioneered innovations on several different fronts of diagnostic testing, by 1) validating saliva as an excellent specimen type for a respiratory virus, 2) omitting the gold standard RNA extraction step, and with it a significant cost and supply chain vulnerability, and 3) creating the first "open source protocol" EUA. For the latter "ground breaking" "game changing"<sup>1</sup> contribution to the field of regulatory science, we nominate Dr. Anne Wyllie for the Reagan-Udall Foundation's 2022 Innovation Award.
+The FDA called it the most unusual submission they had ever received. They were referring to the EUA for the SalivaDirect SARS-CoV-2 RT-PCR Test EUA, developed by Anne Wyllie and a small, dedicated team at the Yale School of Public Health. Dr. Wyllie, working with Professor Nathan Grubaugh, pioneered innovations on several different fronts of diagnostic testing, by 1) validating saliva as an excellent specimen type for a respiratory virus, 2) omitting the gold standard RNA extraction step, and with it a significant cost and supply chain vulnerability, and 3) creating the first "open source protocol" EUA. For the latter "ground breaking" "game changing"^1^ contribution to the field of regulatory science, we nominate Dr. Anne Wyllie for the Reagan-Udall Foundation's 2022 Innovation Award.
 
 What made the SalivaDirect EUA so unusual is that Dr. Wyllie and her team submitted for an IVD EUA even though they never intended to manufacture and sell test kits. Normally university labs submit for LDT EUAs which are inherently limited to a single clinical lab, or affiliated lab network. Dr. Wyllie understood that to have a large impact, their test would need to be available to all CLIA labs, as is the case for commercial molecular diagnostic test kits. Working with 2 former FDA reviewers, they came up with a multifaceted creative solution.
 
@@ -47,7 +47,7 @@ Dr. Wyllie has spearheaded a new paradigm of regulatory authorization, pioneerin
 
 DISCLOSURE: Dr. Wyllie is a scientific advisor to FloodLAMP Biotechnologies, a public benefit corporation. FloodLAMP has submitted tests to the FDA as open source protocol EUAs.
 
-1\. [<u>FDA Press Release - Aug 15, 2020</u>](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health)
+1. [FDA Press Release - Aug 15, 2020](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health)
 FLOODLAMP ARCHIVE FILE PATH: regulatory/open-euas/2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 
 Sincerely,

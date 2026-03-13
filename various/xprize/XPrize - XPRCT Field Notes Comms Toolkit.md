@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - XPRCT Field Notes Comms Toolkit.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Field Notes Communications Toolkit
@@ -27,10 +27,10 @@ CONTENT
 
 As XPRIZE Rapid Covid Testing semi-finalists receive testing kits to validate their solutions, we want to encourage ongoing filming of prize teams in their quest to help reopen society, safely.
 
-**THE ASK**
+### THE ASK
 Please record yourself and the team in a '60-second selfie video, a 'Field Notes' film, to keep us up-to-date on what is happening. Then, post the video via social channels with #RapidTesting and tag @XPRIZE. Additionally, if you would like a chance to be to have your video produced into an XPRIZE video, please submit your Field Notes to [https://cloud.greenrock.tv/index.php/s/Db1yvXGY2Ku9V9y](https://cloud.greenrock.tv/index.php/s/Db1yvXGY2Ku9V9y)
 
-**WHAT MAKES A GOOD FIELD NOTE?**
+### WHAT MAKES A GOOD FIELD NOTE?
 This format needn't be bogged down in the context of the overall prize, just a snapshot.
 
 | **What this is** | **What this isn't** |
@@ -41,7 +41,7 @@ This format needn't be bogged down in the context of the overall prize, just a s
 | Bankable content for raising awareness of prizes | Detailed look at the specifics |
 ||
 
-**QUESTIONS TO SHAPE THE RECORD**
+### QUESTIONS TO SHAPE THE RECORD
 
 Who are you and what do you do?
 
@@ -53,13 +53,13 @@ How will this impact your future work?
 
 Sign off
 
-**WHAT SHOULD I POST ON SOCIAL?**
+### WHAT SHOULD I POST ON SOCIAL?
 To help, XPRIZE has drafted a suggested social copy example. Edit where needed to match your channel's tone and voice.
 
 - **Suggested Copy:**
 COVID-19 has impacted our lives for too long. We want everything to reopen, but it needs to happen safely. We're one of 219 teams in the $5M XPRIZE Rapid Covid Testing competition trying to solve this problem. Follow along our #RapidTesting journey with @XPRIZE.
 
-**HOW CAN I HELP PROMOTE THIS CAMPAIGN?**
+### HOW CAN I HELP PROMOTE THIS CAMPAIGN?
 Our goal with the campaign is to let the world know people are working on solutions to help society reopen. Other teams will be posting videos. Click on the hashtag #RapidTesting, and share videos of other competitors. Be sure to mention and tag @XPRIZE in your social media accounts where possible. Here are links to the pages of our most active accounts:
 
 - [Facebook](https://www.facebook.com/XPRIZE/)
@@ -67,5 +67,5 @@ Our goal with the campaign is to let the world know people are working on soluti
 - [Instagram](https://www.instagram.com/xprize/)
 - [YouTube](https://www.youtube.com/user/xprize)
 
-**QUESTIONS?**
+### QUESTIONS?
 For marketing and media inquiries, contact Caden Kinard, Communications Strategist, at [caden.kinard@xprize.org](mailto:caden.kinard@xprize.org).

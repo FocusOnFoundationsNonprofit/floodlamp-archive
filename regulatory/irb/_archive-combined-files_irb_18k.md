@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_irb_18k.md =====
-# irb (4 files, 18,138 tokens)
-
-# 6,018  _AI_digestion_irb_new-clinical-study-design.md
 METADATA
 last updated: 2026-02-28 RT initial creation
 file_name: _AI_digestion_irb_new-clinical-study-design.md
@@ -13,7 +9,7 @@ tags: clinical-study, enrichment, surveillance, EUA, study-design, cascading-coh
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1kqmFPWjNB7852XZaWs6_SLLt8bdfjE6GSPTmeDcsqBo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/_AI_digestion_irb_new-clinical-study-design_FULL.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/_AI_digestion_irb_new-clinical-study-design_FULL.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -432,9 +428,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1wNnoBzlP1McAloqnas98yz7QE37SgjsI
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1CfEjaewV5HUNElL7qOOUbGFf8OthwZ2E
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20COVID-19%20Biobank%20and%20Test%20Validation%20Protocol%2020210401%20v01.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -770,9 +766,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1C9JnoXGmkyXQDSk4vIbyCnJD1gF7p-U3
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wtZEiDitbU7cq6MxKyR0HZpld7SeF-Dc
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

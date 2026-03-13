@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z3zw4jLv5UmZaSFGxloNeBQmV46WWAa70BbfAbowX7A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
 pdf_gdrive_url: https://drive.google.com/file/d/14WazfTa6NVDRdE5TMR7q4Ze8Lb44I7mJ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
 conversion_input_file_type: gdoc
 conversion: cut and paste
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

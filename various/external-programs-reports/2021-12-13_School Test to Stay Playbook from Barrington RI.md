@@ -1,7 +1,7 @@
 METADATA
-last updated: 2025-12-29 CT
-file_name: School Test to Stay Playbook Barrington RI Dec 13 2021.md
-file_date: 2021-03-24
+last updated: 2026-03-06 by BA
+file_name: 2021-12-13_School Test to Stay Playbook from Barrington RI.md
+file_date: 2021-12-13
 title: School Test to Stay Playbook Barrington RI Dec 13 2021
 category: various
 subcategory: external-programs-reports
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1c___uJxb_8hCLdgcYhRHAafu65IE8-9xY9wdXMUu-Rc
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2021-12-13_School%20Test%20to%20Stay%20Playbook%20from%20Barrington%20RI.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1SNtR9gZ4P5lyF11CKD-9H76MPmWs2vLI
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-12-13_School%20Test%20to%20Stay%20Playbook%20from%20Barrington%20RI.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -27,35 +27,14 @@ CONTENT
 
 **Updated: BPS December 13, 2021**
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr>
-<th><h1 id="table-of-contents"><strong>Table of Contents</strong></h1></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-
-**[Table of Contents](#table-of-contents) 2**
-
+## Table of Contents
 [Layered Mitigation Strategies with Test to Stay Program](#layered-mitigation-strategies-with-test-to-stay-program) **3**
-
 [Overview of Test to Stay](#overview-of-test-to-stay) **4**
-
 [Eligibility](#eligibility) **5**
-
 [Testing](#testing) **6**
-
 [Testing Cadence](#testing-cadence) **8**
-
 [Quarantine Guidelines](#quarantine-guidelines) **11**
-
 [Q & A](#q-a) **12**
-
 [Glossary](#glossary) **14**
 
 Our focus is on ensuring a safe in-person learning environment with minimal disruptions, especially among those who have not had access to or have not yet been able to get fully vaccinated. Our goal is to keep students in school while keeping our communities safe.
@@ -117,8 +96,8 @@ If not fully vaccinated, close contacts of COVID-19 infectious individuals have 
 - Weekend testing: In order to safely support students who participate in extracurricular activities, participants of the program must follow the same protocol as when attending school: 1) get tested before participating in an activity or attending a class during the weekend and 2) wear a mask indoors. (There must be adult supervision to ensure mask-wearing.)
 - It is recommended schools consider having tests on hand to conduct PCR testing when students or staff become symptomatic to expedite results and case identification.
 
-
 **Visual Testing Examples**
+_Page of diagrams illustrating testing cadence timelines for Test to Stay program scenarios, showing day-by-day testing schedules for students identified as close contacts._
 
 
 ## Testing Cadence
@@ -132,22 +111,22 @@ Seven-day antigen testing is required:
 
 **Testing Cadence Examples**
 **Example 1: Testing begins on Tuesday, no participation in weekend extracurriculars**
-<u>Scenario</u>: An individual began showing symptoms on Monday, and received a positive result on their PCR test that same day. Their close contacts are identified and notified, and those who opt-in begin participating in the Test to Stay program on Tuesday.
+Scenario: An individual began showing symptoms on Monday, and received a positive result on their PCR test that same day. Their close contacts are identified and notified, and those who opt-in begin participating in the Test to Stay program on Tuesday.
 
 Below is an example of a student who will receive a rapid test when they arrive at school on Tuesday through Friday and the following Monday. S/he does not participate in any school extracurricular activities on the weekend, so s/he will quarantine at home when the student’s school day ends and for the two weekend days. His/her last day of rapid testing will be on Monday, assuming all tests are negative, and no other student or staff test positive during the testing period. The student will continue to monitor for symptoms for a full 14 days from last exposure.
 
 **Example 2: Testing begins on Tuesday, with a long weekend and no participation in extracurriculars**
-<u>Scenario</u>: An individual began showing symptoms on Monday, and receives a positive result on their PCR test that same day. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Tuesday.
+Scenario: An individual began showing symptoms on Monday, and receives a positive result on their PCR test that same day. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Tuesday.
 
 Below is an example of a student who will receive a rapid test when they arrive at school on Tuesday through Friday and the following Tuesday. S/he does not participate in any school extracurricular activities on the weekend and there is no school on Monday, so s/he will quarantine at home when the student’s school day ends and at home for those 3 days. His/her last day of rapid testing will be the following Tuesday, assuming all tests are negative and no other students or staff are identified during the testing period. The student will continue to monitor for symptoms for a full 14 days from last exposure.
 
 **Example 3: Testing begins on Friday, and student participates in weekend extracurriculars**
-<u>Scenario</u>: An individual began showing symptoms on Tuesday, and receives a positive result on their PCR test on Thursday. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Friday.
+Scenario: An individual began showing symptoms on Tuesday, and receives a positive result on their PCR test on Thursday. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Friday.
 
 Below is an example of a student who will receive a rapid test when they arrive at school on Friday, on Saturday before his/her sports practice, and the following Monday through Thursday. S/he does not participate in any school extracurricular activities on the Sunday, so s/he will quarantine at home for that day. His/her last day of rapid testing will be on Thursday, assuming all tests are negative. The student must quarantine when not participating in school related activities and monitor for symptoms for the 14 days from the last exposure.
 
 **Example 4: Student is identified as a close contact again, while still during initial testing period**
-<u>Scenario</u>: an individual began showing symptoms on Tuesday, and receives a positive result on their PRC test that same day. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Wednesday. The student began testing daily via Test to Stay on Wednesday. S/he does not participate in any school extracurricular activities on the Sunday, so s/he will quarantine at home for that day.
+Scenario: an individual began showing symptoms on Tuesday, and receives a positive result on their PRC test that same day. Their close contacts are identified and notified, and those who opt in begin participating in the Test to Stay program on Wednesday. The student began testing daily via Test to Stay on Wednesday. S/he does not participate in any school extracurricular activities on the Sunday, so s/he will quarantine at home for that day.
 
 Though the student’s last day of testing would have been on Tuesday, s/he was identified as a close contact of a second positive case and was exposed on Friday but was not aware until Monday. Because s/he was a close contact a second time and exposed on Friday, s/he would participate in testing through the following Friday.
 
@@ -225,31 +204,31 @@ If a student is symptomatic and is absent from school due to this reason, they s
 
 
 ## Glossary
-**<u>Close contact:</u>** Being within six feet of an infected person (with or without a face mask) for a total of 15 minutes, in a 24-hour period or having unprotected direct contact with secretions or excretions of a person with confirmed COVID-19 during the infectious period in either an indoor or outdoor setting.
+**Close contact:** Being within six feet of an infected person (with or without a face mask) for a total of 15 minutes, in a 24-hour period or having unprotected direct contact with secretions or excretions of a person with confirmed COVID-19 during the infectious period in either an indoor or outdoor setting.
 
-**<u>Confirmed case:</u>** A person who has tested positive for SARS-CoV-2 infection (the virus that causes COVID-19).
+**Confirmed case:** A person who has tested positive for SARS-CoV-2 infection (the virus that causes COVID-19).
 
-**<u>Contact tracing:</u>** Process of identifying individuals who have had close contact (see definition above) with someone infected with COVID-19.
+**Contact tracing:** Process of identifying individuals who have had close contact (see definition above) with someone infected with COVID-19.
 
-**<u>COVID-19:</u>** Abbreviation for the disease caused by the novel coronavirus SARS CoV-2.
+**COVID-19:** Abbreviation for the disease caused by the novel coronavirus SARS CoV-2.
 
-**<u>Infectious period:</u>** Time during which an infected person is contagious and most likely to spread sears to others.
+**Infectious period:** Time during which an infected person is contagious and most likely to spread sears to others.
 - ​​Infectious period for asymptomatic cases: Two days prior to testing (the date of the swabbing was conducted) until CDC criteria to discontinue isolation are met.
 - Infectious period for symptomatic cases: Two days before symptom onset until CDC criteria to discontinue isolation are met.
 
-**<u>Isolation:</u>** The process of separating someone who is sick or who tested positive for COVID-19 away from others by staying home from school, work, and/or other activities while infectious. Isolation lasts a minimum of:
+**Isolation:** The process of separating someone who is sick or who tested positive for COVID-19 away from others by staying home from school, work, and/or other activities while infectious. Isolation lasts a minimum of:
 - 10 days from symptom onset if symptomatic.
 - 10 days from the date of specimen collection (test) is asymptomatic.
 - 20 days for individuals with severely immunocompromising conditions.
 
-**<u>Quarantine:</u>** Process of separating and restricting the movement of individuals who were in close contact with someone who tested positive or had symptoms of COVID-19. Persons in quarantine should self-monitor for 14 days for symptoms and seek medical advice as needed. RIDOH recommends all close contacts of people with COVID-19 get tested on day 5 of quarantine or later.
+**Quarantine:** Process of separating and restricting the movement of individuals who were in close contact with someone who tested positive or had symptoms of COVID-19. Persons in quarantine should self-monitor for 14 days for symptoms and seek medical advice as needed. RIDOH recommends all close contacts of people with COVID-19 get tested on day 5 of quarantine or later.
 
-**<u>RIDE:</u>** Rhode Island Department of Education
+**RIDE:** Rhode Island Department of Education
 
-**<u>RIDOH:</u>** Rhode Island Department of Health
+**RIDOH:** Rhode Island Department of Health
 
-**<u>Symptomatic individual:</u>** A person who is experiencing one or more of the symptoms of COVID-19 as defined in [<u>CDC guidelines</u>](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
+**Symptomatic individual:** A person who is experiencing one or more of the symptoms of COVID-19 as defined in [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
 
-**<u>Testing:</u>** Three types of tests are available to detect COVID-19: viral tests, antigen tests, and antibody tests.
+**Testing:** Three types of tests are available to detect COVID-19: viral tests, antigen tests, and antibody tests.
 - Viral tests and antigen tests indicate if you have a current infection For viral tests there are two types: molecular tests, often referred to as PCR tests, and antigen tests
 - Antibody tests indicate a previous infection.

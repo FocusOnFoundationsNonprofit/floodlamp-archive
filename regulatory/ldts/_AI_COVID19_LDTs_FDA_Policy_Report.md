@@ -9,7 +9,7 @@ tags: ldts, fda, covid-19, eua, laboratory-developed-tests, enforcement-discreti
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1tE0AfjMf08iGzEhp97mFmneVj9dRGOKDgh57bhhnlTY
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/ldts/_AI_COVID19_LDTs_FDA_Policy_Report.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/ldts/_AI_COVID19_LDTs_FDA_Policy_Report.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1SqJHxNoWQvg1EIY-Dr2ngahed4UIY2Oo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.docx
 pdf_gdrive_url: https://drive.google.com/file/d/15aOYfuHk4JV44odELrt66CvA_carCuPm
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-08-04_FDA%20Policy%20IVD%20-%20Sensitivity%20and%20Specificity%20Study%20Outline%20FULL%20STUDY.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

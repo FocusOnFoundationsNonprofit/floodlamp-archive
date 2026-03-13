@@ -9,7 +9,7 @@ tags: clinical-study, enrichment, surveillance, EUA, study-design, cascading-coh
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1kqmFPWjNB7852XZaWs6_SLLt8bdfjE6GSPTmeDcsqBo
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/_AI_digestion_irb_new-clinical-study-design_FULL.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/_AI_digestion_irb_new-clinical-study-design_FULL.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

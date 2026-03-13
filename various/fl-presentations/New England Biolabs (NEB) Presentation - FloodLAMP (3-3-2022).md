@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after RT
-file_name: New England Biolabs (NEB) Presentation - FloodLAMP (3-3-2022).pdf
+last updated: 2026-03-06 by BA
+file_name: New England Biolabs (NEB) Presentation - FloodLAMP (3-3-2022).md
 file_date: 2022-03-03
 title: New England Biolabs (NEB) Presentation - FloodLAMP (3-3-2022)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1QBPpyxR3BLBtEJphxWNJvpULa3HWpWayMXFdh_skWq8
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/New%20England%20Biolabs%20%28NEB%29%20Presentation%20-%20FloodLAMP%20%283-3-2022%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1KZle6FJf4pdFdkO1VRVxWKqIuMFOB0Ks
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/New%20England%20Biolabs%20%28NEB%29%20Presentation%20-%20FloodLAMP%20%283-3-2022%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -33,15 +33,15 @@ Randy True, Founder and CEO | randy@floodlamp.bio
 
 ## Slide 2: David Deutsch's Deep Optimism
 
-> "A much more general truth, namely that, for people, problems are inevitable. So let us carve that in stone:
->
-> **PROBLEMS ARE INEVITABLE**
->
-> It is inevitable that we face problems, but no particular problem is inevitable. We survive, and thrive, by solving each problem as it comes up. And, since the human ability to transform nature is limited only by the laws of physics, none of the endless stream of problems will ever constitute an impassable barrier. So a complementary and equally important truth about people and the physical world is that problems are soluble. By 'soluble' I mean that the right knowledge would solve them. It is not, of course, that we can possess knowledge just by wishing for it; but in principle it is accessible to us. So let us carve that in stone too:
->
-> **PROBLEMS ARE SOLUBLE**"
->
-> — *The Beginning of Infinity* by David Deutsch
+"A much more general truth, namely that, for people, problems are inevitable. So let us carve that in stone:
+
+**PROBLEMS ARE INEVITABLE**
+
+It is inevitable that we face problems, but no particular problem is inevitable. We survive, and thrive, by solving each problem as it comes up. And, since the human ability to transform nature is limited only by the laws of physics, none of the endless stream of problems will ever constitute an impassable barrier. So a complementary and equally important truth about people and the physical world is that problems are soluble. By 'soluble' I mean that the right knowledge would solve them. It is not, of course, that we can possess knowledge just by wishing for it; but in principle it is accessible to us. So let us carve that in stone too:
+
+**PROBLEMS ARE SOLUBLE**"
+
+— *The Beginning of Infinity* by David Deutsch
 
 
 ## Slide 3: We still need better testing! 
@@ -151,7 +151,7 @@ _Photo(s) documenting FloodLAMP’s acceptance into the Levan Innovation Center 
 
 Prepared by:
 Randy True - CEO, FloodLAMP Biotechnologies, PBC
-randy@foodlamp.bio
+randy@floodlamp.bio
 
 Theresa Ling - User Experience and Design, FloodLAMP Biotechnologies, PBC
 theresa@floodlamp.bio
@@ -175,7 +175,7 @@ her restaurant employees
 "You are a godsend to our community. I cannot begin to thank you for all of your support and love in keeping our community safe in this difficult time.
 \- Preschool teacher and administrator
 
-### Preschool Pilot Whitepaper Links
+### Link for Preschool Pilot Description
 [FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022)n](https://docs.google.com/document/d/1TOnklq-65XUX-v-li018rteK9jeL8NgqbNrtbndgD_o)
 _FLOODLAMP ARCHIVE FILE PATH:_ various/fl-whitepapers/FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
 
@@ -635,6 +635,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Negative | 1 | 40 | 41 |
 | Invalid | 0 | 0 | 0 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **97.5% (39/40)**; 95% CI: **86.8% to 99.9%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -645,6 +646,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Positive | 36 | 0 | 36 |
 | Negative | 4 | 40 | 44 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **90.0% (36/40)**; 95% CI: **76.3% to 97.2%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -687,8 +689,8 @@ Both FloodLAMP EasyPCR(TM) and  QuickColor(TM) had no false positives
 
 
 ## Slide 47: Clinical Evaluation by Stanford CLIA Lab
-### FloodLAMP Stanford Clinical Evaluation - All 3 Tests: Fluorimetric LAMP, COlorimetric LAMP, and PCR
-_Scatter Plot with FloodLAMP QuickFluor LAMP Ct (minutes) vs FloodLAMP EasyPCT Ct_
+### FloodLAMP Stanford Clinical Evaluation - All 3 Tests: Fluorimetric LAMP, Colorimetric LAMP, and PCR
+_Scatter Plot with FloodLAMP QuickFluor LAMP Ct (minutes) vs FloodLAMP EasyPCR Ct_
 One sample not detected by
 FloodLAMP EasyPCR(TM)
 (PPA 39/40 97.5%)
@@ -720,16 +722,16 @@ _Screenshot of the SalivaDirect™ FDA EUA lab authorization request form, illus
 - Yale can "designate" CLIA labs
 
 ### SalivaDirect: Lab authorization request form
-> SalivaDirect received Emergency Use Authorization (EUA) from the Food and Drug
-> Administration (FDA) on August 15th, 2020.
-> 
-> The SalivaDirect FDA EUA is for a Laboratory Developed Test, but we have the right to designate other labs its use.
-> 
-> Only high complexity CLIA-certified labs in the United States C I become authorized to ru un SalivaDirect. Please fill out this form if you would like to receive more information on how to become a designated lab.
-> 
-> Do you have access to at least 5x SARS-COV-2 positive and 5x negative saliva samples for CLIA verification?*
-> 
-> Would you be open to collaboration on bridging studies for your automation
+SalivaDirect received Emergency Use Authorization (EUA) from the Food and Drug
+Administration (FDA) on August 15th, 2020.
+
+The SalivaDirect FDA EUA is for a Laboratory Developed Test, but we have the right to designate other labs its use.
+
+Only high complexity CLIA-certified labs in the United States C I become authorized to ru un SalivaDirect. Please fill out this form if you would like to receive more information on how to become a designated lab.
+
+Do you have access to at least 5x SARS-COV-2 positive and 5x negative saliva samples for CLIA verification?*
+
+Would you be open to collaboration on bridging studies for your automation
 systems?
 
 
@@ -769,6 +771,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | NaCl | 5 M | Sodium Chloride | Thermo Fisher | 24740011 |
 | Guanidine HCl | 6 M | Guanidine Hydrochloride | Sigma-Aldrich | SRE0066 |
 | Colorimetric LAMP MM* |  | Colorimetric LAMP Master Mix | New England Biolabs | M1804 |
+||
 
 ### Table 2: Primer names and sequences
 | Primer Name | Sequence (5’-3’) |
@@ -787,6 +790,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | N2_B3 | GACTTGATCTTTGAAATTTGGATCT |
 | N2_LF | GGGGGCAAATTGTGCAATTTG |
 | N2_LB | CTTCGGGAACGTGGTTGACC |
+||
 
 ### Table 7: Primer-Guanidine: Solution
 | Component | Volume (1 reaction) | Volume (1 reaction x 100) 1 x 96-plate w/ 4% overage |
@@ -796,6 +800,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | Guanidine HCl (6 M) |  | 16.7 µL |
 | Nuclease-free Water | 5.5 µL | 783 µL |
 | **TOTAL VOLUME** | **10.5 µL** | **1050 µL** |
+||
 
 ### Table 8: Colorimetric LAMP Amplification Reaction
 | Component | Volume (1 reaction) | Volume (100 reactions) |
@@ -805,7 +810,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | **SUBTOTAL VOLUME** | **23 µL** | **2300 µL** |
 | Sample | 2 µL |  |
 | **REACTION VOLUME** | **25 µL** |  |
-
+||
 
 
 
@@ -847,8 +852,7 @@ https://reaganudall.org/research-funding-opportunity
 _Photo collage of lab staff at benches and close-up shots of personnel in PPE performing sample handling and labeling tasks._
 
 ## Slide 54: FloodLAMP Team - Thank You!
-### FloodLAMP Staff
-Randy True
+#### Randy True
 Founder & CEO
 Founder TMI Inc. Acq. Affymetrix
 Former VP of R&D at. Affymetrix
@@ -856,16 +860,16 @@ bit.ly/biosketch-randalltrue
 co-author global LAMP consortium review: bit.ly/GLAMP-review.
 https://abrf.memberclicks.net/ibt-2021-september-issue
 
-Theresa Ling
+#### Theresa Ling
 UX/Design Lead
 
-Gary Withey, Ph.D.  
+#### Gary Withey, Ph.D.  
 Vice President of Research & Development
 
-Dr. Peter Antevy, MD
+#### Dr. Peter Antevy, MD
 Program Medical Director 
 
-Brandon Smith
+#### Brandon Smith
 Lab Assistant
 
 ### Scientific Advisory Board
@@ -935,7 +939,7 @@ THE PREPRINT SERVER FOR HEALTH SCIENCES
 CSH (Cold Spring Harbor Laboratory) • BMJ • Yale
 View current version of this article
 Comparison of Rapid Antigen Tests’ Performance between Delta (B.1.617.2;AY.X) and Omicron (B.1.1.529;BA.1) Variants of SARS-CoV-2: Secondary Analysis from a Serial Home Self-Testing Study
-Apurv Soni; Carly Herbert; Andreas Filippaios; John Broach; Andres Colubri; Nisha Fahey; Kelsey Woods; Janvi Nanavati; Colton Wright; Taylor Orwig; Karen Gilliam; Vik Kheterpal; Tejas Suvarna; Chris Nowak; Summer Schrader; Honghuang Lin; Laurel O’Connor; Caitlin Pretz; Didem Ayturk; Elizabeth Orvek; Julie Flahive; Peter Lazar; Qiming Shi; Chad Achenbach; Robert Murphy; Matthew Robinson; Laura Gibson; Pamela Stagemna; Nathaniel Hafer; Katherine Luzuriaga; Bruce Barton; William Heetderks; Yukari C. Manabe; David McManus
+Apurv Soni; Carly Herbert; Andreas Filippaios; John Broach; Andres Colubri; Nisha Fahey; Kelsey Woods; Janvi Nanavati; Colton Wright; Taylor Orwig; Karen Gilliam; Vik Kheterpal; Tejas Suvarna; Chris Nowak; Summer Schrader; Honghuang Lin; Laurel O’Connor; Caitlin Pretz; Didem Ayturk; Elizabeth Orvek; Julie Flahive; Peter Lazar; Qiming Shi; Chad Achenbach; Robert Murphy; Matthew Robinson; Laura Gibson; Pamela Stamegna; Nathaniel Hafer; Katherine Luzuriaga; Bruce Barton; William Heetderks; Yukari C. Manabe; David McManus
 doi: https://doi.org/10.1101/2022.02.27.22271090
 
 Results From the 7,349 participants enrolled in the parent study, 5,506 met the eligibility criteria for this analysis. **A total of 153 participants were RT-PCR+ (61 Delta, 92 Omicron); among this group, 36 (23.5%) tested Ag-RDT+ on the same day and 36 (23.5%) tested Ag-RDT+ within 48 hours as first RT-PCR+.** The differences in sensitivity between variants were not statistically significant (same-day: Delta 16.4% [95% CI: 8.2-28.1] vs Omicron 28.2% [95% CI: 19.4-38.6]; and 48-hours: Delta 45.9% [33.1-59.2] vs.

@@ -1,17 +1,17 @@
 METADATA
-last updated: 2026-01-01 RT
-file_name: 2021-03-30_NY Times - Why Virus Tests at One Elite School Ran Afoul of Regulators.pdf
+last updated: 2026-03-05 by BA
+file_name: 2021-03-30_NY Times - Why Virus Tests at One Elite School Ran Afoul of Regulators.md
 file_date: 2021-03-30
-title: 2021-03-30_NY Times - Why Virus Tests at One Elite School Ran Afoul of Regulators
+title: NY Times - Why Virus Tests at One Elite School Ran Afoul of Regulators
 category: regulatory
 subcategory: surveillance
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/2021-03-30_NY%20Times%20-%20Why%20Virus%20Tests%20at%20One%20Elite%20School%20Ran%20Afoul%20of%20Regulators.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1CYtfoTY9PrnsqejhIYBeOwtxSqgHZcS-
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/2021-03-30_NY%20Times%20-%20Why%20Virus%20Tests%20at%20One%20Elite%20School%20Ran%20Afoul%20of%20Regulators.pdf
 web_url: https://www.nytimes.com/2021/03/30/health/coronavirus-trier-schools-testing.html
 conversion_input_file_type: pdf
 conversion: megaparse
@@ -24,7 +24,7 @@ summary_short: The New York Times article “Why Virus Tests at One Elite School
 
 CONTENT
 
-***INTERNAL TITILE:*** Why Virus Tests at One Elite School Ran Afoul of Regulators
+***INTERNAL TITLE:*** Why Virus Tests at One Elite School Ran Afoul of Regulators
 
 In the suburbs of Chicago, New Trier High School offers a lesson in just how complicated it can be to track the coronavirus in schools.
 
@@ -49,7 +49,7 @@ The C.D.C. encourages K-12 schools to arrange for both diagnostic testing for st
 
 The few schools that have tried to implement testing programs have found it extraordinarily difficult, according to a recent analysis by the Rand Corp. To make testing possible, schools need access to rapid testing, additional personnel and substantial technical assistance, the authors found. Simply persuading staff and students to accept regular testing can be an enormous challenge.
 
-Paul Sally, the superintendent at New Trier, believes his school has overcome the many obstacles that come with testing. "What we're most proud of is the fact that in our school, we don't have cases of transmission, he said.
+Paul Sally, the superintendent at New Trier, believes his school has overcome the many obstacles that come with testing. "What we're most proud of is the fact that in our school, we don't have cases of transmission," he said.
 
 But for several weeks this winter, infection rates in the towns around New Trier topped 200 cases per 100,000 per week, resulting in a test positivity rate of 13 percent. The school has recorded scores of cases. After a party on Feb. 6, for example, 48 New Trier students tested positive for the coronavirus and more than 200 were quarantined.
 
@@ -73,15 +73,15 @@ Some parents made T-shirts, set up a website and held a rally in support of reop
 
 Still, the school pushed ahead with testing. Dr. Campbell's lab analyzed saliva samples from New Trier students and delivered the results in a spreadsheet, flagging students who needed a confirmatory test by a certified lab.
 
-Although SafeGuard technically did not deliver a diagnosis, the implication was clear after rapid testing, some students were presumed to be infected, and they and their siblings were sent home.
+Although SafeGuard technically did not deliver a diagnosis, the implication was clear — after rapid testing, some students were presumed to be infected, and they and their siblings were sent home.
 
-The company and the school refer to this as surveillance. But while surveillance programs may gauge the prevalence of a disease or a pathogen at a population level - that 10 of every 1,000 students are infected, for example they do not provide results for individuals.
+The company and the school refer to this as surveillance. But while surveillance programs may gauge the prevalence of a disease or a pathogen at a population level — that 10 of every 1,000 students are infected, for example — they do not provide results for individuals.
 
 The school and the company were instead "screening" students - flagging individual students who might be infected. And screening testing is subject to stringent regulation.
 
 Since the start of the pandemic, the Food and Drug Administration has granted emergency use authorizations for dozens of coronavirus tests. The C.D.C. details which kinds of testing are appropriate for different purposes. And the Centers for Medicare & Medicaid Services certifies labs for testing through its Clinical Laboratory Improvement Amendments program.
 
-School administrators wishing to implement testing must navigate through a maze of requirements from these agencies, keeping an eye on the subtle differences between surveillance, screening and diagnosis or trusting a lab to do SO for them. Surveillance does not require certification from C.L.I.A., for instance, but screening testing does.
+School administrators wishing to implement testing must navigate through a maze of requirements from these agencies, keeping an eye on the subtle differences between surveillance, screening and diagnosis — or trusting a lab to do so for them. Surveillance does not require certification from C.L.I.A., for instance, but screening testing does.
 
 Because of rising confusion, the F.D.A. this month released detailed guidance for schools, workplaces and communities on the differences between screening and diagnostic testing programs.
 
@@ -89,15 +89,15 @@ SafeGuard should have obtained C.L.I.A. certification for its tests, or New Trie
 
 "It's not hard for a school system to get a C.L.I.A. waiver," Mr. Becker, of the Association of Public Health Laboratories, said. Nearly 300,000 labs are certified to perform testing, and many schools and universities are already relying on those labs and on authorized tests, he noted.
 
-Dr. Campbell said that his lab operates well within current regulations, pointing to a new federal guideline saying that regulators will not cite a lab that is not C.L.I.A.- certified SO long as the lab "does not report actual test results" but refers individuals for further testing instead.
+Dr. Campbell said that his lab operates well within current regulations, pointing to a new federal guideline saying that regulators will not cite a lab that is not C.L.I.A.-certified so long as the lab "does not report actual test results" but refers individuals for further testing instead.
 
 But on Dec. 28, officials at the Centers for Medicare & Medicaid Services sent Dr. Campbell a letter clarifying the requirements. "If at any time a patient specific result is to be reported by a facility, a C.L.I.A. certificate must be obtained," the agency warned.
 
-Dr. Campbell said his company had not requested emergency use authorization from the F.D.A. because of the expense and because the process was "SO backlogged now."
+Dr. Campbell said his company had not requested emergency use authorization from the F.D.A. because of the expense and because the process was "so backlogged now."
 
 *Image Caption:* A student walks past New Trier High School, where SafeGuard tests were used despite not being vetted or authorized by the Food and Drug Administration. Taylor Glascock for The New York Times
 
-Stephanie Caccomo, a spokeswoman for the F.D.A., disputed the assertions. "There is no cost for submitting an E.U.A. request, she said, and companies can market their tests as soon as they validate them and notify the agency.
+Stephanie Caccomo, a spokeswoman for the F.D.A., disputed the assertions. "There is no cost for submitting an E.U.A. request," she said, and companies can market their tests as soon as they validate them and notify the agency.
 
 In interviews, Dr. Campbell and school officials said the Illinois Department of Health was aware of the program and had given its blessing. But Melaney Arnold, a spokeswoman for the department, said state regulators "did not approve the use of SafeGuard Screening to provide test results to individuals."
 
@@ -105,11 +105,11 @@ After initial publication of this article, Ms. Arnold contacted The Times to say
 
 Dr. Campbell and New Trier administrators insist the testing program is legal and is keeping the school's doors open.
 
-"The guidance is very confusing, said Dr. Campbell. "What's a person trying to operate in good faith supposed to do?"
+"The guidance is very confusing," said Dr. Campbell. "What's a person trying to operate in good faith supposed to do?"
 
 **A correction was made on April 6, 2021:** Because of an editing error, an earlier version of this article misstated the federal agency to which SafeGuard had applied for lab certification. Such certifications are reviewed by the Centers for Medicare and Medicaid Services, not the Food and Drug Administration.
 
-**A correction was made on April 9, 2021:**: An earlier version of this article included outdated information. from the Illinois Department of Public Health about the status of its investigation into SafeGuard. After publication, the department responded to an earlier request from The Times about the investigation and said that it had ended its investigation in March, after SafeGuard received federal certification.
+**A correction was made on April 9, 2021:** An earlier version of this article included outdated information from the Illinois Department of Public Health about the status of its investigation into SafeGuard. After publication, the department responded to an earlier request from The Times about the investigation and said that it had ended its investigation in March, after SafeGuard received federal certification.
 
 When we learn of a mistake, we acknowledge it with a correction. If you spot an error, please let us know at nytnews@nytimes.com. Learn more
 

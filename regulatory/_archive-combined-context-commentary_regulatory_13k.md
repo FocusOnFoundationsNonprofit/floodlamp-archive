@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-context-commentary_regulatory_13k.md =====
-# regulatory context & commentary (9 files, 12,833 tokens)
-
-# 725  _context-commentary_regulatory-fda-euas.md
 METADATA
 last updated: 2026-02-26 RT
 file_name: _context-commentary_regulatory-fda-euas.md

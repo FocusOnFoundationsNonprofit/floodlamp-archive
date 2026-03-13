@@ -15,7 +15,6 @@ FAERS
 GenomeTrakr
 Harmonisation
 intravascular
-Lucira
 MDIC
 nanoparticles
 NIBIB

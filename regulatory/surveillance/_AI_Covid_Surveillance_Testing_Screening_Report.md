@@ -9,7 +9,7 @@ tags: surveillance, screening, testing, CLIA, FDA, CMS, CDC, regulatory-definiti
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1heuoMq2c0YUEPD1-UvgW1QFI4pLIUBel4-iGuJk6MoM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/surveillance/_AI_Covid_Surveillance_Testing_Screening_Report.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/_AI_Covid_Surveillance_Testing_Screening_Report.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

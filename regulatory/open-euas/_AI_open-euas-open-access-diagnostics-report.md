@@ -9,7 +9,7 @@ tags: open-eua, open-source-diagnostics, salivadirect, fda-eua, cdc-test, open-a
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1EZbWftQkdu0VnPlYXqMveg-ZhTDXMqtYZMz5NR-3Z9A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/open-euas/_AI_open-euas-open-access-diagnostics-report.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/_AI_open-euas-open-access-diagnostics-report.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

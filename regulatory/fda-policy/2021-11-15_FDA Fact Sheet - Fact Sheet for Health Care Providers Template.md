@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z89Vls227zXt8-XD3KID4OYRZWMjgFZH
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1KrfwKAHzjWluT23JNvaWm28NY7idzlzM
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Health%20Care%20Providers%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

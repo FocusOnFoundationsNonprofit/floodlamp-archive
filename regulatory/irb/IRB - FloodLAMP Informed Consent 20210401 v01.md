@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1C9JnoXGmkyXQDSk4vIbyCnJD1gF7p-U3
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wtZEiDitbU7cq6MxKyR0HZpld7SeF-Dc
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/irb/IRB%20-%20FloodLAMP%20Informed%20Consent%2020210401%20v01.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

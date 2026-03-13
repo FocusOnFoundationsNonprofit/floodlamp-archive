@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-17 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: CMS - CLIA Surveillance Testing SARS-CoV-2 Frequently Asked Questions (2021-10-21).md
 file_date: 2021-10-21
 title: CMS CLIA - Surveillance Testing SARS-CoV-2 Frequently Asked Questions
@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1FN0e5vbU3eJ2hMSewH9to42yvYhWisCn
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/CMS%20-%20CLIA%20Surveillance%20Testing%20SARS-CoV-2%20Frequently%20Asked%20Questions%20%282021-10-21%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: public domain

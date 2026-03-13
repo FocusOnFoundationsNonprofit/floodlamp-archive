@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1hdTOuLxX7SnE7VL9Rdw61PeU-HE4ylli/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

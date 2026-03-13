@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-01-01 RT
+last updated: 2026-03-06 by BA
 file_name: 2022-04-06_California State CDPH - COVID-19 Public Health Guidance for K-12 Schools California.md
 file_date: 2022-04-06
 title: COVID-19 Public Health Guidance for K-12 Schools in California, 2021-22 School Year
@@ -9,7 +9,7 @@ tags:
 source_file_type: website
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2022-04-06_California%20State%20CDPH%20-%20COVID-19%20Public%20Health%20Guidance%20for%20K-12%20Schools%20California.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1IPVclmnG6SrTMCy-5laoa4LL4iQ3i0MR
 pdf_github_url: NA
 web_url: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/K-12-Guidance-2021-22-School-Year.aspx
@@ -35,7 +35,7 @@ CONTENT
 
 **SUBJECT:** COVID-19 Public Health Guidance for K-12 Schools in California, 2021-22 School Year
 
-> This guidance is no longer in effect and is for historical purposes only. See the 2022/23 K-12 School Guidance for updated information.
+This guidance is no longer in effect and is for historical purposes only. See the 2022/23 K-12 School Guidance for updated information.
 
 **Related Materials:**
 - Group-Tracing Approach to Students Exposed to COVID-19 in K-12 Setting

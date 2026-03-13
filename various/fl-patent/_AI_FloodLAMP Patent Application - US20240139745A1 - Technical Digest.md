@@ -9,7 +9,7 @@ tags: patent; decentralized testing; LAMP; isothermal amplification; microfluidi
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1gMt_pu_5AXWGKBUXVoAFJSykRRXgmaAyAWVjPK4NPn8
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-patent/_AI_FloodLAMP%20Patent%20Application%20-%20US20240139745A1%20-%20Technical%20Digest.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/fl-patent/_AI_FloodLAMP%20Patent%20Application%20-%20US20240139745A1%20-%20Technical%20Digest.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

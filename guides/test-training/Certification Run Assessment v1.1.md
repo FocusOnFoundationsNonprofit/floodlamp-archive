@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1DhkmEUn15q0MnETtUb3tjp9VcBA5JtLnmHfB_PpRlFw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.docx
 pdf_gdrive_url: https://drive.google.com/file/d/17ZqwLhedEXXnS4H-lNeOXWmD1MzrCnno
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Certification%20Run%20Assessment%20v1.1.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

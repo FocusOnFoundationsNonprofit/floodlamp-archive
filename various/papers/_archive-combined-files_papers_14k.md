@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_papers_14k.md =====
-# papers (4 files, 14,041 tokens)
-
-# 9,056  _AI_Literature Review - Pandemic Testing and Screening Strategy.md
 METADATA
 last updated: 2026-02-23 AI
 file_name: _AI_Literature Review - Pandemic Testing and Screening Strategy.md
@@ -13,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/13sYNGv-OnEOllnFn9B8TTwMrM7wjvXS91sCjWtqUv1w
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/papers/Literature%20Review%20-%20Pandemic%20Testing%20and%20Screening%20Strategy.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/papers/Literature%20Review%20-%20Pandemic%20Testing%20and%20Screening%20Strategy.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

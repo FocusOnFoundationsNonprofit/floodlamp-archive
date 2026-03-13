@@ -1,17 +1,17 @@
 METADATA
-last updated: 2025-12-31 RT
+last updated: 2026-03-06 by BA
 file_name: 2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
 file_date: 2021-03-24
-title: 021-03-24_Cochrane Antigen Tests Review Link and Guardian Article
+title: 2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article
 category: various
 subcategory: papers
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Yk72tI6MAdwviqxJlPY-aFczeqgoDiBcQ4EY6SFkRjo
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/papers/2021-03-24_Cochrane%20Antigen%20Tests%20Review%20Link%20and%20Guardian%20Article.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1DTx0e-yfBqbQ6_ZXnpCwa3Kdr08CVzdB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/papers/2021-03-24_Cochrane%20Antigen%20Tests%20Review%20Link%20and%20Guardian%20Article.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -23,8 +23,7 @@ summary_short: The Cochrane review and related March 24, 2021 Guardian coverage 
 
 CONTENT
 
-[<u>Cochrane Antigen Review (3-21-2021)</u>](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
-[<u>https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full</u>](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
+[Cochrane Antigen Review (3-21-2021)<br>https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
 
 ***INTERNAL TITLE:*** Guardian Article 03-24-21 Rapid lateral flow tests 'should not be used for test and release'
 

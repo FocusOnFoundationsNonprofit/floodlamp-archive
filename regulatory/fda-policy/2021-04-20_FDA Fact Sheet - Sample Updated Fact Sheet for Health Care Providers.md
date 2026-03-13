@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1EL5kfQsyIGs57SDK8lm-9LWnwr41Fgtv
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Health%20Care%20Providers.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-04-20_FDA%20Fact%20Sheet%20-%20Sample%20Updated%20Fact%20Sheet%20for%20Health%20Care%20Providers.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain

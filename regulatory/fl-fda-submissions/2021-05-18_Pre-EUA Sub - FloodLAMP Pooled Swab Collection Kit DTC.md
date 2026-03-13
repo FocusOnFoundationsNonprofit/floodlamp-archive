@@ -1,8 +1,8 @@
 METADATA
-last updated: 2025-12-18 by BA
+last updated: 2026-03-05 by BA
 file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC.md
 file_date: 2021-05-18
-title: 2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC
+title: Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC
 category: regulatory
 subcategory: fl-fda-submissions
 tags: collection
@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/13ghhBwFK9nAfA2htGq7mQ_5_JXSgTixt
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Pooled%20Swab%20Collection%20Kit%20DTC.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-u
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -22,6 +22,8 @@ summary_short: The FloodLAMP Pooled Swab Collection Kit DTC instructions describ
 
 
 CONTENT
+
+***INTERNAL TITLE:*** FloodLAMP Pooled Swab Collection Kit DTC
 
 **FloodLAMP Biotechnologies**
 A Public Benefit Corporation

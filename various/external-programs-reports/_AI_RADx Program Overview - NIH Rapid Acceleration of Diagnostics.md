@@ -9,7 +9,7 @@ tags:
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/13X6tcUSaSfGbyhfCm6BDQK9HW27khP3Ung6iUe5d67k
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/RADx%20Program%20Overview%20-%20NIH%20Rapid%20Acceleration%20of%20Diagnostics.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/external-programs-reports/RADx%20Program%20Overview%20-%20NIH%20Rapid%20Acceleration%20of%20Diagnostics.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA

@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1T1xco5NCe0F8GF84JqVZ0hDyBO0HsG-wbZ-66ezg14I
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1bE4JczPKTYLpuhhQQNdIak5K6_31yudU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

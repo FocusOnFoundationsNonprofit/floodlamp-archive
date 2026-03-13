@@ -1,5 +1,3 @@
-
-
 | FloodLAMP EasyPCRTM  COVID-19 Test  Instructions for Use v1.0  IVD COVID-19 Emergency Use Authorization OnlyFor *in vitro* diagnostic (IVD) Use  www.floodlamp.bio FloodLAMP Biotechnologies, PBC | 930 Brittan Ave. San Carlos, CA 94070 USA |
 | ----- |
 
@@ -786,4 +784,4 @@ eua.support@floodlamp.bio
 
 QuantStudio  is a trademark of Thermo Fisher Scientific (NYSE: TMO)
 
-Bio-Rad and Bio-Rad CFX96 Touch  is a trademark of Bio-Rad Laboratories, Inc. (NYSE: BIO)  
+Bio-Rad and Bio-Rad CFX96 Touch  is a trademark of Bio-Rad Laboratories, Inc. (NYSE: BIO)

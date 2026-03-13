@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1NQ3_Rmh-AYVSPYn7AP-Hls9rMLBXEX1zWLvRLTrzPrE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Msh-TYQeiZlCc2fd_zhW0CQOk3U8B_bO
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

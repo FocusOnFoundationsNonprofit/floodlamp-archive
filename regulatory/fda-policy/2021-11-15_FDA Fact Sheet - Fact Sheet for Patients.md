@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/15IYuV9oStHUdX__pWbgcong0pukyfFSz
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Fact%20Sheet%20for%20Patients.pdf
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain

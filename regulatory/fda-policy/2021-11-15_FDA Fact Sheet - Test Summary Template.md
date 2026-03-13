@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1hCGpvQwuLnzFif5So2fCKvXc6HbzDlqf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1YClkMKU4YVojP28wnwyDhl_7QIzaQylH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2021-11-15_FDA%20Fact%20Sheet%20-%20Test%20Summary%20Template.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

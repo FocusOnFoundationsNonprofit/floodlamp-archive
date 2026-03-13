@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_fl-fda-correspondence_44k.md =====
-# fl-fda-correspondence (13 files, 43,566 tokens)
-
-# 5,839  _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
 METADATA
 last updated: 2026-03-02 RT initial creation
 file_name: _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
@@ -13,7 +9,7 @@ tags: fda-deprioritization, eua, covid-diagnostics, cdrh, oht7, decline-to-revie
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1XgCWcEhzhNktZGdiY2jo5xlOvuYBQAv7fPymbe2pmfA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/reg-articles-misc/_AI_FDA%20Deprioritization%20of%20COVID-19%20Diagnostic%20EUAs.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/_AI_FDA%20Deprioritization%20of%20COVID-19%20Diagnostic%20EUAs.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -342,7 +338,7 @@ tags: fda-correspondence, deprioritization, eua, quickcolor, october-2021, open-
 source_file_type: md
 xfile_type: NA
 gfile_url: https://docs.google.com/document/d/1mT_Hg7gHwWScfWfmGuaJcWK9gVLXB-NV3j0UthTwuDw
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-correspondence/_AI_FloodLAMP%20FDA%20October%202021%20Correspondence%20Analysis.md
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/_AI_FloodLAMP%20FDA%20October%202021%20Correspondence%20Analysis.md
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: NA
@@ -865,9 +861,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mH0N7IRddKIaXaZAyHAqqyhh3epTeheieS20-dm3_U0
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JxojezTCq8L0bJutMf4yE4l64BP-b-xU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -924,9 +920,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1VBn8z1oUZA29-9OkproAwofi6O2ubEQ7PkvVdvyZqSA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1KkiuK5SPHIxHrdUhVLitD8uE3FCl3tdc
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1046,9 +1042,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1NQ3_Rmh-AYVSPYn7AP-Hls9rMLBXEX1zWLvRLTrzPrE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Msh-TYQeiZlCc2fd_zhW0CQOk3U8B_bO
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1323,9 +1319,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z3zw4jLv5UmZaSFGxloNeBQmV46WWAa70BbfAbowX7A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
 pdf_gdrive_url: https://drive.google.com/file/d/14WazfTa6NVDRdE5TMR7q4Ze8Lb44I7mJ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
 conversion_input_file_type: gdoc
 conversion: cut and paste
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1851,9 +1847,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1T1xco5NCe0F8GF84JqVZ0hDyBO0HsG-wbZ-66ezg14I
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1bE4JczPKTYLpuhhQQNdIak5K6_31yudU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

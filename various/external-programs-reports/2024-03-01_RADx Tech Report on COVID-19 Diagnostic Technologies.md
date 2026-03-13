@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-07 BA after CT
-file_name: 2024-03-01_RADx Tech Report on COVID-19 Diagnostic Technologies.pdf
+last updated: 2026-03-06 by BA
+file_name: 2024-03-01_RADx Tech Report on COVID-19 Diagnostic Technologies.md
 file_date: 2024-03-01
 title: 2024-03-01_RADx Tech Report on COVID-19 Diagnostic Technologies
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2024-03-01_RADx%20Tech%20Report%20on%20COVID-19%20Diagnostic%20Technologies.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1IxhDP2ttrDYCNVxOTbddeqZnULhi-rrs
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2024-03-01_RADx%20Tech%20Report%20on%20COVID-19%20Diagnostic%20Technologies.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
@@ -77,7 +77,7 @@ In April 2022, in response to public demand, NIBIB partnered with Health & Human
 
 In addition to working closely with other federal agencies and advocacy groups, the RADx Tech program established multiple programs to aid in COVID-19 test distribution and case tracking throughout the U.S.. The RADx Mobile At-Home Reporting through Standards (MARS) program promotes an approach built on IT communication standards to report COVID-19 self- test results and establishes best practices for future reporting of remote diagnostics. By standardizing how self-reported test results are collected, RADx MARS can transmit the data to state, federal, and local health systems. The Make My Test Count website for self-reporting results of home tests launched in November 2022 and effectively replaced manufacturer apps to provide a single reporting pathway for home test results to state and federal databases. The site currently supports reporting for all FDA-authorized/cleared OTC tests for COVID-19 and COVID-19/Flu multiplex tests, with over 152,000 test results self-reported to date.
 
-Say Yes! COVID Test (SYCT) was a cooperative effort with state and local health departments, NIH, and Centers for Disease Control and Prevention (CDC). The program offered access to free, rapid, at-home COVID-19 testing in select communities throughout the U.S. The goal was to pilot test distribution mechanisms and understand if access to frequent, at-home testing for COVID-19 impacts community spread of the virus. Through SYCT, more than 2 million COVID-19 home tests have been distributed and results demonstrated that home testing can impact behavior and reduce transmission in a community. Lessons learned from this effort, along with increased test availability through ITAP, enabled the USG [covidtest.gov](https://www.whitehouse.gov/lab-leak-true-origins-of-covid-19/) distribution of free tests nationwide. More recently, the RADx Tech program launched the Home Test-to-Treat program: an entirely virtual community health intervention that provides free COVID-19 tests, telehealth consultations, and treatments to eligible individuals in their own homes. The program initially launched in three geographically targeted areas and has since expanded to eligible participants nationwide and added influenza testing and treatment in addition to COVID-19.
+Say Yes! COVID Test (SYCT) was a cooperative effort with state and local health departments, NIH, and Centers for Disease Control and Prevention (CDC). The program offered access to free, rapid, at-home COVID-19 testing in select communities throughout the U.S. The goal was to pilot test distribution mechanisms and understand if access to frequent, at-home testing for COVID-19 impacts community spread of the virus. Through SYCT, more than 2 million COVID-19 home tests have been distributed and results demonstrated that home testing can impact behavior and reduce transmission in a community. Lessons learned from this effort, along with increased test availability through ITAP, enabled the USG [covidtest.gov](https://www.covidtest.gov/) distribution of free tests nationwide. More recently, the RADx Tech program launched the Home Test-to-Treat program: an entirely virtual community health intervention that provides free COVID-19 tests, telehealth consultations, and treatments to eligible individuals in their own homes. The program initially launched in three geographically targeted areas and has since expanded to eligible participants nationwide and added influenza testing and treatment in addition to COVID-19.
 
 Home Test to Treat is a collaboration between NIBIB, ASPR, and CDC. The goal of this program is to better understand how technologies such as at-home tests and telemedicine can improve healthcare access for individuals across the country.
 

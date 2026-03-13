@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Sss5KtnmrR1csGJSlSSKshiTlS4El3k_CljpIJOR41Y
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1hfNOLRB8Ll70VGhYW8gJIky-nywqM9TF
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-validation/2021-03-10_Clinical%20Eval%20Guide%20-%20from%20FloodLAMP%20IFU%20DRAFTS.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

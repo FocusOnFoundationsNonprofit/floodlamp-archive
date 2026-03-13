@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_fl-proposals_38k.md =====
-# fl-proposals (7 files, 37,944 tokens)
-
-# 1,571  _context-commentary_various-fl-proposals.md
 METADATA
 last updated: 2026-02-20 RT
 file_name: _context-commentary_various-fl-proposals_WIP.md

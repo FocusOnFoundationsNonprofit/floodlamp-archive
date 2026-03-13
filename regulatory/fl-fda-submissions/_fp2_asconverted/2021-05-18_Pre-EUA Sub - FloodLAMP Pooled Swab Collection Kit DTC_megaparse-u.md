@@ -219,4 +219,3 @@ Put the tube in the biohazard bag Securely close the zippered bag, then thorough
 Return the biohazard bag By collection point: If your kit does not include a return mailer, bring your biohazard bag to the collection point designated by your program administrator.
 
 By mail: If your kit includes a return mailer, seal the biohazard bag in the return mailer. This packaging is specially designed for carrying samples suspected of carrying infectious substances. Do NOT replace it. Note: Your return shipping has already been paid.
-

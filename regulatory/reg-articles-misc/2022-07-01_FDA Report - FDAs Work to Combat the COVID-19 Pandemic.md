@@ -1,17 +1,17 @@
 METADATA
-last updated: 2026-01-07 BA after CT
-file_name: 2022-07-01_FDA Report - FDAs Work to Combat the COVID-19 Pandemic.pdf
+last updated: 2026-03-05 by BA
+file_name: 2022-07-01_FDA Report - FDAs Work to Combat the COVID-19 Pandemic.md
 file_date: 2022-07-01
-title: 2022-07-01_FDA Report - FDAs Work to Combat the COVID-19 Pandemic
+title: FDA Report - FDAs Work to Combat the COVID-19 Pandemic
 category: regulatory
 subcategory: reg-articles-misc
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/reg-articles-misc/2022-07-01_FDA%20Report%20-%20FDAs%20Work%20to%20Combat%20the%20COVID-19%20Pandemic.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1--FKbp2c_Q5mUbbm7qg04VCmbKaUEDmL
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/reg-articles-misc/2022-07-01_FDA%20Report%20-%20FDAs%20Work%20to%20Combat%20the%20COVID-19%20Pandemic.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
@@ -121,27 +121,27 @@ COVID-19 highlighted vulnerabilities in the medical supply chain. Supply chain d
 * Prevention or mitigation of shortages with evidence-based strategies such as enforcement discretion; expedited review of manufacturing supplements, generic drug applications, or premarket devices; and requesting that manufacturers identify alternative suppliers, redistribute stock, or increase manufacturing.
 * The programs developed are expected to be beneficial for preventing future shortages including in other emergencies like natural disasters (hurricanes and winter storms), labor disputes, and shipping disruptions.
 
-**PHARMACEUTICALS**
+### PHARMACEUTICALS
 * CDER’s Drug Supply Chain Surveillance System is being developed to provide enhanced insight into the drug supply chain—from active ingredient suppliers to clinical settings such as hospitals and pharmacies. This system will utilize existing as well as new data sources to identify early signals that may indicate shortages so they can be prevented and mitigated.
     o CDER was able to work with manufacturers to prevent 482 potential shortages in 2020-2021. Consequently, there was no increase in the number of shortages: 46 in 2019, 43 in 2020 and 38 in 2021.
     o CDER accomplished this in part by expediting review and approval of > 1,300 manufacturing supplements and > 100 generic drugs.
 
 For example, starting in April 2020, there were shortages of Cisatracurium, a necessary medication for some patients on ventilators with dangerously low oxygen levels. The FDA identified this shortage and expedited the review of a generic version of the drug to increase supply. CDER also issued temporary guidances on compounding to allow for a wider array of compounding formulations to address certain supply disruptions.
 
-**VACCINES AND BIOLOGICS**
+### VACCINES AND BIOLOGICS
 * CBER’s shortages program was able to work with manufacturers to prevent 34 potential shortages in calendar years 2020 and 2021. CBER accomplished this, in part, by expediting review and approval of 17 biologics license application supplements and 15 lot release submissions for CBER-regulated products.
 
-**ANIMAL DRUGS**
+### ANIMAL DRUGS
 * The FDA Center for Veterinary Medicine (CVM) Animal Drug and Manufacturing System is launching in 2022 and will generate reports with necessary data for the analysis of potential animal drug shortages, which have more than tripled during pandemic.
 
-**DEVICES**
+### DEVICES
 * CDRH’s new Resilient Supply Chain Program (RSCP) program aims to develop and apply state-of-the-art supply chain intelligence to predict and prevent supply chain shortages. CDRH has implemented the reporting authority that requires manufacturers to report the shortage of certain medical devices utilizing a newly created webform, and actively maintains a medical device shortage list. In addition, CDRH has integrated internal and external data sources for supply chain analysis and modeling to inform shortage mitigations.
     o The RSCP has performed outreach to >1000 manufacturers in 12 countries to perform impact assessments and inform mitigation strategies.
     o CDRH has performed hundreds of shortage assessments on PPE, COVID-19 testing supplies and equipment, ventilators, and other related device shortages, and has provided evidence- based data to support both regulatory and non- regulatory mitigations.
 
 For example, CDRH, in partnership with the Biomedical Advanced Research and Development Authority and the U.S. Department of Defense, helped to coordinate a series of military airlifts of millions of testing swabs during a severe shortage.
 
-**IMPORT IMPROVEMENTS**
+### IMPORT IMPROVEMENTS
 * The FDA Office of Regulatory Affairs is investing in import modernization with our partner government agencies. For example, FDA continues to work with U.S. Customs and Border Protection to refine existing data interfaces and with the U.S. Postal Service to develop a data exchange to better track and target international mail. These efforts should enable more effective efficient legitimate trade, while intercepting potentially harmful products before they enter the U.S.
 
 ## Advanced Manufacturing and Innovation
@@ -203,7 +203,7 @@ To **prevent harm to consumers and animals from violative or fraudulent products
 **Combatting Fatal Contamination:** The FDA noted 2,660 cases of poisonings reported to the National Poison Data System’, including 18 confirmed deaths, from ingestion of contaminated hand sanitizers. The FDA saw a sharp increase in hand sanitizer products from Mexico that were labeled to contain ethanol (also known as ethyl alcohol) but, among other concerns, tested positive for methanol contamination; 84% of the samples of alcohol-based hand sanitizers imported from Mexico analyzed by the agency from April 2020 through December 2020 were not in compliance with the FDA's regulations, and more than half of the samples were found to contain toxic ingredients, including methanol and/or 1-propanol, at dangerous levels. The FDA worked with companies and retailers to recall dozens of violative products. In January 2021, due to safety concerns about alcohol-based hand sanitizers manufactured in Mexico, the agency placed all such products on an import alert, which was the first time the FDA had issued a countrywide import alert for any category of drug product. In addition, as part of the agency’s efforts to protect consumers from potentially dangerous or violative hand sanitizers, the agency published on its website a list of over 250 hand sanitizers that consumers should not use, released a guidance, developed safety toolkits in multiple languages, and issued warning letters.
 
 ## Crosscutting Research
-**Crosscutting Activities**
+### Crosscutting Activities
 Regulatory science is the science of developing evidence-based tools, standards, and approaches to assess safety, efficacy, quality, and performance of all FDA-regulated products. Much research conducted at the ; . : . FDA is relevant to multiple different products and may involve more than one FDA center or office. The studies below have resulted in more than 60 publications:
 
 * Laboratory standards and techniques such as the development of reagents, reference panels, and artificial intelligence (Al) to identify targets for new drug development.
@@ -214,11 +214,11 @@ Regulatory science is the science of developing evidence-based tools, standards,
 
 The FDA has created translations of FDA health communications in numerous languages, including EUA fact sheets in multiple languages.
 
-**Health Equity**
+### Health Equity
 Many diseases, including COVID-19, disproportionately impact racial and ethnic minority communities. The FDA Office of Minority Health and Health Equity (OMHHE) launched The Enhance EQUITY Initiative to advance diversity in clinical trials, increase equitable data efforts, and increase understanding of diverse stakeholder perspectives. OMHHE launched The COVID-19 and Health Equity Innovation Award which has funded five studies on topics such as understanding COVID-19 outcomes by different demographic variables, including ethnicity, race, age, and geography among others; racial and ethnic minority participation in COVID-19 clinical trials; and understanding diverse patient perspectives, preferences, and unmet needs. OMHHE also supported four additional COVID-19 research projects.
 
-**Identifying Variants in Wastewater**
+### Identifying Variants in Wastewater
 Testing for SARS-CoV-2 in wastewater can indicate a surge one to two weeks before a rise in cases. Wastewater also gives a snapshot of a whole population served by a wastewater system, not just those who get tested. Most of the wastewater surveillance for SARS-CoV-2 tests only small fragments of the virus, which can indicate the quantity of the virus present but unfortunately does not give any indication about the proportion of variants within a sample. The FDA Center for Food Safety and Applied Nutrition’s (CFSAN) existing GenomeTrakr program uses whole genome sequencing to evaluate the genomes of pathogens in the food supply. CFSAN deployed a similar technology to sequence SARS-CoV-2 in > 50 sites in the U.S. geographic regions with high percentages of agricultural and food facility workers, whose health is critical for stability of the U.S. food supply chain. These data can be used to monitor circulating variants and their impact on vaccines, therapeutics, and diagnostics. Furthermore, the analysis software CFSAN developed has been adopted by other partners, including the U.S. Centers for Disease Control and Prevention (CDC).
 
-**Understanding COVID-19 Spread from Animals**
+### Understanding COVID-19 Spread from Animals
 Approximately 75% of recently emerging infectious diseases affecting humans are of animal origin, including HIV, Ebola, and influenza. Mink, deer, and other animals are known to be reservoirs for SARS-CoV-2. Humans have transmitted SARS- CoV-2 back to animals, including some domestic dogs and cats. Researchers are currently exploring how environmental factors, including ground and wastewater, play a role in viral transmission. Recognizing that the health of people, animals, and the environment is intertwined, CVM is partnering with other government agencies, such as the U.S. Department of Agriculture and CDC, to solidify a One Health approach to the FDA’s human and animal public health work, and the FDA is standing up a One Health Center of Excellence. An example of CVM’s One Health approach is the work being done with other veterinary diagnostic laboratories to identify COVID-19 variants in animal populations and compare them to those in humans. This type of approach is to understanding not just COVID-19, but many other emerging threats, such as antimicrobial resistance.

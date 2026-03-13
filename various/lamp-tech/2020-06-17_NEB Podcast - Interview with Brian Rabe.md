@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-19 BA
-file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe
+last updated: 2026-03-06 by BA
+file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe.md
 file_date: 2020-06-17
 title: NEB Podcast - Interview with Brian Rabe
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: webcopy
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/14JEzr15AC_QaYt7iNdpULujpX4rAVpq6oMsxNPUmw4I
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/lamp-tech/2020-06-17_NEB%20Podcast%20-%20Interview%20with%20Brian%20Rabe.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1HOv-L5tboNnoHx1Qhl8rHdFVlimm5usa
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/lamp-tech/2020-06-17_NEB%20Podcast%20-%20Interview%20with%20Brian%20Rabe.pdf
 conversion_input_file_type: docx
 conversion: manual cut and paste
 license: 3rd Party
@@ -27,8 +27,6 @@ summary_short: The NEB “Lessons from Lab and Life” Podcast #25 transcript ca
 CONTENT
 
 ***INTERNAL TITLE:*** NEB Podcast #25 - COVID-19 Researcher Spotlight Series: Interview with Brian Rabe
-
-NEB Podcast #25 - COVID-19 Researcher Spotlight Series: Interview with Brian Rabe
 
 https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?srsltid=AfmBOorT4BJTXC_r08h0xFUCLiTd4AR2ZrXd6BqHlrPUlkoMp3OhjHeN
 

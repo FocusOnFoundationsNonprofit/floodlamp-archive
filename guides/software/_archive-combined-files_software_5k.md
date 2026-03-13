@@ -1,7 +1,3 @@
-# ===== START OF FILE _archive-combined-files_software_5k.md =====
-# software (4 files, 5,389 tokens)
-
-# 859  _context-commentary_guides-software.md
 METADATA
 last updated: 2026-02-18 RT
 file_name: _context-commentary_guides-software.md
@@ -47,9 +43,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1K8CDEafa-U68ia6kPqE3_r6Qd37HyehMN1Ef7BYAzxc
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Wuje2Az8mBWCFBU2P0cQzJjWITW1Wpbv
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Adding%20Minors%20In%20the%20FloodLAMP%20App%20-%20Instructions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -89,9 +85,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/16TH6wjOZtRGVMECh5dU7p88Pb2hLBkOeHCjvSKsdGGY
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Hv6mrzamP3zl4O4USFQNSjGtElrOGVd0
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Guide%20-%20Admin%20Web%20Portal%20(WIP).pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -262,9 +258,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1gck3ruk1d_Lcp0M5JMt4FT6kzniqxV3-E443ElkEYUQ
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).docx
 pdf_gdrive_url: https://drive.google.com/file/d/1lMrxJdblUZKo9-9AkB_tIKDt8nxGU7ZV
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/software/Guide%20-%20Mobile%20App%20(Staff).pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

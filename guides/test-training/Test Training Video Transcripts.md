@@ -9,9 +9,9 @@ tags:
 source_file_type: audio
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1t3yOYBBcFmnzhJSnOp4ZEvxHJlNKTiZf
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-training/Test%20Training%20Video%20Transcripts.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1o2YbfHTBGRIiA6UpjDapjHwx9S60jIa6
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-training/Test%20Training%20Video%20Transcripts.pdf
 conversion_input_file_type: md
 conversion: none
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/

@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/10alSr49q6Asxz7EN7eZ3QCqTF04Dic_o
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1oYZw2TXJUthcT1Nw7FARgjj17adCS06x
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2020-07-21_FDA%20Letter%20-%20Serology%20IVD%20Umbrella%20Revocation.pdf
 conversion_input_file_type: pdf
 conversion: claude
 license: Public Domain

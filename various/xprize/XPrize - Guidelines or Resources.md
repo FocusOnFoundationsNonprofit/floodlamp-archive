@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - Guidelines or Resources.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Guidelines and Resources

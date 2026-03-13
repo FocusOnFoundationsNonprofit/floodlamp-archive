@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-07 BA after CT
-file_name: 2021-08-02_CDC ELC Reopening Schools - Support for Screening Testing to Reopen and Keep Schools Operating Safely.pdf
+last updated: 2026-03-06 by BA
+file_name: 2021-08-02_CDC ELC Reopening Schools - Support for Screening Testing to Reopen and Keep Schools Operating Safely.md
 file_date: 2021-08-02
 title: 2021-08-02_CDC ELC Reopening Schools - Support for Screening Testing to Reopen and Keep Schools Operating Safely
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
-pdf_gdrive_url: https://drive.google.com/file/d/1BH1PNzadLYnY_wSRDwCRInd3NZdVrjTK
-pdf_github_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/external-programs-reports/2021-08-02_CDC%20ELC%20Reopening%20Schools%20-%20Support%20for%20Screening%20Testing%20to%20Reopen%20and%20Keep%20Schools%20Operating%20Safely.NA
+pdf_gdrive_url: https://drive.google.com/file/d/1i5TGAwwAXuU95UQCRN9UKy8VgG-UF_eQ
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/external-programs-reports/2021-08-02_CDC%20ELC%20Reopening%20Schools%20-%20Support%20for%20Screening%20Testing%20to%20Reopen%20and%20Keep%20Schools%20Operating%20Safely.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
@@ -44,12 +44,6 @@ Supported through the American Rescue Plan Act of 2021
 | Performance Measures                              |   10 |
 | Summary of Reporting Requirements                 |   10 |
 ||
-
-***INTERNAL TITLE:*** ELC REOPENING SCHOOLS: SUPPORT FOR SCREENING TESTING TO REOPEN & KEEP SCHOOLS OPERATING SAFELY
-
-UPDATED GUIDANCE: 8/2/2021
-Project E: Emerging Issues
-Supported through the American Rescue Plan Act of 2021
 
 ## EXECUTIVE SUMMARY
 Since the publication of the ELC Reopening Schools Guidance the pandemic has evolved. While students over 12 years are presently eligible to receive the COVID-19 vaccine, significant numbers of K-12 students still remain unvaccinated or may be ineligible to receive the vaccine due to age. Additionally, because the pandemic has persisted, communities may soon be dealing with seasonal influenza in addition to COVID-19. Because some of the symptoms of flu, COVID- 19, and other respiratory illnesses are similar, the difference between them cannot be made based on symptoms alone. Testing remains critically important to identify and appropriately mitigate the spread of respiratory illness throughout communities.
@@ -88,7 +82,7 @@ Examples of providing funding directly to support school districts, public chart
 7. Sub-awarding to Local Health Departments to support school screening testing directly. 
 8. Supporting IT systems to monitor screening testing in K-12 schools and school districts and ensure positive results are linked to public health action.
 
-\*Each jurisdiction is different; it is assumed that any proposed approach will align with existing jurisdictional laws, regulations, and business practices, while remaining consistent with this award.
+*Each jurisdiction is different; it is assumed that any proposed approach will align with existing jurisdictional laws, regulations, and business practices, while remaining consistent with this award.
 
 **Examples of indirectly providing materials and services to school districts, public charter schools, and private schools include, but are not limited to:**
 1. Recipient using purchasing authorities to obtain screening testing kits, and necessary supplies, and providing them to school districts, public charter schools, and private schools within their jurisdiction.
@@ -176,7 +170,9 @@ At the time of guidance update, recipients should have provided resources to dis
 
 This funding was awarded in the ELC Budget Period 2 (BP2) (i.e., August 1, 2020 – July 31, 2021) under CK19-1904. However, recipients should note that this supplemental funding is for a 16-month project period and will end on July 31, 2022. The expanded project period coincides with the end of Budget Period 3 (BP3) (i.e., August 1, 2021 – July 31, 2022) of the ELC Cooperative
 
-Agreement (CK19-1904). Recipients are reminded that expanded authority1 applies, in terms of carryover of unobligated from one budget period to the next budget period to cover the approved workplan activities.
+Agreement (CK19-1904). Recipients are reminded that expanded authority[1] applies, in terms of carryover of unobligated from one budget period to the next budget period to cover the approved workplan activities.
+
+[1] Expanded Authority is provided to recipients through 45 CFR Part 75.308, which allows carryover of unobligated balances from one budget period to a subsequent budget period. Unobligated funds may be used for purposes within the scope of the project as originally approved. Recipients will report use, or intended use, of unobligated funds in Section 12 "Remarks" of the annual Federal Financial Report.
 
 ## REQUIRED TASKS
 Note: If a recipient does not meet the below required tasks and has not received written approval for an extension from CDC, recipient may have their funds restricted in the Payment Management System (PMS) for specific costs/activities.

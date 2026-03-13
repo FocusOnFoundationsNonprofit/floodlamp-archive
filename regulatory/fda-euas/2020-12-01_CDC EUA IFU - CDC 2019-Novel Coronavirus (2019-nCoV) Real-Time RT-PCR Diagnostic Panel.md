@@ -9,9 +9,9 @@ tags:
 source_file_type: docx
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1rpJvrD1zAgna5KCIAfZx_eNRvP6pZKDe
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fda-euas/2020-12-01_CDC%20EUA%20IFU%20-%20CDC%202019-Novel%20Coronavirus%20%282019-nCoV%29%20Real-Time%20RT-PCR%20Diagnostic%20Panel.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fda-euas/2020-12-01_CDC%20EUA%20IFU%20-%20CDC%202019-Novel%20Coronavirus%20%282019-nCoV%29%20Real-Time%20RT-PCR%20Diagnostic%20Panel.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1WKU2z1nZ_L0uZRhSCYpxAMLBp-e2tBtW
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-euas/2020-12-01_CDC%20EUA%20IFU%20-%20CDC%202019-Novel%20Coronavirus%20%282019-nCoV%29%20Real-Time%20RT-PCR%20Diagnostic%20Panel.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-euas/2020-12-01_CDC%20EUA%20IFU%20-%20CDC%202019-Novel%20Coronavirus%20%282019-nCoV%29%20Real-Time%20RT-PCR%20Diagnostic%20Panel.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: Public Domain

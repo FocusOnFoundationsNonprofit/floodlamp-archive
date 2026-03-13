@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 7 Targets.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 7 Targets
@@ -24,7 +24,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 7 Targets spreadsheet lists th
 CONTENT
 
 ## FloodLAMP Targets
-**Primer Sequences OR Antigen target/antibody**
+### Primer Sequences OR Antigen target/antibody
 | Target Number | Target Gene | Sequence/Antibody |
 | --- | --- | --- |
 | Numeric | Text | Text |

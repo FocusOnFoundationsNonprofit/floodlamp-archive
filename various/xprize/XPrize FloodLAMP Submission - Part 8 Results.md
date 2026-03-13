@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 8 Results.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 8 Results
@@ -24,7 +24,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 8 Results spreadsheet provides
 CONTENT
 
 ## FloodLAMP Results
-**Results**
+### Results
 |                                                                                                                                                        |             |                           |               |             |              |              |               |                                               |                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------|---------------|-------------|--------------|--------------|---------------|-----------------------------------------------|------------------------------|
 | Sample #                                                                                                                                                      | Known Value | Sample Type               | Sample Source | Known Value | Known Units  | Result Value | Result Units  | Result Interpretation                         | Notes                        |

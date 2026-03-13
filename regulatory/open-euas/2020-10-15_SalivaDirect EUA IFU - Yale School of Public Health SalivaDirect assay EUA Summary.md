@@ -1,17 +1,17 @@
 METADATA
-last updated: 2026-01-02 CT
-file_name: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.pdf
+last updated: 2026-03-05 by BA
+file_name: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
 file_date: 2020-10-15
-title: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary
+title: SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary
 category: regulatory
-subcategory: fda-euas
+subcategory: open-euas
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/2020-10-15_SalivaDirect%20EUA%20IFU%20-%20Yale%20School%20of%20Public%20Health%20SalivaDirect%20assay%20EUA%20Summary.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1mGUCmYzhqj1aoBgu1KeKE7S3ndyuhUID
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/open-euas/2020-10-15_SalivaDirect%20EUA%20IFU%20-%20Yale%20School%20of%20Public%20Health%20SalivaDirect%20assay%20EUA%20Summary.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
@@ -38,8 +38,6 @@ Results are for the detection and identification of SARS-CoV-2 RNA. The SARS-CoV
 
 Negative results do not preclude SARS-CoV-2 infection and should not be used as the sole basis for patient management decisions. Negative results must be combined with clinical observations, patient history, and epidemiological information. Negative results for SARS-CoV-2 RNA from saliva should be confirmed by testing of an alternative specimen type if clinically indicated.
 
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
-
 SalivaDirect is intended for use by qualified and trained clinical laboratory personnel specifically instructed and trained in the techniques of RT-qPCR and in vitro diagnostic procedures. The assay is only for use under the Food and Drug Administration's Emergency Use Authorization.
 
 
@@ -56,6 +54,7 @@ SalivaDirect should be used with the following RT-qPCR instruments:
 | | ThermoFisher Scientific | Applied Biosystems 7500 Fast Real-Time PCR System |
 | | ThermoFisher Scientific | Applied Biosystems 7500 Fast Dx Real-Time PCR System |
 | | ThermoFisher Scientific | Applied Biosystems QuantStudio 5 Real-Time PCR System ||
+||
 
 
 ## REAGENTS AND MATERIALS
@@ -113,6 +112,7 @@ SalivaDirect should be used with the following RT-qPCR instruments:
 | | | B1500L | 100 mL | |
 | | Order the following positive control | | | |
 | Twist Bioscience | Synthetic SARS-CoV-2 RNA Control 2 | 102024 | 100 µL | |
+||
 
 
 ## CONTROLS RUN WITH THE COVID-19 RT-PCR
@@ -123,18 +123,15 @@ The following controls are run with the SalivaDirect assay:
 | Negative Template Control (NTC) | Nuclease-free water | To monitor for contamination of PCR reagents | Every PCR plate with up to 93 saliva samples |
 | Positive | Twist Synthetic SARS-CoV-2 RNA control. (Dilute to 100 copies/µL) | To monitor functioning of RT-qPCR reagents | Every PCR plate with up to 93 saliva samples |
 | Internal Process Control | Primer/Probe set detecting RNaseP | To ensure that saliva of a sufficient quantity and quality was tested | Every sample |
-
-pg. 4
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
+||
 
 ## INTERPRETATION OF RESULTS
-1) <u>**SARS-CoV-2 RT-PCR test Controls – Positive, Negative, and Internal:**</u>
+1) ***SARS-CoV-2 RT-PCR test Controls – Positive, Negative, and Internal:***
 **Positive control**: The positive control should yield a “detected” result for the N1 target and “not detected” for the RNaseP control.
 **Negative Extraction Control (NEC)**: The NEC should yield a “not detected” result for the N1 target and “detected” for RNaseP.
 **Negative Template Control**: The NTC should yield a “not detected” result for both the N1 and RNaseP targets.
 **Internal Control**: Detection of RNaseP at PCR cycle threshold (CT) <35 indicates that saliva of sufficient quantity and quality were tested. Detection of RNaseP is required to report a negative SARS-CoV-2 result.
-2) <u>**Examination and Interpretation of Patient Specimen Results:**</u>
+2) ***Examination and Interpretation of Patient Specimen Results:***
 All test controls should be examined prior to interpretation of patient results. If the controls are not valid, the patient results cannot be interpreted. Results will be interpreted according to the table below:
 
 **Bio-Rad CFX96 / ABI 7500 Fast / ABI QuantStudio 5**
@@ -143,6 +140,7 @@ All test controls should be examined prior to interpretation of patient results.
 | Positive | <40 | Any value |
 | Negative | ≥40 | <35 |
 | *Invalid | ≥40 | ≥35 |
+||
 
 **ABI 7500 Fast Dx**
 | Result | Ct value N1 | Ct value RP |
@@ -150,13 +148,10 @@ All test controls should be examined prior to interpretation of patient results.
 | Positive | <37 | Any value |
 | Negative | ≥37 | <35 |
 | *Invalid | ≥37 | ≥35 |
-
-pg. 5
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
+||
 
 ## PERFORMANCE EVALUATION
-1) <u>**Analytical Sensitivity:**</u>
+1) ***Analytical Sensitivity:***
 Limit of Detection (LoD):
 A positive saliva specimen from a confirmed COVID-19 healthcare worker with a known virus concentration (3.7 × 104 copies/µL) was spiked into saliva collected from healthcare workers who tested negative for SARS-CoV-2 using the CDC assay. The following 2-fold dilution series was tested in triplicate to determine the preliminary limit of detections: 400, 200, 100, 50, 25, 12, and 6 copies/µL. Spiked saliva specimens were tested according to the SalivaDirect protocol. In total, three different proteinase K reagents, three different RT-qPCR kits, and three different RT-qPCR thermocyclers were validated with the assay. Input volumes, matrices and RT-qPCR programs were the same for each combination of proteinase K, RT-qPCR kit, and RT-qPCR instrument. The preliminary limit of detection was then confirmed with 20 additional replicates. The table below shows the final limit of detection for the different reagents/instruments used with SalivaDirect.
 ### Proteinase K
@@ -165,39 +160,37 @@ A positive saliva specimen from a confirmed COVID-19 healthcare worker with a kn
 | Thermo | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 36.7 (1.0) |
 | NEB | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 35.6 (0.4) |
 | AmericanBio | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 35.5 (0.4) |
+||
 
 ### RT-qPCR kit
 | Proteinase K | RT-qPCR kit | RT-qPCR instrument | LOD | Positive replicates | Mean Ct value (SD) |
 |---|---|---|---|---|---|
 | Thermo | Bio-Rad Reliance | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 36.4 (0.6) |
 | Thermo | Thermo TaqPath | Bio-Rad CFX96 | 12 copies/µL | 100% (20/20) | 35.9 (1.2) |
+||
 
 ### RT-qPCR instrument
 | Proteinase K | RT-qPCR kit | RT-qPCR instrument | LOD | Positive replicates | Mean Ct value (SD) |
 |---|---|---|---|---|---|
 | Thermo | Thermo TaqPath | ABI 7500 Fast | 12 copies/µL | 95% (19/20) | 36.8 (1.2) |
 | Thermo | Thermo TaqPath | ABI 7500 Fast Dx | 6 copies/µL | 95% (19/20) | 32.4 (0.9) |
+||
 
-Bridging Studies for Additional Instruments
+*Bridging Studies for Additional Instruments*
 
-A bridging study was performed to validate an additional thermocycler, the ABI QuantStudio 5. A 2-fold dilution series was tested in triplicate with the ABI QuantStudio 6
+A bridging study was performed to validate an additional thermocycler, the ABI QuantStudio 5. A 2-fold dilution series was tested in triplicate with the ABI QuantStudio 5 in parallel with the ABI 7500 Dx Fast to establish equivalent performance. Samples were prepared by spiking positive saliva from a confirmed COVID-19 healthcare worker with a known concentration (3.7 x 104 copies/µL) into saliva collected from healthcare workers who tested negative for SARS-CoV-2. The following concentrations were tested: 100, 50, 25, 12, 6, 3, and 1 copies/µL. All samples were tested using the Thermo Proteinase K with the NEB Luna RT-qPCR kit. The table below lists the positivity rates for each concentration when tested using either thermocycler:
 
-pg. 6
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
-
-5 in parallel with the ABI 7500 Dx Fast to establish equivalent performance. Samples were prepared by spiking positive saliva from a confirmed COVID-19 healthcare worker with a known concentration (3.7 x 104 copies/µL) into saliva collected from healthcare workers who tested negative for SARS-CoV-2. The following concentrations were tested: 100, 50, 25, 12, 6, 3, and 1 copies/µL. All samples were tested using the Thermo Proteinase K with the NEB Luna RT-qPCR kit. The table below lists the positivity rates for each concentration when tested using either thermocycler:
-
-| Instrument | 100 copies/µL | 50 copies/µL | 25 copies/µL | 12 copies/µL | 6 copies/µL | 3 copies/µL | 1 copy/µL | 0 copies/µL |
+|  | 100 copies/µL | 50 copies/µL | 25 copies/µL | 12 copies/µL | 6 copies/µL | 3 copies/µL | 1 copy/µL | 0 copies/µL |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | ABI 7500 Dx Fast | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 2/3 | 0/3 |
 | ABI QuantStudio 5 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 1/3 | 0/3 |
+||
 
-2) <u>**Analytical Inclusivity/Cross Reactivity**</u>
+2) ***Analytical Inclusivity/Cross Reactivity***
 The sequences for the N1 primers and probe used in this assay are identical to the primer/probe sequences used in the FDA authorized CDC SARS-CoV-2 assay. Please refer to EUA200001/A004 for an updated in silico analysis of the primers/probes used with the CDC assay.
 In addition, SalivaDirect was tested on 52 saliva specimens collected from adults during the 2018/2019 and 2019/2020 (pre-COVID19) autumn/winter influenza seasons. Out of the 52 specimens tested, 51 resulted as negative, and one resulted as invalid (both N1 and RP were not detected).
 
-3) <u>**Clinical Evaluation:**</u>
+3) ***Clinical Evaluation:***
 Performance of SalivaDirect was compared to the authorized ThermoFisher Scientific TaqPath RT-PCR COVID-19 combo kit by testing paired nasopharyngeal and saliva samples. Nasopharyngeal swabs and saliva were collected from inpatients and healthcare workers in the Yale-New Haven Hospital. Saliva was collected in sterile urine cups or 5 mL tubes without addition of any preservatives.
 For the preliminary selection of specimens, specimens were tested with a modified version of the US CDC assay. Based on these results, a total of 67 NP/saliva pairs were tested for the current study, with 37 being NP positive and 30 being NP negative by the modified CDC assay. These NP and saliva specimens were subsequently tested in parallel with the EUA-authorized TaqPath COVID-19 combo kit (on NP specimens) and SalivaDirect (on saliva specimens). The ThermoFisher Scientific TaqPath COVID- 19 combo kit combines RNA extraction using the MagMax Viral/Pathogen Nucleic Acid Isolation Kit with a multiplex RT-PCR diagnostic assay targeting 3 regions of the SARS-CoV-2 genome. For SalivaDirect testing, the ThermoFisher Scientific proteinase
 K, ThermoFisher Scientific TaqPath RT-PCR kit, and Bio-Rad CFX96 instrument were utilized.
@@ -214,14 +207,11 @@ The results from this paired study are described below:
 | **Total** | **34** | **33** |
 | Positive agreement = 94.1% (32/34)  |
 | Negative agreement = 90.9% (30/33) |
+||
 
 Out of the 34 individuals with nasopharyngeal swab specimens that tested positive by the TaqPath COVID-19 kit, 32 had saliva specimens that were positive by the SalivaDirect, yielding a PPA of 94.1%. Out of the 33 individuals with negative NP swab specimens by the TaqPath assay, 30 had saliva specimens that were negative by SalivaDirect, generating an NPA of 90.9%. There were three individuals who tested positive by SalivaDirect on saliva specimens but negative by TaqPath on NP specimens. It should be noted that these 3 individuals previously tested weakly positive with the modified CDC assay.
 
 As an additional analysis, the results from the SalivaDirect on saliva specimens were compared to the results from the modified CDC assay on the paired NP specimens. This modified CDC assay used the 2019-nCoV_N1, 2019-nCoV_N2, and RP primer-probe sets with the NEB Luna Universal Probe One-Step RT-qPCR kit on the Bio-Rad CFX96. The SalivaDirect results were concordant with 94.6% (35/37) of the NP positive results and 100% of the NP negative results, as shown below:
-
-pg. 8
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
 
 **Modified CDC RT-PCR (Nasopharyngeal swab)**
 
@@ -232,6 +222,7 @@ Yale School of Public Health, Department of Epidemiology of Microbial Diseases S
 | **Total** | **37** | **30** |
 | Positive agreement = 94.6% (35/37) |
 | Negative agreement = 100% (30/30) |
+||
 
 
 ## WARNINGS:
@@ -239,5 +230,3 @@ Yale School of Public Health, Department of Epidemiology of Microbial Diseases S
 - This test has been authorized by FDA under an EUA for use by laboratories designated by the Yale School of Public Health, Department of Epidemiology of Microbial Diseases, that includes the Clinical Molecular Diagnostics Laboratory, Department of Pathology, Yale School of Medicine, located at 310 Cedar St., New Haven, CT 06510, that are also certified under the Clinical Laboratory Improvement Amendments of 1988 (CLIA), 42 U.S.C. §263a and meet the requirements to perform high complexity tests.
 - This test has been authorized only for the detection of nucleic acid from SARS- CoV-2, not for any other viruses or pathogens; and
 - This test is only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for detection and/or diagnosis of COVID-19 under Section 564(b)(1) of the Federal Food, Drug and Cosmetic Act, 21 U.S.C. § 360bbb-3(b)(1), unless the authorization is terminated or revoked sooner.
-
-pg. 9

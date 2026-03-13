@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after RT
-file_name: FDA Reagan Udall Foundation - FloodLAMP Presentation (4-21-2022).pdf
+last updated: 2026-03-06 by BA
+file_name: FDA Reagan Udall Foundation - FloodLAMP Presentation (4-21-2022).md
 file_date: 2022-04-21
 title: FDA Reagan Udall Foundation - FloodLAMP Presentation (4-21-2022)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1G2mQNd9SNX_LEmKA44T5HkA6pNQehwSxgqfGX8JUf-I
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/FDA%20Reagan%20Udall%20Foundation%20-%20FloodLAMP%20Presentation%20%284-21-2022%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1NwPXR4erWkITYhW0qKe4FzAKeOl10v6l
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/FDA%20Reagan%20Udall%20Foundation%20-%20FloodLAMP%20Presentation%20%284-21-2022%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -24,7 +24,7 @@ summary_short: Slide deck overview of FloodLAMP’s vision and platform for dece
 CONTENT
 
 
-## Slide 1: FloodLAMPBiotechnologies, PBC
+## Slide 1: FloodLAMP Biotechnologies, PBC
 _Title Slide_
 Decentralized, Rapid Molecular Disease Screening for $1
 Randy True, Founder and CEO, randy@floodlamp.bio
@@ -33,7 +33,7 @@ Randy True, Founder and CEO, randy@floodlamp.bio
 ## Slide 2: The Unknowable and How to Prepare for it
 _Screenshot from David Deutsch YouTube video referenced below_
 _Image of book title for Bill Gates - "How to Prevent the Next Pandemic"_
-David Deutsch, "The Unknowable & how to prepare for it" at TEDx Brussels - (YouTube)
+David Deutsch, "The Unknowable & how to prepare for it" at TEDx Brussels - ([YouTube](https://youtu.be/SVgGYQ_5ID8))
 
 
 ## Slide 3: We still don't know how to prepare for another variant OR the next pandemic
@@ -67,7 +67,7 @@ Programs operating in the real world, at the price of $1.25 per person
 _Drawing of swabs, collected tubes, and mobile app_
 - Streamlines test processing
 
-2. Family Household Pooling
+2. Family/Household Pooling
 _Drawing of family_
 - Extends protection
 
@@ -90,6 +90,7 @@ _Drawing of map with routes and pins_
 | Equipment | qPCR machine (thermal cycler & optics) | simple heat block or water bath (isothermal) |
 | Time | 90 min | 30 min |
 | Capital Cost | $30K-100K | $300 |
+||
 
 _Image showing PCR amplification process_
 _Image showing LAMP amplification process_
@@ -101,16 +102,13 @@ _FLOODLAMP ARCHIVE FILE PATH:_ various/glamp/gLAMP Global Consortium - JBT Revie
 
 
 ## Slide 8: Molecular Assay Atlas
-PEOPLE -> SAMPLE -> INACTIV -> PURIFIC -> AMPLIF -> READOUT
-
-| Workflow Stage | Options / Methods | Notes / Examples (as shown) |
-|---|---|---|
-| Population / testing unit | Individual<br>Pool: 2–20 |  |
-| Sample type | Nasopharyngeal swab (NP)<br>Cheek swab<br>Anterior nares swab (AN)<br>Saliva |  |
-| Lysis / inactivation (pre-extraction) | TCEP (Chem) + Heat<br>Proteinase K (Enzyme) + Heat<br>Heat only<br>Commercial | TCEP + Heat: Rabe Cepko, HUDSON<br>Proteinase K + Heat: SalivaDirect<br>Commercial: Zymo, Lucigen |
-| Extraction / nucleic acid capture | Glass milk<br>Mag beads<br>Skip (Direct)<br>Commercial | Glass milk: Rabe Cepko<br>Mag beads: Kellner, Yu<br>Commercial: Thermo, Zymo, Kingfisher, Qiagen |
-| Amplification / detection chemistry | qPCR<br>LAMP (colorimetric / fluorimetric)<br>Misc (RPA, CRISPR, etc.) |  |
-| Readout | qPCR machine (fluorescence)<br>Visual / camera (color change)<br>Plate reader (absorbance)<br>Lateral flow strip | Plate reader: Color Genomics |
+| PEOPLE | SAMPLE | INACTIV | PURIFIC | AMPLIF | READOUT |
+|---|---|---|---|---|---|
+| Individual | Nasopharyngeal Swab (NP) | **TCEP (Chem) + Heat** *(Rabe Cepko, HUDSON)* | **Glass Milk** *(Rabe Cepko)* | qPCR | qPCR Machine *(Fluorescence)* |
+| Pool: 2–20 | Cheek Swab | Proteinase K (Enzyme) + Heat *(Saliva Direct)* | Mag Beads *(Kellner, Yu)* | **LAMP** *(Colorimetric, Fluorimetric)* | **Visual / Camera** *(Color Change)* |
+| | **Anterior Nares Swab (AN)** | Heat Only | **Skip (Direct)** | Misc *(RPA, CRISPR, etc.)* | Plate Reader *(Absorbance, Color Genomics)* |
+| | Saliva | Commercial *(Zymo, Lucigen)* | Commercial *(Thermo, Zymo, Kingfisher, Qiagen)* | | Lateral Flow Strip |
+||
 
 
 ## Slide 9: FloodLAMP Tests
@@ -240,16 +238,16 @@ Preschool
 
 ## Slide 14: Real World Data
 _Table and callout layout summarizing real-world surveillance outcomes (diagnostic follow-up highlights plus a “FloodLAMP Surveillance Testing Stats” table with totals for pools, people, and positives through Mar 2, 2022)._
-**Comparison with diagnostic followup data in progress**
+### Comparison with diagnostic followup data in progress
 - 22 FloodLAMP positives one day in late Dec and only 1 positive on BinaxNOW. All 22 became positive over next few days (reported).
 - One site has 100% concordance of FloodLAMP positives with reflex PCR (34/34).
 
-**Known adverse results in >10K tests**
+### Known adverse results in >10K tests
 - 1 suspected false negative (lower instance than discordant lab PCR to FloodLAMP and antigen)
 - 2 suspected false positives
 - <1% to 5% rerun rate (initial inconclusives that rerun as negative)
 
-**FloodLAMP Surveillance Testing Stats (Thru Mar 2, 2022)**
+### FloodLAMP Surveillance Testing Stats (Thru Mar 2, 2022)
 | Org | Pools | People (Instances) | Positives (incl repeat indiv) |
 |---|---:|---:|---:|
 | Staff, Preschool, Community | 1,107 | 1,779 | 44 |
@@ -259,6 +257,7 @@ _Table and callout layout summarizing real-world surveillance outcomes (diagnost
 | Davie, FL | 2,235 | 4,226 | 55 |
 | Bend Fire, OR | 617 | 617 | 215 |
 | **TOTAL** | **11,610** | **29,189** | **663** |
+||
 
 
 ## Slide 15: Clinical Evaluation Data
@@ -286,6 +285,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Negative | 1 | 40 | 41 |
 | Invalid | 0 | 0 | 0 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **97.5% (39/40)**; 95% CI: **86.8% to 99.9%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -296,6 +296,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Positive | 36 | 0 | 36 |
 | Negative | 4 | 40 | 44 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **90.0% (36/40)**; 95% CI: **76.3% to 97.2%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -342,6 +343,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | NaCl | 5 M | Sodium Chloride | Thermo Fisher | 24740011 |
 | Guanidine HCl | 6 M | Guanidine Hydrochloride | Sigma-Aldrich | SRE0066 |
 | Colorimetric LAMP MM* |  | Colorimetric LAMP Master Mix | New England Biolabs | M1804 |
+||
 
 ### Table 2: Primer names and sequences
 | Primer Name | Sequence (5’-3’) |
@@ -360,6 +362,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | N2_B3 | GACTTGATCTTTGAAATTTGGATCT |
 | N2_LF | GGGGGCAAATTGTGCAATTTG |
 | N2_LB | CTTCGGGAACGTGGTTGACC |
+||
 
 ### Table 7: Primer-Guanidine: Solution
 | Component | Volume (1 reaction) | Volume (1 reaction x 100) 1 x 96-plate w/ 4% overage |
@@ -369,6 +372,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | Guanidine HCl (6 M) |  | 16.7 µL |
 | Nuclease-free Water | 5.5 µL | 783 µL |
 | **TOTAL VOLUME** | **10.5 µL** | **1050 µL** |
+||
 
 ### Table 8: Colorimetric LAMP Amplification Reaction
 | Component | Volume (1 reaction) | Volume (100 reactions) |
@@ -378,6 +382,7 @@ _Table collage showing disclosed Open EUA components: validated reagent list, pr
 | **SUBTOTAL VOLUME** | **23 µL** | **2300 µL** |
 | Sample | 2 µL |  |
 | **REACTION VOLUME** | **25 µL** |  |
+||
 
 
 ## Slide 18: Open EUAs
@@ -394,9 +399,11 @@ _Table comparing “open EUA” transparency and supply-chain criteria across EU
 | Supply chain robust? | No | No/Maybe | Yes | No/Maybe | Yes | Yes |
 | EUA Sponsor Organization Type | For Profit Company | Govt | Academic Not for Profit | Academic Not/For Profit ? | Public Benefit Corp | Public Benefit Corp |
 | Designation of CLIA labs | Kit Sales | N/A open RoR | Impact & Expansion | Impact & Expansion | Impact & Expansion | Impact & Expansion |
+||
 
 
 ## Slide 19: FloodLAMP Biotechnologies, PBC
-_Logo showing the FloodLAMP wordmark with a pipette icon and small red virus symbols on the closing slide._
-Decentralized, Rapid, Molecular,
-Randy True, Founder and CEO I randy@floodlamp.bio I 415-269-29/4
+
+**Decentralized, Rapid, Molecular, Disease Screening for $1**
+
+Randy True, Founder and CEO | randy@floodlamp.bio

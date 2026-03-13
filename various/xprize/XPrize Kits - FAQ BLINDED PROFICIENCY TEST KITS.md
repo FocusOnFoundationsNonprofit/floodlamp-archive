@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - FAQ Blinded Proficiency Test Kits
@@ -25,7 +25,7 @@ CONTENT
 
 ***INTERNAL TITLE:*** FAQ – BLINDED PROFICIENCY TEST KITS
 
-**What will be contained in the blinded proficiency test kits?**
+### What will be contained in the blinded proficiency test kits?
 
 150-200 blinded samples, each containing synthetic SARS-CoV-2 RNA and inactivated viral particles. The samples will be 200-400 μl each.
 
@@ -33,34 +33,34 @@ There will be several base fluids used. We will not reveal the base fluids. Some
 
 Kits will be designed for both RNA and Antigen detection tests.
 
-**What biosafety level is required to process the samples?**
+### What biosafety level is required to process the samples?
 
 The kits will be non-infectious BSL-1. They are all inactivated, contrived samples. No clinical samples will be included. However, please treat all samples as if they were clinical.
 
-**When will the kits be sent?**
+### When will the kits be sent?
 
 The blinded proficiency kits will be shipped between **September 24 – October 2, 2020**.
 
-**How will the kits be shipped?**
+### How will the kits be shipped?
 
 The kits will be shipped frozen (on dry ice).
 
-**Will I be notified when my kit ships?**
+### Will I be notified when my kit ships?
 
 Yes. We will notify you when a kit has been shipped to you. They will be scheduled to arrive during a business day.
 
-**Will I received tracking information for the shipment?**
+### Will I received tracking information for the shipment?
 
 Yes. We will send you tracking information as soon as the kit has been shipped.
 
-**How much time do I have to validate the blinded proficiency test?**
+### How much time do I have to validate the blinded proficiency test?
 
 Upon receiving a kit, each team will have **one (1) week** to complete the blinded proficiency test and upload their results to POP.
 
-**How do I upload the results to POP?**
+### How do I upload the results to POP?
 
 In the next few days, we will email you instructions for uploading your results to POP.
 
-**Will I receive my results even if I don't make it to the next round of the competition?**
+### Will I receive my results even if I don't make it to the next round of the competition?
 
 Yes. All teams will receive performance results, even if they do not make it to the next round.

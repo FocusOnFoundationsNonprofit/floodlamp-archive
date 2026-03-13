@@ -1,5 +1,5 @@
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2021-05-18_Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic Screening Study.md
 file_date: 2021-05-18
 title: Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic Screening Study
@@ -9,9 +9,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1l70VyK_wS6DkCVj6G61OaJGPSSHxU7tF4RrfckS0YPA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-submissions/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1o_BdhSMocE3XsQoZQcS96IuA748hoyCG
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fl-fda-subs/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-submissions/2021-05-18_Pre-EUA%20Sub%20-%20FloodLAMP%20Proposed%20Pooling%20and%20Asymptomatic%20Screening%20Study.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -85,7 +85,7 @@ FloodLAMP has obtained IRB approval to conduct the following clinical study from
 | **Inclusion Criteria** | **Exclusion Criteria** |
 |------------------------------------|------------------------------------|
 | The specimen is an anterior nasal swab using the swab and QR code labeled tubes, nasal swabs included with the FloodLAMP Pooled Swab Collection Kit DTC. | The specimen was not properly collected, identified, transported, processed, or stored according to the instructions provided by the sponsor. |
-| The swab specimen can be tested within 56 hours or less after collection. If frozen, specimens are to be stored at &lt;-70℃ until tested. | The specimen was not collected under informed consent. |
+| The swab specimen can be tested within 56 hours or less after collection. If frozen, specimens are to be stored at ≤-70℃ until tested. | The specimen was not collected under informed consent. |
 | The subject is suspected of COVID, whether or not symptomatic. |  |
 | The subject is not experiencing symptoms and/or has not notified a physician that they suspect they have COVID . |  |
 | The subject has had a positive COVID test within the last 10 days. |  |

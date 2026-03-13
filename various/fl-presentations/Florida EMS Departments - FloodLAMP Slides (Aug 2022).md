@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after CT
-file_name: Florida EMS Departments - FloodLAMP Slides (Aug 2022).pdf
+last updated: 2026-03-06 by BA
+file_name: Florida EMS Departments - FloodLAMP Slides (Aug 2022).md
 file_date: 2022-08-04
 title: Florida EMS Departments - FloodLAMP Slides (Aug 2022)
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1JaW4ytBV3mgA3MwDnlcT4SDGRddbIAJ-VH0XIQkAkHE
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/Florida%20EMS%20Departments%20-%20FloodLAMP%20Slides%20%28Aug%202022%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1zxaNPPWdDhXZwH3_vwMCBINOAeid6M3O
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-presentations/Florida%20EMS%20Departments%20-%20FloodLAMP%20Slides%20%28Aug%202022%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -257,6 +257,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Negative | 1 | 40 | 41 |
 | Invalid | 0 | 0 | 0 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **97.5% (39/40)**; 95% CI: **86.8% to 99.9%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -266,6 +267,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Positive | 36 | 0 | 36 |
 | Negative | 4 | 40 | 44 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **90.0% (36/40)**; 95% CI: **76.3% to 97.2%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**

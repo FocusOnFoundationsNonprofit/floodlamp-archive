@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-02-23 RT
-file_name: 2020-08-31_NEB Podcast - Interview with Chris Mason
+last updated: 2026-03-06 by BA
+file_name: 2020-08-31_NEB Podcast - Interview with Chris Mason.md
 file_date: 2020-08-31
 title: NEB Podcast - Interview with Chris Mason
 category: various
@@ -9,9 +9,9 @@ tags:
 source_file_type: webcopy
 xfile_type: 
 gfile_url: https://docs.google.com/document/d/1-FrI-HBBQkli8bhwnqcTqCukUKJOi71rxfkuGZi9JZo
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/2020-08-31_NEB%20Podcast%20-%20Interview%20with%20Chris%20Mason.
 pdf_gdrive_url: https://drive.google.com/file/d/1FDO5Sr95bjfHXPh8C671UP-_tqyXMaPz
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/glamp/2020-08-31_NEB%20Podcast%20-%20Interview%20with%20Chris%20Mason.pdf
 conversion_input_file_type: webcopy
 conversion: manual cut and paste
 license: 3rd Party
@@ -27,8 +27,6 @@ summary_short: The NEB COVID-19 Researcher Spotlight Series video captures an in
 CONTENT
 
 ***INTERNAL TITLE:*** NEB COVID-19 Researcher Spotlight Series: Interview with Chris Mason
-
-NEB COVID-19 Researcher Spotlight Series: Interview with Chris Mason
 
 https://www.neb.com/en-us/tools-and-resources/video-library/covid-19-researcher-spotlight-interview-with-chris-mason
 

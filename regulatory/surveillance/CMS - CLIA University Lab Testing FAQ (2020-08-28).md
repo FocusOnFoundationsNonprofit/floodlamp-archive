@@ -1,8 +1,8 @@
 METADATA
-last updated: 2026-01-01 RT
-file_name: CMS - CLIA University Lab Testing FAQ (2020-08-28).pdf
-file_date: 2020-8-28
-title: 2020-8-28_Lab Testing FAQs
+last updated: 2026-03-05 by BA
+file_name: CMS - CLIA University Lab Testing FAQ (2020-08-28).md
+file_date: 2020-08-28
+title: CMS CLIA - University Lab Testing FAQ (2020-08-28)
 category: regulatory
 subcategory: surveillance
 tags:

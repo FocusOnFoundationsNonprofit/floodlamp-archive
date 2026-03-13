@@ -1,6 +1,6 @@
 METADATA
-last updated: 2026-01-20 BA after RT
-file_name: FTFC EMS Conference - FloodLAMP Talk Slides (6-14-2021).pdf
+last updated: 2026-03-06 by BA
+file_name: FTFC EMS Conference - FloodLAMP Talk Slides (6-14-2021).md
 file_date: 2021-06-14
 title: FTFC EMS Conference - FloodLAMP Talk Slides (6-14-2021)
 category: various
@@ -9,7 +9,7 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1yLSZzyeon7EjZfsQ99zS7Eb5JGhlGnlKspPeFWb81b4
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-presentations/FTFC%20EMS%20Conference%20-%20FloodLAMP%20Talk%20Slides%20%286-14-2021%29.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/16HGtBrJGdEIwbDZD9C1DS1pY9XkE-5Be
 pdf_github_url: NA
 conversion_input_file_type: pdf
@@ -69,6 +69,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Negative | 1 | 40 | 41 |
 | Invalid | 0 | 0 | 0 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **97.5% (39/40)**; 95% CI: **86.8% to 99.9%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -79,6 +80,7 @@ Gamma inactivated cell lysate from BEI spiked into raw clinical negative sample
 | Positive | 36 | 0 | 36 |
 | Negative | 4 | 40 | 44 |
 | **Total** | **40** | **40** | **80** |
+||
 
 - Positive Agreement: **90.0% (36/40)**; 95% CI: **76.3% to 97.2%**
 - Negative Agreement: **100% (40/40)**; 95% CI: **91.2% to 100%**
@@ -88,8 +90,8 @@ Specimen Type: Anterior Nares Swab in PBS, previously tested and frozen
 Comparator Test: Hologic Panther Fusion SARS-CoV-2 Assay and Hologic Panther Aptima SARS-CoV-2 Assay
 
 
-## Slide 5: Thank You. Peter Antevy, Eagles and FTFC for invitation and your service.
-_Graphic slide with a pipette-and-virus icon used as a simple “Thank You” closing page._
+## Slide 5: Thank You!
+Thank You! Peter Antevy, Eagles and FTFC for invitation and your service.
 
 FloodLAMP Biotechnologies
 
@@ -136,18 +138,18 @@ How FloodLAMP Screening Works
 
 _Diagram with three icon-topped steps (home pooled collection → school drop-off → same-day results) illustrating how FloodLAMP screening works._
 
-1. Collect Samples
+### 1) Collect Samples
 - pooled swabs
 - at-home with family/household 
 - on-site with pod
 - FloodLAMP app to register samples
 - fast and easy
 
-2. Return Samples
+### 2) Return Samples
 - pick up or courier to lab/processing site
 - low overhead and friction for organizations
 
-3. Same Day Results
+### 3) Same Day Results
 - app for students and parents
 - web portal for school admins
 
@@ -158,21 +160,21 @@ FloodLAMP has licensed best-in-class LAMP amplification chemistry and sample pre
 FloodLAMP in the Lab
 
 _Diagram-style three-column layout with icons highlighting distributed lab/sites, streamlined workflow, and molecular tests._
-1. Distributed Lab/Sites
+### Distributed Lab/Sites
 - reach to underserved communities
 - almost all labs already have needed equipment
 - local control
 - same day turnaround times
 - expandable and replicable
 
-2. Streamlined Workflow
+### Streamlined Workflow
 - simple direct assays
 - minimal hands-on time
 - modular design
 - instrument free
 - highly efficient operationally
 
-3. Molecular Tests
+### Molecular Tests
 - high sensitivity and specificity
 - rapid results from LAMP
 - deconvolute with LAMP or PCR
@@ -249,6 +251,7 @@ _Infographic comparing antigen tests, centralized pooled PCR, and FloodLAMP on s
 | FloodLAMP | 4/5 | 4/5 | 4/5 |
 | Antigen | 2/5 | 5/5 | 2/5 |
 | Centralized Lab Processing (pooled PCR) | 5/5 | 3/5 | 2/5 |
+||
 
 FloodLAMP provides rapid, high sensitivity results with distributed local labs and processing sites. 
 
@@ -256,8 +259,8 @@ Poor sensitivity of antigen tests means they need to be run every day to protect
 
 The > 24hr turnaround on a classroom PCR pool is a deal breaker for most schools.
 
-> "The key is it's all about turnaround time ... [instead of just the lab time] we're redefining turnaround time to be swab to results." 
-> - Mara Aspinall, Advisor and lead author on Rockefeller Foundation National Testing Plan Report
+"The key is it's all about turnaround time ... [instead of just the lab time] we're redefining turnaround time to be swab to results."
+\- Mara Aspinall, Advisor and lead author on Rockefeller Foundation National Testing Plan Report
 
 
 ## Slide 16: Team
@@ -315,17 +318,12 @@ Full process controls with spiked inactivated virus.
 
 ## Slide 18: Molecular Assay Atlas
 _Diagram (“Molecular Assay Atlas”) mapping the end-to-end pipeline PEOPLE → SAMPLE → INACTIVATION → PURIFICATION → AMPLIFICATION → READOUT with example method options at each stage._
-
-PEOPLE -> SAMPLE -> INACTIV -> PURIFIC -> AMPLIF -> READOUT
-
-| Workflow Stage | Options / Methods | Notes / Examples (as shown) |
-|---|---|---|
-| Population / testing unit | Individual<br>Pool: 5–10<br>Pool of Pools: 20–100 |  |
-| Sample type | Nasopharyngeal swab (NP)<br>Cheek swab<br>Anterior nares swab (AN)<br>Saliva |  |
-| Lysis / inactivation (pre-extraction) | TCEP (Chem) + Heat<br>Proteinase K (Enzyme) + Heat<br>Heat only<br>Commercial | TCEP + Heat: Rabe Cepko, HUDSON<br>Proteinase K + Heat: Saliva Direct<br>Commercial: Zymo, Lucigen |
-| Extraction / nucleic acid capture | Glass milk<br>Mag beads<br>Skip (Direct)<br>Commercial | Glass milk: Rabe Cepko<br>Mag beads: Kellner, Yu<br>Commercial: Thermo, Zymo, Kingfisher, Qiagen |
-| Amplification / detection chemistry | qPCR<br>LAMP (Colorimetric / Fluorimetric)<br>Misc (RPA, CRISPR, etc.) |  |
-| Readout | qPCR machine (Fluorescence)<br>Visual / Camera (Color Change)<br>Plate Reader (Absorbance)<br>Lateral Flow Strip | Plate Reader: Color Genomics |
+| PEOPLE | SAMPLE | INACTIV | PURIFIC | AMPLIF | READOUT |
+|---|---|---|---|---|---|
+| Individual | Nasopharyngeal Swab (NP) | **TCEP (Chem) + Heat** *(Rabe Cepko, HUDSON)* | **Glass Milk** *(Rabe Cepko)* | qPCR | qPCR Machine *(Fluorescence)* |
+| Pool: 5–10 | Cheek Swab | Proteinase K (Enzyme) + Heat *(Saliva Direct)* | **Mag Beads** *(Kellner, Yu)* | **LAMP** *(Colorimetric, Fluorimetric)* | **Visual / Camera** *(Color Change)* |
+| **Pool of Pools: 20–100** | **Anterior Nares Swab (AN)** | Heat Only | **Skip (Direct)** | Misc *(RPA, CRISPR, etc.)* | Plate Reader *(Absorbance, Color Genomics)* |
+| | **Saliva** | Commercial *(Zymo, Lucigen)* | Commercial *(Thermo, Zymo, Kingfisher, Qiagen)* | | Lateral Flow Strip |
 ||
 
 
@@ -407,7 +405,7 @@ Source: Sara Sawyer Preprint https://doi.org/10.1101/2021.03.01.21252250
 3. Processed by FloodLAMP 
 Network of Labs
 
-Same Day Results
+**Same Day Results**
 
 _Map-style diagram showing at-home pooled samples collected at schools and routed to a processing site/lab network for same-day reporting._
 
@@ -451,7 +449,7 @@ _Photo collage of a classroom electronics build (large breadboard with wiring/LE
 ## Slide 27: Open EUAs
 _Table comparing “open EUA” transparency and supply-chain criteria across EUA types and programs (Typical IVD, CDC, SalivaDirect™, SHIELD, and FloodLAMP EasyPCR™/QuickColor™), with program logos along the header row._
 
-| Question | Typical IVD EUA | CDC EUA | SalivaDirect™ | SHIELD | FloodLAMP EasyPCR™ | FloodLAMP QuickColor™ |
+|  | Typical IVD EUA | CDC EUA | SalivaDirect™ | SHIELD | FloodLAMP EasyPCR™ | FloodLAMP QuickColor™ |
 |---|---|---|---|---|---|---|
 | Disclosure of all chemicals and reagents? | No | Yes | Yes | Yes | Yes | Yes |
 | Chemical and reagents available from multiple vendors? | No | Yes | Yes | No | Yes | Yes |
@@ -482,5 +480,5 @@ from Matt McFarlane mdmcfar@uvic.ca @mattmcfar
 
 
 ## Slide 29: LAMP! RAPID RESULTS
-New test fo koala chlamydia
-_Photo of a cute koala.”_
+New test for koala chlamydia
+_Photo of a cute koala._

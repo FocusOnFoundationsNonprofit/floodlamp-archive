@@ -11,7 +11,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/12TN_DQShtSnmCa-hJFLGRq-n2W2JJICu
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/regulatory/fda-policy/2023-09-23_FDA%20Response%20Letter%20-%20To%20Compliant%20regarding%20FDA%20Reference%20Panel%20from%20Dec%202020.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fda-policy/2023-09-23_FDA%20Response%20Letter%20-%20To%20Compliant%20regarding%20FDA%20Reference%20Panel%20from%20Dec%202020.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain

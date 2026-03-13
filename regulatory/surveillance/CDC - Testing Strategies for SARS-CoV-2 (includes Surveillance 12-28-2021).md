@@ -1,6 +1,6 @@
 METADATA
-last updated: 2025-12-22 CT
-file_name: CDC - Testing Strategies for SARS-CoV-2 (includes Surveillance 12-28-2021).pdf
+last updated: 2026-03-05 by BA
+file_name: CDC - Testing Strategies for SARS-CoV-2 (includes Surveillance 12-28-2021).md
 file_date: 2021-12-08
 title: CDC - Testing Strategies for SARS-CoV-2 (includes Surveillance 12-28-2021)
 category: regulatory
@@ -9,9 +9,9 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/surveillance/CDC%20-%20Testing%20Strategies%20for%20SARS-CoV-2%20%28includes%20Surveillance%2012-28-2021%29.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1L-g_TkHFq8MhbfJEZqc9lq_27j4DCsSk
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/surveillance/CDC%20-%20Testing%20Strategies%20for%20SARS-CoV-2%20%28includes%20Surveillance%2012-28-2021%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
@@ -23,14 +23,12 @@ summary_short: The CDC “Testing Strategies for SARS-CoV-2” guidance (updated
 
 CONTENT
 
-***INTERNAL TITLE:*** COVID-19 Testing Strategies for SARS-CoV-2
+***INTERNAL TITLE:*** Testing Strategies for SARS-CoV-2
 Updated Dec. 28, 2021
 
 ## Summary of Recent Changes
 Updates as of August 13, 2021
-- Updated information for fully vaccinated people given new evidence on the B.1.617.2 (Delta) variant currently
-
-circulating in the United States.
+- Updated information for fully vaccinated people given new evidence on the B.1.617.2 (Delta) variant currently circulating in the United States.
 
 ### Key Points
 - This guidance describes and compares different types of testing strategies SARS-CoV-2 (the virus that causes COVID-19), including their intended use and applications, regulatory requirements, and reporting requirements.
@@ -74,7 +72,7 @@ be reported in aggregate to local, state, tribal, or territory health department
 
 
 ## Summary of Testing Strategies for SARS-CoV-2
-| Scenario / Use case | Diagnostic | Screening | Public Health Surveillance |
+|  | Diagnostic | Screening | Public Health Surveillance |
 |---|---|---|---|
 | Symptomatic | Yes | No | N/A |
 | Unvaccinated or vaccinated with known or suspected exposure to SARS-CoV-2 | Yes | No | N/A |
@@ -87,6 +85,7 @@ be reported in aggregate to local, state, tribal, or territory health department
 | Testing can be performed in a CLIA-certified laboratory | Yes | Yes | Yes |
 | Testing can be performed in a non-CLIA-certified laboratory | No | No | Yes |
 | Test system must be FDA authorized or be offered under the policies in FDA’s guidance | Yes | Yes | No |
+||
 
 ## Resources
 - [Overview of Testing for SARS-CoV-2 (COVID-19)](https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html)
