@@ -1,8 +1,8 @@
-## guides (54 files - 119,770 tokens)
-### manufacturing (7 files - 10,706 tokens)
+## guides (54 files - 119,757 tokens)
+### manufacturing (7 files - 10,693 tokens)
    3,429  _AI_Reagent Concentrations.md
    1,669  _context-commentary_guides-manufacturing.md
-   1,971  Assay and Reagent Manufacturing Diagrams.md
+   1,958  Assay and Reagent Manufacturing Diagrams.md
    1,444  SOP-201-A_2 PGS48 Manufacturing - Run Form.md
      496  SOP-202-A_1 100XIS Manufacturing - Run Form.md
    1,198  SOP-301 PGS48 Verification - Run Form.md

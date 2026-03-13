@@ -1,5 +1,5 @@
 METADATA
-last updated: 2026-03-13_062659
+last updated: 2026-03-13_065635
 file_name: _archive-combined-files_guides_140k.md
 category: guides
 subcategory: NA
@@ -10,10 +10,10 @@ tokens:
 
 CONTENT
 
-# _archive-combined-files_guides_140k (54 files, 140,389 tokens)
+# _archive-combined-files_guides_140k (54 files, 140,376 tokens)
 
 METADATA
-last updated: 2026-03-13_062659
+last updated: 2026-03-13_065635
 file_name: _archive-combined-files_manufacturing_14k.md
 category: guides
 subcategory: manufacturing
@@ -24,7 +24,7 @@ tokens:
 
 CONTENT
 
-# _archive-combined-files_manufacturing_14k (7 files, 13,698 tokens)
+# _archive-combined-files_manufacturing_14k (7 files, 13,685 tokens)
 
 # 3,429  _AI_Reagent Concentrations.md
 METADATA
@@ -353,7 +353,7 @@ The bottleneck during the Omicron surge was not reagent manufacturing itself but
 The model to follow is SalivaDirect, which contracted with Eurofins to produce commercially available SalivaDirect kits, which were available for general order and not restricted to clinical labs designated under Saliva Direct's open EUA. When we ordered those kits, they arrived next day, were well formulated, and a relatively inexperienced lab tech was able to run the protocol successfully on a PCR machine. That combination — simplified protocol, commercially manufactured reagents, fast shipping — is what decentralized testing needs. Having individual labs or small companies mix their own reagents is a dead end for scale.
 
 
-# 1,971  Assay and Reagent Manufacturing Diagrams.md
+# 1,958  Assay and Reagent Manufacturing Diagrams.md
 METADATA
 last updated: 2026-02-15 RT initial conversion
 file_name: Assay and Reagent Manufacturing Diagrams.md
@@ -371,15 +371,13 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1971
-words: 934
+tokens: 1958
+words: 925
 notes: This is a presentation (pptx/Google Slides) consisting primarily of manufacturing process flow diagrams (images). The markdown content lists slide titles only as placeholders since the slides are image-based diagrams. Refer to the source PDF or pptx for the actual diagrams.
 summary_short: The FloodLAMP Assay and Reagent Manufacturing Diagrams is a 19-slide presentation containing process flow diagrams for all key reagent manufacturing and assay workflows. It covers the FloodLAMP Direct RNA Assays (QuickColor LAMP and EasyPCR) at 48- and 96-reaction scales, validation first-run setup, gamma contrived positive preparation, 100X Inactivation Solution manufacturing (standard and XL batches), 1X Inactivation Saline Solution preparation, Twist Positive Control aliquoting, Gamma Blue and 10K dilution series, Primer-Guanidine Solution (PGS) batching, colorimetric CLAMP assay setup, 5X PCR primer preparation, and PCR assay reaction mix preparation.
 
 
 CONTENT
-
-Added line for testing. Added more for 2nd test.
 
 ## Slide 1: FloodLAMP Direct RNA Assays - 48 Reaction Volumes
 _Manufacturing process flow diagram showing reagent preparation and assay workflow for 48-reaction scale. Covers 100X Inactivation Solution, 0.9% Saline, Primer-Guanidine Solution (PGS, 550µL), Colorimetric LAMP MM (655µL), PCR Reaction Mix, and both QuickColor LAMP Test (65°C/25min) and EasyPCR Test (qPCR, 80min) pathways._

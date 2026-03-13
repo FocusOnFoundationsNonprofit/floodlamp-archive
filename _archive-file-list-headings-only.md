@@ -1,5 +1,5 @@
-## guides (54 files - 119,770 tokens)
-### manufacturing (7 files - 10,706 tokens)
+## guides (54 files - 119,757 tokens)
+### manufacturing (7 files - 10,693 tokens)
 ### operations (4 files - 25,763 tokens)
 ### qms-sops (8 files - 6,364 tokens)
 ### sds (7 files - 27,750 tokens)

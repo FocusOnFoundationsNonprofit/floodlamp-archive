@@ -1,15 +1,15 @@
 # ===== START OF FILE _archive-combined-metadata_summary_short.md (31,589 tokens) =====
 combined metadata fields: summary_short
-last updated: 2026-03-13_062702
+last updated: 2026-03-13_065638
 
-# guides (46 files  -  111,257 tokens)
+# guides (46 files  -  111,244 tokens)
 
-## manufacturing (6 files  -  9,037 tokens)
+## manufacturing (6 files  -  9,024 tokens)
 
 ### 3,429  _AI_Reagent Concentrations.md
 The FloodLAMP Reagent Concentrations Reference provides final concentrations and verification calculations for all key FloodLAMP assay reagents: 100X Inactivation Solution (TCEP 0.25M, EDTA 0.1M, NaOH 1.15N), Primer-Guanidine Solution (primers 2.38X, guanidine-HCl 95.2mM), 1X Inactivation Saline Solution (TCEP 2.5mM, EDTA 1.0mM, NaCl ~153mM), CLAMP Reaction Mix composition, and Twist Positive Control dilution series. Concentrations are derived from manufacturing SOPs, process flow diagrams, and cost models in the archive with full calculation work shown.
 
-### 1,971  Assay and Reagent Manufacturing Diagrams.md
+### 1,958  Assay and Reagent Manufacturing Diagrams.md
 The FloodLAMP Assay and Reagent Manufacturing Diagrams is a 19-slide presentation containing process flow diagrams for all key reagent manufacturing and assay workflows. It covers the FloodLAMP Direct RNA Assays (QuickColor LAMP and EasyPCR) at 48- and 96-reaction scales, validation first-run setup, gamma contrived positive preparation, 100X Inactivation Solution manufacturing (standard and XL batches), 1X Inactivation Saline Solution preparation, Twist Positive Control aliquoting, Gamma Blue and 10K dilution series, Primer-Guanidine Solution (PGS) batching, colorimetric CLAMP assay setup, 5X PCR primer preparation, and PCR assay reaction mix preparation.
 
 ### 1,444  SOP-201-A_2 PGS48 Manufacturing - Run Form.md
