@@ -4,7 +4,7 @@ file_name: _AI_gLAMP and XPrize - pre-competitive vs open-source.md
 file_date: 2026-03-03
 title: FloodLAMP Global LAMP Consortium (gLAMP) - Pre-Competitive vs Open Source Approaches
 category: various
-subcategory: glamp
+subcategory: xprize
 tags: glamp, pre-competitive, open-source, pandemic-testing, public-goods
 source_file_type: md
 xfile_type: NA

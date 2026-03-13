@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1331
+tokens: 1309
 words: 675
 notes:
 summary_short: The April 2, 2021 FDA email and attached deprioritization letter notify FloodLAMP that EUA210252 (QuickColor COVID-19 Test) was closed because FDA declined to review it under then-current prioritization criteria. It explains that, in a later phase of the pandemic with many tests already authorized, FDA prioritized requests expected to materially increase U.S. testing accessibility (e.g., POC, home collection, at-home) or capacity (e.g., high-throughput), and judged FloodLAMP’s submission as having relatively limited impact on those factors. The document also notes the same decision and attachment were issued for a related EUA request (EUA210254).

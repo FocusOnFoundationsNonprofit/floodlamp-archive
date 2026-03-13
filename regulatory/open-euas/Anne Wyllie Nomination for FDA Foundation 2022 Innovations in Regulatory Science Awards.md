@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1437
+tokens: 1428
 words: 1034
 notes:
 summary_short: The Reagan-Udall Foundation nomination argues that Anne Wyllie’s SalivaDirect EUA pioneered an “open source protocol” model by validating saliva and extraction-free processing while disclosing components and qualifying multiple reagent/instrument options for broad CLIA lab adoption. It highlights the FDA “designation” approach, legal and operational infrastructure for scaling a lab network, and downstream effects such as supply-chain resilience and industry-wide cost compression in molecular testing. The nomination frames SalivaDirect as a template for “generic” diagnostics authorization with relevance to future pandemic preparedness, while disclosing FloodLAMP’s advisory relationship to Wyllie.

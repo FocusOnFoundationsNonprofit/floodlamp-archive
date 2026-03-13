@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105743
+file_name: _archive-combined-files_lamp-tech_6k.md
+category: various
+subcategory: lamp-tech
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_lamp-tech_6k (2 files, 5,635 tokens)
+
+# 416  _context-commentary_various-lamp-tech.md
+METADATA
 last updated: 2026-02-23 RT
 file_name: _context-commentary_various-lamp-tech.md
 category: various
@@ -22,29 +37,29 @@ The subcategory also includes a product specification for a portable plate reade
 There's a lot more that could be included here but it's left to the user to research based on their own interests.
 
 
-# 4,595  2020-06-17_NEB Podcast - Interview with Brian Rabe.md
+# 4,575  2020-06-17_NEB Podcast - Interview with Brian Rabe.md
 METADATA
-last updated: 2025-12-19 BA
-file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe
+last updated: 2026-03-06 by BA
+file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe.md
 file_date: 2020-06-17
 title: NEB Podcast - Interview with Brian Rabe
 category: various
 subcategory: lamp-tech
 tags: 
+youtube_url: https://youtu.be/bWremc4pF78
 source_file_type: webcopy
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/14JEzr15AC_QaYt7iNdpULujpX4rAVpq6oMsxNPUmw4I
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/lamp-tech/2020-06-17_NEB%20Podcast%20-%20Interview%20with%20Brian%20Rabe.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1HOv-L5tboNnoHx1Qhl8rHdFVlimm5usa
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/lamp-tech/2020-06-17_NEB%20Podcast%20-%20Interview%20with%20Brian%20Rabe.pdf
 conversion_input_file_type: docx
 conversion: manual cut and paste
 license: 3rd Party
-tokens: 4595
-words: 3319
+tokens: 4575
+words: 3307
 notes: date converted 2025-12-19
 web_url: https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?srsltid=AfmBOorT4BJTXC_r08h0xFUCLiTd4AR2ZrXd6BqHlrPUlkoMp3OhjHeN
-link_youtube: https://youtu.be/bWremc4pF78
 audio_file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe.mp3
 summary_short: The NEB “Lessons from Lab and Life” Podcast #25 transcript captures an interview with Harvard Medical School PhD candidate Brian Rabe about developing a rapid, low-equipment RT-LAMP assay for SARS-CoV-2, including primer design, colorimetric pH-based readout, and sample prep approaches like HUDSON. It highlights practical testing workflows using contrived samples (swabs and saliva), sensitivity benchmarks, and ideas for deploying accessible diagnostics outside traditional labs (e.g., pop-up or at-home style testing).
 
@@ -52,8 +67,6 @@ summary_short: The NEB “Lessons from Lab and Life” Podcast #25 transcript ca
 CONTENT
 
 ***INTERNAL TITLE:*** NEB Podcast #25 - COVID-19 Researcher Spotlight Series: Interview with Brian Rabe
-
-NEB Podcast #25 - COVID-19 Researcher Spotlight Series: Interview with Brian Rabe
 
 https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?srsltid=AfmBOorT4BJTXC_r08h0xFUCLiTd4AR2ZrXd6BqHlrPUlkoMp3OhjHeN
 
@@ -171,5 +184,3 @@ https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?
 **Brian Rabe:** Oh, well, thanks for having me.
 
 **Lydia Morrison:** Thanks for tuning in for this episode. As always, check out the transcript of this podcast for helpful links to further resources. And please join us for next episode when I'll be interviewing [Feng Zhang](https://www.broadinstitute.org/bios/feng-zhang) of the Broad Institute along with [Jonathan Gootenberg](https://mcgovern.mit.edu/profile/jonathan-gootenberg/) and [Omar Abudayyeh](https://mcgovern.mit.edu/profile/omar-abudayyeh/) of the McGovern Institute of MIT about their [recent publication describing STOPCovid](https://www.stopcovid.science/docs/STOPCovid%20Whitepaper.pdf), an assay which combines isothermal amplification with CRISPR-based detection methods. So be sure to catch the next episode and hear from the scientists currently making major breakthroughs in Coronavirus detection and diagnostics.
-
-# ===== END OF FILE _archive-combined-files_lamp-tech_6k.md =====

@@ -4,7 +4,7 @@ file_name: _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
 file_date: 2026-03-02
 title: FloodLAMP FDA Deprioritization of COVID-19 Diagnostic EUAs (CDRH/OHT7)
 category: regulatory
-subcategory: reg-articles-misc
+subcategory: fl-fda-correspondence
 tags: fda-deprioritization, eua, covid-diagnostics, cdrh, oht7, decline-to-review, gao
 source_file_type: md
 xfile_type: NA

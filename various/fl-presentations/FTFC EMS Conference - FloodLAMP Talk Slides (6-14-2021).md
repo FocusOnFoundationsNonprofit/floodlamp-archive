@@ -15,8 +15,8 @@ pdf_github_url: NA
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 5540
-words: 3138
+tokens: 5454
+words: 3105
 notes:
 summary_short: The “Deploying Mass Scale Molecular Testing” slide deck summarizes FloodLAMP’s instrument-free LAMP surveillance testing workflow, reported Stanford clinical evaluation results for QuickColor LAMP and EasyPCR, and the end-to-end screening program model for schools and other groups using pooled collection and same-day reporting. It positions FloodLAMP as a “sweet spot” between low-sensitivity antigen testing and slow centralized PCR, and highlights operational elements like distributed pop-up labs, digital program management tools, and an “open EUA” strategy amid evolving regulatory hurdles.
 

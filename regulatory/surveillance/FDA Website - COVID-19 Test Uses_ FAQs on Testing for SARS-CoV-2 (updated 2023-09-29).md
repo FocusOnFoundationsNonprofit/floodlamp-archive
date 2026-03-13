@@ -16,7 +16,7 @@ web_url: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-de
 conversion_input_file_type: website
 conversion: manual cut and paste
 license: Public Domain
-tokens: 1751
+tokens: 1739
 words: 1173
 notes: 
 summary_short: The FDA “COVID-19 Test Uses: FAQs on Testing for SARS-CoV-2” explains where COVID-19 tests can be used (lab, point-of-care, home collection, and at-home) and how EUA-authorized settings map to CLIA requirements. It also defines diagnostic, screening, and surveillance testing and gives examples to clarify how intended use affects regulation and reporting.

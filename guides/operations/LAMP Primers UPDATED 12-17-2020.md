@@ -17,7 +17,7 @@ conversion: pandas
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 1630
 words: 520
-notes: Unsure about license
+notes: 
 summary_short: The FloodLAMP LAMP Primers list (updated 12/17/2020) specifies SARS-CoV-2 and human internal control primer sets derived from the Rabe–Cepko protocol, including sequences, mix concentrations, and ordering/handling notes (HPLC purification, resuspension, packaging, and minimum order quantities). It provides premix targets for 30X stock solutions for ORF1ab (AS1e), E gene (E1), N gene (N2), and human controls (RNaseP and ACTB) to support standardized assay preparation and procurement.
 
 

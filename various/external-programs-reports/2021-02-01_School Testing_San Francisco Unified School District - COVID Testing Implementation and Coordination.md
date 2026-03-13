@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: ai (claude sonnet 3.5)
 license: 3rd Party
-tokens: 12982
-words: 9511
+tokens: 12124
+words: 8850
 notes: 
 summary_short: San Francisco Unified School District’s February 2021 RFP seeks an end-to-end vendor to run a 12–18 month asymptomatic COVID-19 testing program for students and staff, including registration/scheduling/results, staffing and site operations, lab testing, reporting, and billing. It specifies high-volume capacity (up to 1,000–5,000 tests/day initially, with targets up to 10,000–15,000 weekly), 24–48 hour turnaround goals, multilingual access, data integration with district systems, and compliance with HIPAA/FERPA and California reporting standards. The document also lays out the procurement timeline, minimum qualifications checklist, and proposal evaluation criteria for selecting one or more contractors.
 

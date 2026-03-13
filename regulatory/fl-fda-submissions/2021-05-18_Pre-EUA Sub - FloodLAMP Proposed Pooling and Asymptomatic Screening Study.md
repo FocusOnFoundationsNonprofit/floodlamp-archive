@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1318
+tokens: 1317
 words: 889
 notes: 
 summary_short: The Pre-EUA document outlines proposed validation studies to support swab pooling (up to four swabs) and serial asymptomatic screening claims for the FloodLAMP EasyPCR and QuickColor COVID-19 tests, aligned to FDA pooling/serial testing guidance. It specifies LoD and high-viral-load pooling experiments with replicate counts, acceptance criteria (e.g., ≥95% detection, Ct shift limits, invalid-rate thresholds), and use of inactivated virus controls. It also describes an IRB-approved asymptomatic screening study design using self-collected duplicate anterior nares swabs with a comparator EUA PCR test and app-based consent/kit logistics.

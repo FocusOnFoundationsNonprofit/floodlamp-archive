@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 865
-words: 599
+tokens: 826
+words: 593
 notes: 
 summary_short: The follow-up email summarizes guidance that COVID-19 surveillance testing is generally not regulated by FDA or CLIA when samples lack unique identifiers and no individual results are returned, citing FDA and CDC language. It recommends coordinating with local public health officials, structuring groups large enough to support anonymized aggregate reporting, and ensuring testing is administered by appropriately trained personnel consistent with state law.
 

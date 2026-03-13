@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4341
-words: 3277
+tokens: 4213
+words: 3282
 notes:
 summary_short: The Barrington Public Schools “Test to Stay” playbook (updated Dec. 13, 2021) lays out Rhode Island’s school-based protocol that allows unvaccinated or partially vaccinated close contacts to remain in school if they test negative on a rapid antigen test daily for seven days after exposure and follow strict quarantine rules outside of school. It details eligibility, consent, testing logistics (including weekend activity testing), layered mitigation measures, and quarantine exceptions, with practical examples and Q&A to guide school staff implementation and contact tracing.
 

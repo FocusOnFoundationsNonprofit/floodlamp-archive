@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 719
-words: 409
+tokens: 727
+words: 413
 notes: 
 summary_short: The FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver is an entity-facing agreement for using FloodLAMP-provided materials and protocols to run a non-diagnostic SARS-CoV-2 surveillance test without providing individual results. It sets participant notification and referral requirements, clarifies the test is not FDA-authorized or CLIA testing and should not be relied on for individual decision-making, and includes disclosure permissions plus a broad liability waiver and release for FloodLAMP.
 

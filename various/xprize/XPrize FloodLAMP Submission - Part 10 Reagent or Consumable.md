@@ -15,8 +15,8 @@ pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 933
-words: 449
+tokens: 998
+words: 488
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 10 Reagent or Consumable spreadsheet itemizes all reagents and consumables required for the pooled LAMP assay at 0.5mL volume with pool level of 10, including TCEP, NaI, NEB LAMP Master Mix, IDT primers, tubes, and PCR plates, with a total estimated cost of $0.46 per sample and $4.57 per run.
 

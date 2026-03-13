@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 15131
-words: 9483
+tokens: 20466
+words: 11985
 notes: 
 summary_short: The draft Instructions for Use for the FloodLAMP QuickFluor COVID-19 Test describe an extraction-free, fluorimetric RT-LAMP assay with real-time fluorescence detection on RT-PCR instruments following chemical and heat inactivation. It provides detailed procedures for reagent and primer preparation, instrument setup, workflow execution, controls, and Ct-based result interpretation for CLIA high-complexity laboratories. It also documents proposed analytical and clinical performance, including a 50,000 copies/mL LoD and 80–85% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation, for a test that was not submitted for EUA.
 

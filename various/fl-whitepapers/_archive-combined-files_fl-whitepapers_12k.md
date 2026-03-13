@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105742
+file_name: _archive-combined-files_fl-whitepapers_12k.md
+category: various
+subcategory: fl-whitepapers
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_fl-whitepapers_12k (4 files, 12,157 tokens)
+
+# 2,141  _AI_Comparable Programs Survey - Household Pooled COVID-19 Testing.md
+METADATA
 last updated: 2026-02-22 AI
 file_name: _AI_Comparable Programs Survey - Household Pooled COVID-19 Testing.md
 file_date: 2026-02-22
@@ -205,9 +220,9 @@ A key advantage of the household pooling approach was that it extended surveilla
 The EMS whitepaper remained unfinished and was never published. It contains valuable fragments, particularly the case studies and the data on absenteeism rates during the Omicron surge (approximately 12% at Coral Springs and Davie compared to 30–35% in neighboring departments), but the internal outlines, data requests, and placeholder sections. The draft preserves the working state of this effort and may still serve as a useful reference for the operational model and early outcomes of EMS-based in-house molecular screening.
 
 
-# 4,029  FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
+# 4,192  FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
 METADATA
-last updated: 2025-12-15 RT updated metadata after BA fixed inconsistencies
+last updated: 2026-03-06 by BA
 file_name: FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
 file_date: 06-30-2022
 title: FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022)
@@ -217,14 +232,14 @@ tags: whitepaper
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TOnklq-65XUX-v-li018rteK9jeL8NgqbNrtbndgD_o
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20California%20Preschool%20Family%20Pooled%20Screening%20Pilot%20%28June%202022%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/13SD5Rw_TGwIU_lrhvFahxA8VSoRIImdH
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/guides/test-site/FloodLAMP%20Preschool%20Pilot%20Whitepaper.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20California%20Preschool%20Family%20Pooled%20Screening%20Pilot%20%28June%202022%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4029
-words: 2883
+tokens: 4192
+words: 3049
 notes: 
 summary_short: The “FloodLAMP Preschool Pilot Whitepaper” describes a California preschool’s at-home family pooled COVID-19 surveillance testing program using FloodLAMP’s QuickColor molecular LAMP test, including onboarding, collection/drop-off workflows, near-site processing, and reporting practices. It documents pilot outcomes across the 2021–2022 school year (including the Omicron period), presents case studies comparing FloodLAMP to rapid antigen tests, and summarizes participation, turnaround time, and community impact with supporting figures and feedback.
 
@@ -238,8 +253,6 @@ Protecting young children during the pandemic through innovations in disease scr
 **Theresa Ling** – Program Experience and Design, FloodLAMP Biotechnologies, PBC
 
 contact@floodlamp.bio
-
-![][image1]   ![][image2]   ![][image3]
 
 *Special thanks to New England Biolabs for support and generous donation of reagents.*
 
@@ -272,6 +285,10 @@ FloodLAMP’s mission is to enable globally scalable mass disease screening, for
 ## Importance of Preschool and Early Childcare Screening
 There are over 23 million children in the US who are under 5 and are only recently eligible for the COVID-19 vaccine. Despite Omicron’s overall reduced severity, the 2021/2022 winter surge resulted in a sharp [rise in hospitalizations of young children to record levels](https://www.nytimes.com/2022/01/07/health/covid-children-hospitals.html). This is concerning and should prompt a committed response to better protect this vulnerable group. Additionally, the stress and practical problems that result from preschool outbreaks have taken a severe toll on families and communities, as described in many articles.[1][2]
 
+[1] [*The omicron surge is causing chaos and anguish for parents of kids under 5,*](https://docs.google.com/document/d/185R7gPFNOYWvCvMVRlWOph5UYHjKG8RHd0XBfMXoaDM/edit#) Rachel Swan, SF Chronicle, Jan. 20, 2022
+
+[2] [The Agony of Parents With Kids Under 5](https://slate.com/technology/2022/01/kids-under-5-vaccine-parents.html?utm_source=pocket_mylist), Jaime Green, Slate, Jan 11, 2022
+
 ## Overview of FloodLAMP Surveillance Screening
 “Surveillance” is the technical term for testing that is non-diagnostic and not medical. Surveillance testing or screening looks for infection in a population or community, and has expanded greatly during the COVID-19 Public Health Emergency. The information from surveillance testing can be used for the purpose of stopping the spread of the disease and for managing risk mitigation measures for the group. No exchange of personal health information is required for surveillance. Further, a much greater degree of flexibility in where and how testing is implemented enables programs such as FloodLAMP’s to improve safety and enable groups to interact naturally and confidently.
 
@@ -281,7 +298,7 @@ Recently in our California preschool pilot, we’ve deployed at-home pooled coll
 
 FloodLAMP takes a different approach with family/household pooling. This increases the protection of the interacting group, such as a school or workplace, by extending coverage to another population layer, and thus giving advance warning or infection risk for the group member. The advantages of family pooling are especially important during high prevalence, where the standard guidance is that pooling isn’t appropriate or effective. Having a program that continues to perform efficiently and effectively in the face of rising cases is game changing. Inter-household transmission remains the primary vector for community spread. Picking up a positive in the family provides an early warning signal, giving the family the opportunity to use a brief quarantine or test-to-stay to stop spread in the school itself. Our decentralized, local screening model gives the flexibility to quickly deconvolute positive pools on the same day, finding which family members are infected and allowing them to take precautions to protect other family members and their community. In both our FloodLAMP operated programs and those run by our EMS partners, we have used this successfully to stop the pernicious asymptomatic spread within first responders, offices, schools, and even households.
 
-![][image4]
+_Overview diagram or photo illustrating FloodLAMP surveillance screening, family pooling, or decentralized near-site testing workflow._
 
 We believe the program described below is among the most effective COVID-19 suppression approaches utilized in schools or any other setting. It rivals and potentially exceeds that of very expensive testing programs used in sports and entertainment. Through working with a number of collaborators and partners, we’ve shown what’s possible when disease screening is reconsidered from the ground up. We are actively working to disseminate our programs nationally and globally as a model of this cornerstone capability of pandemic preparedness and response.
 
@@ -299,9 +316,13 @@ At about 9pm, Carillon administrators made the decision to move to **mandatory t
 
 FloodLAMP continued 2x/week mandatory testing for Carillon from January to June. The preschool has maintained a 100% participation rate (excluding individuals within their 90 day post-infection “testing holiday”). **There was a single exposure warning in May of 2022 (resulting in increased testing), zero closures, or no outbreaks at the school for the entire 2021-2022 school year.**
 
-*Results from Monday 1/10/22 			Results from Thursday 1/13/22*  
-![][image5]	![][image6]  
-*Yellow = positive (each run has 1 positive control; several individual samples included for confirmation 1/10/22)*  
+*Results from Monday 1/10/22*
+_Photo of FloodLAMP test tubes or strips from Monday 1/10/22 run: yellow indicates positive, pink negative; includes positive control and confirmation samples._
+
+*Results from Thursday 1/13/22*
+_Photo of FloodLAMP test tubes or strips from Thursday 1/13/22 run: yellow indicates positive, pink negative._
+
+*Yellow = positive (each run has 1 positive control; several individual samples included for confirmation 1/10/22)*
 *Pink = negative*	
 
 ## Case Study: FloodLAMP vs BinaXNow Ag
@@ -310,7 +331,7 @@ One of the families referred to follow-up diagnostic testing on 1/2/22 had no sy
 -   On 1/3/22, FloodLAMP re-tested all 4 family members individually. Both parents’ samples were positive and the 2 children negative. The parents were once again referred to follow-up diagnostic testing and the family isolated.
 -   On 1/9/22, both children subsequently tested positive by FloodLAMP. The chart below details the case progression and testing history for each family member:
 
-![][image7]   
+_Chart showing case progression and testing history for each of the four family members; blue indicates negative and red indicates positive by date._
 *Blue = negative; Red = positive*
 
 This example illustrates the improved performance of the FloodLAMP test over antigen test strips in finding new infections early and thus stopping spread. Our other deployments have also seen many instances of the FloodLAMP test picking up new cases 1-2 days before antigen tests. This case study also highlights the power of family pooling. Testing students once a week by even 24 hour turnaround PCR leaves significant opportunity for outbreaks and all the negative downstream consequences.
@@ -335,7 +356,10 @@ There are 2 parts to the program onboarding:
 -   **Consent** – All participants submitting samples must sign a consent form. In this pilot, this has been done by individual parents/caregivers who also consent on their minors’ behalf. This may also be administered by the school for efficiency.
 -   **App account set up** – All program participants are required to create FloodLAMP accounts, but only 1 adult per household is required to actively use the FloodLAMP Mobile App to record and submit samples. Program administrators create and manage the accounts. Alternatively, families may sign up through a web form.
 
-![][image8]	![][image9]	![][image10]	![][image11]
+_Screenshot or photo of consent form or consent process._
+_Screenshot of FloodLAMP account creation or sign-up (web or app)._
+_Screenshot of FloodLAMP Mobile App interface for recording or submitting samples._
+_Screenshot of program administrator view for creating or managing participant accounts._
 
 ### At-home collection
 Families pick up collection kits on campus. Each kit includes instructions and all the tubes and swabs needed for sample pools of 4. Families **collect at home using the app**. They must collect within 24 hours of the drop off time.
@@ -357,13 +381,13 @@ We operate under the CMS regulatory framework of Surveillance Screening. As such
 
 ### Admin portal 
 The app platform portal enables program administrators to manage users, check kit statuses, look up tubes by ID or name, and edit information pages in the app.
-![][image12]
+_Screenshot of the FloodLAMP admin portal showing user management, kit statuses, tube lookup, or information page editing._
 
 ## Testing Data
-![][image13]  
+_Chart or graph of testing data over the pilot period showing positive results clustered in January and May 2022 surges._
 *Positives clustered during Jan and May surges.*
 
-![][image14]  
+_Chart or table showing composition of positive pools: proportion that included a student on campus versus parents or siblings only, illustrating advance warning from family pooling._
 *Only 1 positive pool included a student that was on campus. For the truly unknown asymptomatic cases, all but this one were parents or siblings of the preschool student, providing the critical advance warning and extra protection of family pooling.*
 
 ## Impact and feedback from the community
@@ -389,14 +413,10 @@ Importantly, the program has helped to quell some of the pandemic-driven anxiety
 
 -   Preschool teacher and administrator
 
-[1] [*The omicron surge is causing chaos and anguish for parents of kids under 5,*](https://docs.google.com/document/d/185R7gPFNOYWvCvMVRlWOph5UYHjKG8RHd0XBfMXoaDM/edit#) Rachel Swan, SF Chronicle, Jan. 20, 2022
-
-[2] [The Agony of Parents With Kids Under 5](https://slate.com/technology/2022/01/kids-under-5-vaccine-parents.html?utm_source=pocket_mylist), Jaime Green, Slate, Jan 11, 2022
-
 
 # 3,504  FloodLAMP Whitepaper - EMS and Municipal Screening Pilots DRAFT WIP.md
 METADATA
-last updated: 2026-02-21 RT
+last updated: 2026-03-06 by BA
 file_name: FloodLAMP Whitepaper - EMS and Municipal Screening Pilots DRAFT WIP.md
 file_date: 2022-05-09
 title: FloodLAMP Whitepaper - EMS and Municipal Screening Pilots DRAFT WIP
@@ -406,9 +426,9 @@ tags: whitepaper
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1cy1jJfdq3YQdIZII3_f0FEe1_XVrv0O-YWX6M3UbyEM
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1TIcfX_lUYoYx_UW9kYgKSk79vcU3DHFj
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/fl-whitepapers/FloodLAMP%20Whitepaper%20-%20EMS%20and%20Municipal%20Screening%20Pilots%20DRAFT%20WIP.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -651,5 +671,3 @@ Outcome
     - What was screening schedule at start of program?
     - What was screening schedule during surge?
     - Was there a change in schedule during Delta surge?
-
-# ===== END OF FILE _archive-combined-files_fl-whitepapers_12k.md =====

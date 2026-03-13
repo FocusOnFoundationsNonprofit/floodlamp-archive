@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
-tokens: 1418
-words: 944
+tokens: 1412
+words: 940
 notes:
 summary_short: The CDC “Testing Strategies for SARS-CoV-2” guidance (updated Dec. 28, 2021) defines and contrasts diagnostic, screening, and public health surveillance testing, including intended use, who should be tested, and whether results can be returned to individuals. It states that diagnostic and screening testing require CLIA-certified testing sites and FDA-authorized (or FDA-policy) tests with individual and public health reporting requirements, while public health surveillance testing uses de-identified specimens, is not for individual decision-making, and does not require FDA/CLIA compliance. It includes a summary matrix comparing allowable settings, reporting, and result return across the three testing strategies.
 

@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105744
+file_name: _archive-combined-files_papers_14k.md
+category: various
+subcategory: papers
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_papers_14k (4 files, 14,115 tokens)
+
+# 9,056  _AI_Literature Review - Pandemic Testing and Screening Strategy.md
+METADATA
 last updated: 2026-02-23 AI
 file_name: _AI_Literature Review - Pandemic Testing and Screening Strategy.md
 file_date: 2026-02-23
@@ -554,34 +569,33 @@ The Tjian paper (Esbin et al., 2020), although published early in the pandemic, 
 Paul Romer's preprint on population-scale testing to suppress spread was published in April 2020, early in the pandemic, when he was one of the most visible advocates for testing as a primary tool for pandemic control. Following his public advocacy and writing throughout the pandemic trajectory — not just this single paper — would be a useful lens for understanding how the role of testing was debated in real time.
 
 
-# 1,197  2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
+# 1,152  2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
 METADATA
-last updated: 2025-12-31 RT
+last updated: 2026-03-06 by BA
 file_name: 2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
 file_date: 2021-03-24
-title: 021-03-24_Cochrane Antigen Tests Review Link and Guardian Article
+title: 2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article
 category: various
 subcategory: papers
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Yk72tI6MAdwviqxJlPY-aFczeqgoDiBcQ4EY6SFkRjo
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/papers/2021-03-24_Cochrane%20Antigen%20Tests%20Review%20Link%20and%20Guardian%20Article.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1DTx0e-yfBqbQ6_ZXnpCwa3Kdr08CVzdB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/papers/2021-03-24_Cochrane%20Antigen%20Tests%20Review%20Link%20and%20Guardian%20Article.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1197
-words: 821
+tokens: 1152
+words: 820
 notes:
 summary_short: The Cochrane review and related March 24, 2021 Guardian coverage summarize evidence that rapid SARS-CoV-2 antigen (lateral flow) tests perform substantially worse in asymptomatic people (reported average sensitivity around 58%) and vary widely by brand. The materials are useful for assessing the risks of using antigen tests for “test-to-release” or to permit school/work attendance, especially in low-prevalence screening where false negatives and false positives can meaningfully affect public health decisions.
 
 
 CONTENT
 
-[<u>Cochrane Antigen Review (3-21-2021)</u>](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
-[<u>https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full</u>](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
+[Cochrane Antigen Review (3-21-2021)<br>https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD013705.pub2/epdf/full)
 
 ***INTERNAL TITLE:*** Guardian Article 03-24-21 Rapid lateral flow tests 'should not be used for test and release'
 
@@ -628,5 +642,3 @@ Dr Susan Hopkins, Covid-19 strategic response director at Public Health England 
 “They are an absolutely crucial way to help bring down infection rates and keep them low.
 
 “Every day, rapid testing is helping us find cases of Covid-19 that we wouldn’t otherwise know about, breaking chains of transmission and potentially saving lives. Please do take a test if you’re offered one – the more we test, the more cases we will find.”
-
-# ===== END OF FILE _archive-combined-files_papers_14k.md =====

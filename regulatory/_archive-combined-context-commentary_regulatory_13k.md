@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-12_132215
+file_name: _archive-combined-context-commentary_regulatory_13k.md
+category: regulatory
+subcategory: NA
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-context-commentary_regulatory_13k (9 files, 12,833 tokens)
+
+# 725  _context-commentary_regulatory-fda-euas.md
+METADATA
 last updated: 2026-02-26 RT
 file_name: _context-commentary_regulatory-fda-euas.md
 category: regulatory
@@ -416,5 +431,3 @@ The uncertain regulatory status of surveillance nearly prevented FloodLAMP's fir
 Operating under the surveillance framework was not FloodLAMP's first choice — it was a fallback. The company had submitted its test to the FDA for Emergency Use Authorization and had applied to the RADx program, but could not secure authorization, engagement, or even substantive attention through either channel. The opportunity to operate surveillance programs came about through our contact with EMS leadership and the FTFC conference in South Florida in mid 2021, where we offered pooled testing and made a presentation. One of the key executives at FloodLAMP had prior experience with surveillance and relationships with other operators of surveillance programs. That combined with the pull we were getting from the EMS community, who simply needed better, more effective testing/screening for their critical first responders, led us to do the FloodLAMP surveillance "pilot programs". These programs were very effective for the organizations that implemented them.
 
 The primary commentary on FloodLAMP's regulatory experience, including EUA submissions and FDA correspondence, is in the `regulatory/open-euas` subcategory.
-
-# ===== END OF FILE _archive-combined-context-commentary_regulatory_13k.md =====

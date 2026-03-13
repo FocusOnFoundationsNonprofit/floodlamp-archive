@@ -1,10 +1,25 @@
 METADATA
+last updated: 2026-03-10_105730
+file_name: _archive-combined-files_fl-fda-correspondence_44k.md
+category: regulatory
+subcategory: fl-fda-correspondence
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_fl-fda-correspondence_44k (13 files, 43,897 tokens)
+
+# 5,839  _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
+METADATA
 last updated: 2026-03-02 RT initial creation
 file_name: _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
 file_date: 2026-03-02
 title: FloodLAMP FDA Deprioritization of COVID-19 Diagnostic EUAs (CDRH/OHT7)
 category: regulatory
-subcategory: reg-articles-misc
+subcategory: fl-fda-correspondence
 tags: fda-deprioritization, eua, covid-diagnostics, cdrh, oht7, decline-to-review, gao
 source_file_type: md
 xfile_type: NA
@@ -849,9 +864,9 @@ The October 4, 2021 letter to OIVD Director Tim Stenzel stands as one of the bes
 Five weeks after the FDA closed FloodLAMP's submission, the Omicron variant was reported. By January 2022, the United States experienced the worst testing shortage of the entire pandemic. The principle behind the deprioritization decision — that the country did not need more tests — was catastrophically wrong, and it was applied systematically to FloodLAMP and hundreds of other test developers.
 
 
-# 739  2020-10-22_Email to FDA CDRH - Request for Guidance.md
+# 736  2020-10-22_Email to FDA CDRH - Request for Guidance.md
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2020-10-22_Email to FDA CDRH - Request for Guidance.md
 file_date: 2020-10-22
 title: Email to FDA CDRH - Request for Guidance
@@ -861,13 +876,13 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1mH0N7IRddKIaXaZAyHAqqyhh3epTeheieS20-dm3_U0
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JxojezTCq8L0bJutMf4yE4l64BP-b-xU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2020-10-22_Email%20to%20FDA%20CDRH%20-%20Request%20for%20Guidance.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 739
+tokens: 736
 words: 537
 notes: 
 summary_short: The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outlines FloodLAMP’s pre-EUA request to the FDA for feedback on validating a pooled SARS-CoV-2 RT-LAMP screening program, including proposed pooling levels, turnaround targets, and two assay configurations (fluorimetric and colorimetric) with preliminary LoD data. It’s useful as an early regulatory-facing snapshot of FloodLAMP’s technical approach, intended use in asymptomatic group screening, and the specific guidance and template updates they were seeking to shape an EUA-ready validation plan.
@@ -876,9 +891,10 @@ summary_short: The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outli
 CONTENT
 
 ***INTERNAL TITLE:*** Pre-EUA email 10/22 sent to CDRH
+
 FloodLAMP Biotechnologies is a Public Benefit Corporation with a mission to improve public health with scalable, low-cost infectious disease screening programs. Our near-term goal is to help end the COVID-19 crisis through widely accessible SARS-CoV-2 pooled screening. We are based in San Carlos, CA and are engaged in a number of collaborations with mission-driven individuals and organizations.
 
-FloodLAMP is developing an integrated screening program consisting of efficient on-site and at-home pooled sample collection, combined with an ultra-low-cost, low-barrier-to-entry RT-LAMP assay protocol. The assay uses a chemical inactivation (TCEP/EDTA) and a bead purification step to achieve high sensitivity required for pooling. Amplification is via RT-LAMP, with 2 versions of the kit under development: 1) fluorimetric for real-time measurement on qPCR instruments and 2) colorimetric for endpoint visual and camera based readout. Preliminary LoD studies using Zeptometrix inactivated virions spiked into anterior nares swab extract have determined an LoD of 2 copies/ul for the colorimetric assay. We\'ve run thousands of samples to date.
+FloodLAMP is developing an integrated screening program consisting of efficient on-site and at-home pooled sample collection, combined with an ultra-low-cost, low-barrier-to-entry RT-LAMP assay protocol. The assay uses a chemical inactivation (TCEP/EDTA) and a bead purification step to achieve high sensitivity required for pooling. Amplification is via RT-LAMP, with 2 versions of the kit under development: 1) fluorimetric for real-time measurement on qPCR instruments and 2) colorimetric for endpoint visual and camera based readout. Preliminary LoD studies using Zeptometrix inactivated virions spiked into anterior nares swab extract have determined an LoD of 2 copies/ul for the colorimetric assay. We've run thousands of samples to date.
 
 |Concentration (copies/μL)|Positive Samples Detected|
 |---|---|
@@ -891,7 +907,7 @@ Our sample collection materials and procedures are configured to pool up to 10 s
 
 Our screening program is designed for asymptomatic populations that participate in the program as a group, such as a school or employer. During the program's initial phase, all participants will be tested individually or at small pool levels that are appropriate for the estimated prevalence. Immediately following the initial phase, participants that have tested negative will commence ongoing pooled screening, with no more than 3 days between tests and less than 24 hour turnaround (target less than 12 hours). Dedicated lab capacity will be committed to ensure screening continuity and rapid turnaround time.
 
-We understand that FloodLAMP\'s Screening Program and Test Kits comprise an ambitious plan. We are integrating several of the agency\'s priorities with the goal of unlocking mass, scalable screening for the U.S.
+We understand that FloodLAMP's Screening Program and Test Kits comprise an ambitious plan. We are integrating several of the agency's priorities with the goal of unlocking mass, scalable screening for the U.S.
 
 As a Public Benefit Corporation, we have explicitly committed to open protocols and the public good. We are already living that commitment through important collaborations and by publicly publishing our detailed protocols, workflow, and process videos. We will expand this material in support of our Test Kit IFU to facilitate rapid and reliable adoption of the FloodLAMP Screening Program at scale.
 
@@ -908,9 +924,9 @@ July 28 Molecular Diagnostic Template for Laboratories
 May 29 Home Specimen Collection Molecular Diagnostic
 
 
-# 383  2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
+# 382  2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
 METADATA
-last updated: 2025-12-16 BA updated metadata after BA fixed inconsistencies
+last updated: 2026-03-05 by BA
 file_name: 2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
 file_date: 2020-11-10
 title: Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA
@@ -920,13 +936,13 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1VBn8z1oUZA29-9OkproAwofi6O2ubEQ7PkvVdvyZqSA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1KkiuK5SPHIxHrdUhVLitD8uE3FCl3tdc
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2020-11-10_Email%20to%20FDA%20Dir%20Tim%20Stenzel%20-%20FloodLAMP%20Pre-EUA.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 383
+tokens: 382
 words: 281
 notes: 
 summary_short: The Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA (Nov 10, 2020) is an outreach note requesting a meeting to discuss FloodLAMP’s newly submitted pre-EUA for an ultra-low-cost, LAMP-based SARS-CoV-2 test and how an “open source” EUA model could be expanded beyond SalivaDirect. It highlights key regulatory topics FloodLAMP wanted to align on—especially asymptomatic screening, pooling, and on-site/at-home collection—and proposes forming a consortium of mission-driven developers to produce validated, open-access molecular tests.
@@ -944,31 +960,31 @@ Dr. Wyllie and I would greatly appreciate the chance to meet with you to discuss
 
 We are currently helping a third group who has submitted an EUA and is also seeking to provide their test as an open source protocol, and we continue to receive interest from yet more groups that are interested in taking this approach. Our goal is to build a consortium of like-minded, mission-driven test developers committed to bringing online a suite of properly validated and well supported open-access SARS-CoV-2 molecular tests. As SalivaDirect has shown, these molecular tests can be deployed in a scalable, non-proprietary way that is truly game-changing. We see the potential for these tests to become high-impact public goods, with far-reaching benefits both in pandemic preparedness and broader human health.
 
-There\'s a lot of hard work to be done to achieve this ambitious goal, and we would like to discuss with you how to most efficiently proceed. Please let us know if you are available soon to discuss.
+There's a lot of hard work to be done to achieve this ambitious goal, and we would like to discuss with you how to most efficiently proceed. Please let us know if you are available soon to discuss.
 
 Best Regards
 
 
-# 2,120  2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
+# 2,047  2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
 METADATA
-last updated: 2025-12-26 RT 
+last updated: 2026-03-05 by BA
 file_name: 2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
 file_date: 2020-12-09
-title: 2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests
+title: FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests
 category: regulatory
 subcategory: fl-fda-correspondence
 tags: 
-source_file_type: docx
+source_file_type: gdoc
 xfile_type: docx
-gfile_url: https://docs.google.com/document/d/1eRAiD5wdRP6K2PzObaR4REQ9G62uPk6h
-xfile_github_download_url: 
+gfile_url: https://docs.google.com/document/d/1jZzEumjRYUOK31Cz-sUQkfONjqOja1f_YqPcNduwHA8
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2020-12-09_FloodLAMP%20FDA%20Townhall%20Engagement%20on%20Open%20Source%20FDA%20IVD%20EUAs%20and%20Generic%20Molecular%20Tests.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Dt9mrf7uCGmtW75LZs0x6luUckkMWP59
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2020-12-09_FloodLAMP%20FDA%20Townhall%20Engagement%20on%20Open%20Source%20FDA%20IVD%20EUAs%20and%20Generic%20Molecular%20Tests.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 2120
-words: 1465
+tokens: 2047
+words: 1462
 notes: 
 summary_short: The “Dialogue on Open Source Testing and FDA IVD Authorization of Generic Molecular Tests” summarizes a December 9, 2020 FDA town hall exchange about using Rights of Reference and “method” EUAs (modeled on SalivaDirect) to enable interoperable, non-proprietary molecular test protocols across laboratories. It outlines how open IVD EUAs could reduce duplicative validation, strengthen supply-chain resilience, and scale testing via a structured lab designation process, positioning FloodLAMP’s strategy to expand this open-access paradigm beyond SalivaDirect.
 
@@ -980,23 +996,23 @@ CONTENT
 12-9-2020 FDA Town Hall
 
 
-## Can listen to the 7 minutes of audio [<u>here</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s)
+## Can listen to the 7 minutes of audio [here](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s)
 
 
 ## High Level Summary:
-FDA authorizations for tests can be made completely open (so any lab can order the ingredients directly from suppliers) and interoperable (through Rights of Reference to the validation data). The potential of this open source/open access paradigm of testing is immense but almost totally unknown to government leadership. It has received no funding out of the billions that has been spent expanding the highly profitable, proprietary status quo of the diagnostics and clinical testing industry. Yet the FDA itself is fully aware of the potential for this open approach and embraced it with the [<u>first "open source protocol" EUA SalivaDirect</u>](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health). Part of FloodLAMP's mission is to quickly expand this paradigm to several more key open source EUAs, and in doing so unlock and massively expand testing in the United States.
+FDA authorizations for tests can be made completely open (so any lab can order the ingredients directly from suppliers) and interoperable (through Rights of Reference to the validation data). The potential of this open source/open access paradigm of testing is immense but almost totally unknown to government leadership. It has received no funding out of the billions that has been spent expanding the highly profitable, proprietary status quo of the diagnostics and clinical testing industry. Yet the FDA itself is fully aware of the potential for this open approach and embraced it with the [first "open source protocol" EUA SalivaDirect](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health). Part of FloodLAMP's mission is to quickly expand this paradigm to several more key open source EUAs, and in doing so unlock and massively expand testing in the United States.
 
 
 ## Transcript:
-[**<u>Randy True</u>**](http://www.linkedin.com/in/randy-true-fof), Founder of [<u>FloodLAMP Biotechnologies,</u>](http://www.floodlamp.bio) a Public Benefit Corporation
+[**Randy True**](http://www.linkedin.com/in/randy-true-fof), Founder of [FloodLAMP Biotechnologies,](http://www.floodlamp.bio) a Public Benefit Corporation
 
 randy@floodlamp.bio
 
-[**<u>Dr. Timothy Stenzel</u>**](https://www.linkedin.com/in/timothy-stenzel-md-phd-20204521/), FDA Director, Office of In Vitro Diagnostics and Radiological Health
+[**Dr. Timothy Stenzel**](https://www.linkedin.com/in/timothy-stenzel-md-phd-20204521/), FDA Director, Office of In Vitro Diagnostics and Radiological Health
 
-[<u>05:00 Randy True</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s): *FloodLAMP is coordinating with other open source test developers. If we establish a consolidated primer set and give a general right of reference, then we won't individually have to repeat certain aspects of the validation, correct? Want to understand that dynamic a bit more in terms of the inclusivity, in silico analysis, and the in silico cross-reactivity and the wet cross-reactivity. Can you give us guidance as we coordinate on this?*
+[05:00 Randy True](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=300s): *FloodLAMP is coordinating with other open source test developers. If we establish a consolidated primer set and give a general right of reference, then we won't individually have to repeat certain aspects of the validation, correct? Want to understand that dynamic a bit more in terms of the inclusivity, in silico analysis, and the in silico cross-reactivity and the wet cross-reactivity. Can you give us guidance as we coordinate on this?*
 
-[<u>00:06:34 Dr. Timothy Stenzel, FDA</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=394s): *Yeah, we've seen that is a pathway that could be very successful. Yale's SalivaDirect was the first.*
+[00:06:34 Dr. Timothy Stenzel, FDA](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=394s): *Yeah, we've seen that is a pathway that could be very successful. Yale's SalivaDirect was the first.*
 
 *As far as the data related to test performance, yes that can be leveraged in multiple ways. The two main ways are that if you seek your own authorization for the path, you can give a right of reference for anyone else who wants to copy you. That wouldn't eliminate the requirement for them--if they're a kit developer, say--for them to come in to get their own authorization. And it wouldn't extend the umbrella of an EUA authorization to any lab that might copy that method.*
 
@@ -1008,9 +1024,9 @@ randy@floodlamp.bio
 
 *2) The other way is to have this method authorized, as we did for SalivaDirect. Then we would envision giving you (or any other sponsor) the same sort of flexibility. Yale is actually the one that designates which lab can use their method and are therefore covered by their EUA. And they have commitments to the FDA on what is required and making that determination of designation. And my understanding is they've designated quite a few labs already, and I would refer you to them if anybody wants to know those numbers, but it appears to be a very highly successful program.*
 
-[<u>10:18 Randy True</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=618s): *Yeah, they've been our inspiration for this modality and effort. I guess just one quick follow-up question: So if we get authorization for a test with a certain lysis or inactivation buffer and a certain purification... Like, we're pursuing an ultra-cheap glass milk purification, but we're working with another test developer who is seeking authorization for a magbead based purification that would be highly amenable to automation. If we consolidated on the same primer set and LAMP master mix, then it's my understanding they wouldn't need to repeat the upfront parts. But with respect to the interfering substances, would they need to repeat that? And then if we gave them a general right of reference, then they would end up getting their own EUA that they could control the designations on, and then we would have our own, independent EUA that we controlled the designations on, even though we granted a right of reference. Is that how it would work?*
+[10:18 Randy True](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=618s): *Yeah, they've been our inspiration for this modality and effort. I guess just one quick follow-up question: So if we get authorization for a test with a certain lysis or inactivation buffer and a certain purification... Like, we're pursuing an ultra-cheap glass milk purification, but we're working with another test developer who is seeking authorization for a magbead based purification that would be highly amenable to automation. If we consolidated on the same primer set and LAMP master mix, then it's my understanding they wouldn't need to repeat the upfront parts. But with respect to the interfering substances, would they need to repeat that? And then if we gave them a general right of reference, then they would end up getting their own EUA that they could control the designations on, and then we would have our own, independent EUA that we controlled the designations on, even though we granted a right of reference. Is that how it would work?*
 
-[<u>11:30 Tim Stenzel, FDA</u>](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=690s): *At a high level you're close. The devil is sometimes in the details. There are certain alterations to a test that may require additional validation. So if they're adding something new that you didn't do, say, then we would want to evaluate the data around that change. And then absolutely developers can give each other right of references as they so wish. They can specify what right they have from their entire EUA--they can have limitations, <span class="mark">or they can open it up entirely.</span> But you can basically cross-reference each other's assays to the extent that you want. And <span class="mark">there would absolutely be synergy.</span> And if the components are all the same that you use for the core test, then there would absolutely be synergy on reducing any sort of duplication. <span class="mark">I look forward to hearing more about your development.</span>*
+[11:30 Tim Stenzel, FDA](https://www.youtube.com/watch?v=-7K-zmy-ouU&t=690s): *At a high level you're close. The devil is sometimes in the details. There are certain alterations to a test that may require additional validation. So if they're adding something new that you didn't do, say, then we would want to evaluate the data around that change. And then absolutely developers can give each other right of references as they so wish. They can specify what right they have from their entire EUA--they can have limitations, or they can open it up entirely. But you can basically cross-reference each other's assays to the extent that you want. And there would absolutely be synergy. And if the components are all the same that you use for the core test, then there would absolutely be synergy on reducing any sort of duplication. I look forward to hearing more about your development.*
 
 ## Commentary
 
@@ -1042,9 +1058,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1NQ3_Rmh-AYVSPYn7AP-Hls9rMLBXEX1zWLvRLTrzPrE
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1Msh-TYQeiZlCc2fd_zhW0CQOk3U8B_bO
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-03-22_Cover%20Letter%20to%20FDA%20-%20FloodLAMP%20Open%20Source%20EUA%20Submissions.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1081,25 +1097,25 @@ Founder - FloodLAMP Biotechnologies, Public Benefit Corporation
 randy@floodlamp.bio
 
 
-# 1,331  2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
+# 1,309  2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
 METADATA
-last updated: 2025-12-26 CT
+last updated: 2026-03-05 by BA
 file_name: 2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
 file_date: 2021-04-02
-title: 2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254
+title: FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254
 category: regulatory
 subcategory: fl-fda-correspondence
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1qbX9jeURHdrgrreOVksMThNkB1mP77W3oO28vz0WSSA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-04-02_FloodLAMP%20FDA%20Correspondence%20-%20Deprioritization%20EUA210252%20EUA210254.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1XOKe8WQZNDY0Bfl8VbKakCQ719mq-TtC
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-04-02_FloodLAMP%20FDA%20Correspondence%20-%20Deprioritization%20EUA210252%20EUA210254.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1331
+tokens: 1309
 words: 675
 notes:
 summary_short: The April 2, 2021 FDA email and attached deprioritization letter notify FloodLAMP that EUA210252 (QuickColor COVID-19 Test) was closed because FDA declined to review it under then-current prioritization criteria. It explains that, in a later phase of the pandemic with many tests already authorized, FDA prioritized requests expected to materially increase U.S. testing accessibility (e.g., POC, home collection, at-home) or capacity (e.g., high-throughput), and judged FloodLAMP’s submission as having relatively limited impact on those factors. The document also notes the same decision and attachment were issued for a related EUA request (EUA210254).
@@ -1107,7 +1123,7 @@ summary_short: The April 2, 2021 FDA email and attached deprioritization letter 
 
 CONTENT
 
-***INTERNAL TITLE:*** 2021-04-02\_Email from FDA - Final Decision and Deprioritization
+***INTERNAL TITLE:*** 2021-04-02_Email from FDA - Final Decision and Deprioritization
 
 ## Email Header
 from: Walia, Vijay &lt;Vijay.Walia@fda.hhs.gov&gt;
@@ -1125,11 +1141,11 @@ Dear Randall J. True,
 
 Please see attached letter regarding your EUA request, EUA210252. This is the final decision on your EUA request, and your EUA is now closed.
 
-The reason for our decision is that we are currently in a different phase of the pandemic with respect to tests than we were previously, where many COVID-19 tests are now authorized. We prioritize review of EUA requests for tests taking into account a variety of factors, as discussed in the [<u>Emergency Use Authorization of Medical Products and Related Authorities Guidance</u>](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical-products-and-related-authorities), such as the public health need for the product and the availability of the product. We have, for example, prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, and at-home tests) or would significantly increase testing capacity (e.g., high-throughput tests).
+The reason for our decision is that we are currently in a different phase of the pandemic with respect to tests than we were previously, where many COVID-19 tests are now authorized. We prioritize review of EUA requests for tests taking into account a variety of factors, as discussed in the [Emergency Use Authorization of Medical Products and Related Authorities Guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/emergency-use-authorization-medical-products-and-related-authorities), such as the public health need for the product and the availability of the product. We have, for example, prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, and at-home tests) or would significantly increase testing capacity (e.g., high-throughput tests).
 
 Regarding your request, FDA determined that review of your EUA request is not a priority because, for example, authorization of the test would have relatively limited impact on testing accessibility or testing capacity in the United States.
 
-For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [<u>FAQs on Testing for SARS-CoV-2</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
+For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
 
 Please confirm receipt of this email and attached letter.
 
@@ -1180,38 +1196,39 @@ Food and Drug Administration
 (1) For example, the agency has prioritized review of EUA requests for tests where authorization would increase testing accessibility (e.g., point of care (POC) tests, home collection tests, at-home tests) or would significantly increase testing
 capacity (e.g., tests that reduce reliance on test supplies, high-throughput, widely distributed tests). See
 
-[<u>https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities).
+[https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities).
 
-(2) FDA’s current thinking on prioritization of EUA requests is explained in FDA’s guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [<u>https://www.fda.gov/media/97321/download</u>](https://www.fda.gov/media/97321/download).
+(2) FDA’s current thinking on prioritization of EUA requests is explained in FDA’s guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [https://www.fda.gov/media/97321/download](https://www.fda.gov/media/97321/download).
 
 
-# 3,659  2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313.md
+# 3,507  2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313.md
 METADATA
-last updated: 2025-12-30 CT
+last updated: 2026-03-05 by BA
 file_name: 2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313.md
 file_date: 2021-06-17
-title: 2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313
+title: FDA Correspondence Summary - Pre-EUA PEUA210313
 category: regulatory
 subcategory: fl-fda-correspondence
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Uw2wKJ-pCW2DkvRP0LyP-JT74VzeSSjMqULN9Pnafy8/edit?usp=drive_link
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-06-17_FDA%20Correspondence%20Summary%20-%20Pre-EUA%20PEUA210313.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1uKfI8oroJ7qE6yxSBPPCx5oScZKEyXec/view?usp=drive_link
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-06-17_FDA%20Correspondence%20Summary%20-%20Pre-EUA%20PEUA210313.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 3659
-words: 2063
+tokens: 3507
+words: 2053
 notes:
 summary_short: The Pre-EUA (PEUA210313) record compiles FloodLAMP’s May 18, 2021 submission package for QuickColor and EasyPCR tests plus a pooled DTC dry-swab home collection kit and mobile app, submitted after earlier EUA deprioritization. FDA’s June 17, 2021 response states the agency did not review FloodLAMP’s validation data due to prioritization, but provides targeted guidance on study design (e.g., specimen adequacy/usability should be supported by the specific test, and self-collection studies should exclude participants with prior anterior nasal swab experience) and recommends using highly sensitive EUA RT-PCR comparators and ensuring enough low-viral-load positives; it also flags QuickColor’s clinical PPA as below the ~95% agreement level FDA considered acceptable and closes the pre-EUA. The October 5, 2021 follow-up email from FloodLAMP requests an interactive review to clarify serial-screening sensitivity expectations, usability and post-authorization study requirements, and prioritization, citing field surveillance deployment metrics and an open-protocol, low-cost scale-up approach.
 
 
 CONTENT
 
-## 2021-05-18\_Pre-EUA Documents Submitted to FDA CDRH as Attachments
+## 2021-05-18_Pre-EUA Documents Submitted to FDA CDRH as Attachments
+
 IFU - FloodLAMP Pooled Swab Collection Kit DTC.pdf
 Instructions for Use - FloodLAMP EasyPCR COVID-19 Test.pdf
 Instructions for Use - FloodLAMP QuickColor COVID-19 Test.pdf
@@ -1225,47 +1242,46 @@ Supporting Data - FloodLAMP QuickColor COVID-19 Test.xlsx
 
 The Submission, IFU, and Supporting Data documents for the QuickColor and EasyPCR tests are the same as submitted on 3-22-21, which the FDA replied with a Deprioritization (denial to review).
 
-
 ## 2021-06-17_Email from FDA re FloodLAMP Pre-EUA
-Povinelli, Benjamin &lt;[<u>Benjamin.Povinelli@fda.hhs.gov</u>](mailto:Benjamin.Povinelli@fda.hhs.gov)&gt; - postdoc at Oxford
+Povinelli, Benjamin &lt;[Benjamin.Povinelli@fda.hhs.gov](mailto:Benjamin.Povinelli@fda.hhs.gov)&gt; - postdoc at Oxford
 to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
-cc: "Caposino, Paula" &lt;[<u>Paula.Caposino@fda.hhs.gov</u>](mailto:Paula.Caposino@fda.hhs.gov)&gt;, - FDA reviewer for 13 years
-"St. Pierre, Don J." &lt;[<u>don.st.pierre@fda.hhs.gov</u>](mailto:don.st.pierre@fda.hhs.gov)&gt;, - Associate Director, OIVD at FDA
-"Roth, Kristian" &lt;[<u>Kristian.Roth@fda.hhs.gov</u>](mailto:Kristian.Roth@fda.hhs.gov)&gt;, - Supervisory Chemist - FDA/CDRH/OIR/ oir-policy &lt;CDRH-OIR-POPS@fda.hhs.gov&gt;,
+cc: "Caposino, Paula" &lt;[Paula.Caposino@fda.hhs.gov](mailto:Paula.Caposino@fda.hhs.gov)&gt;, - FDA reviewer for 13 years
+"St. Pierre, Don J." &lt;[don.st.pierre@fda.hhs.gov](mailto:don.st.pierre@fda.hhs.gov)&gt;, - Associate Director, OIVD at FDA
+"Roth, Kristian" &lt;[Kristian.Roth@fda.hhs.gov](mailto:Kristian.Roth@fda.hhs.gov)&gt;, - Supervisory Chemist - FDA/CDRH/OIR/ oir-policy &lt;CDRH-OIR-POPS@fda.hhs.gov&gt;,
 "PEUA210313@docs.fda.gov" &lt;PEUA210313@docs.fda.gov&gt;
 date: Jun 17, 2021, 8:06 AM subject: RE PEUA210313 signed-by: fda.hhs.gov
 
-Good afternoon. Thank you for your pre-EUA submission, PEUA210313. As described in the U.S. Food and Drug Administration’s (FDA or Agency) guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [<u>https://www.fda.gov/media/97321/download</u>](https://www.fda.gov/media/97321/download), FDA prioritizes its pre-EUA activities based on a variety of factors. Given the volume of pre-EUA and EUA requests the Agency has received, <span class="mark">we have not reviewed the validation studies nor the data provided in this pre-EUA but we provide some general recommendations below</span>. We found 2 specific questions in your request and we provide answers below:
+Good afternoon. Thank you for your pre-EUA submission, PEUA210313. As described in the U.S. Food and Drug Administration’s (FDA or Agency) guidance, “Emergency Use Authorization for Medical Products and Related Authorities,” available at [https://www.fda.gov/media/97321/download](https://www.fda.gov/media/97321/download), FDA prioritizes its pre-EUA activities based on a variety of factors. Given the volume of pre-EUA and EUA requests the Agency has received, we have not reviewed the validation studies nor the data provided in this pre-EUA but we provide some general recommendations below. We found 2 specific questions in your request and we provide answers below:
 
 - Is it acceptable to utilize the FloodLAMP EasyPCRTM COVID-19 Test for determining the pass/fail of specimen adequacy? No, these studies should be designed to support the usability of the test that is subject of the EUA.
 - Is it acceptable to strike this exclusion \[regarding self-collection\] since self-collection has become much more widespread? No. FDA recommends that participants in self-collection studies should be excluded if they have prior experience with the sample type (anterior nasal swabs). You may include participants with experience in other self-collection sample types.
 
 In this request, you provided information on the following devices:
-> 1\. FloodLAMP QuickColorTM COVID-19 Test for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when such individuals are tested as part of a testing program that includes testing at regular intervals, at least once per week.
->
-> 2\. The FloodLAMP Pooled Swab Collection Kit DTC is a direct to consumer (DTC) product for self-collecting pooled anterior nasal swabs in a dry tube at home (which includes a community based setting), including individuals without symptoms or other reasons to suspect COVID-19. Specimens collected using the FloodLAMP Pooled Swab Collection Kit DTC are transported at ambient temperature for testing at a laboratory.
->
-> 3\. FloodLAMP EasyPCRTM COVID-19 Test is a real-time reverse transcriptase polymerase chain reaction (RT-PCR) assay intended for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when such individuals are tested as part of a testing program that includes testing at regular intervals, at least once per week.
+1\. FloodLAMP QuickColorTM COVID-19 Test for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when such individuals are tested as part of a testing program that includes testing at regular intervals, at least once per week.
+
+2\. The FloodLAMP Pooled Swab Collection Kit DTC is a direct to consumer (DTC) product for self-collecting pooled anterior nasal swabs in a dry tube at home (which includes a community based setting), including individuals without symptoms or other reasons to suspect COVID-19. Specimens collected using the FloodLAMP Pooled Swab Collection Kit DTC are transported at ambient temperature for testing at a laboratory.
+
+3\. FloodLAMP EasyPCRTM COVID-19 Test is a real-time reverse transcriptase polymerase chain reaction (RT-PCR) assay intended for the qualitative detection of RNA from SARS-CoV-2 in upper respiratory specimens including nasopharyngeal swabs, anterior nasal and mid-turbinate nasal swabs from individuals suspected of COVID-19 by their healthcare provider and from individuals without symptoms or other epidemiological reasons to suspect COVID-19 infection, when such individuals are tested as part of a testing program that includes testing at regular intervals, at least once per week.
 
 We recommend you refer to the following resources. After reviewing the resources below, if you decide to submit EUAs for each of the tests, please submit your complete requests with information and data adequate to support that your device is validated for its intended use and meets the criteria for issuance of an EUA under Section 564 of the Federal Food Drug and Cosmetic Act. To help facilitate the preparation, submission, and review of your EUA request, we recommend that you use the applicable template (see links below) and that you provide all of the information recommended in the template(s) to support all claims.
 - Policy for Coronavirus Disease-2019 Tests. This guidance includes reference to molecular diagnostic templates that include FDA’s recommendations for performance validation testing for SARS-CoV-2 molecular diagnostic tests.
-- The templates referenced in the guidance can be found here: [<u>https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas</u>](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas) . The direct link to the molecular diagnostic template can be found here: [<u>Molecular Diagnostic Template for Commercial Manufacturers</u>](https://www.fda.gov/media/135900/download) (updated July 28, 2020). This template includes all of our comprehensive recommendations on the types of information to provide to support most of your claims. For our recommendations on studies designed to support home collection (i.e., DTC testing), please see our [<u>Home Specimen Collection Molecular Diagnostic Template</u>](https://www.fda.gov/media/138412/download) (May 29, 2020).
+- The templates referenced in the guidance can be found here: [https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas) . The direct link to the molecular diagnostic template can be found here: [Molecular Diagnostic Template for Commercial Manufacturers](https://www.fda.gov/media/135900/download) (updated July 28, 2020). This template includes all of our comprehensive recommendations on the types of information to provide to support most of your claims. For our recommendations on studies designed to support home collection (i.e., DTC testing), please see our [Home Specimen Collection Molecular Diagnostic Template](https://www.fda.gov/media/138412/download) (May 29, 2020).
 
-  - As discussed in our templates, we recommend using only a high sensitivity EUA RT-PCR assay which uses a chemical lysis step followed by solid phase extraction of nucleic acid (e.g., silica bead extraction) as a comparator for the clinical evaluation. We recommend selecting a comparator assay that has established high sensitivity with an internationally recognized standard or FDA SARS-CoV-2 Reference Panel. We refer you to [<u>https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-reference-panel-comparative-data</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-reference-panel-comparative-data) and recommend that you select a comparator that is highly sensitive. You propose to use the Panther Fusion SARS-CoV-2 Assay and the Aptima SARS-CoV-2 assays as comparators. These have been shown to be highly sensitive using **nasopharyngeal swabs** collected and transported in media as per the Instructions for Use of each EUA. If you need to select a different comparator, we recommend that you confirm the suitability of the comparator with us through CDRH-EUA-Templates@fda.hhs.gov. In addition, you should ensure that your data set includes an adequate number of challenging/low viral load specimens (20-25% of positives) as defined as those having Ct values within 2-3 cycles of the average Ct at the limit of detection for a given target as based on comparator testing with an appropriately sensitive EUA test. Furthermore, please ensure your comparator test is run as authorized/without any modifications.
-  - As stated in our template, <span class="mark">FDA believes a minimum of 95% positive and negative agreement is acceptable clinical performance.</span> The FloodLAMP QuickColorTM COVID-19 Test demonstrated a lower PPA than what FDA believes is acceptable for this use. Therefore, we do not recommend pursuing an EUA for this test unless you can improve its sensitivity.
+  - As discussed in our templates, we recommend using only a high sensitivity EUA RT-PCR assay which uses a chemical lysis step followed by solid phase extraction of nucleic acid (e.g., silica bead extraction) as a comparator for the clinical evaluation. We recommend selecting a comparator assay that has established high sensitivity with an internationally recognized standard or FDA SARS-CoV-2 Reference Panel. We refer you to [https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-reference-panel-comparative-data](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/sars-cov-2-reference-panel-comparative-data) and recommend that you select a comparator that is highly sensitive. You propose to use the Panther Fusion SARS-CoV-2 Assay and the Aptima SARS-CoV-2 assays as comparators. These have been shown to be highly sensitive using **nasopharyngeal swabs** collected and transported in media as per the Instructions for Use of each EUA. If you need to select a different comparator, we recommend that you confirm the suitability of the comparator with us through CDRH-EUA-Templates@fda.hhs.gov. In addition, you should ensure that your data set includes an adequate number of challenging/low viral load specimens (20-25% of positives) as defined as those having Ct values within 2-3 cycles of the average Ct at the limit of detection for a given target as based on comparator testing with an appropriately sensitive EUA test. Furthermore, please ensure your comparator test is run as authorized/without any modifications.
+  - As stated in our template, FDA believes a minimum of 95% positive and negative agreement is acceptable clinical performance. The FloodLAMP QuickColorTM COVID-19 Test demonstrated a lower PPA than what FDA believes is acceptable for this use. Therefore, we do not recommend pursuing an EUA for this test unless you can improve its sensitivity.
 
 - If you plan to include or recommend the use of components that are currently labeled for Research-Use-Only (RUO), we offer the following recommendations. Since RUO components are not designed for clinical testing they should not be used for patient testing without additional mitigations. Further, while some requirements for products are waived during the duration of this EUA, some are not waived and these include parts of 21 CFR 820 (e.g., acceptance activities), and parts of 21 CFR 809.10 (labeling). In your EUA requests, please provide information on how you will mitigate the risks of using or recommending the use of RUO components for example by demonstrating how you will meet these conditions of emergency use authorization for any component needed for your testing that is currently labeled RUO.
-- The list of previously issued EUAs for in vitro diagnostic products, which includes previously issued EUAs for SARS-CoV-2 molecular diagnostic tests with claims similar to yours, found here: [<u>https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas</u>](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas). The instructions for use for devices from test kit manufacturers for which an EUA has been issued are made available and can help you understand the data provided from other manufacturers to demonstrate that their SARS-CoV-2 molecular diagnostic test was adequately validated and support issuance of an EUA.
+- The list of previously issued EUAs for in vitro diagnostic products, which includes previously issued EUAs for SARS-CoV-2 molecular diagnostic tests with claims similar to yours, found here: [https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/vitro-diagnostics-euas). The instructions for use for devices from test kit manufacturers for which an EUA has been issued are made available and can help you understand the data provided from other manufacturers to demonstrate that their SARS-CoV-2 molecular diagnostic test was adequately validated and support issuance of an EUA.
 
 - For our recommendations on evaluating the potential impact of emerging and future viral mutations of SARS-CoV-2 on COVID-19 tests, we refer you to the following guidance document: Policy for Evaluating Impact of Viral Mutations on COVID-19 tests.
 - FAQs on Testing for SARS-CoV-2, that includes frequently asked questions on test development and review, test settings and test uses.
 - Virtual Town Hall Series, which takes place every Wednesday from 12:15 pm to 1:15 pm. The purpose of the Virtual Town Hall Series is to help answer technical questions about the development and validation of tests for SARS-CoV-2.
-- Lastly, please be advised that <span class="mark">FDA is prioritizing review of all EUA requests for tests, taking into account a variety of factors such as the **public health need for the product and the availability of the product**.</span> See [<u>https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities). <span class="mark">Based on the information provided in the request, we cannot determine if all of your tests would meet our highest review priorities.</span>
+- Lastly, please be advised that FDA is prioritizing review of all EUA requests for tests, taking into account a variety of factors such as the **public health need for the product and the availability of the product**. See [https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/covid-19-test-development-and-review-faqs-testing-sars-cov-2#priorities). Based on the information provided in the request, we cannot determine if all of your tests would meet our highest review priorities.
 
-<span class="mark">Upon issuance of this feedback, this pre-EUA is now closed.</span> We look forward to working with you if you decide to submit an EUA request for this device.
+Upon issuance of this feedback, this pre-EUA is now closed. We look forward to working with you if you decide to submit an EUA request for this device.
 
 
-## 2021-10-05\_Email from FloodLAMP to FDA re Pre-EUA
+## 2021-10-05_Email from FloodLAMP to FDA re Pre-EUA
 from: Randy True &lt;randy@floodlamp.bio&gt;
 to: "Povinelli, Benjamin" &lt;Benjamin.Povinelli@fda.hhs.gov&gt;
 cc: "St. Pierre, Don J." &lt;don.st.pierre@fda.hhs.gov&gt;,
@@ -1281,13 +1297,13 @@ Thank you for your team's reply to our Pre-EUA in June. I'm following up and wou
 - sensitivity requirement for serial screening indication, in light of our analytical and clinical sensitivity performance data;
 - usability study requirements for HCP observed, at-home collection, and DTC;
 - post authorization asymptomatic and pooling studies;
-- current prioritization in light of our test characteristics, manufacturing capability, and potential for widespread adoption of our QuickColor<sup>TM</sup> LAMP and EasyPCR<sup>TM</sup> open protocol EUAs.
+- current prioritization in light of our test characteristics, manufacturing capability, and potential for widespread adoption of our QuickColorTM LAMP and EasyPCRTM open protocol EUAs.
 
-Our tests, especially the QuickColor<sup>TM</sup> LAMP test, have the potential for high impact if authorized. Being open protocol EUA submissions, we are leveraging existing very high volume manufacturing capacity of leading supply partners in the space such as New England Biolabs and LGC Biosearch. The combination of ultra low price point and quick turnaround times enable our tests to materially impact the adoption and effectiveness of testing programs in the U.S. For example, the [<u>Test-to-Stay model</u>](https://www.nytimes.com/2021/09/19/health/coronavirus-school-quarantine-testing.html) to avoid school closures and quarantines is being deployed in many states, but is much more testing resource intensive than standard programs. Authorization of our tests would increase access to the Test-to-Stay model and stretch funding for testing much further. Along with our mobile app and at-home/on-site pcollection kits, FloodLAMP screening programs have distinct advantages over both rapid antigen and central lab PCR programs, with respect to sensitivity and turnaround time.
+Our tests, especially the QuickColorTM LAMP test, have the potential for high impact if authorized. Being open protocol EUA submissions, we are leveraging existing very high volume manufacturing capacity of leading supply partners in the space such as New England Biolabs and LGC Biosearch. The combination of ultra low price point and quick turnaround times enable our tests to materially impact the adoption and effectiveness of testing programs in the U.S. For example, the [Test-to-Stay model](https://www.nytimes.com/2021/09/19/health/coronavirus-school-quarantine-testing.html) to avoid school closures and quarantines is being deployed in many states, but is much more testing resource intensive than standard programs. Authorization of our tests would increase access to the Test-to-Stay model and stretch funding for testing much further. Along with our mobile app and at-home/on-site pcollection kits, FloodLAMP screening programs have distinct advantages over both rapid antigen and central lab PCR programs, with respect to sensitivity and turnaround time.
 
-For a Pre-EUA (PEUA201985) we filed last November, we had a lead reviewer assigned (Dun Liang) and had a helpful phone call with him. In January we received a detailed review of that Pre-EUA. This process was very helpful in proceeding on the validation work and preparation of our full EUA submissions. We're hoping for a similar process here. With the added complexity of the asymptomatic indication, pooling, pooled collection and app integration, it would be helpful to obtain guidance on the studies before proceeding. We recently resubmitted EUAs for our EasyPCR<sup>TM</sup> and QuickColor<sup>TM</sup> LAMP tests (EUA210581 and EUA210582), for the persons suspected of COVID and serial screening indications, and are seeking priority review. We would like to be engaged with the interactive Pre-EUA process in parallel to the full EUA review. We would include on the call our regulatory consultant and also our scientific advisor, Dr. Anne Wyllie (developer of SalivaDirect<sup>TM</sup>).
+For a Pre-EUA (PEUA201985) we filed last November, we had a lead reviewer assigned (Dun Liang) and had a helpful phone call with him. In January we received a detailed review of that Pre-EUA. This process was very helpful in proceeding on the validation work and preparation of our full EUA submissions. We're hoping for a similar process here. With the added complexity of the asymptomatic indication, pooling, pooled collection and app integration, it would be helpful to obtain guidance on the studies before proceeding. We recently resubmitted EUAs for our EasyPCRTM and QuickColorTM LAMP tests (EUA210581 and EUA210582), for the persons suspected of COVID and serial screening indications, and are seeking priority review. We would like to be engaged with the interactive Pre-EUA process in parallel to the full EUA review. We would include on the call our regulatory consultant and also our scientific advisor, Dr. Anne Wyllie (developer of SalivaDirectTM).
 
-In support of some elements of our pre-EUA, we'd like to share the real world success of non-diagnostic surveillance deployments of our QuickColor<sup>TM</sup> LAMP test. This includes to date:
+In support of some elements of our pre-EUA, we'd like to share the real world success of non-diagnostic surveillance deployments of our QuickColorTM LAMP test. This includes to date:
 
 - 5 sites in 3 states;
 - testing at an EMS leadership conference, youth summer camp, and municipal fire departments;
@@ -1319,9 +1335,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1z3zw4jLv5UmZaSFGxloNeBQmV46WWAa70BbfAbowX7A
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.docx
 pdf_gdrive_url: https://drive.google.com/file/d/14WazfTa6NVDRdE5TMR7q4Ze8Lb44I7mJ
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-04_FloodLAMP%20Email%20to%20Tim%20Stenzel%20-%204%20pages.pdf
 conversion_input_file_type: gdoc
 conversion: cut and paste
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1403,10 +1419,10 @@ We currently have 2 commercial sites operating, performing routine testing of EM
 **FloodLAMP Biotechnologies, PBC**
 
 
-# 4,362  2021-10-13_FDA Request for Additional Information.md
+# 4,365  2021-10-13_FDA Request for Additional Information.md
 METADATA
-last updated: 2025-12-31 CT
-file_name: 2021-10-13_FDA Request for Additional Information.pdf
+last updated: 2026-03-05 by BA
+file_name: 2021-10-13_FDA Request for Additional Information.md
 file_date: 2021-10-13
 title: 2021-10-13_FDA Request for Additional Information
 category: regulatory
@@ -1415,19 +1431,20 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-13_FDA%20Request%20for%20Additional%20Information.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1fapKSzKCQz3mCpQfZveqabVI-A6ANSr8
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-13_FDA%20Request%20for%20Additional%20Information.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4362
-words: 2944
+tokens: 4365
+words: 2948
 notes: 
 summary_short: The FDA October 13, 2021 additional information letter for EUA210582 details deficiencies in FloodLAMP’s QuickColor COVID-19 Test validation, including gaps in intended-use population description, unsupported specimen claims, sub-threshold clinical performance, lack of low-viral-load positives, and required updates to inclusivity/variant analysis, cross-reactivity, and interference testing. It also addresses control material expectations and the regulatory risks of relying on RUO-labeled reagents, outlining acceptable alternatives and warning of possible withdrawal or suspension of distribution if adequate data were not provided by the deadline.
 
 
 CONTENT
+
 ## EMAIL ATTACHMENT HEADER
 EMAIL ATTACHMENT ORIGINAL FILE NAME: EUA210582-Additional Information-Final.pdf
 FLOODLAMP ARCHIVE FILE PATH FOR EMAIL MARKDOWN FILE: regulatory/fl-fda-correspondence/2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
@@ -1447,21 +1464,21 @@ You have not provided complete information to demonstrate that the studies perfo
 ### 1. Clinical Evaluation Supporting the Request for Authorization of the FloodLAMP QuickColor COVID-19 Test:
 As per the FDA’s [Molecular Diagnostic Template](https://www.fda.gov/media/135900/download), validation of a new test should include testing nasopharyngeal (NP) swab specimens from at least 30 positive and 30 negative individuals from the intended use population to support an NP swab or general upper respiratory claim for individuals suspected of COVID-19 by their healthcare providers. To support a general upper respiratory tract (URT) specimen claim it is recommended that the clinical study consists of at least 50% NP swabs and 50% nasal swabs. In your EUA submission you provided results from a clinical validation study that included 40 comparator positive, and 40 comparator negative nasal swab samples. However, the information you provided does not support an NP swab or other common URT specimens claim for the FloodLAMP QuickColor COVID-19 Test for the following reasons:
 
->**a. Intended Use Population**
+**a. Intended Use Population**
 Your test is intended for individuals suspected of COVID-19 by their healthcare providers (“‘suspected” individuals). However, you have not provided a description of your study population. Therefore, it is unclear whether your clinical study was performed with samples from the intended use population. Consequently, we cannot determine whether your clinical study is supportive of your intended use.
 
->**b. Sample Types:**
+**b. Sample Types:**
 Per your Intended Use, you are claiming upper respiratory specimens including oropharyngeal (OP), NP, anterior nasal (AN), and mid-turbinate nasal swabs. As per the FDA’s [Molecular Diagnostic Template](https://www.fda.gov/media/135900/download), studies supporting a NP or general upper respiratory specimen claim should be performed with NP swabs as FDA considers this to be the most challenging upper respiratory matrix. However, your clinical study was performed with the AN swab matrix. As such your claim for NP and OP swabs is not currently supported by your clinical evaluation study.
 
->**c. Low performance:**
+**c. Low performance:**
 You achieved a positive percent agreement (PPA) and a negative percent agreement (NPA) between your test and the comparator tested nasal swab specimens of 90% (36/40) and 100% (40/40), respectively. However, as per the FDA’s [Molecular Diagnostic Template](https://www.fda.gov/media/135900/download), FDA believes a minimum of 95% PPA and NPA is an acceptable clinical performance for a test with an intended use as you proposed for your device. A PPA of 90% is below the performance FDA believes is acceptable. The data obtained in your study suggest clinical performance issues with your device, which may put patients at unreasonable risk of harm due to inaccurate results. False negative test results could have a number of consequences, including leading to additional unnecessary diagnostic evaluations, and could negatively impact the effectiveness of infection control activities by incorrectly assessing the infection status of individuals.
 
->**d. Low positive samples:**
-According to the FDA’s [Molecular Diagnostic Template](https://www.fda.gov/media/135900/download), specimens representing a wide range of viral load including low positive specimens should be included in the clinical evaluation. It is recommended that approximately 25% of the SARS-CoV-2 comparator positive specimens should have Ct values close to the mean Ct value of the comparator at its confirmed LoD concentration (i.e., within 3 Cts of the mean Ct value at the confirmed LoD) to be considered as challenging samples with low viral load. However, your clinical data set indicated that no low positive samples per the comparator test were tested in your clinical evaluation study. Without data generated from testing a sufficient number of low positive samples with low viral load, we cannot appropriately assess the performance of the Flood(LAMP QuickColor COVID-19 Test.
+**d. Low positive samples:**
+According to the FDA’s [Molecular Diagnostic Template](https://www.fda.gov/media/135900/download), specimens representing a wide range of viral load including low positive specimens should be included in the clinical evaluation. It is recommended that approximately 25% of the SARS-CoV-2 comparator positive specimens should have Ct values close to the mean Ct value of the comparator at its confirmed LoD concentration (i.e., within 3 Cts of the mean Ct value at the confirmed LoD) to be considered as challenging samples with low viral load. However, your clinical data set indicated that no low positive samples per the comparator test were tested in your clinical evaluation study. Without data generated from testing a sufficient number of low positive samples with low viral load, we cannot appropriately assess the performance of the FloodLAMP QuickColor COVID-19 Test.
 
 To address the low performance issue, you should perform a root cause analysis and take the steps necessary to resolve the low PPA for your test. In your response, you should provide evidence that the steps taken addressed the issue and improved the clinical performance. If you identify any new risks in your root cause investigation, you should make sure to provide information to show that those risks have been mitigated. Please note that, should any mitigations require you to alter your device design or testing procedure in any way, additional clinical and analytical validation studies with your final device design may be needed.
 
-Once the sensitivity of your test is improved, to support an NP swab or general URT specimens claim for individuals suspected of COVID-19 by their healthcare providers using the Flood(LAMP QuickColor COVID-19 Test, please provide clinical validation data from an adequate number of positive and negative samples collected from your intended use population that demonstrate acceptable performance when compared to the results obtained with the comparator test. Please ensure that you provide a clear description of how samples in your clinical study were sourced, including the population characteristics of your study population and the sample numbers for each sample type. For a general URT sample claim as proposed, at least 50% of samples in your clinical study should be NP swab samples. Alternatively, you may adjust your specimen claim to claim AN swabs only if these are easier to source. Please also ensure that your clinical validation data set includes an adequate number of challenging/low viral load specimens (i.e., approximately 25% of the SARS-CoV-2 positive swab specimens, defined as those specimens having Ct values within 3 cycles of the mean Ct value at the comparator’s LoD). Without the additional clinical validation data requested, FDA is unable to determine that the known and potential benefits of your Flood(LAMP QuickColor COVID-19 Test outweigh the known and potential risks.
+Once the sensitivity of your test is improved, to support an NP swab or general URT specimens claim for individuals suspected of COVID-19 by their healthcare providers using the FloodLAMP QuickColor COVID-19 Test, please provide clinical validation data from an adequate number of positive and negative samples collected from your intended use population that demonstrate acceptable performance when compared to the results obtained with the comparator test. Please ensure that you provide a clear description of how samples in your clinical study were sourced, including the population characteristics of your study population and the sample numbers for each sample type. For a general URT sample claim as proposed, at least 50% of samples in your clinical study should be NP swab samples. Alternatively, you may adjust your specimen claim to claim AN swabs only if these are easier to source. Please also ensure that your clinical validation data set includes an adequate number of challenging/low viral load specimens (i.e., approximately 25% of the SARS-CoV-2 positive swab specimens, defined as those specimens having Ct values within 3 cycles of the mean Ct value at the comparator’s LoD). Without the additional clinical validation data requested, FDA is unable to determine that the known and potential benefits of your FloodLAMP QuickColor COVID-19 Test outweigh the known and potential risks.
 
 ### 2. Inclusivity Study and Variant Analysis
 You performed an in silico inclusivity analysis for your test in February 27, 2021. This in silico analysis is no longer representative of the circulating strains and variants at this time. Without an updated analysis for your test, we are unable to assess the performance of your device with the currently circulating SARS-CoV-2 strains and variants. Consequently, we are unable to determine that the benefits of your device outweigh the risks. Please provide an updated inclusivity analysis to support the current number and types of variants and provide the information in the table format below. Furthermore, please provide a specific risk assessment related to the performance of your device with all currently circulating variants of interest and variants of concern.
@@ -1472,6 +1489,7 @@ Please provide your updated in silico analysis results in the following formats:
 |---|---|---|---|---|---|---:|---:|---:|---:|
 |  |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |
+||
 
 
 *position in the genomic sequence
@@ -1485,12 +1503,13 @@ Please provide your updated in silico analysis results in the following formats:
 | 2 mismatches |  |  |  |
 | 3 mismatches |  |  |  |
 | >3 mismatches |  |  |  |
+||
 
 
 ### 3. Cross Reactivity / Microbial Interference
-You have provided a cross reactivity study that consists of wet testing as well as a comprehensive in silico analysis. However, some organisms with >80% of homology revealed in your in silico analysis in Table 13 of your submission were not tested in your wet testing (e.g. Candida albicans, Pseudomonas aeruginosa, Legionella pneumophila, and Streptococcus pneumoniae). Therefore, additional information on potential cross- reactivity is needed to support your EUA. In your response to this deficiency, please provide your in silico cross-reactivity data in tabular form identifying the pathogen, strain, accession # (e.g., you may pick one that represents the complete genome of the organism), and individual % homology of F/R primers and probes for all targets across organisms evaluated (not only organisms with > 50% of homology). For all organisms that produce homologies to any of the primers and probes of above 80%, microbial interference testing should be provided as described below or provide a rationale for why such testing can be omitted.
+You have provided a cross reactivity study that consists of wet testing as well as a comprehensive in silico analysis. However, some organisms with >80% of homology revealed in your in silico analysis in Table 13 of your submission were not tested in your wet testing (e.g. Candida albicans, Pseudomonas aeruginosa, Legionella pneumophila, and Streptococcus pneumoniae). Therefore, additional information on potential cross- reactivity is needed to support your EUA. In your response to this deficiency, please provide your in silico cross-reactivity data in tabular form identifying the pathogen, strain, accession # (e.g., you may pick one that represents the complete genome of the organism), and individual % homology of F/R primers and probes for all targets across organisms evaluated (not only organisms with ≥ 50% of homology). For all organisms that produce homologies to any of the primers and probes of above 80%, microbial interference testing should be provided as described below or provide a rationale for why such testing can be omitted.
 
-Microbial interference should be tested in the absence and presence of SARS-CoV-2 at no more than 3x LoD and the presence of the potentially interfering organism at high concentration (i.e., viruses > 10° copies, PFU, or TCIDso/mL, bacteria and fungi > 10° CFU/mL).
+Microbial interference should be tested in the absence and presence of SARS-CoV-2 at no more than 3x LoD and the presence of the potentially interfering organism at high concentration (i.e., viruses ≥ 10^5 copies, PFU, or TCID50/mL, bacteria and fungi ≥ 10^6 CFU/mL).
 
 **Table X.** In silico cross-reactivity testing with the % homology of the FloodLAMP QuickColor COVID-19 Test primers and probes
 
@@ -1522,6 +1541,7 @@ Microbial interference should be tested in the absence and presence of SARS-CoV-
 | *Pseudomonas aeruginosa* |  |  |  |  |
 | *Staphylococcus epidermis* |  |  |  |  |
 | *Streptococcus salivarius* |  |  |  |  |
+||
 
 ### 4. Endogenous Interfering Substances:
 You have provided an endogenous interfering substances study and stated that the potential interfering substances listed in Table 15 were tested at the indicated concentrations in your interfering substances study. However, the potential interfering substances tested in your study are insufficient to support the interference by commonly used cold remedies and products used in the URT. For a general URT specimen claim, FDA recommends evaluating the additional potentially interfering substances listed below for interference with your test because they can be expected to be commonly found in the URT. In your response, please submit interfering substance study data of the additional substances below to support that the tested substances do not interfere with your test. If new interference is observed, in your response, please provide information to show that any risk to patients has been mitigated. Please refer to the table below for our recommendations on the list of endogenous interfering substances that should be assessed to support your intended use. Each condition should be tested with 3 replicates.
@@ -1549,10 +1569,11 @@ You have provided an endogenous interfering substances study and stated that the
 | Alcohol | Ethanol | 5% |  |  |
 | White blood cells/Leukocytes |  | 1 to 5x10^6 cells/mL |  |  |
 | Whole Blood |  | 2.5% |  |  |
+||
 
 
 ### 5. External Controls:
-FDA recommends that external positive control material is provided in a concentration that is adequately representative of a real clinical sample and that is challenging enough for the test system to detect potential reagent deterioration. Therefore, it is recommended that the positive control mimics a low positive sample (i.e., < 5x LoD). However, the provided information in your EUA template indicates that you are providing the external positive controls with a concentration of 100,000 copies/mL equivalent to 8x LoD. Your control does not meet the recommended concentration and is therefore not an adequate control for the performance of your test with low positive samples. Please provide the validation data for the control material for FDA review.
+FDA recommends that external positive control material is provided in a concentration that is adequately representative of a real clinical sample and that is challenging enough for the test system to detect potential reagent deterioration. Therefore, it is recommended that the positive control mimics a low positive sample (i.e., ≤ 5x LoD). However, the provided information in your EUA template indicates that you are providing the external positive controls with a concentration of 100,000 copies/mL equivalent to 8x LoD. Your control does not meet the recommended concentration and is therefore not an adequate control for the performance of your test with low positive samples. Please provide the validation data for the control material for FDA review.
 
 ### 6. RUO Reagents:
 In your manufacturing information you indicate that your test ought to be used with recommended Research Use Only (RUO) reagents manufactured by a 3rd party. E.g., LGC Biosearch Technologies/Eurofins Genomics/Integrated DNA Technologies/Sigma LAMP primers, New England Biolabs Colorimetric LAMP Master Mix). As you are aware, RUO products are not subject to 21 CFR Part 820. Because of this, RUO reagents may vary across different manufacturers and lots in ways that may affect the performance of the test. Since continued quality and adequate performance of your test is not assured in this case, you may not recommend as components of an authorized test materials/components that are labeled RUO. Therefore, you have the following options:
@@ -1572,31 +1593,32 @@ If you do not yet have the information requested above, it may take significant 
 If you do not respond by October 15, 2021, 12 pm (eastern), or if the information you provide does not demonstrate that your device is adequately validated for its intended use, we may take steps as described in the guidance referenced above, including removing the test from the website listing of notifications, and likely would not be able to determine that the criteria for emergency use authorization have been met. If such steps are taken and we make that determination, we would expect you to suspend distribution of your test, and we may request that you take additional actions to protect the public health as appropriate.
 
 
-# 4,128  2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
+# 4,121  2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
 METADATA
-last updated: 2025-12-26 CT
+last updated: 2026-03-05 by BA
 file_name: 2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
 file_date: 2021-10-13
-title: 2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes
+title: FloodLAMP FDA Correspondence and 10-14 Meeting Notes
 category: regulatory
 subcategory: fl-fda-correspondence
 tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Vady3wfPmepEyRTHuS4lKEK7rVFtmcdi6eJAzaVOEYY
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-13_FloodLAMP%20FDA%20Correspondence%20and%2010-14%20Meeting%20Notes.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1l5xw8MsjT-traijB5RhkrNHsHnK7FhXB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-13_FloodLAMP%20FDA%20Correspondence%20and%2010-14%20Meeting%20Notes.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4128
-words: 2042
+tokens: 4121
+words: 2051
 notes: attachments changed from gdoc version
 summary_short: The email thread documents FDA’s October 2021 interactive review of FloodLAMP’s EUA210582 QuickColor COVID-19 Test, including an FDA request for additional information, a follow-up offer to meet by Zoom, and FloodLAMP’s written response arguing for an amended serial-screening intended use. It captures key feedback from FDA reviewers about open-protocol EUA/designation concerns, the need for acceptable clinical evidence for serial screening, and constraints around reference panels, followed by FDA’s deprioritization/closure letter and FloodLAMP’s appeal for reconsideration. The final exchange confirms FDA understood the intended-use amendment but deemed FloodLAMP’s clinical study inadequate for screening with serial testing, directing FloodLAMP to the updated molecular EUA template or a pre-EUA supplement for study-design feedback.
 
 
 CONTENT
+
 ## 2021-10-13_Email from FDA lead reviewer - Request for Additional Information pdf
 from: Li, Liang &lt;Liang.Li1@fda.hhs.gov&gt;
 to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
@@ -1635,14 +1657,17 @@ FLOODLAMP ARCHIVE FILE PATH FOR ATTACHMENT MARKDOWN FILE: regulatory/fl-fda-corr
 FLOODLAMP ARCHIVE FILE FOR ATTACHMENT - GDRIVE URL:  [2021-10-13_FDA Request for Additional Information.pdf](https://drive.google.com/file/d/1fapKSzKCQz3mCpQfZveqabVI-A6ANSr8)
 
 
-## 2021-10-13\_Email Followup from FDA lead reviewer offering zoom meeting next day
-from:**Li, Liang** &lt;Liang.Li1@fda.hhs.gov&gt;to:"randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
-cc:"Li, Li (CDRH)" &lt;Li.Li2@fda.hhs.gov&gt;,
+## 2021-10-13_Email Followup from FDA lead reviewer offering zoom meeting next day
+from: **Li, Liang** &lt;Liang.Li1@fda.hhs.gov&gt;
+to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
+cc: "Li, Li (CDRH)" &lt;Li.Li2@fda.hhs.gov&gt;,
 "Schlottmann, Silke" &lt;Silke.Schlottmann@fda.hhs.gov&gt;,
 "Roth, Kristian" &lt;Kristian.Roth@fda.hhs.gov&gt;,
 "Post, Justin" &lt;Justin.Post@fda.hhs.gov&gt;,
 "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;
-date:Oct 13, 2021, 10:15 AMsubject:EUA210582-Setting up a meetingsigned-by:fda.hhs.gov
+date: Oct 13, 2021, 10:15 AM
+subject: EUA210582-Setting up a meeting
+signed-by: fda.hhs.gov
 
 Dear Mr. True,
 
@@ -1656,7 +1681,7 @@ Thanks,
 Liang
 
 
-## 2021-10-14\_Zoom Meeting Notes for FloodLAMP and FDA
+## 2021-10-14_Zoom Meeting Notes for FloodLAMP and FDA
 FloodLAMP: Randy True (CEO), Anne Wyllie (Advisor)
 
 FDA: Liang Li, Silke Schlottmann, Kris Roth
@@ -1682,7 +1707,7 @@ FDA: Liang Li, Silke Schlottmann, Kris Roth
 - Agreed FloodLAMP would provide written response by Oct 20
 
 
-## 2021-10-20\_Email from FloodLAMP - Reply to FDA Additional Information Request
+## 2021-10-20_Email from FloodLAMP - Reply to FDA Additional Information Request
 from: Randy True &lt;randy@floodlamp.bio&gt;
 to: "Li, Liang" &lt;Liang.Li1@fda.hhs.gov&gt;
 cc: "Schlottmann, Silke" &lt;Silke.Schlottmann@fda.hhs.gov&gt;,
@@ -1732,8 +1757,8 @@ FLOODLAMP ARCHIVE FILE PATH FOR ATTACHMENT MARKDOWN FILE: regulatory/fl-fda-subm
 FLOODLAMP ARCHIVE FILE FOR ATTACHMENT - GDRIVE URL:  [2021-03-22_EUA Sub Supporting Data - FloodLAMP EasyPCR COVID-19 Test](https://docs.google.com/spreadsheets/d/1kmo5uzHk0_XLr2USMpalTUCzatXR2brmBFam80uJ_5k)
 
 
-## 2021-10-21\_Email from FDA lead reviewer - Final Decision
-from: Li, Liang &lt;[<u>Liang.Li1@fda.hhs.gov</u>](mailto:Liang.Li1@fda.hhs.gov)&gt;
+## 2021-10-21_Email from FDA lead reviewer - Final Decision
+from: Li, Liang &lt;[Liang.Li1@fda.hhs.gov](mailto:Liang.Li1@fda.hhs.gov)&gt;
 to: "randy@floodlamp.bio" &lt;randy@floodlamp.bio&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,
 "Post, Justin" &lt;Justin.Post@fda.hhs.gov&gt;,
@@ -1747,7 +1772,7 @@ subject: Final Decision for EUA210582 Request – letter attached
 
 Dear Mr. True,
 
-The additional information you provided does not demonstrate that your device is adequately validated for its intended use. Please see attached letter regarding your EUA request, EUA210582. This is the final decision on your EUA request, and your EUA is now closed. For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s <u>[FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).</u>
+The additional information you provided does not demonstrate that your device is adequately validated for its intended use. Please see attached letter regarding your EUA request, EUA210582. This is the final decision on your EUA request, and your EUA is now closed. For additional information on FDA's priorities with respect to review of EUA requests for COVID-19 tests, see our website’s [FAQs on Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/faqs-testing-sars-cov-2#5f9fefc60116f).
 
 Please confirm receipt of this email and attached letter.
 
@@ -1779,7 +1804,7 @@ Donald J. St.Pierre
 
 Deputy Director, New Product Evaluation
 
-## 2021-10-28\_Email from FloodLAMP - Reply to Final Decision
+## 2021-10-28_Email from FloodLAMP - Reply to Final Decision
 Randy True &lt;randy@floodlamp.bio&gt;
 to: "Li, Liang" &lt;Liang.Li1@fda.hhs.gov&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,
@@ -1811,7 +1836,7 @@ Best Regards,
 Randy
 
 
-## 2021-10-29\_Email from FDA lead reviewer - Reply regarding Deprioritization
+## 2021-10-29_Email from FDA lead reviewer - Reply regarding Deprioritization
 from: Li, Liang &lt;Liang.Li1@fda.hhs.gov&gt;
 to: Randy True &lt;randy@floodlamp.bio&gt;
 cc: "EUA210582@docs.fda.gov" &lt;EUA210582@docs.fda.gov&gt;,
@@ -1847,9 +1872,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1T1xco5NCe0F8GF84JqVZ0hDyBO0HsG-wbZ-66ezg14I
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/fl-fda-correspondence/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1bE4JczPKTYLpuhhQQNdIak5K6_31yudU
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-subs/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/fl-fda-correspondence/2021-10-20_Response%20to%20FDA%20re%20QuickColor%20-%20EUA210582%2010-13.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1904,5 +1929,3 @@ The positive control material was validated with PCR, routinely measuring in the
 
 ## 6. RUO Reagents
 We will qualify specific lots of RUO reagents and post the lot numbers.
-
-# ===== END OF FILE _archive-combined-files_fl-fda-correspondence_44k.md =====

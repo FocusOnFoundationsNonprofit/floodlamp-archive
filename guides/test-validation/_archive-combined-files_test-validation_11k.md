@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105721
+file_name: _archive-combined-files_test-validation_11k.md
+category: guides
+subcategory: test-validation
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_test-validation_11k (3 files, 11,051 tokens)
+
+# 1,195  _context-commentary_guides-test-validation.md
+METADATA
 last updated: 2026-02-17 RT
 file_name: _context-commentary_guides-test-validation.md
 category: guides
@@ -573,5 +588,3 @@ _photo showing Room Temperature Box, Inactivation & Assay Box (-dry ice), and Po
 email: randy@floodlamp.bio		phone: 415-269-2974
 
 ## Notes and Suggestions
-
-# ===== END OF FILE _archive-combined-files_test-validation_11k.md =====

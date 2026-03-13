@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 628
-words: 383
+tokens: 624
+words: 389
 notes:
 summary_short: The XPRIZE Rapid Covid Testing Field Notes Communications Toolkit encouraged semi-finalist teams to create 60-second selfie video updates ("Field Notes") documenting their progress, with guidance on content format, suggested social media copy, and promotion of the #RapidTesting campaign across XPRIZE social channels.
 

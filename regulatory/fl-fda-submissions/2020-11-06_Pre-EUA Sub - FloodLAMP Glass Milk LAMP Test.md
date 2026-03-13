@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4273
-words: 2263
+tokens: 4342
+words: 2321
 notes: 
 summary_short: The Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test (Nov 6, 2020) is a Molecular Diagnostic Template submission for laboratory use that defines the intended use, measurand, and workflow for a pooled, colorimetric RT-LAMP SARS-CoV-2 test using chemical inactivation plus “glass milk” silica purification for saliva and anterior nares samples in high-complexity CLIA labs. It compiles key regulatory details, validated reagents and prepared solutions, step-by-step procedures, controls, result interpretation criteria, and early performance data (including LoD) to support an EUA pathway for asymptomatic screening and pooling.
 

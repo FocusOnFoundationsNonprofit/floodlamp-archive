@@ -15,8 +15,8 @@ pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 264
-words: 201
+tokens: 302
+words: 193
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 9 Results Interpretation spreadsheet defines how assay results are interpreted based on combinations of batch positive/negative controls, SARS-CoV-2 target results, and human internal control (RNaseP) results, including rules for reporting findings of potential clinical significance, invalid samples, and batch failures.
 

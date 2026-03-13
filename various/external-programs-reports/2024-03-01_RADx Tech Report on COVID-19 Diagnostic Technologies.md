@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
-tokens: 2982
+tokens: 2970
 words: 2269
 notes:
 summary_short: The RADx Tech March 2024 report summarizes NIH/NIBIB’s Rapid Acceleration of Diagnostics program, describing its stage-gated “innovation funnel,” ITAP collaboration with FDA, and partnerships used to validate, authorize, and scale COVID-19 tests. It highlights program outcomes (e.g., dozens of EUAs, billions of tests/test products enabled, and major shifts to at-home/POC testing) and outlines ongoing expansion into multiplex and accessibility-focused diagnostics for future public health needs.

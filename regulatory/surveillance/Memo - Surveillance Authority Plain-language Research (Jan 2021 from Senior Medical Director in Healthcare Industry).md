@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
-tokens: 744
-words: 449
+tokens: 713
+words: 447
 notes:
 summary_short: The plain-language CMS/FDA overview summarizes how “surveillance” COVID-19 testing is described in FDA guidance as population-level monitoring that FDA generally does not regulate, and explains conditions under which individual results may be returned if presumptive positives are routed to confirmatory testing in a CLIA-certified laboratory. It also cites CMS’s temporary enforcement discretion under CLIA for certain SARS-CoV-2 surveillance testing workflows, especially where non-CLIA facilities do not report definitive results but instead refer presumptive positives or inconclusives to a CLIA lab. It frames these points as a non-legal explanatory digest of agency guidance and notes that public health authorities may have additional powers to support population safety efforts.
 

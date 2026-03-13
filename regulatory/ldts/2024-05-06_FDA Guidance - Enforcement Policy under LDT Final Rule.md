@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
-tokens: 2736
-words: 1750
+tokens: 2717
+words: 1737
 notes: 
 summary_short: The FDA Federal Register notice (published May 6, 2024) announces a draft guidance on an enforcement policy allowing certain laboratory manufacturers to offer validated, unauthorized “immediate response” in vitro diagnostic tests for CBRN threats when no section 564 EUA declaration is in place. It explains the conditions for this enforcement discretion—validation, FDA notification, transparency, prescription-only labeling, and use during the emergent window between detection and resolution or issuance of a 564 declaration—against the backdrop of FDA’s phaseout of general LDT enforcement discretion under the LDT Final Rule.
 

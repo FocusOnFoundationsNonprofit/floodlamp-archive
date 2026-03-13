@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse-u
 license: public domain
-tokens: 948
-words: 699
+tokens: 1012
+words: 749
 notes: 
 summary_short: The CMS CLIA “SARS-CoV-2 Variant Testing” FAQ (3/19/2021) outlines when sequencing-based surveillance for genetic variants can be done without a CLIA certificate, so long as results are not reported to individuals or their health care providers and are not used for individual decision-making. It describes CMS’s temporary enforcement discretion allowing non-CLIA facilities (and certain CLIA labs) to report patient-specific variant results to state/local public health departments for public health uses like outbreak detection and contact tracing. It also clarifies that if variant results are intended for diagnosis, prevention, treatment, or health assessment, testing must be performed in a CLIA-certified lab in compliance with CLIA requirements (including performance specifications expectations).
 

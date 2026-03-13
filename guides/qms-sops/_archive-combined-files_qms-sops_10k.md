@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_qms-sops_10k.md
+category: guides
+subcategory: qms-sops
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_qms-sops_10k (8 files, 9,651 tokens)
+
+# 737  _context-commentary_guides-qms-sops.md
+METADATA
 last updated: 2026-02-17 RT
 file_name: _context-commentary_guides-qms-sops.md
 category: guides
@@ -758,5 +773,3 @@ Print Format
 -   **Let samples cool for at least 1 minute before taking photo**
 -   **Crop and apply vivid filter**
 -   **Log Amp Run Form with QR code link**
-
-# ===== END OF FILE _archive-combined-files_qms-sops_10k.md =====

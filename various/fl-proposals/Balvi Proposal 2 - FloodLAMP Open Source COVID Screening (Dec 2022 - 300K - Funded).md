@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 5052
-words: 2875
+tokens: 4512
+words: 2735
 notes: has html table instead of pipe md for deliverables
 summary_short: The December 6, 2022 Balvi proposal outlines FloodLAMP’s plan to scale open-source, decentralized infectious disease screening built around extraction-free LAMP testing, self-pooled swab collection, and supporting digital tools, emphasizing decentralization, low cost, and open-protocol regulatory pathways. It summarizes 11 pilot programs (including municipal EMS and school deployments) and requests Balvi funding to open source program materials, publish pilot data, and run clinical studies to support future FDA EUA submissions. It also provides company background, partnerships (notably NEB and SalivaDirect), an IP and licensing approach, and a brief Q&A on licensing intentions and expected funding decision timing.
 

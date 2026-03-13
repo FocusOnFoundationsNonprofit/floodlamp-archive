@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 10208
-words: 6078
+tokens: 15555
+words: 8581
 notes: 
 summary_short: The EUA Submission draft for the FloodLAMP QuickFluor COVID-19 Test (not submitted) describes an extraction-free, fluorimetric RT-LAMP assay using ORF1ab/N/E primer sets and real-time fluorescence readout on validated RT-PCR instruments (e.g., QuantStudio 7 Pro and Bio-Rad CFX96). It specifies the sample inactivation workflow, reaction setup, controls, and result interpretation criteria, along with proposed “open source” component sourcing for CLIA high-complexity labs. It summarizes stated performance claims including a 50,000 copies/mL LoD and clinical agreement results (80% positive agreement, 100% negative agreement) from an 80-specimen evaluation.
 

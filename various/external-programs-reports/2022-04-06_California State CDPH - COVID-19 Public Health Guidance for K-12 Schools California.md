@@ -16,8 +16,8 @@ web_url: https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/K-12-Guidance-
 conversion_input_file_type: 
 conversion: manual copy and paste
 license: Public Domain
-tokens: 3761
-words: 2784
+tokens: 3760
+words: 2783
 notes:
 summary_short: California Department of Public Health guidance for K-12 schools during the 2021-22 school year, providing comprehensive safety measures including masking recommendations, physical distancing, ventilation, testing, isolation protocols, and extracurricular activity guidelines to maintain safe in-person instruction during the COVID-19 pandemic.
 

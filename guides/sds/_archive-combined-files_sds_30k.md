@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_sds_30k.md
+category: guides
+subcategory: sds
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_sds_30k (7 files, 30,046 tokens)
+
+# 10,048  _AI_Waste Disposal and Risk Assessment.md
+METADATA
 last updated: 2026-02-17 RT initial creation
 file_name: _AI_Waste Disposal and Risk Assessment.md
 file_date: 2026-02-17
@@ -2272,5 +2287,3 @@ Phone: 1-415-216-8966
 
 **Other Information:**  
 Information provided herein is believed to be correct but is not deemed to be all inclusive and should only be used as a guide. Twist Bioscience should not be held liable for any damage resulting from handling or from contact with the above product.
-
-# ===== END OF FILE _archive-combined-files_sds_30k.md =====

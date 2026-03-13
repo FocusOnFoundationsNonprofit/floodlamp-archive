@@ -16,7 +16,7 @@ conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 2146
-words: 1286
+words: 1287
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 8 Results spreadsheet provides test data from multiple experimental runs including blinded real saliva samples spiked with ZeptoMetrix inactivated virions, Twist RNA limit-of-detection runs at 2mL volume, and real nasal/saliva sample screening, all using As1e and N2 combined primer sets with visual binary readout.
 

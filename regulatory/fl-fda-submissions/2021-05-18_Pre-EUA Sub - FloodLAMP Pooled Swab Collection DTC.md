@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 5822
-words: 4092
+tokens: 5817
+words: 4093
 notes: 
 summary_short: The Pre-EUA submission for the FloodLAMP Pooled Swab Collection Kit DTC outlines an unsupervised, direct-to-consumer system for pooling 1–4 dry anterior nasal swabs for SARS-CoV-2 testing at designated CLIA high-complexity laboratories. It describes the kit components, ordering/registration and accessioning workflows (including optional use of the FloodLAMP Mobile App for pooling, identity, and results delivery), and planned usability and stability/rehydration validation for use with authorized molecular tests. It frames intended use for asymptomatic screening programs and specifies reporting, labeling, manufacturing, and recordkeeping expectations for an EUA pathway.
 

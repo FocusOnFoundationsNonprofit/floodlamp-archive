@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 12223
-words: 7571
+tokens: 17554
+words: 10085
 notes: 
 summary_short: The FloodLAMP QuickColor COVID-19 Test Instructions for Use v1.2 (draft) provides updated procedures for an extraction-free, colorimetric RT-LAMP assay with visual interpretation (including photo-based review) for routine weekly screening in CLIA high-complexity labs. It details reagents, primer preparation, inactivation and amplification steps, controls, and revised guidance for handling inconclusive results using a triplicate repeat and defined result-mapping rules. It also summarizes analytical and clinical performance claims consistent with prior versions, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen evaluation.
 

@@ -6,6 +6,7 @@ title: NEB Podcast - Interview with Brian Rabe
 category: various
 subcategory: lamp-tech
 tags: 
+youtube_url: https://youtu.be/bWremc4pF78
 source_file_type: webcopy
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/14JEzr15AC_QaYt7iNdpULujpX4rAVpq6oMsxNPUmw4I
@@ -15,11 +16,10 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: manual cut and paste
 license: 3rd Party
-tokens: 4595
-words: 3319
+tokens: 4575
+words: 3307
 notes: date converted 2025-12-19
 web_url: https://www.neb.com/en/podcasts/podcast-25-covid-19-researcher-spotlight-series?srsltid=AfmBOorT4BJTXC_r08h0xFUCLiTd4AR2ZrXd6BqHlrPUlkoMp3OhjHeN
-link_youtube: https://youtu.be/bWremc4pF78
 audio_file_name: 2020-06-17_NEB Podcast - Interview with Brian Rabe.mp3
 summary_short: The NEB “Lessons from Lab and Life” Podcast #25 transcript captures an interview with Harvard Medical School PhD candidate Brian Rabe about developing a rapid, low-equipment RT-LAMP assay for SARS-CoV-2, including primer design, colorimetric pH-based readout, and sample prep approaches like HUDSON. It highlights practical testing workflows using contrived samples (swabs and saliva), sensitivity benchmarks, and ideas for deploying accessible diagnostics outside traditional labs (e.g., pop-up or at-home style testing).
 

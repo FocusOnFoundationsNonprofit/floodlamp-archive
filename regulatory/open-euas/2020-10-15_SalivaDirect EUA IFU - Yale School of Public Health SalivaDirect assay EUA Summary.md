@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
-tokens: 5295
-words: 3262
+tokens: 5102
+words: 3161
 notes: 
 summary_short: The SalivaDirect EUA Summary (updated Oct. 15, 2020) outlines Yale’s extraction-free saliva RT-qPCR test authorized for use only in CLIA high-complexity laboratories designated by Yale, including the intended use, workflow, validated instruments, and detailed reagent/vendor options to support supply-chain flexibility. It provides control requirements, result interpretation criteria, and performance data including LoD studies across multiple reagent and instrument combinations and a paired clinical comparison showing high positive agreement with an authorized comparator.
 

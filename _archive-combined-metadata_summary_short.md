@@ -1,15 +1,15 @@
-# ===== START OF FILE _archive-combined-metadata_summary_short.md (31,523 tokens) =====
+# ===== START OF FILE _archive-combined-metadata_summary_short.md (31,589 tokens) =====
 combined metadata fields: summary_short
-last updated: 2026-03-05_200102
+last updated: 2026-03-13_062702
 
-# guides (46 files, 111,244 tokens)
+# guides (46 files  -  111,257 tokens)
 
-## manufacturing (6 files, 9,024 tokens)
+## manufacturing (6 files  -  9,037 tokens)
 
 ### 3,429  _AI_Reagent Concentrations.md
 The FloodLAMP Reagent Concentrations Reference provides final concentrations and verification calculations for all key FloodLAMP assay reagents: 100X Inactivation Solution (TCEP 0.25M, EDTA 0.1M, NaOH 1.15N), Primer-Guanidine Solution (primers 2.38X, guanidine-HCl 95.2mM), 1X Inactivation Saline Solution (TCEP 2.5mM, EDTA 1.0mM, NaCl ~153mM), CLAMP Reaction Mix composition, and Twist Positive Control dilution series. Concentrations are derived from manufacturing SOPs, process flow diagrams, and cost models in the archive with full calculation work shown.
 
-### 1,958  Assay and Reagent Manufacturing Diagrams.md
+### 1,971  Assay and Reagent Manufacturing Diagrams.md
 The FloodLAMP Assay and Reagent Manufacturing Diagrams is a 19-slide presentation containing process flow diagrams for all key reagent manufacturing and assay workflows. It covers the FloodLAMP Direct RNA Assays (QuickColor LAMP and EasyPCR) at 48- and 96-reaction scales, validation first-run setup, gamma contrived positive preparation, 100X Inactivation Solution manufacturing (standard and XL batches), 1X Inactivation Saline Solution preparation, Twist Positive Control aliquoting, Gamma Blue and 10K dilution series, Primer-Guanidine Solution (PGS) batching, colorimetric CLAMP assay setup, 5X PCR primer preparation, and PCR assay reaction mix preparation.
 
 ### 1,444  SOP-201-A_2 PGS48 Manufacturing - Run Form.md
@@ -24,7 +24,7 @@ The FloodLAMP QMS SOP-301 is a verification run form for testing PGS48 (Primer-G
 ### 499  SOP-302 100XIS Verification - Run Form.md
 The FloodLAMP QMS SOP-302 is a verification run form for testing 100X Inactivation Solution (100XIS) batches via CLAMP amplification. It covers preparation steps including CLAMP MM volume calculation and 1XISS setup, followed by a standard Amp Run Sheet Short with amplification procedures (65°C for 25 min), positive/negative control handling, imaging, and result logging. The form includes write-in fields for heater IDs, reagent lots, reaction counts, and operator documentation.
 
-## operations (3 files, 24,618 tokens)
+## operations (3 files  -  24,618 tokens)
 
 ### 11,317  Cost Model - FloodLAMP.md
 The FloodLAMP Cost Model spreadsheet provides detailed cost-of-goods-sold (COGS) analysis for the pooled LAMP-based SARS-CoV-2 screening assay, broken down by reagents (primers, inactivation solution, NEB LAMP master mix), consumables (plastics, tips), collection kits, and labor at various production scales (50K to 1M reactions). It includes supplementary sheets for inactivation/binding solution chemistry costs, primer synthesis pricing, solution preparation recipes, NEB OEM master mix volume pricing, throughput modeling, and example school screening project economics.
@@ -35,7 +35,7 @@ The FloodLAMP Inventory Dashboard (Updated August 2022) tracks all supplies, rea
 ### 1,630  LAMP Primers UPDATED 12-17-2020.md
 The FloodLAMP LAMP Primers list (updated 12/17/2020) specifies SARS-CoV-2 and human internal control primer sets derived from the Rabe–Cepko protocol, including sequences, mix concentrations, and ordering/handling notes (HPLC purification, resuspension, packaging, and minimum order quantities). It provides premix targets for 30X stock solutions for ORF1ab (AS1e), E gene (E1), N gene (N2), and human controls (RNaseP and ACTB) to support standardized assay preparation and procurement.
 
-## qms-sops (7 files, 5,627 tokens)
+## qms-sops (7 files  -  5,627 tokens)
 
 ### 592  SOP-030-A_1 Shipping - Run Form.md
 The FloodLAMP QMS SOP-030-A_1 “Shipping - Run Form” is a step-by-step checklist and fill-in template for preparing, labeling, and sending shipments to sites, including inventory/lot and serial tracking and packing list creation. It standardizes the workflow from prep and documentation through carrier label/insurance handling and pickup/dropoff, then follow-up confirmation emails and logging the shipment run.
@@ -58,7 +58,7 @@ The FloodLAMP QMS SOP-105-A_1 QuickColor Test Diagrams provides step-by-step dia
 ### 679  SOP-105-B_1 QuickColor Test Signage.md
 The FloodLAMP QMS SOP-105-B_1 QuickColor Test Signage is a print-ready, step-by-step bench guide for running the QuickColor assay from sample intake through reporting results. It summarizes key workflow actions and parameters, including 1XISS dilution ratios, inactivation heating/cooling times for water bath or dry heat block, reaction mix component volumes for common reaction counts, and 65 °C amplification timing. The signage also highlights contamination-control reminders (cleaning tubes, one tube open at a time) and imaging/logging instructions for reporting.
 
-## sds (6 files, 26,906 tokens)
+## sds (6 files  -  26,906 tokens)
 
 ### 10,048  _AI_Waste Disposal and Risk Assessment.md
 The FloodLAMP Waste Disposal and Risk Assessment Analysis provides a chemical-by-chemical evaluation of whether FloodLAMP's testing reagents and waste streams constitute hazardous waste under federal RCRA and state regulations (California, Florida, Texas), reviews the 2022 biological risk assessment commissioned by FloodLAMP, and reviews the use-FMEA (uFMEA, SOP-004-B) document. Key findings: working-concentration solutions (1XISS, reaction mixes, PGS) are not hazardous waste; concentrated 100XIS stock may trigger RCRA D002 corrosivity due to NaOH; biological waste classification under state medical waste regulations is the primary regulatory concern.
@@ -78,7 +78,7 @@ The Safety Data Sheet for TCEP (tris(2-carboxyethyl)phosphine hydrochloride, CAS
 ### 1,507  SDS - Twist Synthetic SARS-CoV-2 RNA Control Rev7 001038v7.md
 The Safety Data Sheet for Twist Synthetic SARS-CoV-2 RNA Control describes a non-hazardous research-use reagent consisting of ≤1% RNA in TE buffer. It outlines prudent lab handling, first aid, spill cleanup, PPE recommendations, and storage at −80 °C. The sheet notes no transport restrictions and emphasizes disposal per local regulations and standard laboratory practices for materials of unknown toxicity.
 
-## software (3 files, 3,204 tokens)
+## software (3 files  -  3,204 tokens)
 
 ### 250  Adding Minors In the FloodLAMP App - Instructions.md
 The “Instructions for Adding Minors In the FloodLAMP App” guide explains how an account holder signs consent in the FloodLAMP App, adds minors to their profile using the minor’s name and birth date, and completes minor consent. It also shows how linked minors appear under the household account in the Collection screen so they can be selected as participants when collecting sample tubes for testing.
@@ -89,7 +89,7 @@ The FloodLAMP Guide – Admin Web Portal (WIP) explains how program administrato
 ### 1,351  Guide - Mobile App (Staff).md
 The Mobile App Guide for Test Site Staff explains how staff use the FloodLAMP mobile app to move sample tubes through Intake, Process, and Results, including creating or adding to batches and updating tube statuses from “Collected” through “AMP.” It also covers how to enter final results (after any reruns), pull non-negative tubes out of a batch for separate resulting, and notify program administrators (with participant notifications noted as globally disabled for surveillance guidance).
 
-## test-site (16 files, 14,016 tokens)
+## test-site (16 files  -  14,016 tokens)
 
 ### 1,272  Abrome Site Checklists INTERNAL COPY BEFORE SHARING.md
 Provides the complete operational checklists for running FloodLAMP surveillance tests at testing sites, covering daily test procedures (equipment warm-up, reagent verification, sample processing, result communication), weekly maintenance, and ongoing lab readiness standards. It standardizes the testing workflow to ensure accurate results, proper reagent handling, and timely follow-up on positive/inconclusive pools. This was introduced at the pilot site Abrome.
@@ -139,7 +139,7 @@ The Test Site Checklist – Portola provides daily, weekly, and site-readiness c
 ### 538  Surveillance Program Results Communications Guidelines.md
 The Surveillance Program Results Communications Guidelines provides approved language for staff to communicate COVID surveillance screening outcomes without giving patient-specific diagnostic results, covering both pooled and non-pooled testing. It includes templates and talking points for notifying sponsors and organizations about positives or inconclusives and referring participants for follow-up diagnostic testing.
 
-## test-training (3 files, 18,960 tokens)
+## test-training (3 files  -  18,960 tokens)
 
 ### 1,773  CRTT Moodle and EdPuzzle Guide.md
 The Covid Rapid Test Training (CRTT) Moodle and EdPuzzle Guide outlines how to administer FloodLAMP’s v1 training program in Moodle Cloud and EdPuzzle, including user enrollment, course setup, content creation, activity completion settings, and reporting. It helps training staff maintain a consistent learner experience and troubleshoot common integration issues when building or copying courses.
@@ -150,7 +150,7 @@ The “Test Training - Certification Run Assessment v1.1” is a pass/fail evalu
 ### 16,043  Test Training Video Transcripts.md
 FloodLAMP Test Training Video Transcripts compile the narrated walkthroughs for the QuickColor testing workflow, including safety/PPE, contamination control (RNAse, positive control, sample cross-contamination, and amplicon “post-amp” handling), and the end-to-end run process from 1X inactivation saline prep through resulting, app intake, and run logging. The transcripts also cover scale-up procedures (clean/dispense, large-batch inactivation) and plate-based processing, plus setup and cleaning appendices for workspaces, pipettes, and dispensers. They help sites train new operators and standardize repeatable, contamination-resistant runs with consistent documentation.
 
-## test-validation (2 files, 8,889 tokens)
+## test-validation (2 files  -  8,889 tokens)
 
 ### 3,507  2021-03-10_Clinical Eval Guide - from FloodLAMP IFU DRAFTS.md
 The Clinical Eval Guide from FloodLAMP IFU drafts outlines step-by-step procedures, reagents, controls, and equipment for clinical evaluation of FloodLAMP COVID-19 PCR, colorimetric LAMP, and fluorimetric LAMP assays. It standardizes sample inactivation, amplification setup, and control handling to support consistent clinical testing and regulatory review.
@@ -158,9 +158,9 @@ The Clinical Eval Guide from FloodLAMP IFU drafts outlines step-by-step procedur
 ### 5,382  FloodLAMP Test Validation Guide v1.0.md
 The FloodLAMP Test Validation Guide v1.0 outlines the validation workflow for the QuickColor and EasyPCR COVID-19 assays, including required equipment, kit reagents/supplies, inactivation and amplification procedures, and control/result interpretation criteria. It summarizes key performance metrics (LoD, clinical sensitivity/specificity) and defines two validation runs (controls-only and contrived-positive LoD series) to standardize qualification and troubleshooting across sites.
 
-# pilots (17 files, 79,131 tokens)
+# pilots (17 files  -  79,131 tokens)
 
-## pilot-data (17 files, 79,131 tokens)
+## pilot-data (17 files  -  79,131 tokens)
 
 ### 505  2021-12-28_Case Report - Randy.md
 FloodLAMP Case Report for FloodLAMP founder Randy True documenting a COVID-19 infection from likely exposure on 2021-12-13 through recovery on 2021-12-28, tracking daily FloodLAMP QuickColor LAMP and BinaxNow antigen test results alongside symptom progression, showing first positive on Day 0 (2021-12-18) and return to negative on Day 9 (2021-12-27).
@@ -213,14 +213,14 @@ Rosa (ROSA) was a TV production FloodLAMP supported pilot program in Davie, FL, 
 ### 9,387  aggregate_pilot-data_summary.md
 Aggregate FloodLAMP pilot data summary across all sites. Total tubes run: 16715; Total positive tubes: 889; Total participants: 37200; Date range: 2020-12-07 to 2023-06-04.
 
-# regulatory (113 files, 850,822 tokens)
+# regulatory (113 files  -  888,161 tokens)
 
-## fda-euas (1 files, 44,009 tokens)
+## fda-euas (1 files  -  44,009 tokens)
 
 ### 44,009  2020-12-01_CDC EUA IFU - CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel.md
 The CDC “2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel” EUA Instructions for Use detail how CLIA high-complexity laboratories perform, analyze, and report the CDC N1/N2/RP RT-PCR assay for SARS-CoV-2 across authorized respiratory specimen types. It provides end-to-end workflows for reagent prep, nucleic acid extraction options, ABI 7500 Fast Dx run setup, controls/interpretation rules, and performance characteristics (including LoD and specificity). It also includes appendices for heat-treatment as an extraction alternative and for pooled testing (up to 4 specimens) with guidance on implementation and ongoing monitoring.
 
-## fda-policy (47 files, 286,088 tokens)
+## fda-policy (47 files  -  286,088 tokens)
 
 ### 2,610  2020-02-29_FDA Guidance - COVID IVD Test Developers v1.md
 The FDA Guidance for COVID-19 IVD Test Developers v1 establishes an accelerated policy allowing CLIA-certified high-complexity laboratories to develop, validate, and use SARS-CoV-2 molecular diagnostic tests prior to Emergency Use Authorization during the early public health emergency. It outlines minimum expectations for validation, FDA notification, result reporting, and EUA submission while permitting temporary clinical use to rapidly expand testing capacity. This guidance shaped early laboratory testing practices by balancing speed with basic analytical and clinical safeguards.
@@ -363,54 +363,54 @@ The In Vitro Diagnostics EUAs page explains FDA’s COVID-19 IVD EUA framework a
 ### 6,657  FDA SARS-CoV-2 Reference Panel Comparative Data - Complied by Matt McFarlane.md
 The FDA SARS-CoV-2 Reference Panel Comparative Data spreadsheet compiles EUA-reported LoDs and FDA reference panel LoDs for many authorized molecular tests, enabling side-by-side comparison of relative analytical sensitivity across developers and platforms. It includes test names, developers, notes on data-release wave and versioning caveats, and a calculated FDA/EUA LoD ratio to highlight discrepancies between EUA-submitted LoD claims and reference-panel results.
 
-## fl-fda-submissions (15 files, 142,566 tokens)
+## fl-fda-submissions (15 files  -  180,141 tokens)
 
-### 4,273  2020-11-06_Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test.md
+### 4,342  2020-11-06_Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test.md
 The Pre-EUA Sub - FloodLAMP Glass Milk LAMP Test (Nov 6, 2020) is a Molecular Diagnostic Template submission for laboratory use that defines the intended use, measurand, and workflow for a pooled, colorimetric RT-LAMP SARS-CoV-2 test using chemical inactivation plus “glass milk” silica purification for saliva and anterior nares samples in high-complexity CLIA labs. It compiles key regulatory details, validated reagents and prepared solutions, step-by-step procedures, controls, result interpretation criteria, and early performance data (including LoD) to support an EUA pathway for asymptomatic screening and pooling.
 
 ### 9,057  2021-03-22_EUA Submission - FloodLAMP EasyPCR COVID-19 Test v1.0.md
 The EUA Submission for the FloodLAMP EasyPCR COVID-19 Test v1.0 details an extraction-free, duplex RT-qPCR assay for qualitative SARS-CoV-2 detection in upper respiratory swab specimens, including proposed intended use for routine weekly screening in asymptomatic individuals. It specifies the CDC N1 and RNaseP targets, validated instruments, sample inactivation workflow, controls and interpretation criteria, and manufacturing/sourcing assumptions for an “open source” CLIA high-complexity lab deployment. It summarizes analytical and clinical performance claims including a 3,100 copies/mL LoD and clinical agreement results from an 80-specimen evaluation.
 
-### 10,870  2021-03-22_EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.0.md
+### 16,270  2021-03-22_EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.0.md
 The EUA Submission for the FloodLAMP QuickColor COVID-19 Test v1.0 describes an extraction-free, colorimetric RT-LAMP assay for qualitative SARS-CoV-2 detection using a visual pink-to-yellow readout and no specialized instrumentation. It details intended use for weekly screening of symptomatic and asymptomatic individuals, primer design targeting three viral genes, sample inactivation workflow, controls, and interpretation criteria for CLIA high-complexity labs. It reports analytical and clinical performance including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 
-### 13,973  2021-03-22_Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.0.md
+### 13,972  2021-03-22_Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.0.md
 The Instructions for Use for the FloodLAMP EasyPCR COVID-19 Test v1.0 provides CLIA high-complexity labs with the full workflow for an extraction-free, duplex RT-qPCR assay using CDC N1 and RNaseP targets after TCEP-based chemical plus heat inactivation. It specifies required reagents and equipment, contamination controls, instrument setup/templates, step-by-step plate and run procedures, and Ct-based result interpretation with control acceptance criteria. It also summarizes stated analytical/clinical performance (including a 3,100 copies/mL LoD and 97.5%/100% agreement in an 80-specimen evaluation) and required reporting/recordkeeping under EUA conditions.
 
-### 12,087  2021-03-22_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.0.md
+### 17,430  2021-03-22_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.0.md
 The Instructions for Use for the FloodLAMP QuickColor COVID-19 Test v1.0 provides CLIA high-complexity laboratories with the complete protocol for an extraction-free, colorimetric RT-LAMP assay with visual readout after chemical and heat inactivation. It details required reagents and equipment, primer preparation, step-by-step testing workflow, control requirements, result interpretation by color change, and contamination precautions. It also documents analytical and clinical performance claims, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen evaluation.
 
-### 10,208  2021-03-26_EUA Submission - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED.md
+### 15,555  2021-03-26_EUA Submission - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED.md
 The EUA Submission draft for the FloodLAMP QuickFluor COVID-19 Test (not submitted) describes an extraction-free, fluorimetric RT-LAMP assay using ORF1ab/N/E primer sets and real-time fluorescence readout on validated RT-PCR instruments (e.g., QuantStudio 7 Pro and Bio-Rad CFX96). It specifies the sample inactivation workflow, reaction setup, controls, and result interpretation criteria, along with proposed “open source” component sourcing for CLIA high-complexity labs. It summarizes stated performance claims including a 50,000 copies/mL LoD and clinical agreement results (80% positive agreement, 100% negative agreement) from an 80-specimen evaluation.
 
-### 15,131  2021-03-26_Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED.md
+### 20,466  2021-03-26_Instructions for Use - FloodLAMP FLAMP COVID-19 Test NOT SUBMITTED.md
 The draft Instructions for Use for the FloodLAMP QuickFluor COVID-19 Test describe an extraction-free, fluorimetric RT-LAMP assay with real-time fluorescence detection on RT-PCR instruments following chemical and heat inactivation. It provides detailed procedures for reagent and primer preparation, instrument setup, workflow execution, controls, and Ct-based result interpretation for CLIA high-complexity laboratories. It also documents proposed analytical and clinical performance, including a 50,000 copies/mL LoD and 80–85% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation, for a test that was not submitted for EUA.
 
 ### 8,979  2021-05-18_EUA Submission - FloodLAMP EasyPCR COVID-19 Test v1.1.md
 The EUA Submission for the FloodLAMP EasyPCR COVID-19 Test v1.1 describes an extraction-free, duplex RT-qPCR assay using CDC N1 and RNaseP targets after chemical plus heat inactivation, designed for CLIA high-complexity labs running routine screening programs (e.g., schools and workplaces) with at least weekly testing. It details intended use, validated instruments, workflow, controls, and component sourcing for an open-protocol deployment. It summarizes performance claims including a 3,100 copies/mL LoD and 97.5% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 
-### 10,743  2021-05-18_EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.1.md
+### 16,140  2021-05-18_EUA Submission - FloodLAMP QuickColor COVID-19 Test v1.1.md
 The EUA Submission for the FloodLAMP QuickColor™ COVID-19 Test v1.1 describes an extraction-free RT-LAMP, colorimetric assay for qualitative SARS-CoV-2 RNA detection from upper respiratory swab specimens in both symptomatic individuals and routine serial screening programs. It details intended use, primer targets (ORF1ab, N, E), workflow and controls, manufacturing inputs, and analytical/clinical performance data to support an FDA Emergency Use Authorization request.
 
 ### 14,252  2021-05-18_Instructions for Use - FloodLAMP EasyPCR COVID-19 Test v1.1.md
 The Instructions for Use for the FloodLAMP EasyPCR COVID-19 Test v1.1 provides CLIA high-complexity labs with the complete protocol for an extraction-free, duplex RT-qPCR assay (CDC N1 + RNaseP) used in routine screening programs with at least weekly testing. It details required reagents and equipment, inactivation and amplification workflows, instrument template setup, data export/compilation, and Ct-based interpretation with control acceptance criteria. It also summarizes stated analytical and clinical performance, including a 3,100 copies/mL LoD and 97.5% positive agreement with 100% negative agreement in an 80-specimen evaluation.
 
-### 12,132  2021-05-18_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.1.md
+### 17,475  2021-05-18_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.1.md
 The Instructions for Use for the FloodLAMP QuickColor COVID-19 Test v1.1 provides CLIA high-complexity laboratories with the complete workflow for an extraction-free, colorimetric RT-LAMP assay with visual result interpretation after chemical and heat inactivation. It details required reagents, primer preparation, step-by-step testing procedures, control requirements, and criteria for interpreting positive, negative, and inconclusive results without specialized instrumentation. It also summarizes analytical and clinical performance, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 
-### 5,822  2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC.md
+### 5,817  2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection DTC.md
 The Pre-EUA submission for the FloodLAMP Pooled Swab Collection Kit DTC outlines an unsupervised, direct-to-consumer system for pooling 1–4 dry anterior nasal swabs for SARS-CoV-2 testing at designated CLIA high-complexity laboratories. It describes the kit components, ordering/registration and accessioning workflows (including optional use of the FloodLAMP Mobile App for pooling, identity, and results delivery), and planned usability and stability/rehydration validation for use with authorized molecular tests. It frames intended use for asymptomatic screening programs and specifies reporting, labeling, manufacturing, and recordkeeping expectations for an EUA pathway.
 
-### 1,498  2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC.md
+### 1,515  2021-05-18_Pre-EUA Sub - FloodLAMP Pooled Swab Collection Kit DTC.md
 The FloodLAMP Pooled Swab Collection Kit DTC instructions describe how up to four people can self-collect anterior nasal swabs into a single barcoded/QR-coded tube, with step-by-step workflows for both a mobile app–guided and non-app version. It explains kit contents, hygiene and swabbing steps, participant association and tube scanning in the app, and how to package and return specimens via collection point or prepaid mailer. It includes EUA-required limitations stating the product is authorized only for home collection/maintenance of anterior nasal swabs for SARS-CoV-2 nucleic acid detection during the active emergency declaration.
 
-### 1,318  2021-05-18_Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic Screening Study.md
+### 1,317  2021-05-18_Pre-EUA Sub - FloodLAMP Proposed Pooling and Asymptomatic Screening Study.md
 The Pre-EUA document outlines proposed validation studies to support swab pooling (up to four swabs) and serial asymptomatic screening claims for the FloodLAMP EasyPCR and QuickColor COVID-19 tests, aligned to FDA pooling/serial testing guidance. It specifies LoD and high-viral-load pooling experiments with replicate counts, acceptance criteria (e.g., ≥95% detection, Ct shift limits, invalid-rate thresholds), and use of inactivated virus controls. It also describes an IRB-approved asymptomatic screening study design using self-collected duplicate anterior nares swabs with a comparator EUA PCR test and app-based consent/kit logistics.
 
-### 12,223  2021-10-01_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.2.md
+### 17,554  2021-10-01_Instructions for Use - FloodLAMP QuickColor COVID-19 Test v1.2.md
 The FloodLAMP QuickColor COVID-19 Test Instructions for Use v1.2 (draft) provides updated procedures for an extraction-free, colorimetric RT-LAMP assay with visual interpretation (including photo-based review) for routine weekly screening in CLIA high-complexity labs. It details reagents, primer preparation, inactivation and amplification steps, controls, and revised guidance for handling inconclusive results using a triplicate repeat and defined result-mapping rules. It also summarizes analytical and clinical performance claims consistent with prior versions, including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen evaluation.
 
-## fl-fda-correspondence (12 files, 36,099 tokens)
+## fl-fda-correspondence (12 files  -  35,844 tokens)
 
 ### 5,839  _AI_FDA Deprioritization of COVID-19 Diagnostic EUAs.md
 FDA CDRH/OHT7 deprioritization of COVID-19 diagnostic EUA submissions -- history, mechanics, emergence as a policy tool, comparison with 510(k) processes, prior emergency precedents, scale (558 EUA requests declined to review by Sept. 2021 per GAO), and independent analyses of transparency, resource constraints, and relationship to Omicron-era testing shortages.
@@ -418,48 +418,48 @@ FDA CDRH/OHT7 deprioritization of COVID-19 diagnostic EUA submissions -- history
 ### 9,443  _AI_FloodLAMP FDA October 2021 Correspondence Analysis.md
 Analysis of FloodLAMP's October 2021 FDA correspondence -- the concentrated sequence of emails, deficiency letter, Zoom meeting (with Anne Wyllie), FloodLAMP's response, and FDA's final deprioritization/closure of EUA210582 for the QuickColor COVID-19 Test. Presents a complete timeline from October 2020 through October 2021, identifies FDA's stated justifications (clinical data gaps, resource triage, deprioritization policy), and offers five interpretive explanations of the FDA's rationale ranging from legitimate resource constraints to structural bias against small/novel entrants, with attention to the Omicron-wave irony five weeks later.
 
-### 739  2020-10-22_Email to FDA CDRH - Request for Guidance.md
+### 736  2020-10-22_Email to FDA CDRH - Request for Guidance.md
 The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outlines FloodLAMP’s pre-EUA request to the FDA for feedback on validating a pooled SARS-CoV-2 RT-LAMP screening program, including proposed pooling levels, turnaround targets, and two assay configurations (fluorimetric and colorimetric) with preliminary LoD data. It’s useful as an early regulatory-facing snapshot of FloodLAMP’s technical approach, intended use in asymptomatic group screening, and the specific guidance and template updates they were seeking to shape an EUA-ready validation plan.
 
-### 383  2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
+### 382  2020-11-10_Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA.md
 The Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA (Nov 10, 2020) is an outreach note requesting a meeting to discuss FloodLAMP’s newly submitted pre-EUA for an ultra-low-cost, LAMP-based SARS-CoV-2 test and how an “open source” EUA model could be expanded beyond SalivaDirect. It highlights key regulatory topics FloodLAMP wanted to align on—especially asymptomatic screening, pooling, and on-site/at-home collection—and proposes forming a consortium of mission-driven developers to produce validated, open-access molecular tests.
 
-### 2,120  2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
+### 2,047  2020-12-09_FloodLAMP FDA Townhall Engagement on Open Source FDA IVD EUAs and Generic Molecular Tests.md
 The “Dialogue on Open Source Testing and FDA IVD Authorization of Generic Molecular Tests” summarizes a December 9, 2020 FDA town hall exchange about using Rights of Reference and “method” EUAs (modeled on SalivaDirect) to enable interoperable, non-proprietary molecular test protocols across laboratories. It outlines how open IVD EUAs could reduce duplicative validation, strengthen supply-chain resilience, and scale testing via a structured lab designation process, positioning FloodLAMP’s strategy to expand this open-access paradigm beyond SalivaDirect.
 
 ### 716  2021-03-22_Cover Letter to FDA - FloodLAMP Open Source EUA Submissions.md
 The Cover Letter to FDA for FloodLAMP Open Source EUA Submissions summarizes FloodLAMP’s follow-up to a pre-EUA with two full EUA submissions: the QuickColor colorimetric LAMP test and the EasyPCR duplex PCR test, both using a shelf-stable chemical plus heat inactivation workflow. It positions the assays as open-source, supply-chain-resilient protocols (modeled on SalivaDirect) and highlights primer sourcing, clinical performance claims, intended screening use cases, and supporting plans for IRB studies and a companion mobile app.
 
-### 1,331  2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
+### 1,309  2021-04-02_FloodLAMP FDA Correspondence - Deprioritization EUA210252 EUA210254.md
 The April 2, 2021 FDA email and attached deprioritization letter notify FloodLAMP that EUA210252 (QuickColor COVID-19 Test) was closed because FDA declined to review it under then-current prioritization criteria. It explains that, in a later phase of the pandemic with many tests already authorized, FDA prioritized requests expected to materially increase U.S. testing accessibility (e.g., POC, home collection, at-home) or capacity (e.g., high-throughput), and judged FloodLAMP’s submission as having relatively limited impact on those factors. The document also notes the same decision and attachment were issued for a related EUA request (EUA210254).
 
-### 3,659  2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313.md
+### 3,507  2021-06-17_FDA Correspondence Summary - Pre-EUA PEUA210313.md
 The Pre-EUA (PEUA210313) record compiles FloodLAMP’s May 18, 2021 submission package for QuickColor and EasyPCR tests plus a pooled DTC dry-swab home collection kit and mobile app, submitted after earlier EUA deprioritization. FDA’s June 17, 2021 response states the agency did not review FloodLAMP’s validation data due to prioritization, but provides targeted guidance on study design (e.g., specimen adequacy/usability should be supported by the specific test, and self-collection studies should exclude participants with prior anterior nasal swab experience) and recommends using highly sensitive EUA RT-PCR comparators and ensuring enough low-viral-load positives; it also flags QuickColor’s clinical PPA as below the ~95% agreement level FDA considered acceptable and closes the pre-EUA. The October 5, 2021 follow-up email from FloodLAMP requests an interactive review to clarify serial-screening sensitivity expectations, usability and post-authorization study requirements, and prioritization, citing field surveillance deployment metrics and an open-protocol, low-cost scale-up approach.
 
 ### 2,327  2021-10-04_FloodLAMP Email to Tim Stenzel - 4 pages.md
 The FloodLAMP email to FDA CDRH (for Dr. Tim Stenzel) summarizes FloodLAMP’s EUA and pre-EUA history and requests interactive review and prioritization for resubmitted COVID-19 molecular tests (EasyPCR duplex PCR and QuickColor colorimetric LAMP) and a pooled home-collection kit with a mobile app. It highlights reported performance and operational claims (LoDs, turnaround times, high-throughput pooling, low-cost scaling) and describes non-diagnostic surveillance deployments with pooled anterior nares swabs, training approach, and field screening metrics. It also frames an “open protocol”/Right-of-Reference strategy for broader adoption, commercialization, and global tech transfer, and asks for guidance on integrating surveillance programs with EUA-authorized testing and CLIA lab expansion.
 
-### 4,362  2021-10-13_FDA Request for Additional Information.md
+### 4,365  2021-10-13_FDA Request for Additional Information.md
 The FDA October 13, 2021 additional information letter for EUA210582 details deficiencies in FloodLAMP’s QuickColor COVID-19 Test validation, including gaps in intended-use population description, unsupported specimen claims, sub-threshold clinical performance, lack of low-viral-load positives, and required updates to inclusivity/variant analysis, cross-reactivity, and interference testing. It also addresses control material expectations and the regulatory risks of relying on RUO-labeled reagents, outlining acceptable alternatives and warning of possible withdrawal or suspension of distribution if adequate data were not provided by the deadline.
 
-### 4,128  2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
+### 4,121  2021-10-13_FloodLAMP FDA Correspondence and 10-14 Meeting Notes.md
 The email thread documents FDA’s October 2021 interactive review of FloodLAMP’s EUA210582 QuickColor COVID-19 Test, including an FDA request for additional information, a follow-up offer to meet by Zoom, and FloodLAMP’s written response arguing for an amended serial-screening intended use. It captures key feedback from FDA reviewers about open-protocol EUA/designation concerns, the need for acceptable clinical evidence for serial screening, and constraints around reference panels, followed by FDA’s deprioritization/closure letter and FloodLAMP’s appeal for reconsideration. The final exchange confirms FDA understood the intended-use amendment but deemed FloodLAMP’s clinical study inadequate for screening with serial testing, directing FloodLAMP to the updated molecular EUA template or a pre-EUA supplement for study-design feedback.
 
 ### 1,052  2021-10-20_Response to FDA re QuickColor - EUA210582 10-13.md
 The Response to FDA re QuickColor (EUA210582) addresses FDA’s October 13 feedback by proposing updates to the intended use (removing “suspected of COVID” and focusing on serial screening), limiting sample type to nasal swabs only, and defending test performance with Stanford clinical evaluation data plus real-world pooled surveillance results. It also outlines planned updates or requests for FDA guidance on inclusivity/variant analysis, cross-reactivity and interference expectations for LAMP, endogenous interfering substances, external control concentration rationale, and qualification/lot tracking for RUO reagents.
 
-## irb (3 files, 14,963 tokens)
+## irb (3 files  -  14,897 tokens)
 
 ### 6,018  _AI_digestion_irb_new-clinical-study-design.md
 Digestion of FloodLAMP's integrated clinical study design (~May-August 2022) that merged an active school-based surveillance program with a clinical trial for generating EUA submission data. Covers the enrichment strategy using school exposures and surveillance-detected positives, a cascading cohort structure for maximizing positive specimen yield, comparator testing efficiency, multi-assay validation design, and RNAseP cross-validation, with both internal and external-facing analyses.
 
-### 5,980  IRB - FloodLAMP COVID-19 Biobank and Test Validation Protocol 20210401 v01.md
+### 5,914  IRB - FloodLAMP COVID-19 Biobank and Test Validation Protocol 20210401 v01.md
 The FloodLAMP COVID-19 Biobank and Test Validation Protocol (Protocol 20210401) lays out an IRB-governed study to collect up to 100,000 consented clinical specimens across multiple U.S. sites to evaluate FloodLAMP’s QuickColor/QuickFluor RT-LAMP assays, EasyPCR RT-qPCR assay, and a home collection kit (including pooled collection and optional mobile app use). It specifies intended use, inclusion/exclusion criteria, collection variations (co-located sites, independent/mobile sites, and distributed “home” kits), specimen handling requirements (e.g., dry swabs within 56 hours or frozen ≤-70°C), QC/control expectations, and comparison to an EUA-authorized high-sensitivity PCR reference method. It describes de-identification and bias-minimization procedures, data collection and statistical analysis plans (PPA/NPA with confidence intervals and call-rate handling), plus monitoring, record retention, deviations, and ethics/safety oversight aligned to GCP and 21 CFR Part 812.
 
 ### 2,965  IRB - FloodLAMP Informed Consent 20210401 v01.md
 The FloodLAMP COVID-19 Biobank and Test Validation Protocol informed consent form explains voluntary participation in donating biospecimens (e.g., blood, saliva, and various swabs) and optional surveys for research and test development. It outlines what participants should expect (no individual results, minimal risks, possible re-contact), how samples/data are coded and de-identified under HIPAA, and who may access or receive shared de-identified data. It also discloses ownership and potential commercialization of specimens/data, participant rights to withdraw, and oversight by an independent IRB.
 
-## ldts (12 files, 236,137 tokens)
+## ldts (12 files  -  235,952 tokens)
 
 ### 7,034  _AI_COVID19_LDTs_FDA_Policy_Report.md
 FDA, LDTs, and COVID-19 policy analysis covering three phases of LDT oversight during the pandemic: initial EUA-based enforcement discretion (early 2020), HHS blocking mandatory premarket review (Aug 2020-Nov 2021), and FDA's restoration of EUA-first posture (Nov 2021-2023). Includes detailed timeline, document index, and quantitative markers drawn primarily from GAO-22-104266 and FDA policy guidance.
@@ -467,10 +467,10 @@ FDA, LDTs, and COVID-19 policy analysis covering three phases of LDT oversight d
 ### 775  _AI_FDA 2024 LDT Rule - Status and Legal History.md
 FDA 2024 LDT final rule overview and legal history, covering the phased enforcement-discretion rollback (2025--2028 milestones), the March 2025 Eastern District of Texas vacatur, FDA's decision not to appeal, and the September 2025 regulatory text reversion--returning LDT oversight to the pre-2024 status quo.
 
-### 2,689  2020-10-03_JD Supra Article - FDA Oversight of Laboratory-Developed Tests Continues To Evolve.md
+### 2,661  2020-10-03_JD Supra Article - FDA Oversight of Laboratory-Developed Tests Continues To Evolve.md
 The JD Supra article “FDA Oversight of Laboratory-Developed Tests Continues To Evolve” reviews how FDA regulation of LDTs has shifted over decades and highlights the August 19, 2020 policy change stating LDTs would not face FDA premarket review absent formal rulemaking. It summarizes COVID-era FDA policies and the emerging role of Congress (including the VALID Act) in shaping a longer-term regulatory framework, underscoring ongoing uncertainty for laboratories and diagnostic developers.
 
-### 67,576  2023-12-04_ACLA - Letter to FDA - Comments on FDAs Proposed Regulation of LDTs as Medical Devices.md
+### 67,421  2023-12-04_ACLA - Letter to FDA - Comments on FDAs Proposed Regulation of LDTs as Medical Devices.md
 The American Clinical Laboratory Association’s December 4, 2023 letter submits formal comments opposing FDA’s proposed rule to regulate laboratory developed tests (LDTs) as medical devices. It argues that LDTs are professional laboratory services already subject to robust oversight under CLIA and state law, and that applying device regulation would reduce patient access, stifle diagnostic innovation, and exceed FDA’s legal authority.
 
 ### 611  2023-12-04_ACLA Website - FDA Proposed Rule to Regulate LDTs Should Be Withdrawn.md
@@ -485,10 +485,10 @@ The ACLA President to Testify on Regulation of Diagnostic Tests announcement pre
 ### 475  2024-04-29_FDA Website - ACLAs Statement on the Final Rule.md
 ACLA’s Statement on the Final Rule responds to FDA’s April 29, 2024 Final Rule regulating laboratory developed testing services as medical devices and reiterates ACLA’s view that this approach will harm patient access and diagnostic innovation. It argues the rule will increase costs, limit availability of critical tests, and exceed FDA’s statutory authority, emphasizing that clinical labs are already robustly overseen and that any expanded FDA role should come through new legislation.
 
-### 2,736  2024-05-06_FDA Guidance - Enforcement Policy under LDT Final Rule.md
+### 2,717  2024-05-06_FDA Guidance - Enforcement Policy under LDT Final Rule.md
 The FDA Federal Register notice (published May 6, 2024) announces a draft guidance on an enforcement policy allowing certain laboratory manufacturers to offer validated, unauthorized “immediate response” in vitro diagnostic tests for CBRN threats when no section 564 EUA declaration is in place. It explains the conditions for this enforcement discretion—validation, FDA notification, transparency, prescription-only labeling, and use during the emergent window between detection and resolution or issuance of a 564 declaration—against the backdrop of FDA’s phaseout of general LDT enforcement discretion under the LDT Final Rule.
 
-### 142,242  2024-05-29_ACLA - LDT Complaint to FDA Court filing.md
+### 142,259  2024-05-29_ACLA - LDT Complaint to FDA Court filing.md
 The Complaint to FDA – ACLA LDT Complaint is a federal court filing by the American Clinical Laboratory Association and member laboratories challenging the FDA’s 2024 Final Rule that classifies laboratory-developed tests as medical devices under the FDCA. It argues the rule exceeds FDA’s statutory authority, conflicts with CLIA’s established regulatory framework for laboratory services, and is arbitrary and capricious under the Administrative Procedure Act. The complaint seeks declaratory and injunctive relief to vacate the rule and prevent FDA from enforcing device regulations on professional laboratory testing services.
 
 ### 824  2024-05-29_ACLA Website - ACLA Challenges FDAs Final Rule.md
@@ -497,7 +497,7 @@ ACLA Challenges FDA’s Final Rule announces ACLA and HealthTrackRx’s May 29, 
 ### 10,416  2024-06-25_FDA Guidance - Laboratory Developed Tests Small Entity Compliance Guide.md
 The FDA “Laboratory Developed Tests: Small Entity Compliance Guide” (June 25, 2024) explains how the May 6, 2024 LDT Final Rule makes explicit that IVDs are regulated as medical devices even when manufactured by a laboratory and outlines FDA’s staged phaseout of its general LDT enforcement discretion. It summarizes key compliance milestones from 2025–2028 (MDR/complaints; registration/labeling/IDE; quality system; then premarket review) and highlights targeted enforcement discretion categories such as 1976-type LDTs, NYS CLEP–approved LDTs, certain modifications to cleared tests, “currently marketed” IVDs offered as LDTs, and LDTs for unmet needs.
 
-## open-euas (5 files, 24,455 tokens)
+## open-euas (5 files  -  24,148 tokens)
 
 ### 12,968  _AI_open-euas-open-access-diagnostics-report.md
 Research report on "open EUAs" -- the combination of open-source diagnostic protocols with open-access FDA authorization -- centered on SalivaDirect as the canonical example. Covers the regulatory mechanics of the steward/designation model, evidence of uptake in press and academia, pre-pandemic antecedents, reasons the model did not proliferate during COVID-19, a detailed analysis of the CDC test as a government "open" diagnostic with structural limitations, and a practical framework for future open-access diagnostics. Includes a comparative openness table across six COVID-19 EUA test categories.
@@ -505,30 +505,30 @@ Research report on "open EUAs" -- the combination of open-source diagnostic prot
 ### 884  2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 The FDA press release announces the August 15, 2020 emergency use authorization for Yale School of Public Health’s SalivaDirect SARS-CoV-2 diagnostic test, highlighting saliva-based collection and a workflow that can skip nucleic acid extraction. It explains how the “open source” protocol and validation across multiple common reagents/instruments could expand testing capacity while reducing reliance on scarce swabs and extraction kits.
 
-### 5,295  2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
+### 5,102  2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
 The SalivaDirect EUA Summary (updated Oct. 15, 2020) outlines Yale’s extraction-free saliva RT-qPCR test authorized for use only in CLIA high-complexity laboratories designated by Yale, including the intended use, workflow, validated instruments, and detailed reagent/vendor options to support supply-chain flexibility. It provides control requirements, result interpretation criteria, and performance data including LoD studies across multiple reagent and instrument combinations and a paired clinical comparison showing high positive agreement with an authorized comparator.
 
-### 1,437  Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
+### 1,428  Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
 The Reagan-Udall Foundation nomination argues that Anne Wyllie’s SalivaDirect EUA pioneered an “open source protocol” model by validating saliva and extraction-free processing while disclosing components and qualifying multiple reagent/instrument options for broad CLIA lab adoption. It highlights the FDA “designation” approach, legal and operational infrastructure for scaling a lab network, and downstream effects such as supply-chain resilience and industry-wide cost compression in molecular testing. The nomination frames SalivaDirect as a template for “generic” diagnostics authorization with relevance to future pandemic preparedness, while disclosing FloodLAMP’s advisory relationship to Wyllie.
 
-### 3,871  Open EUA Consortium (stalled quickly end of 2020) - Main Doc.md
+### 3,766  Open EUA Consortium (stalled quickly end of 2020) - Main Doc.md
 The Open EUA Consortium overview describes a collaborative effort among COVID-19 test developers to build a small suite of low-cost, interoperable “open source protocol” EUAs modeled on SalivaDirect, enabling designated labs (or CLIA labs via LDT revalidation) to run validated methods using off-the-shelf components. It lays out goals, membership growth, and the operational needs—shared validation materials, blanket Rights of Reference (especially for standardized LAMP primers), supply-chain coordination, and implementation playbooks—to rapidly scale screening and diagnostic testing across diverse settings.
 
-## reg-articles-misc (4 files, 41,160 tokens)
+## reg-articles-misc (4 files  -  41,910 tokens)
 
 ### 6,354  _AI_fda-eua-covid-retrospectives_post2022_report.md
 Research report identifying post-2022 retrospectives, evaluations, and criticisms of the FDA's Emergency Use Authorization (EUA) process during COVID-19, covering government oversight reports (HHS OIG, GAO, FDA), legislative responses, NGO and professional association critiques, and academic analyses, with archive-ready metadata for each source.
 
-### 8,408  2021-01-18_Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests.md
+### 8,418  2021-01-18_Phillips and Dinakar - A Proposal for Increasing the Speed of Validating SARS-CoV-2 Diagnostic Tests.md
 Phillips and Dinakar's proposal paper (v0.1.9, January 2021) recommends three extensions to the FDA's EUA process for accelerating validation of SARS-CoV-2 diagnostic tests: structured (machine-readable) EUA data submissions, distributed FDA-directed CLIA-led validation leveraging existing laboratory expertise, and building an open synthetic patient clinical specimen panel to reduce dependence on limited clinical samples for test validation.
 
-### 20,063  2021-10-08_FDA Report - EUA Assessment by Booze Allen.md
+### 20,803  2021-10-08_FDA Report - EUA Assessment by Booze Allen.md
 The FDA/Booz Allen Hamilton “Emergency Use Authorization Assessment — Final Report” summarizes an independent review of CDRH’s COVID-19 test EUA response, including how FDA used templates, guidance updates, triage/content screens, and deprioritization to manage thousands of EUA and pre-EUA submissions while prioritizing tests that increased capacity and access. It describes FDA’s validation approach (including the SARS-CoV-2 molecular reference panel and postmarket monitoring via adverse event reporting, removal lists, warning letters, and safety communications) and highlights extensive outreach tools such as town halls, FAQs, and email inboxes. It also presents Booz Allen’s priority recommendations — improving IT systems for EUA workflows, creating a systematic staffing/surge model, and developing a framework for validating diagnostics for emerging pathogens during future public health emergencies, along with FDA’s stated agreement with these priorities.
 
 ### 6,335  2022-07-01_FDA Report - FDAs Work to Combat the COVID-19 Pandemic.md
 The FDA “Work to Combat the COVID-19 Pandemic” overview (data current as of April 2022) summarizes FDA’s cross-center actions on vaccines, therapeutics, diagnostics/devices, supply chain resilience, inspections/fraud enforcement, and regulatory science. It highlights scale and mechanisms such as EUAs and postmarket monitoring, expanded data infrastructure and real-world evidence efforts, device/test oversight and communications, and initiatives to prevent shortages and intercept fraudulent or contaminated products. It also notes crosscutting research and equity-focused work intended to strengthen preparedness for future public health emergencies.
 
-## surveillance (14 files, 25,345 tokens)
+## surveillance (14 files  -  25,172 tokens)
 
 ### 8,194  _AI_Covid_Surveillance_Testing_Screening_Report.md
 Regulatory history and analysis of surveillance, testing, and screening distinctions during the COVID-19 pandemic, focusing on how "surveillance testing" was defined, contested, and regulated across U.S. programs (2020--2023). Covers FDA/CMS/CDC frameworks, key case studies (SCAN, SafeGuard/New Trier, FloodLAMP), wastewater and genomic surveillance, and post-PHE transitions, with appendices mapping FloodLAMP archive documents and primary sources.
@@ -536,10 +536,10 @@ Regulatory history and analysis of surveillance, testing, and screening distinct
 ### 2,222  2021-03-30_NY Times - Why Virus Tests at One Elite School Ran Afoul of Regulators.md
 The New York Times article “Why Virus Tests at One Elite School Ran Afoul of Regulators” recounts how New Trier High School’s large-scale COVID testing program triggered scrutiny over whether it was conducting regulated screening without proper CLIA certification or an FDA-authorized test. It highlights the practical confusion between “surveillance” and “screening” when individual students are flagged and sent home, and describes how the investigation ended after the testing vendor sought federal lab certification and added qualified oversight.
 
-### 1,418  CDC - Testing Strategies for SARS-CoV-2 (includes Surveillance 12-28-2021).md
+### 1,412  CDC - Testing Strategies for SARS-CoV-2 (includes Surveillance 12-28-2021).md
 The CDC “Testing Strategies for SARS-CoV-2” guidance (updated Dec. 28, 2021) defines and contrasts diagnostic, screening, and public health surveillance testing, including intended use, who should be tested, and whether results can be returned to individuals. It states that diagnostic and screening testing require CLIA-certified testing sites and FDA-authorized (or FDA-policy) tests with individual and public health reporting requirements, while public health surveillance testing uses de-identified specimens, is not for individual decision-making, and does not require FDA/CLIA compliance. It includes a summary matrix comparing allowable settings, reporting, and result return across the three testing strategies.
 
-### 948  CMS - CLIA SARS-CoV-2 Variant Testing Frequently Asked Question (2021-03-19).md
+### 1,012  CMS - CLIA SARS-CoV-2 Variant Testing Frequently Asked Question (2021-03-19).md
 The CMS CLIA “SARS-CoV-2 Variant Testing” FAQ (3/19/2021) outlines when sequencing-based surveillance for genetic variants can be done without a CLIA certificate, so long as results are not reported to individuals or their health care providers and are not used for individual decision-making. It describes CMS’s temporary enforcement discretion allowing non-CLIA facilities (and certain CLIA labs) to report patient-specific variant results to state/local public health departments for public health uses like outbreak detection and contact tracing. It also clarifies that if variant results are intended for diagnosis, prevention, treatment, or health assessment, testing must be performed in a CLIA-certified lab in compliance with CLIA requirements (including performance specifications expectations).
 
 ### 393  CMS - CLIA Surveillance Testing SARS-CoV-2 Frequently Asked Questions (2021-10-21).md
@@ -548,33 +548,33 @@ The CMS CLIA “SARS-CoV-2 Surveillance Testing” FAQ (revised 10/21/21) explai
 ### 727  CMS - CLIA University Lab Testing FAQ (2020-08-28).md
 The CMS Q&A explains when SARS-CoV-2 surveillance testing requires CLIA certification, emphasizing that pooled, non-patient-specific cohort reporting is not considered diagnostic and does not require a CLIA certificate. It clarifies that reporting patient-specific results generally triggers CLIA requirements, but CMS exercised temporary enforcement discretion during the public health emergency if non-CLIA labs only issue presumptive positive/inconclusive referrals to a CLIA-certified lab rather than reporting definitive results. It also outlines pathways for universities to operate under an affiliated lab’s CLIA certificate (including temporary sites) or to apply for an expedited CLIA certificate with a qualified lab director.
 
-### 746  CMS Notice Letter - RE CLIA SURVEILLANCE TESTING (Dec 2020).md
+### 741  CMS Notice Letter - RE CLIA SURVEILLANCE TESTING (Dec 2020).md
 The CMS CLIA Surveillance Testing notice (Dec. 28, 2020) explains when a facility is considered a CLIA-regulated laboratory and states that COVID-19 testing generally requires CLIA certification if patient-specific results are reported. It describes CMS’s temporary enforcement discretion for SARS-CoV-2 surveillance testing in non-CLIA facilities, allowing non-FDA-authorized methods so long as no individual results (e.g., negative/positive/inconclusive) are provided and individuals are only referred to CLIA-certified labs for follow-up.
 
-### 2,283  FDA Warning Emails to FloodLAMP - Re_ Testing Clinical COVID-19 Samples (March 2022).md
+### 2,268  FDA Warning Emails to FloodLAMP - Re_ Testing Clinical COVID-19 Samples (March 2022).md
 The FDA–FloodLAMP email thread (Jan–Mar 2022) documents FDA outreach after reviewing FloodLAMP’s website, requesting clarification on whether FloodLAMP was offering clinical COVID-19 testing, whether it held a CLIA certificate, and whether the method was EUA-authorized. FDA flagged website language suggesting individual follow-up testing with FloodLAMP after a positive pool as inconsistent with “surveillance” testing, and asked FloodLAMP to remove or revise claims and confirm plans to bring the site into compliance. The exchange ends with FloodLAMP stating it removed the individual follow-up FAQ language and FDA reiterating that FloodLAMP should review and align practices with the FDA’s revised COVID-19 testing policy guidance and that agency priorities may change.
 
-### 1,751  FDA Website - COVID-19 Test Uses_ FAQs on Testing for SARS-CoV-2 (updated 2023-09-29).md
+### 1,739  FDA Website - COVID-19 Test Uses_ FAQs on Testing for SARS-CoV-2 (updated 2023-09-29).md
 The FDA “COVID-19 Test Uses: FAQs on Testing for SARS-CoV-2” explains where COVID-19 tests can be used (lab, point-of-care, home collection, and at-home) and how EUA-authorized settings map to CLIA requirements. It also defines diagnostic, screening, and surveillance testing and gives examples to clarify how intended use affects regulation and reporting.
 
-### 719  FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver.md
+### 727  FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver.md
 The FloodLAMP Non-Diagnostic Surveillance Testing Materials Acknowledgment and Waiver is an entity-facing agreement for using FloodLAMP-provided materials and protocols to run a non-diagnostic SARS-CoV-2 surveillance test without providing individual results. It sets participant notification and referral requirements, clarifies the test is not FDA-authorized or CLIA testing and should not be relied on for individual decision-making, and includes disclosure permissions plus a broad liability waiver and release for FloodLAMP.
 
 ### 292  FloodLAMP Surveillance FAQ and Links (June 2022 DRAFT).md
 The surveillance vs. diagnostic testing explainer contrasts patient-focused diagnostic testing (clinical care and individual results under the medical/CLIA framework) with population-focused surveillance testing used to monitor and mitigate spread without reporting patient-specific results. It summarizes federal agency roles and quotes CMS and FDA guidance indicating surveillance testing can occur outside CLIA and outside FDA authorization when individual results are not returned, while individual asymptomatic screening with reported results remains regulated.
 
-### 4,043  FloodLAMP Surveillance Information (Aug 2021 INTERNAL).md
+### 3,906  FloodLAMP Surveillance Information (Aug 2021 INTERNAL).md
 The regulatory overview and FAQ memo explains how FloodLAMP frames pooled COVID-19 surveillance testing as a non-diagnostic public health activity under CMS guidance, emphasizing that no patient-specific results (e.g., “positive/negative/inconclusive”) are reported and participants are referred to CLIA-certified diagnostic testing when SARS-CoV-2 is detected in a pool. It contrasts surveillance testing, LDTs, and FDA-authorized EUA tests, cites CMS enforcement discretion and an eCFR research-lab exemption, and includes prepared language and supporting federal links to justify compliance for a municipal surveillance program.
 
-### 744  Memo - Surveillance Authority Plain-language Research (Jan 2021 from Senior Medical Director in Healthcare Industry).md
+### 713  Memo - Surveillance Authority Plain-language Research (Jan 2021 from Senior Medical Director in Healthcare Industry).md
 The plain-language CMS/FDA overview summarizes how “surveillance” COVID-19 testing is described in FDA guidance as population-level monitoring that FDA generally does not regulate, and explains conditions under which individual results may be returned if presumptive positives are routed to confirmatory testing in a CLIA-certified laboratory. It also cites CMS’s temporary enforcement discretion under CLIA for certain SARS-CoV-2 surveillance testing workflows, especially where non-CLIA facilities do not report definitive results but instead refer presumptive positives or inconclusives to a CLIA lab. It frames these points as a non-legal explanatory digest of agency guidance and notes that public health authorities may have additional powers to support population safety efforts.
 
-### 865  Memo - USA Surveillance Strategy (Sept 2021 from non-FloodLAMP Healthcare Attorney).md
+### 826  Memo - USA Surveillance Strategy (Sept 2021 from non-FloodLAMP Healthcare Attorney).md
 The follow-up email summarizes guidance that COVID-19 surveillance testing is generally not regulated by FDA or CLIA when samples lack unique identifiers and no individual results are returned, citing FDA and CDC language. It recommends coordinating with local public health officials, structuring groups large enough to support anonymized aggregate reporting, and ensuring testing is administered by appropriately trained personnel consistent with state law.
 
-# various (64 files, 373,426 tokens)
+# various (64 files  -  368,492 tokens)
 
-## external-programs-reports (11 files, 55,395 tokens)
+## external-programs-reports (11 files  -  54,398 tokens)
 
 ### 2,429  _AI_RADx Program Overview - NIH Rapid Acceleration of Diagnostics.md
 An overview of the NIH Rapid Acceleration of Diagnostics (RADx) initiative, covering its $1.5 billion congressional appropriation, four program arms (RADx Tech, RADx-UP, RADx-rad, RADx ATP), milestone-driven innovation funnel structure, key accomplishments including 55 FDA EUAs and 7.8 billion tests of U.S. capacity, and ongoing expansion beyond COVID-19 into multiplex respiratory diagnostics and other public health applications.
@@ -582,10 +582,10 @@ An overview of the NIH Rapid Acceleration of Diagnostics (RADx) initiative, cove
 ### 13,104  2020-09-01_School Testing_UnitedHealth Group - Safe and Strategic Return to School.md
 UnitedHealth Group’s Safe and Strategic Return to School (September 2020) compiles COVID-19-era recommendations for reopening and keeping K–12 schools open, including a community transmission “action level” framework tied to in-person/hybrid/remote models. It lays out practical operational guidance on ventilation, distancing, cleaning, transportation, symptom screening, testing (including pooling), communication, and outbreak response. A “Safe Health Compact” summarizes shared responsibilities for schools and families to support compliance and continuity of instruction.
 
-### 1,620  2021-01-08_School Testing_Massachusetts Dept of Education - Memo on Pooled Testing in K-12 Schools.md
+### 1,594  2021-01-08_School Testing_Massachusetts Dept of Education - Memo on Pooled Testing in K-12 Schools.md
 The Massachusetts Department of Education memo (January 8, 2021) outlines a statewide K–12 COVID-19 pooled PCR screening program, explaining weekly anterior nasal swab pooling with 24–48 hour results and individual follow-up testing (primarily Abbott BinaxNOW) after a positive pool. It describes a no-cost 6-week early launch with a contracted testing service provider supplying kits, logistics, training, software, and support, with optional continuation funded by federal stimulus dollars. The memo also summarizes consent requirements and clarifies that pooled results are not reported to DPH while individual diagnostic follow-up results are.
 
-### 12,982  2021-02-01_School Testing_San Francisco Unified School District - COVID Testing Implementation and Coordination.md
+### 12,124  2021-02-01_School Testing_San Francisco Unified School District - COVID Testing Implementation and Coordination.md
 San Francisco Unified School District’s February 2021 RFP seeks an end-to-end vendor to run a 12–18 month asymptomatic COVID-19 testing program for students and staff, including registration/scheduling/results, staffing and site operations, lab testing, reporting, and billing. It specifies high-volume capacity (up to 1,000–5,000 tests/day initially, with targets up to 10,000–15,000 weekly), 24–48 hour turnaround goals, multilingual access, data integration with district systems, and compliance with HIPAA/FERPA and California reporting standards. The document also lays out the procurement timeline, minimum qualifications checklist, and proposal evaluation criteria for selecting one or more contractors.
 
 ### 1,517  2021-02-11_School Testing_San Francisco Unified School District - RFP Questions and Answers Document.md
@@ -594,50 +594,50 @@ San Francisco Unified School District’s February 11, 2021 Q&A addendum clarifi
 ### 4,189  2021-06-31_Testing Commons - ASU and Rockefeller.md
 The TestingCommons.com Pandemic Review is a slide-style overview from Arizona State University’s COVID Diagnostics Commons that summarizes global COVID-19 tests and regulatory statuses, including U.S. FDA EUA categories and key attributes (lab/POC/home, screening, serial screening, pooling). It compiles pandemic-era counts and charts (through 6/30/21) showing distributions by test type and technology, plus related safety actions and communications.
 
-### 6,268  2021-08-02_CDC ELC Reopening Schools - Support for Screening Testing to Reopen and Keep Schools Operating Safely.md
+### 6,296  2021-08-02_CDC ELC Reopening Schools - Support for Screening Testing to Reopen and Keep Schools Operating Safely.md
 The CDC ELC Reopening Schools guidance (updated 8/2/2021) describes how American Rescue Plan funding (Project E) should support K–12 screening testing and related prevention activities to keep schools open safely during the 2021–2022 school year. It outlines required tasks, allowable costs (including testing supplies, staffing, IT/reporting systems, diagnostics support, and optional prevention measures like HEPA filtration), and reporting expectations for districts and jurisdictions. It also specifies activity requirements for deploying resources, submitting updated K–12 testing plans aligned to CDC guidance, and implementing and monitoring screening programs over time.
 
-### 4,341  2021-12-13_School Test to Stay Playbook from Barrington RI.md
+### 4,213  2021-12-13_School Test to Stay Playbook from Barrington RI.md
 The Barrington Public Schools “Test to Stay” playbook (updated Dec. 13, 2021) lays out Rhode Island’s school-based protocol that allows unvaccinated or partially vaccinated close contacts to remain in school if they test negative on a rapid antigen test daily for seven days after exposure and follow strict quarantine rules outside of school. It details eligibility, consent, testing logistics (including weekend activity testing), layered mitigation measures, and quarantine exceptions, with practical examples and Q&A to guide school staff implementation and contact tracing.
 
-### 3,761  2022-04-06_California State CDPH - COVID-19 Public Health Guidance for K-12 Schools California.md
+### 3,760  2022-04-06_California State CDPH - COVID-19 Public Health Guidance for K-12 Schools California.md
 California Department of Public Health guidance for K-12 schools during the 2021-22 school year, providing comprehensive safety measures including masking recommendations, physical distancing, ventilation, testing, isolation protocols, and extracurricular activity guidelines to maintain safe in-person instruction during the COVID-19 pandemic.
 
-### 2,982  2024-03-01_RADx Tech Report on COVID-19 Diagnostic Technologies.md
+### 2,970  2024-03-01_RADx Tech Report on COVID-19 Diagnostic Technologies.md
 The RADx Tech March 2024 report summarizes NIH/NIBIB’s Rapid Acceleration of Diagnostics program, describing its stage-gated “innovation funnel,” ITAP collaboration with FDA, and partnerships used to validate, authorize, and scale COVID-19 tests. It highlights program outcomes (e.g., dozens of EUAs, billions of tests/test products enabled, and major shifts to at-home/POC testing) and outlines ongoing expansion into multiplex and accessibility-focused diagnostics for future public health needs.
 
 ### 2,202  FL INDEX_Testing Programs and Playbooks Index SHARED.md
 The “Testing Programs and Playbooks” index is a curated compilation of links and brief notes on COVID-19 testing strategies, school surveillance programs, pooled-testing pilots, lab partners, and related guidance (national and state). It’s useful for quickly finding comparable playbooks, vendor/program examples, and operational references when designing or evaluating a testing program.
 
-## fl-patent (2 files, 53,929 tokens)
+## fl-patent (2 files  -  53,930 tokens)
 
 ### 8,307  _AI_FloodLAMP Patent Application - US20240139745A1 - Technical Digest.md
 FloodLAMP Patent Application (US 2024/0139745 A1) - Technical Digest summarizes the invention's container-coupling reaction caps (CCUs) and multi-slot heater/reader systems that meter sample into sealed reaction chambers for isothermal amplification (e.g., LAMP) with optical readout and optional app-based sample tracking for decentralized testing programs.
 
-### 45,622  FloodLAMP Patent Application - US20240139745A1.md
+### 45,623  FloodLAMP Patent Application - US20240139745A1.md
 The "Platform for Decentralized Testing" patent application (US 2024/0139745 A1) describes container-coupling reaction caps and heater/reader systems that move a measured portion of sample into sealed reaction chambers for amplification tests (e.g., LAMP) with optical readout. It details multiple cap and fluidic designs (rotating, plunger, dropper, valves, anti-diffusion features) plus multi-slot instruments for asynchronous processing and automated result capture/communication. This supports low-training, point-of-need and at-home testing workflows with reusable readers and low-cost consumables.
 
-## fl-presentations (9 files, 45,585 tokens)
+## fl-presentations (9 files  -  45,405 tokens)
 
-### 12,096  BARDA Market Research - FloodLAMP Presentation (2022-03-07).md
+### 12,077  BARDA Market Research - FloodLAMP Presentation (2022-03-07).md
 The “Extending the Reach of LAMP” BARDA market research deck (March 7, 2022) presents FloodLAMP’s case for a globally accessible, decentralized molecular screening platform built around pooled collection, an instrument-free QuickColor LAMP assay paired with a sister PCR assay, and wraparound digital, training, and quality systems. It summarizes real-world municipal/EMS and school pilots, argues for “open EUA” regulatory pathways with full component disclosure to enable interoperable “generic” diagnostics, and outlines the operational assets (kits, portable lab setups, mobile app/admin portal) needed to scale rapid community screening.
 
-### 6,428  Bend Pilot Program Bring-up (12-01-2021).md
+### 6,435  Bend Pilot Program Bring-up (12-01-2021).md
 Bend Fire and Rescue site bring-up training deck (December 1, 2021) covering FloodLAMP's technology overview, QuickColor™ LAMP and EasyPCR™ clinical evaluation results from the Stanford CLIA lab, real-world deployment case studies, the Open EUA regulatory strategy, and hands-on lab training sections including safety highlights, contamination procedures, test system overview, and a validation run protocol with training kit inventory.
 
-### 4,596  FDA Reagan Udall Foundation - FloodLAMP Presentation (4-21-2022).md
+### 4,526  FDA Reagan Udall Foundation - FloodLAMP Presentation (4-21-2022).md
 Slide deck overview of FloodLAMP’s vision and platform for decentralized, low-cost molecular screening (targeting ~$1/person) using extraction-free colorimetric RT-LAMP plus a mobile app and pooled/household collection workflows. Presents clinical evaluation results (Stanford CLIA), real-world surveillance outcomes (Omicron surge deployments), and the regulatory strategy (two full EUA submissions + a pre-EUA; “open protocol” disclosure of components to enable broader adoption and potential generic-like interoperability).
 
-### 5,540  FTFC EMS Conference - FloodLAMP Talk Slides (6-14-2021).md
+### 5,454  FTFC EMS Conference - FloodLAMP Talk Slides (6-14-2021).md
 The “Deploying Mass Scale Molecular Testing” slide deck summarizes FloodLAMP’s instrument-free LAMP surveillance testing workflow, reported Stanford clinical evaluation results for QuickColor LAMP and EasyPCR, and the end-to-end screening program model for schools and other groups using pooled collection and same-day reporting. It positions FloodLAMP as a “sweet spot” between low-sensitivity antigen testing and slow centralized PCR, and highlights operational elements like distributed pop-up labs, digital program management tools, and an “open EUA” strategy amid evolving regulatory hurdles.
 
 ### 525  FloodLAMP - COVID-19 Tests Summary.md
 The FloodLAMP Biotechnologies one-page overview presents its low-cost, open-source molecular testing platform for infectious disease mass screening, combining an extraction-free colorimetric LAMP assay (QuickColor) and a higher-sensitivity RT-qPCR assay (EasyPCR) with a purpose-built digital system for pooled collection, accessioning, and reporting. It highlights claimed performance metrics (e.g., sensitivity/specificity and LoD), scaling advantages without capital-intensive instruments, and digital workflow features for participants and labs. It summarizes validation and regulatory posture (Stanford CLIA evaluation, EUAs and a pre-EUA submitted, IRB approval) and includes a clear statement that the tests were not FDA cleared/approved/authorized at the time.
 
-### 2,724  Florida EMS Departments - FloodLAMP Slides (Aug 2022).md
+### 2,728  Florida EMS Departments - FloodLAMP Slides (Aug 2022).md
 The FloodLAMP platform overview deck describes a low-cost, decentralized molecular screening system designed for rapid “point of need” deployment using pooled sample collection, standard lab equipment, and integrated digital tools, training, and quality processes. It highlights two core assays (a visual RT-LAMP test and a high-sensitivity RT-qPCR option) with reported clinical performance and frames the approach as supply-chain resilient and adaptable to future pathogens by swapping primer sets.
 
-### 11,577  New England Biolabs (NEB) Presentation - FloodLAMP (3-3-2022).md
+### 11,561  New England Biolabs (NEB) Presentation - FloodLAMP (3-3-2022).md
 NEB seminar deck (Mar 3, 2022) presenting FloodLAMP’s “point-of-need” platform to extend LAMP’s reach for globally accessible disease screening. Covers real-world deployments (EMS, municipal workforces, preschool family pooling), workflow + kit/instrument/app stack, QA/QMS and training, clinical evaluation results (Stanford CLIA), and the “open protocol” regulatory vision (open EUA disclosures) positioning FloodLAMP’s QuickColor LAMP and sister PCR assay as a low-cost, decentralized alternative between OTC/home tests and centralized CLIA PCR.
 
 ### 999  Quad Chart v1 - FloodLAMP (Dec 2021).md
@@ -646,67 +646,67 @@ The FloodLAMP Rapid Response Molecular Screening Network brief outlines a plan t
 ### 1,100  Quad Chart v2 - FloodLAMP (Jan 2022).md
 The FloodLAMP Rapid Molecular Mass Screening Platform brief summarizes a vertically integrated, deployable-in-hours LAMP-based screening system combining turnkey field workflows with a mobile app for program management and pooled collection. It lists near-term deliverables across digital tools, training, QMS, regulatory engagement, sourcing, staffing, and funding, alongside reported performance metrics, pilot deployments with municipal/EMS partners, and scaling needs focused on securing commodity lab equipment and consumables.
 
-## fl-proposals (6 files, 33,688 tokens)
+## fl-proposals (6 files  -  29,724 tokens)
 
-### 5,915  Balvi Proposal 1 - FloodLAMP Decentralized COVID Screening (Nov 2022 - 3M - Not Funded).md
+### 4,905  Balvi Proposal 1 - FloodLAMP Decentralized COVID Screening (Nov 2022 - 3M - Not Funded).md
 The FloodLAMP Balvi Proposal (Balvi ID B57, Nov. 19, 2022) outlines a plan to build open-source, decentralized infectious disease screening using low-cost extraction-free LAMP testing, self-pooled swab collection, and supporting software, arguing that decentralization, openness, and sub-$5 pricing are essential for pandemic preparedness. It summarizes FloodLAMP’s pilot deployments and partnerships (e.g., NEB and SalivaDirect) and proposes deliverables spanning open program dissemination, publication of pilot data, expanded surveillance deployments, clinical studies and open-protocol FDA submissions, manufacturing scale-up, and legal/governance work. It also provides company background, funding needs and budget, and a growth strategy emphasizing open regulatory pathways, scalable manufacturing, and potential licensing/governance models to sustain public-benefit operations.
 
-### 5,052  Balvi Proposal 2 - FloodLAMP Open Source COVID Screening (Dec 2022 - 300K - Funded).md
+### 4,512  Balvi Proposal 2 - FloodLAMP Open Source COVID Screening (Dec 2022 - 300K - Funded).md
 The December 6, 2022 Balvi proposal outlines FloodLAMP’s plan to scale open-source, decentralized infectious disease screening built around extraction-free LAMP testing, self-pooled swab collection, and supporting digital tools, emphasizing decentralization, low cost, and open-protocol regulatory pathways. It summarizes 11 pilot programs (including municipal EMS and school deployments) and requests Balvi funding to open source program materials, publish pilot data, and run clinical studies to support future FDA EUA submissions. It also provides company background, partnerships (notably NEB and SalivaDirect), an IP and licensing approach, and a brief Q&A on licensing intentions and expected funding decision timing.
 
-### 4,708  Florida State EMS Proposal - FloodLAMP (Jan 12 2022).md
+### 2,915  Florida State EMS Proposal - FloodLAMP (Jan 12 2022).md
 The “Resilient Florida” proposal outlines a statewide plan to stand up locally operated, non-diagnostic rapid molecular surveillance testing sites at emergency response agencies using FloodLAMP’s pooled colorimetric LAMP system and integrated digital tools. It describes a phased rollout (Phase 1: 10 sites; Phase 2: 50 sites plus mobile; Phase 3: preparedness) including turnkey equipment packages, technician training/certification, weekly kit resupply, and responsibilities split among FloodLAMP, the State, and local agencies. It also provides projected throughput and staffing models and a budget estimating about $966K for Phase 1 and $4.36M for Phase 2, positioning the capability as reusable infrastructure for future pathogens by swapping primer sets.
 
-### 7,940  RADx 2020 Submitted Proposal - FloodLAMP (Aug 2020 - 1M - Not Funded).md
+### 7,513  RADx 2020 Submitted Proposal - FloodLAMP (Aug 2020 - 1M - Not Funded).md
 The RADx Tech “FloodLAMP” Fast-Track application (Application 6207, June–July 2020) proposes scaling an extraction-free, colorimetric RT-LAMP mass screening program using flexible multi-stage pooling, centralized reagent production, and distributed deployment across existing labs to reach population-level throughput at ~$1 per result. It describes a pooled self-collection workflow (saliva or swabs), TCEP/EDTA heat inactivation, silica-based RNA capture to support very large pool sizes, and operational plans for staffing, logistics, data/software, and supply-chain resilience using readily available reagents and standard equipment. It outlines staged work packages focused on SOP hardening, pilot software, EUA submission with a clinical partner, large pilots across prevalence “tiers,” manufacturing scale-up, and training/support to enable rapid national rollout.
 
-### 2,135  RADx 2022 Solicitation - High-Performance COVID-19 Rapid Tests (Oct 2022).md
+### 2,061  RADx 2022 Solicitation - High-Performance COVID-19 Rapid Tests (Oct 2022).md
 The RADx Tech “High-Performance COVID-19 Rapid Tests” solicitation describes NIH/NIBIB’s fast-track program to fund next-generation OTC and point-of-care COVID-19 tests with substantially improved performance, accessibility, and digital reporting readiness. It outlines the multi-stage process (rolling review, Deep Dive, Work Packages 1–2), evaluation criteria, timeline, and application pathways for teams seeking milestone-driven support toward FDA authorization and commercialization.
 
-### 7,938  RADx 2022 Submitted Proposal - FloodLAMP (Oct 2022 - 3M - Not Funded).md
+### 7,818  RADx 2022 Submitted Proposal - FloodLAMP (Oct 2022 - 3M - Not Funded).md
 The FloodLAMP RADx submission outlines a next-generation, low-cost LAMP-based screening platform pairing reagent-in-cap test devices with modular heater/reader instruments and an integrated mobile app/admin portal for pooled, decentralized testing programs. It summarizes pilot experience (~35,000 samples across 11 surveillance deployments), projected performance and costs, and an open-source business model built around disclosed chemistry, Rights of Reference, and broad licensing for interoperability. It also proposes a two-phase RADx work plan to prototype devices/instruments, run multi-site clinical studies, pursue EUA/510(k) pathways, and scale manufacturing and digital infrastructure for pandemic-ready screening.
 
-## fl-whitepapers (3 files, 9,674 tokens)
+## fl-whitepapers (3 files  -  9,837 tokens)
 
 ### 2,141  _AI_Comparable Programs Survey - Household Pooled COVID-19 Testing.md
 Survey of publicly documented COVID-19 testing programs comparable to the FloodLAMP preschool pilot's combination of at-home self-collection, household-level pooling, fast molecular turnaround, and decentralized near-site processing. Ranks six programs by overall similarity, provides a feature comparison matrix, and concludes that the full four-part combination appears rare in public documentation, especially in early childcare/preschool settings.
 
-### 4,029  FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
+### 4,192  FloodLAMP Whitepaper - California Preschool Family Pooled Screening Pilot (June 2022).md
 The “FloodLAMP Preschool Pilot Whitepaper” describes a California preschool’s at-home family pooled COVID-19 surveillance testing program using FloodLAMP’s QuickColor molecular LAMP test, including onboarding, collection/drop-off workflows, near-site processing, and reporting practices. It documents pilot outcomes across the 2021–2022 school year (including the Omicron period), presents case studies comparing FloodLAMP to rapid antigen tests, and summarizes participation, turnaround time, and community impact with supporting figures and feedback.
 
 ### 3,504  FloodLAMP Whitepaper - EMS and Municipal Screening Pilots DRAFT WIP.md
 An unfinished draft whitepaper describing FloodLAMP's EMS and municipal COVID-19 surveillance screening programs in Coral Springs/Davie, FL and Bend, OR, including program setup, Omicron surge response, case studies comparing FloodLAMP to antigen testing, and impact on workforce absenteeism. The document includes internal outlines and data requests for sections that were never completed.
 
-## glamp (3 files, 82,224 tokens)
+## glamp (3 files  -  82,275 tokens)
 
 ### 3,048  _AI_Global LAMP Consortium (gLAMP) - Public Information Survey.md
 Survey of publicly visible information about the Global LAMP Consortium (gLAMP) founded by Chris Mason in April 2020. Covers the gLAMP Hub documentation site, the major Moore et al. JBT review paper (2021), peer-reviewed papers acknowledging gLAMP weekly calls, and media/industry coverage from NEB, Promega, and Wired.
 
-### 6,995  2020-08-31_NEB Podcast - Interview with Chris Mason.md
+### 6,980  2020-08-31_NEB Podcast - Interview with Chris Mason.md
 The NEB COVID-19 Researcher Spotlight Series video captures an interview with Dr. Chris Mason of Weill Cornell Medicine discussing LAMP-based SARS-CoV-2 detection, metagenomics sampling of NYC subways and hospitals, the GLAMP consortium for pre-competitive sharing of LAMP protocols, saliva-based testing as a more accessible alternative to nasopharyngeal swabs, and the value of pre-print servers during a pandemic.
 
-### 72,181  gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
+### 72,247  gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
 The gLAMP Consortium review article (Journal of Biomolecular Techniques, Sept. 2021) surveys RT-LAMP methods for SARS-CoV-2 detection and broader pathogen testing, covering sample types, inactivation and extraction-free workflows, primer/enzyme design, detection chemistries, contamination control, and deployment hardware/software. It compiles practical protocols and case studies from an international group, including open-source approaches to reagents and devices, and compares testing configurations across settings from low-resource sites to high-throughput labs. It also summarizes the evolving regulatory landscape (EUA/LDT/IRB/surveillance) and provides design tradeoffs and recommendations for building fit-for-purpose LAMP tests.
 
-## lamp-tech (1 files, 4,595 tokens)
+## lamp-tech (1 files  -  4,575 tokens)
 
-### 4,595  2020-06-17_NEB Podcast - Interview with Brian Rabe.md
+### 4,575  2020-06-17_NEB Podcast - Interview with Brian Rabe.md
 The NEB “Lessons from Lab and Life” Podcast #25 transcript captures an interview with Harvard Medical School PhD candidate Brian Rabe about developing a rapid, low-equipment RT-LAMP assay for SARS-CoV-2, including primer design, colorimetric pH-based readout, and sample prep approaches like HUDSON. It highlights practical testing workflows using contrived samples (swabs and saliva), sensitivity benchmarks, and ideas for deploying accessible diagnostics outside traditional labs (e.g., pop-up or at-home style testing).
 
-## papers (3 files, 11,994 tokens)
+## papers (3 files  -  11,949 tokens)
 
 ### 9,056  _AI_Literature Review - Pandemic Testing and Screening Strategy.md
 Literature Review - Pandemic Testing and Screening Strategy provides an annotated survey of 20 foundational papers on COVID-19 testing and screening as a public-health intervention, organized by theme (frequency/turnaround strategy, contact tracing timing, asymptomatic screening rationale, population-level programs, pooled testing, self-testing, wastewater surveillance, and preparedness infrastructure), with cross-cutting takeaways and a supplementary reading list.
 
-### 1,197  2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
+### 1,152  2021-03-24_Cochrane Antigen Tests Review Link and Guardian Article.md
 The Cochrane review and related March 24, 2021 Guardian coverage summarize evidence that rapid SARS-CoV-2 antigen (lateral flow) tests perform substantially worse in asymptomatic people (reported average sensitivity around 58%) and vary widely by brand. The materials are useful for assessing the risks of using antigen tests for “test-to-release” or to permit school/work attendance, especially in low-prevalence screening where false negatives and false positives can meaningfully affect public health decisions.
 
-## papers-lamp (2 files, 6,370 tokens)
+## papers-lamp (2 files  -  6,370 tokens)
 
 ### 3,732  _AI_Literature Review - LAMP Large-Scale Testing and Pandemic Preparedness.md
 Literature Review - RT-LAMP Large-Scale Testing and Pandemic Preparedness surveys 20 LAMP/RT-LAMP papers prioritized for large-scale testing/screening and pandemic preparedness, organized by theme (population-scale barcoded/sequenced LAMP, scalable sample-to-answer workflows, real-world screening evaluations, variant-robust multiplex panels, and foundational pandemic-era assays), with PubMed-linked citations and importance summaries for each paper.
 
-## xprize (24 files, 69,972 tokens)
+## xprize (24 files  -  70,029 tokens)
 
 ### 5,385  _AI_gLAMP and XPrize - pre-competitive vs open-source.md
 Multi-part analysis of the gLAMP consortium's pre-competitive collaboration model compared to an open source approach for pandemic diagnostic testing. Covers the legal framework for open R&D collaboration, argues that market failure evidence supports treating pandemic testing protocols as public goods, proposes a curated portfolio of 5-10 open source testing protocol families, and describes stakeholder roles needed to sustain them.
@@ -720,40 +720,40 @@ Official alphabetical listing of 219 semi-finalist teams from 35 countries compe
 ### 2,216  XPrize - Semifinalists and Competition Letter-Shipping.md
 Official XPRIZE Rapid Testing Competition letter authorizing the shipment of blinded proficiency test kits to 219 semi-finalist teams across 35 countries, documenting that kits contain non-hazardous, non-infectious contrived samples including gamma-irradiated cell line products and synthetic RNA for research use only.
 
-### 628  XPrize - XPRCT Field Notes Comms Toolkit.md
+### 624  XPrize - XPRCT Field Notes Comms Toolkit.md
 The XPRIZE Rapid Covid Testing Field Notes Communications Toolkit encouraged semi-finalist teams to create 60-second selfie video updates ("Field Notes") documenting their progress, with guidance on content format, suggested social media copy, and promotion of the #RapidTesting campaign across XPRIZE social channels.
 
-### 738  XPrize - XPRCT Team PR Toolkit.md
+### 737  XPrize - XPRCT Team PR Toolkit.md
 The XPRIZE Rapid Covid Testing PR Toolkit provided semi-finalist teams with guidelines for press release approval, XPRIZE brand usage requirements, the official XPRIZE boilerplate, and approved competition timeline messaging including details on the semi-final proficiency testing and final clinical validation phases.
 
 ### 10,243  XPrize FloodLAMP Proficiency Test Results.md
 FloodLAMP's XPRIZE Rapid Covid Testing blinded proficiency test results merged with the competition answer key. Contains 157 samples across two racks: NSP17634 (69 Zepto inactivated viral particle samples in PBS, Saliva, and Nasal matrices at 4°C) and XP60846 (88 Twist Synthetic RNA samples in Water at -80°C, including cross-reactivity controls). FloodLAMP detected 51 of 69 NSP samples correctly with zero false positives but performed poorly on the XP rack (13 of 56 SARS-CoV-2 positives detected), likely due to buffer incompatibility with the silica-based purification protocol.
 
-### 933  XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
+### 998  XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
 FloodLAMP's XPRIZE submission Part 10 Reagent or Consumable spreadsheet itemizes all reagents and consumables required for the pooled LAMP assay at 0.5mL volume with pool level of 10, including TCEP, NaI, NEB LAMP Master Mix, IDT primers, tubes, and PCR plates, with a total estimated cost of $0.46 per sample and $4.57 per run.
 
 ### 431  XPrize FloodLAMP Submission - Part 11 Equipment Setup.md
 FloodLAMP's XPRIZE submission Part 11 Equipment Setup spreadsheet lists all required equipment organized into three categories: assay equipment (dry block heaters, pipettes, centrifuge, vortexer), inactivation station equipment (heater, hole block, centrifuge, splash guard), and additional infrastructure (biosafety cabinet, PCR enclosure).
 
-### 585  XPrize FloodLAMP Submission - Part 7 Targets.md
+### 584  XPrize FloodLAMP Submission - Part 7 Targets.md
 FloodLAMP's XPRIZE submission Part 7 Targets spreadsheet lists the 18 LAMP primer sequences targeting ORF1 (As1e set) and N gene (N2 set), plus 6 RNaseP internal control primers used in the FloodLAMP SARS-CoV-2 assay.
 
 ### 2,146  XPrize FloodLAMP Submission - Part 8 Results.md
 FloodLAMP's XPRIZE submission Part 8 Results spreadsheet provides test data from multiple experimental runs including blinded real saliva samples spiked with ZeptoMetrix inactivated virions, Twist RNA limit-of-detection runs at 2mL volume, and real nasal/saliva sample screening, all using As1e and N2 combined primer sets with visual binary readout.
 
-### 264  XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
+### 302  XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
 FloodLAMP's XPRIZE submission Part 9 Results Interpretation spreadsheet defines how assay results are interpreted based on combinations of batch positive/negative controls, SARS-CoV-2 target results, and human internal control (RNaseP) results, including rules for reporting findings of potential clinical significance, invalid samples, and batch failures.
 
-### 302  XPrize FloodLAMP Submission - QS Part 1_ Contact _ Design.md
+### 291  XPrize FloodLAMP Submission - QS Part 1_ Contact _ Design.md
 FloodLAMP's XPRIZE QS Part 1 (Contact and Design) submission form captures the team's contact information (San Carlos, CA), technology overview (isothermal LAMP using ORF1a and N gene targets with colorimetric readout), input volumes (500 or 2000 µL), sample sources (nasal swab and saliva), and intended applications (distributed lab and point of care).
 
-### 503  XPrize FloodLAMP Submission - QS Part 2_ Results.md
+### 497  XPrize FloodLAMP Submission - QS Part 2_ Results.md
 FloodLAMP's XPRIZE QS Part 2 (Results) submission documents the team's estimated limit of detection (1-5 copies/µL), which is based on experiments spiking ZeptoMetrix inactivated virions and Twist RNA into samples. Results are qualitative using contrived saliva samples, with no clinical validation pilots completed at time of submission.
 
-### 1,120  XPrize FloodLAMP Submission - QS Part 3_ Current Capacity _ Scalability.md
+### 1,110  XPrize FloodLAMP Submission - QS Part 3_ Current Capacity _ Scalability.md
 FloodLAMP's XPRIZE QS Part 3 (Current Capacity and Scalability) submission details the team's testing throughput (50 tests/day current, 200K/day potential with pooling at 100), 2-hour sample-to-result time, sub-$1 per-test cost, sub-$10K capital expense, and plans for scaling through automation with OpenTrons liquid handling and open-source distribution to other labs.
 
-### 1,548  XPrize FloodLAMP Submission - QS Part 4_ Innovation.md
+### 1,545  XPrize FloodLAMP Submission - QS Part 4_ Innovation.md
 FloodLAMP's XPRIZE QS Part 4 (Innovation) submission covers biosafety protocols, data collection and privacy through the custom Appivo app, innovative sample collection approach with in-app guided self-pooling by households, and the team's core innovation of combining available LAMP technology into an open-source integrated screening platform designed for scalable, affordable deployment by any basic laboratory.
 
 ### 1,045  XPrize FloodLAMP Submission - Slides.md
@@ -762,10 +762,10 @@ FloodLAMP's 12-slide XPRIZE Qualifying Submission presentation covers the compan
 ### 10,730  XPrize FloodLAMP Submission.md
 FloodLAMP's comprehensive XPRIZE Rapid Covid Testing Qualifying Submission working document, covering all parts of the submission including contact and design information (QS Part 1), test results and limit of detection (QS Part 2), current capacity and scalability plans (QS Part 3), innovation highlights including the custom Appivo app and open-source approach (QS Part 4), and references to the presentation, protocols, and spreadsheet submissions (Parts 5-13).
 
-### 397  XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
+### 388  XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
 FAQ document for XPRIZE Rapid Covid Testing semi-finalist teams explaining the blinded proficiency test kit contents (150-200 contrived BSL-1 samples), shipping timeline (September 24 - October 2, 2020), one-week testing window, and results submission process via the Prize Operations Platform.
 
-### 1,001  XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
+### 1,000  XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
 Detailed handling instructions for the XPRIZE Rapid Testing proficiency test kits sent to semi-finalist teams, covering sample format (0.5-1 mL Matrix tubes with barcodes), storage requirements (-80°C for dry ice shipments, 4°C for cold pack shipments), result entry format, and specific guidance for both antigen (gamma-irradiated cell products) and RNA (chemically-inactivated cell products and synthetic RNA) test kits, including notes on albumin precipitation at high temperatures.
 
 ### 2,278  XPrize Legal - Competitor Agreement (certificate summary).md

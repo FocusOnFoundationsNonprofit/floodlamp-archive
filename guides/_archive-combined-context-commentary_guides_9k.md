@@ -1,8 +1,24 @@
 METADATA
+last updated: 2026-03-13_062659
+file_name: _archive-combined-context-commentary_guides_9k.md
+category: guides
+subcategory: NA
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-context-commentary_guides_9k (8 files, 9,055 tokens)
+
+# 1,669  _context-commentary_guides-manufacturing.md
+METADATA
 last updated: 2026-02-16 RT
 file_name: _context-commentary_guides-manufacturing.md
 category: guides
 subcategory: manufacturing
+gfile_url: **FLAGGED - TDB after review and update of all CC**
 words: 1176
 tokens: 1669
 
@@ -298,5 +314,3 @@ The Clinical Eval Guide dates to March 2021, right before the FDA submission, an
 The Test Validation Guide was not just for our own test sites. It was created for potential partnerships and external sharing, including with one major US healthcare company.
 
 Looking at these two documents together, you can see the evolution from a lab-specific bench protocol to a transferable validation package. The core procedures remained the same, but everything around them — the kit design, the result interpretation criteria, the validation run structure — became more rigorous and more self-sufficient.
-
-# ===== END OF FILE _archive-combined-context-commentary_guides_9k.md =====

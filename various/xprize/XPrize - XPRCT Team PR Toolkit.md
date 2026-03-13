@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 738
-words: 476
+tokens: 737
+words: 480
 notes:
 summary_short: The XPRIZE Rapid Covid Testing PR Toolkit provided semi-finalist teams with guidelines for press release approval, XPRIZE brand usage requirements, the official XPRIZE boilerplate, and approved competition timeline messaging including details on the semi-final proficiency testing and final clinical validation phases.
 

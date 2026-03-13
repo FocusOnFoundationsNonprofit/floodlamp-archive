@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1001
+tokens: 1000
 words: 776
 notes:
 summary_short: Detailed handling instructions for the XPRIZE Rapid Testing proficiency test kits sent to semi-finalist teams, covering sample format (0.5-1 mL Matrix tubes with barcodes), storage requirements (-80°C for dry ice shipments, 4°C for cold pack shipments), result entry format, and specific guidance for both antigen (gamma-irradiated cell products) and RNA (chemically-inactivated cell products and synthetic RNA) test kits, including notes on albumin precipitation at high temperatures.

@@ -6,6 +6,7 @@ title: NEB Podcast - Interview with Chris Mason
 category: various
 subcategory: glamp
 tags: 
+youtube_url: https://youtu.be/LKt9C6SWjGA
 source_file_type: webcopy
 xfile_type: 
 gfile_url: https://docs.google.com/document/d/1-FrI-HBBQkli8bhwnqcTqCukUKJOi71rxfkuGZi9JZo
@@ -15,11 +16,10 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: webcopy
 conversion: manual cut and paste
 license: 3rd Party
-tokens: 6995
-words: 5179
+tokens: 6980
+words: 5170
 notes: date converted 2026-02-23. Transcript obtained from NEB website video library page.
 web_url: https://www.neb.com/en-us/tools-and-resources/video-library/covid-19-researcher-spotlight-interview-with-chris-mason
-link_youtube: https://youtu.be/LKt9C6SWjGA
 audio_file_name: 
 summary_short: The NEB COVID-19 Researcher Spotlight Series video captures an interview with Dr. Chris Mason of Weill Cornell Medicine discussing LAMP-based SARS-CoV-2 detection, metagenomics sampling of NYC subways and hospitals, the GLAMP consortium for pre-competitive sharing of LAMP protocols, saliva-based testing as a more accessible alternative to nasopharyngeal swabs, and the value of pre-print servers during a pandemic.
 

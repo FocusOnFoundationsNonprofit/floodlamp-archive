@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 3659
-words: 2063
+tokens: 3507
+words: 2053
 notes:
 summary_short: The Pre-EUA (PEUA210313) record compiles FloodLAMP’s May 18, 2021 submission package for QuickColor and EasyPCR tests plus a pooled DTC dry-swab home collection kit and mobile app, submitted after earlier EUA deprioritization. FDA’s June 17, 2021 response states the agency did not review FloodLAMP’s validation data due to prioritization, but provides targeted guidance on study design (e.g., specimen adequacy/usability should be supported by the specific test, and self-collection studies should exclude participants with prior anterior nasal swab experience) and recommends using highly sensitive EUA RT-PCR comparators and ensuring enough low-viral-load positives; it also flags QuickColor’s clinical PPA as below the ~95% agreement level FDA considered acceptable and closes the pre-EUA. The October 5, 2021 follow-up email from FloodLAMP requests an interactive review to clarify serial-screening sensitivity expectations, usability and post-authorization study requirements, and prioritization, citing field surveillance deployment metrics and an open-protocol, low-cost scale-up approach.
 

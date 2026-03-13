@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_software_5k.md
+category: guides
+subcategory: software
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_software_5k (4 files, 5,377 tokens)
+
+# 859  _context-commentary_guides-software.md
+METADATA
 last updated: 2026-02-18 RT
 file_name: _context-commentary_guides-software.md
 category: guides
@@ -338,5 +353,3 @@ Select the result and tap “Update Status.”
     a.  This moves the tube to history and changes participant and sponsor tube status to “completed”.
     b.  *Note: Notifications to Participants are currently turned off globally in the FloodLAMP Mobile App to comply with non-diagnostic surveillance testing guidance.*
 _Three mobile screenshots showing the Results view with AMP-status batches/tubes and the UPDATE button, the result selection options (NULL / INVALID / INCONCLUSIVE / NEGATIVE / POSITIVE) with "Update Status" button, and the NOTIFY confirmation dialog._
-
-# ===== END OF FILE _archive-combined-files_software_5k.md =====

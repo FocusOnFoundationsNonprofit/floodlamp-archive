@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 10870
-words: 6496
+tokens: 16270
+words: 9039
 notes: 
 summary_short: The EUA Submission for the FloodLAMP QuickColor COVID-19 Test v1.0 describes an extraction-free, colorimetric RT-LAMP assay for qualitative SARS-CoV-2 detection using a visual pink-to-yellow readout and no specialized instrumentation. It details intended use for weekly screening of symptomatic and asymptomatic individuals, primer design targeting three viral genes, sample inactivation workflow, controls, and interpretation criteria for CLIA high-complexity labs. It reports analytical and clinical performance including a 12,500 copies/mL LoD and 90% positive agreement with 100% negative agreement in an 80-specimen clinical evaluation.
 

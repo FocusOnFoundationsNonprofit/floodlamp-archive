@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 2283
-words: 1567
+tokens: 2268
+words: 1568
 notes: Title says March 2022, so used 2022-03-01 as date. 
 summary_short: The FDA–FloodLAMP email thread (Jan–Mar 2022) documents FDA outreach after reviewing FloodLAMP’s website, requesting clarification on whether FloodLAMP was offering clinical COVID-19 testing, whether it held a CLIA certificate, and whether the method was EUA-authorized. FDA flagged website language suggesting individual follow-up testing with FloodLAMP after a positive pool as inconsistent with “surveillance” testing, and asked FloodLAMP to remove or revise claims and confirm plans to bring the site into compliance. The exchange ends with FloodLAMP stating it removed the individual follow-up FAQ language and FDA reiterating that FloodLAMP should review and align practices with the FDA’s revised COVID-19 testing policy guidance and that agency priorities may change.
 

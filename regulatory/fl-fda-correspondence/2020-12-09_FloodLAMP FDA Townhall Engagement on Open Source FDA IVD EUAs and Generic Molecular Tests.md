@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 2120
-words: 1465
+tokens: 2047
+words: 1462
 notes: 
 summary_short: The “Dialogue on Open Source Testing and FDA IVD Authorization of Generic Molecular Tests” summarizes a December 9, 2020 FDA town hall exchange about using Rights of Reference and “method” EUAs (modeled on SalivaDirect) to enable interoperable, non-proprietary molecular test protocols across laboratories. It outlines how open IVD EUAs could reduce duplicative validation, strengthen supply-chain resilience, and scale testing via a structured lab designation process, positioning FloodLAMP’s strategy to expand this open-access paradigm beyond SalivaDirect.
 

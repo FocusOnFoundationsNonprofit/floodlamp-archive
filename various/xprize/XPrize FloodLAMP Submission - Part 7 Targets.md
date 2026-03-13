@@ -15,8 +15,8 @@ pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 585
-words: 214
+tokens: 584
+words: 215
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 7 Targets spreadsheet lists the 18 LAMP primer sequences targeting ORF1 (As1e set) and N gene (N2 set), plus 6 RNaseP internal control primers used in the FloodLAMP SARS-CoV-2 assay.
 

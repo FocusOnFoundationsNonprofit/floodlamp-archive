@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
-tokens: 142242
-words: 94537
+tokens: 142259
+words: 94535
 notes: 
 summary_short: The Complaint to FDA – ACLA LDT Complaint is a federal court filing by the American Clinical Laboratory Association and member laboratories challenging the FDA’s 2024 Final Rule that classifies laboratory-developed tests as medical devices under the FDCA. It argues the rule exceeds FDA’s statutory authority, conflicts with CLIA’s established regulatory framework for laboratory services, and is arbitrary and capricious under the Administrative Procedure Act. The complaint seeks declaratory and injunctive relief to vacate the rule and prevent FDA from enforcing device regulations on professional laboratory testing services.
 

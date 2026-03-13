@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: gdoc markdown
 license: Public Domain
-tokens: 20063
-words: 14398
+tokens: 20803
+words: 14900
 notes:
 summary_short: The FDA/Booz Allen Hamilton “Emergency Use Authorization Assessment — Final Report” summarizes an independent review of CDRH’s COVID-19 test EUA response, including how FDA used templates, guidance updates, triage/content screens, and deprioritization to manage thousands of EUA and pre-EUA submissions while prioritizing tests that increased capacity and access. It describes FDA’s validation approach (including the SARS-CoV-2 molecular reference panel and postmarket monitoring via adverse event reporting, removal lists, warning letters, and safety communications) and highlights extensive outreach tools such as town halls, FAQs, and email inboxes. It also presents Booz Allen’s priority recommendations — improving IT systems for EUA workflows, creating a systematic staffing/surge model, and developing a framework for validating diagnostics for emerging pathogens during future public health emergencies, along with FDA’s stated agreement with these priorities.
 

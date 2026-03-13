@@ -1,270 +1,277 @@
 METADATA
-last updated: 2026-02-25 BA
-file_name: 2021-12-28_Case Report - Randy.md
-file_date: 2021-12-28
-title: FloodLAMP Case Report - Randy Dec21 Infection
+last updated: 2026-03-10_105726
+file_name: _archive-combined-files_pilots_84k.md
+category: pilots
+subcategory: NA
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_pilots_84k (17 files, 84,325 tokens)
+
+METADATA
+last updated: 2026-03-10_105724
+file_name: _archive-combined-files_pilot-data_84k.md
 category: pilots
 subcategory: pilot-data
-tags:
-source_file_type: gsheet
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_pilot-data_84k (17 files, 84,234 tokens)
+
+# 9,387  aggregate_pilot-data_summary.md
+METADATA
+last updated: 2026-01-25
+file_name: aggregate_pilot-data_summary.md
+file_date: 2026-01-25
+title: Aggregate Pilot Data Summary
+category: pilot-data
+subcategory: aggregate
+tags: 
+source_file_type: csv
 xfile_type: xlsx
-gfile_url: https://docs.google.com/spreadsheets/d/1ZIbYYZ873RjV6IuUyhZ22wNdFKRv6zz1v5_Gm9VBlwE/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2021-12-28_Case%20Report%20-%20Randy.xlsx
+gfile_url: https://docs.google.com/spreadsheets/d/1b1uWHNGBL9yatTUNnzrbOTdWOMlD-XYVsn4V6pSYmmk
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/Aggregate%20Pilot%20Data%20Summary.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
-conversion_input_file_type: xlsx
-conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 505
-words: 292
-notes:
-summary_short: FloodLAMP Case Report for FloodLAMP founder Randy True documenting a COVID-19 infection from likely exposure on 2021-12-13 through recovery on 2021-12-28, tracking daily FloodLAMP QuickColor LAMP and BinaxNow antigen test results alongside symptom progression, showing first positive on Day 0 (2021-12-18) and return to negative on Day 9 (2021-12-27).
+words: 4917
+tokens: 9387
+notes: Aggregated statistics across all FloodLAMP pilot sites.
+summary_short: Aggregate FloodLAMP pilot data summary across all sites. Total tubes run: 16715; Total positive tubes: 889; Total participants: 37200; Date range: 2020-12-07 to 2023-06-04.
 
 
 CONTENT
 
-## Randy Dec21 Infection
-| Days after 1st Pos Test | Day Week | Date  | Time    | FloodLAMP QC Test Result | BinaxNow Antigen Test Result | Symptoms / Notes                                                                                                                                                          |
-|-------------------------|----------|-------|---------|-------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                         | Mon      | 12-13 | 9:00 PM |                         |                              | Likely exposure at big holiday party, honor system test req, mask req but not followed<br/>I masked 80% of time there, 3 others I was with mostly mask off, none infected |
-|                         | Tues     | 12-14 | 9:00 AM |                         |                              |                                                                                                                                                                           |
-|                         | Thurs    | 12-16 | 9:00 AM | NEG                     |                              | symptoms start at night - bad headache and 4 hrs sleep, foggy brain                                                                                                       |
-|                         | Fri      | 12-17 |         | No Test                 |                              | symptoms continue - bad headache and 4 hrs sleep, foggy brain                                                                                                             |
-| 0                       | Sat      | 12-18 | 7:00 AM | POS                     | POS - bright 5min            | symptoms continue - headache, fatigue, brain fog (more than usual)                                                                                                        |
-| 4                       |          | 12-22 | 6:00 AM | POS nasal, INC saliva   |                              | symptoms continue - headache, fatigue, brain fog (more than usual)                                                                                                        |
-| 5                       |          | 12-23 | 9:00 AM | POS                     |                              | symptoms less                                                                                                                                                             |
-| 6                       |          | 12-24 | 7:00 AM | POS                     | POS - bright                 | symptoms less                                                                                                                                                             |
-| 7                       | Sat      | 12-25 | 8:00 AM | POS                     |                              | symptoms less                                                                                                                                                             |
-| 8                       | Sun      | 12-26 | 5:00 AM | POS                     | 2pm POS - dim                | symptoms less                                                                                                                                                             |
-| 9                       | Mon      | 12-27 | 5:00 PM | NEG                     |                              | symptoms minimal/gone                                                                                                                                                     |
-| 10                      | Tues     | 12-28 | 8:00 AM | NEG                     |                              | symptoms minimal/gone                                                                                                                                                     |
-||
+## Plots
 
+### Composite
 
-# 1,174  2022-01-01_Case Report - New Years Eve.md
-METADATA
-last updated: 2026-02-25 BA
-file_name: 2022-01-01_Case Report - New Years Eve.md
-file_date: 2022-01-01
-title: FloodLAMP Case Report - New Years Eve
-category: pilots
-subcategory: pilot-data
-tags:
-source_file_type: pdf
-xfile_type: NA
-gfile_url: NA
-xfile_github_download_url: NA
-pdf_gdrive_url: https://drive.google.com/file/d/1hdTOuLxX7SnE7VL9Rdw61PeU-HE4ylli/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
-conversion_input_file_type: pdf
-conversion: msmid
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1174
-words: 679
-notes: 
-summary_short: FloodLAMP New Years Eve Case Report documenting how FloodLAMP detected an asymptomatic SARS-CoV-2 infection that all antigen and OTC/POC molecular tests missed, tracking 19 tests across 8 different test types (FloodLAMP QuickColor LAMP, FloodLAMP EasyPCR/SalivaDirect, Accula, Lucira, Detect, FlowFlex, CareStart, BinaXNow) from 12-27-21 to 01-02-22, with FloodLAMP returning the first positive on 12-31-21 while same-day antigen and rapid molecular tests were negative.
+![aggregate Weekly Composite](_plots/aggregate_weekly_composite.png)
 
+### Percent Positive Tubes
 
-CONTENT
+![aggregate Weekly Percent Positives](_plots/aggregate_weekly_percent_positives.png)
 
-| Date Collected | Time Collected | Test | Sample Type | CLAMP | Tube Code | Swab ID | Logged? | PCR Ct |
+### Volume
+
+![aggregate Weekly Volume](_plots/aggregate_weekly_volume.png)
+
+## Files
+
+### Aggregate CSVs
+- Aggregate CSV folder: `aggregate_pilot-data/`
+- Stats key-values CSV: [aggregate_pilot-data_stats_key-values.csv](aggregate_pilot-data_stats_key-values.csv)
+- Weekly summary CSV: [aggregate_pilot-data_weekly-summary.csv](aggregate_pilot-data_weekly-summary.csv)
+- Referral agreement CSV: [aggregate_pilot-data_stats_referral-agreement.csv](aggregate_pilot-data_stats_referral-agreement.csv)
+
+## Key tables
+
+### Stats key-values
+
+| section | metric | value | value_status | value_formula | sites_included_n | sites_missing_n | source_sheet | source_row |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12-27-21 | 9:37 AM | Detect | nasal swab | NEG |  |  |  |  |
-| 12-29-21 | 7:48 AM | FlowFlex Antigen | nasal swab | NEG |  |  |  |  |
-| 12-29-21 | 1:00 PM | FloodLAMP | nasal swab | NEG | MAX398 | JUR |  |  |
-| 12-31-21 | 9:00 AM | FloodLAMP | nasal swab | POS | MAX288 | JUR |  | 33.9 |
-| 12-31-21 | 2:01 PM | FlowFlex Antigen | nasal swab | NEG |  |  |  |  |
-| 12-31-21 | 2:10 PM | Detect | nasal swab | NEG |  |  |  |  |
-| 12-31-21 | 4:52 PM | Lucira | nasal swab | NEG |  |  |  |  |
-| 12-31-21 | 5:00 PM | FloodLAMP | nasal swab | NEG | MAX340 | JUR |  | 2 Und, 1 39.4 |
-| 12-31-21 | 5:00 PM | FloodLAMP | throat swab | POS | MAX347 | JUR |  | 30.2 |
-| 12-31-21 | 5:00 PM | BinaXNow Antigen | nasal swab | NEG |  |  |  |  |
-| 12-31-21 | 8:00 PM | FloodLAMP | saliva |  | MAX368 |  | logged in form | 27.7 |
-| 01-01-22 | 11:00 AM | FloodLAMP | saliva |  | MA4 |  |  | 29.0 |
-| 01-01-22 | 10:28 AM | BinaXNow | nasal swab | NEG |  |  |  |  |
-| 01-01-22 | 10:33 AM | BinaXNow | throat swab | NEG |  |  |  |  |
-| 01-01-22 | 10:45 AM | FloodLAMP | nasal swab | POS | MA63 | JUR |  | 32.2 |
-| 01-01-22 | 10:50 AM | FloodLAMP | throat swab | POS | MA92 | JUR |  | 35.5 |
-| 01-01-22 | 4:22 PM | Accula (Worksite) | nasal swab | NEG |  |  |  |  |
-| 01-02-22 | 10:30 AM | CareStart | nasal swab | POS |  |  |  |  |
-| 01-02-22 | 10:30 AM | BinaXNow | nasal swab | POS |  |  |  |  |
-||
+| Overall | Number of Tubes Tested (initial only - no re-runs) | 16,209 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Overall | Number of Tube Tests Run (includes re-runs) | 16,484 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Overall | Number of Initial Runs | 795 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Overall | Number of APS Only Tubes run | 8,727 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Overall | Number of Test Reactions (RFR plus APS only tubes run) | 17,096 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Overall | Number of Participant Results | 37,706 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Overall | Number of ARF Tubes | 386 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Overall | Sum of Participant Results plus ARF Tubes | 38,092 | ok | participant_results + arf_tubes | 10 | 0 | AGGREGATE |  |
+| Overall | Average Pool Level (excludes ARF) | 2.4 | ok | participant_results / (tubes_tested_initial - arf_tubes) | 10 | 0 | AGGREGATE |  |
+| Re-runs | Number of Run Tubes (re-runs only) | 275 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Re-runs | Number of Reactions (re-runs only) | 705 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Re-runs | Re-run % of Tubes | 1.7% | partial | rerun_tubes / tubes_tested_initial | 6 | 4 | AGGREGATE |  |
+| Re-runs | Number of Initial Runs with Re-runs | 148 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Re-runs | % Initial Runs with Re-runs | 18.6% | partial | initial_runs_with_reruns / initial_runs | 6 | 4 | AGGREGATE |  |
+| Positives | Number of Tubes with Final Result Positive | 884 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Positives | % of Tubes Positives (Final Result) | 5.5% | ok | positive_tubes_final / tubes_tested_initial | 10 | 0 | AGGREGATE |  |
+| Positives | Number of Cases with Final Result Positive (Indiv or Pool) | 87 | partial | sum(site values) | 8 | 2 | AGGREGATE |  |
+| Positives | Known Positive Cases | 337 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Positives | Unknown Positive Cases | 134 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Inconclusives | Number of Tubes with Final Result Inconclusive | 14 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Inconclusives | Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results | 3 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Inconclusives | Total Number of Inconclusive Tubes | 17 | partial | inconclusive_tubes_final + inconclusive_not_in_aps | 10 | 4 | AGGREGATE |  |
+| Inconclusives | % of Tubes Inconclusive | 0.1% | partial | total_inconclusive_tubes / tubes_tested_initial | 10 | 4 | AGGREGATE |  |
+| Inconclusives | Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence | 4 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Inconclusives | % Inconclusives resolved Positive by Referral Tests | 23.5% | partial | inconclusive_resolved_pos / total_inconclusive_tubes | 9 | 4 | AGGREGATE |  |
+| Inconclusives | Number of Inconclusive Tubes with Referral Test or Correspondence Negative | 3 | partial | sum(site values) | 8 | 2 | AGGREGATE |  |
+| Inconclusives | Number of Inconclusive Tubes with no Referral Test result or Correspondence | 9 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Inconclusives | Number of Tubes with Initial Inconclusives and Re-run Negative | 68 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Inconclusives | Number of Inconclusive Test Run Calls | 159 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Inconclusives | % Tube Tests Run Called Inconclusive | 1.0% | ok | inconclusive_run_calls / tube_tests_run_total | 10 | 0 | AGGREGATE |  |
+| Referrals and Correspondence | Number of FloodLAMP Cases with Referral Tests or Correspondence | 127 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Referrals and Correspondence | Number of Referral Confirmed FloodLAMP Positives | 121 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Referrals and Correspondence | FL Inconclusives with Referral / Correspondence Positive | 4 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| Referrals and Correspondence | % FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive | 98.4% | ok | (agree_positives + incl_ref_pos) / cases_with_referral | 10 | 0 | AGGREGATE |  |
+| Referrals and Correspondence | FL Inconclusives but Referral / Correspondence Negative | 2 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Referrals and Correspondence | FL Inconclusives with No Referral Tests or Correspondence | 12 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day) | 68 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests | 62 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative | 15 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Comparison to Antigen | % Confirmed FloodLAMP Positives with Same Day Antigen Negative | 24.2% | partial | positive_same_day_antigen_neg / positive_same_day_antigen | 6 | 4 | AGGREGATE |  |
+| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative | 1 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
+| Comparison to Antigen | % Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative |  | not_available | positive_antigen_other_neg / positive_antigen_other | 0 | 10 | AGGREGATE |  |
+| False Calls | False Positives Final Results | 0 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| False Calls | False Negative Final Results (Suspected) | 0 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
+| People | Number of Unique Individuals Tested | 2,752 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| People | Number of Unique Sponsors | 481 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Positivity | Number of Unique Individual Tested FloodLAMP Positive | 444 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Positivity | % of Population FloodLAMP Positive (excluding pools not deconv) | 16.1% | partial | unique_positive / unique_individuals | 9 | 1 | AGGREGATE |  |
+| Positivity | Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool) | 475 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
+| Positivity | % of Population FloodLAMP Positive (including everyone in a positive pool) | 17.3% | partial | unique_positive_incl_pool / unique_individuals | 9 | 1 | AGGREGATE |  |
+| Dates | Start Run Date | 2020-12-11 | ok | min(site values) | 10 | 0 | AGGREGATE |  |
+| Dates | End Run Date | 2023-06-02 | ok | max(site values) | 10 | 0 | AGGREGATE |  |
 
-### FloodLAMP New Years Eve Case Report
-caught asymptomatic infection that all antigen and OTC/POC molecular tests missed
+### Weekly summary
 
-![FloodLAMP New Years Eve Case Report](_plots/FLMP_nye_case_report.png)
+| week_start_date | week_end_date | participants_n | tubes_n | positive_tubes_n | inconclusive_tubes_n | pct_positive | pct_positive_status | pct_positive_formula | sites_included_n | sites_total_n |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2020-12-07 | 2020-12-13 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2020-12-14 | 2020-12-20 | 3 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2020-12-21 | 2020-12-27 | 2 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2020-12-28 | 2021-01-03 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-01-04 | 2021-01-10 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-01-11 | 2021-01-17 | 36 | 15 | 3 | 0 | 20.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-01-18 | 2021-01-24 | 49 | 24 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-01-25 | 2021-01-31 | 45 | 19 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-02-01 | 2021-02-07 | 31 | 11 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-02-08 | 2021-02-14 | 40 | 13 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-02-15 | 2021-02-21 | 14 | 4 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-02-22 | 2021-02-28 | 24 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-03-01 | 2021-03-07 | 35 | 11 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-03-08 | 2021-03-14 | 30 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-03-15 | 2021-03-21 | 16 | 6 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-03-22 | 2021-03-28 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-03-29 | 2021-04-04 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-04-05 | 2021-04-11 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-04-12 | 2021-04-18 | 8 | 3 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-04-19 | 2021-04-25 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-04-26 | 2021-05-02 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-05-03 | 2021-05-09 | 1 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-05-10 | 2021-05-16 | 5 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-05-17 | 2021-05-23 | 6 | 6 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-05-24 | 2021-05-30 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-05-31 | 2021-06-06 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-06-07 | 2021-06-13 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-06-14 | 2021-06-20 | 197 | 63 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-06-21 | 2021-06-27 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-06-28 | 2021-07-04 | 105 | 374 | 2 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-07-05 | 2021-07-11 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-07-12 | 2021-07-18 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-07-19 | 2021-07-25 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-07-26 | 2021-08-01 | 85 | 322 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2021-08-02 | 2021-08-08 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-08-09 | 2021-08-15 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-08-16 | 2021-08-22 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-08-23 | 2021-08-29 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2021-08-30 | 2021-09-05 | 172 | 55 | 2 | 0 | 3.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2021-09-06 | 2021-09-12 | 192 | 63 | 3 | 1 | 4.8% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2021-09-13 | 2021-09-19 | 194 | 65 | 4 | 0 | 6.2% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2021-09-20 | 2021-09-26 | 235 | 75 | 4 | 0 | 5.3% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2021-09-27 | 2021-10-03 | 240 | 108 | 1 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-10-04 | 2021-10-10 | 322 | 171 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-10-11 | 2021-10-17 | 281 | 154 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-10-18 | 2021-10-24 | 251 | 138 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-10-25 | 2021-10-31 | 219 | 108 | 1 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-11-01 | 2021-11-07 | 227 | 126 | 3 | 0 | 2.4% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-11-08 | 2021-11-14 | 220 | 120 | 16 | 0 | 13.3% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-11-15 | 2021-11-21 | 271 | 141 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-11-22 | 2021-11-28 | 157 | 74 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-11-29 | 2021-12-05 | 275 | 152 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-12-06 | 2021-12-12 | 319 | 183 | 2 | 0 | 1.1% | ok | positive_tubes_n / tubes_n | 5 | 10 |
+| 2021-12-13 | 2021-12-19 | 396 | 246 | 9 | 2 | 3.7% | ok | positive_tubes_n / tubes_n | 5 | 10 |
+| 2021-12-20 | 2021-12-26 | 535 | 260 | 31 | 0 | 11.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2021-12-27 | 2022-01-02 | 1368 | 488 | 66 | 0 | 13.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-01-03 | 2022-01-09 | 3400 | 1502 | 327 | 1 | 21.8% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-01-10 | 2022-01-16 | 3188 | 1251 | 167 | 1 | 13.3% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-01-17 | 2022-01-23 | 2766 | 1013 | 102 | 0 | 10.1% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-01-24 | 2022-01-30 | 3041 | 1053 | 48 | 0 | 4.6% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-01-31 | 2022-02-06 | 2897 | 966 | 27 | 0 | 2.8% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-02-07 | 2022-02-13 | 2878 | 933 | 23 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-02-14 | 2022-02-20 | 2876 | 977 | 5 | 2 | 0.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-02-21 | 2022-02-27 | 2216 | 783 | 4 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-02-28 | 2022-03-06 | 732 | 316 | 3 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-03-07 | 2022-03-13 | 271 | 165 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-03-14 | 2022-03-20 | 180 | 93 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-03-21 | 2022-03-27 | 212 | 147 | 1 | 0 | 0.7% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-03-28 | 2022-04-03 | 27 | 14 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-04-04 | 2022-04-10 | 246 | 189 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-04-11 | 2022-04-17 | 225 | 164 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-04-18 | 2022-04-24 | 250 | 187 | 1 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-04-25 | 2022-05-01 | 221 | 156 | 2 | 0 | 1.3% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-05-02 | 2022-05-08 | 148 | 70 | 2 | 0 | 2.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-05-09 | 2022-05-15 | 260 | 197 | 4 | 2 | 2.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
+| 2022-05-16 | 2022-05-22 | 227 | 160 | 1 | 0 | 0.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-05-23 | 2022-05-29 | 243 | 189 | 1 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-05-30 | 2022-06-05 | 191 | 149 | 1 | 0 | 0.7% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-06-06 | 2022-06-12 | 87 | 145 | 3 | 0 | 2.1% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-06-13 | 2022-06-19 | 19 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-06-20 | 2022-06-26 | 13 | 5 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-06-27 | 2022-07-03 | 97 | 129 | 4 | 3 | 3.1% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-07-04 | 2022-07-10 | 131 | 132 | 1 | 0 | 0.8% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-07-11 | 2022-07-17 | 124 | 124 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-07-18 | 2022-07-24 | 105 | 204 | 4 | 0 | 2.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-07-25 | 2022-07-31 | 14 | 7 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-08-01 | 2022-08-07 | 63 | 90 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-08-08 | 2022-08-14 | 62 | 62 | 1 | 0 | 1.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-08-15 | 2022-08-21 | 0 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-08-22 | 2022-08-28 | 4 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-08-29 | 2022-09-04 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-09-05 | 2022-09-11 | 121 | 64 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-09-12 | 2022-09-18 | 145 | 57 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-09-19 | 2022-09-25 | 118 | 52 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-09-26 | 2022-10-02 | 151 | 63 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-10-03 | 2022-10-09 | 154 | 65 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
+| 2022-10-10 | 2022-10-16 | 120 | 51 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-10-17 | 2022-10-23 | 111 | 50 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-10-24 | 2022-10-30 | 118 | 56 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-10-31 | 2022-11-06 | 84 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-11-07 | 2022-11-13 | 102 | 46 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-11-14 | 2022-11-20 | 89 | 46 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-11-21 | 2022-11-27 | 49 | 28 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-11-28 | 2022-12-04 | 114 | 48 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-12-05 | 2022-12-11 | 98 | 40 | 1 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-12-12 | 2022-12-18 | 42 | 24 | 1 | 0 | 4.2% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-12-19 | 2022-12-25 | 64 | 32 | 2 | 0 | 6.2% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2022-12-26 | 2023-01-01 | 6 | 3 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2023-01-02 | 2023-01-08 | 100 | 41 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
+| 2023-01-09 | 2023-01-15 | 80 | 39 | 0 | 2 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-01-16 | 2023-01-22 | 86 | 40 | 0 | 1 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-01-23 | 2023-01-29 | 65 | 29 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-01-30 | 2023-02-05 | 13 | 7 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-02-06 | 2023-02-12 | 70 | 33 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-02-13 | 2023-02-19 | 87 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-02-20 | 2023-02-26 | 89 | 40 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-02-27 | 2023-03-05 | 81 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-03-06 | 2023-03-12 | 112 | 47 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-03-13 | 2023-03-19 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-03-20 | 2023-03-26 | 84 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-03-27 | 2023-04-02 | 90 | 40 | 1 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-04-03 | 2023-04-09 | 54 | 28 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-04-10 | 2023-04-16 | 81 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-04-17 | 2023-04-23 | 67 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-04-24 | 2023-04-30 | 55 | 33 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-05-01 | 2023-05-07 | 43 | 22 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-05-08 | 2023-05-14 | 67 | 31 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-05-15 | 2023-05-21 | 54 | 31 | 1 | 0 | 3.2% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-05-22 | 2023-05-28 | 49 | 26 | 4 | 0 | 15.4% | ok | positive_tubes_n / tubes_n | 1 | 10 |
+| 2023-05-29 | 2023-06-04 | 43 | 25 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
 
-|  |  |  | |  |  |  |
-|---|---|---|---|---|---|---|
-| FloodLAMP EasyPCR on saliva | | | | POS - SalivaDirect PCR Ct 27.7, 8 PM | POS - SalivaDirect PCR Ct 27.7, 11 AM | |
-| Accula Rapid Molecular PCR (Worksite) | | | | | Accula NEG - nasal swab, 4 PM | |
-| Lucira Rapid Molecular LAMP | | | | Lucira NEG - nasal swab, 5 PM | | |
-| Detect Rapid Molecular LAMP | NEG - nasal swab, 10 AM |  | Detect NEG - nasal swab, 2 PM | | | |
-| CaseStart Antigen | | | | | | |
-| FlowFlex Antigen | | NEG - nasal swab, 8 AM | NEG - nasal swab, 2 PM | | | POS - nasal swab, 10 AM |
-| BinaxNow Antigen | | | | NEG - nasal swab, 5 PM | NEG - nasal and throat swabs, 10 AM | POS - nasal swab, 10 AM |
-| FloodLAMP QuickColor LAMP Nasal Swab | | NEG - nasal swab, 1 PM | | NEG - nasal swab PCR Ct Und/39.4, 5PM | POS - nasal swab PCR Ct 32.2, 10 AM | |
-| FloodLAMP QuickColor LAMP Throat Swab | | | POS - nasal swab PCR Ct 33.9, 9 AM | POS - throat swab PCR Ct 30.2, 5 PM | POS - throat swab PCR Ct 35.5, 10 AM | |
-|  | 12-27-21 | 12-29-21 | 12-31-21 | 12-31-22 | 1-1-22 | 1-2-22 |
-||
+### Referral agreement
 
-
-# 4,849  2022-01-02_Carillon Case Report of Asymptomatic Positive Family Pool.md
-METADATA
-last updated: 2026-02-25 BA
-file_name: 2022-01-02_Carillon Case Report of Asymptomatic Positive Family Pool.md
-file_date: 2022-01-02
-title: FloodLAMP Case Report - Carillon Asymptomatic Positive Family Pool
-category: pilots
-subcategory: pilot-data
-tags:
-source_file_type: gsheet
-xfile_type: xlsx
-gfile_url: https://docs.google.com/spreadsheets/d/1eWD8z2MqoZEVoTFPJWcxr7-UsxcyYGklwmAUhEuawbM/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
-pdf_gdrive_url: NA
-pdf_github_url: NA
-conversion_input_file_type: xlsx
-conversion: msmid
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4849
-words: 2430
-notes: 
-summary_short: FloodLAMP Carillon preschool case report documenting a family pool (2 parents, 2 children) where FloodLAMP detected an asymptomatic SARS-CoV-2 infection on 2022-01-02 through pooled household testing while same-day BinaxNow antigen tests were negative for both parents. Individual FloodLAMP follow-up confirmed both parents positive on 01-03, and children developed symptoms and tested positive by home antigen on 01-04, followed by confirmatory PCR lab tests for all family members. The family remained FloodLAMP-positive through 01-17.
-
-
-CONTENT
-
-## Example Data
-### FLOODLAMP DATA with EXTRA COLUMNS ADDED
-| TUBE ID | SPONSOR  | PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL   | SYMPTOMS | POOLED | TAT     | NOTES |
-|---------|----------|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|--------------|----------|--------|---------|-------|
-| FLT1134 | Jane Doe | Kid1 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLY1134 | Jane Doe | Kid1 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLT1134 | Jane Doe | Kid2 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLY1134 | Jane Doe | Kid2 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLT1134 | Jane Doe | John Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLY1134 | Jane Doe | John Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLT1134 | Jane Doe | Jane Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLY1134 | Jane Doe | Jane Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLE484  | Jane Doe | Kid1 Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLE484  | Jane Doe | Kid2 Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLE484  | Jane Doe | John Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLE484  | Jane Doe | Jane Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
-| FLT1433 | Jane Doe | Kid1 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
-| FLT1433 | Jane Doe | Kid2 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
-| FLT1433 | Jane Doe | John Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
-| FLT1433 | Jane Doe | Jane Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
-| FLT1570 | Jane Doe | Kid1 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
-| FLT14   | Jane Doe | Kid2 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
-| FLT1128 | Jane Doe | John Doe    |       |      | Positive | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
-| FLE810  | Jane Doe | Kid1 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
-| FLE885  | Jane Doe | Kid2 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
-| FLE895  | Jane Doe | John Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
-| FLE812  | Jane Doe | Jane Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
-| FLB7156 | Jane Doe | Kid1 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
-| FLB7156 | Jane Doe | Jane Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
-| FLB7156 | Jane Doe | Kid2 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
-| FLB7156 | Jane Doe | John Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |
-||
-
-### NON FLOODLAMP TEST DATA (can be from before or after FloodLAMP test)
-| PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL | SYMPTOMS | POOLED | TAT       | NOTES                   |
-|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|------------|----------|--------|-----------|-------------------------|
-| John Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow   | Asym     | 0      | immediate | evening after referral  |
-| Jane Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow   | Asym     | 0      | immediate | evening after referral  |
-| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/4/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
-| Kid2 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown    | Sympt    | 0      | immediate |                         |
-| Kid1 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown    | Sympt    | 0      | immediate |                         |
-| Jane Doe    |       |      | Positive | 1/4/2022        |                 | 1/7/2022    | Molecular | PCR Lab    |          | 0      | 3 days    |                         |
-| Kid2 Doe    |       |      | Positive | 1/6/2022        |                 | 1/7/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
-| Kid1 Doe    |       |      | Positive | 1/7/2022        |                 | 1/8/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
-| Kid2 Doe    |       |      | Positive | 1/13/2022       |                 | 1/13/2022   | Antigen   | Unknown    |          | 0      | immediate | slight second line      |
-| John Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
-| Jane Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
-| Kid2 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
-| Kid1 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |
-||
-
-### COMBINED TEST DATA
-| PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL   |  | POOLED | TAT       | NOTES                   |  | DAY SP |
-|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|--------------|--|--------|-----------|-------------------------|--|--------|
-| Kid1 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
-| Kid2 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
-| John Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
-| John Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow     |  | 0      | immediate | evening after referral  |  | 0      |
-| Jane Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
-| Jane Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow     |  | 0      | immediate | evening after referral  |  | 0      |
-| Kid1 Doe    |       |      | Negative | 1/3/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
-| Kid2 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
-| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
-| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/4/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 1      |
-| Jane Doe    |       |      | Positive | 1/4/2022        |                 | 1/7/2022    | Molecular | PCR Lab      |  | 0      | 3 days    |                         |  | 2      |
-| Kid2 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown      |  | 0      | immediate |                         |  | 2      |
-| Kid1 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown      |  | 0      | immediate |                         |  | 2      |
-| Kid2 Doe    |       |      | Positive | 1/6/2022        |                 | 1/7/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 4      |
-| Kid1 Doe    |       |      | Positive | 1/7/2022        |                 | 1/8/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 5      |
-| Kid1 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
-| Kid2 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
-| John Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
-| Jane Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
-| Kid2 Doe    |       |      | Positive | 1/13/2022       |                 | 1/13/2022   | Antigen   | Unknown      |  | 0      | immediate | slight second line      |  | 11     |
-| Kid1 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
-| Kid2 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
-| John Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
-| Jane Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
-| Kid1 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
-| Kid2 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
-| John Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
-| Jane Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
-||
-
-### TABLE VIEW for FAMILY
-![Carillon Case Report](_plots/FLMP_carillon_case_report.png)
-
-| | | 1/2/2022 (0) | 1/3/2022 (1) | 1/4/2022 (2) | 1/6/2022 (4) | 1/7/2022 (5) | 1/8/2022 (6) | 1/9/2022 (7) | 1/10/2022 (8) | 1/13/2022 (11) | 1/14/2022 (12) | 1/17/2022 (15) |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | Family Pool | POS FloodLAMP | | | | | | | | | | POS FloodLAMP |
-| Jane Doe | Parent 1 | Asymptomatic<br>POS FloodLAMP (Family Pool)<br>NEG Antigen | POS FloodLAMP (Indiv) | POS PCR Lab > | > > > > > | > POS PCR Result | | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
-| John Doe | Parent 2 | Asymptomatic<br>POS FloodLAMP (Family Pool)<br>NEG Antigen | POS FloodLAMP<br>POS PCR Lab > | Symptoms<br>> POS PCR Result | | | | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
-| Kid1 Doe | Child 1 | Asymptomatic<br>POS FloodLAMP (Family Pool) | NEG FloodLAMP | Symptoms<br>POS Antigen | Asymptomatic | POS PCR Lab > | > POS PCR Result | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
-| Kid2 Doe | Child 2 | Asymptomatic<br>POS FloodLAMP (Family Pool) | NEG FloodLAMP | Symptoms<br>POS Antigen | Asymptomatic<br>POS PCR Lab > | | > POS PCR Result | POS FloodLAMP (Indiv) | > POS FL Result | POS Antigen (slight) | NEG Antigen | POS FloodLAMP (Family Pool) |
-||
-
-### CALENDAR INFO from PEOPLE
-**Jan 2nd**
-- FloodLAMP pool samples – Positive result as a household
-- Abbott BinaxNow Home antigen test – John & Jane, Negative result
-
-**Jan 3rd**
-- FloodLAMP individual samples provided – John & Jane positive, Kid2 Kid1 negative
-- John PCR test taken
-
-**Jan 4th**
-- Jane PCR test taken
-- John PCR test results – Positive
-- Kid2 & Kid1 home antigen test taken – Positive
-
-**Jan 6th**
-- Kid2 PCR test taken
-
-**Jan 7th**
-- Kid1 PCR test taken
-- Kid2 PCR results – Positive
-- Jane PCR results – Positive
-
-**Jan 8th**
-- Kid1 PCR results – Positive
-
-**Jan 13th**
-- Kid2 home antigen test – Mostly negative with a slight second line
-
-**Jan 14th**
-- John, Kid2, Kid1, Jane home antigen test – Negative (no slight second line)
-
-**Jan 17th**
-- FloodLAMP pool samples dropped off – still detected positive as a household
+| fl_result_category | tubes_n | cases_n | with_ref_or_corresp_n | agree_n | agree_pct | agree_pct_status | disagree_n | disagree_pct | disagree_pct_status | ref_cor_pos_n | incl_gt_pos_pct | incl_gt_pos_pct_status | ref_cor_neg_n | incl_gt_neg_pct | incl_gt_neg_pct_status | source_sheet | source_anchor | agree_pct_formula | disagree_pct_formula | incl_gt_pos_pct_formula | incl_gt_neg_pct_formula | sites_included_n |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Positive | 884 | 87 | 120 | 119 | 99.2% | ok | 1 | 0.8% | ok |  |  |  |  |  |  | AGGREGATE |  | agree_n / with_ref_or_corresp_n | disagree_n / with_ref_or_corresp_n |  |  | 8 |
+| Inconclusive | 17 | 16 | 7 |  |  |  |  |  |  | 4 | 57.1% | ok | 2 | 28.6% | ok | AGGREGATE |  |  |  | ref_cor_pos_n / with_ref_or_corresp_n | ref_cor_neg_n / with_ref_or_corresp_n | 8 |
 
 
 # 4,842  ABRM_pilot-data_summary.md
@@ -1148,6 +1155,169 @@ CONTENT
 | FLMP987142 | 3 | 2 | AG721 | Positive | 2022-05-02 | 2022-05-05 | Positive | Antigen | Positive | Antigen | Unknown | PCR | Positive | True | Partner tested pos by antigen then this partner tested neg by antigen 3 days in a row then next day was FL pos, which was confirmed by PCR collected same day and resulted 2 days later (this was a teacher - so FL screening likely stopped spread!) |
 
 
+# 4,082  DAVI_pilot-data_summary.md
+METADATA
+last updated: 2026-01-25
+file_name: DAVI_pilot-data_summary.md
+file_date: 2022-03-18
+title: DAVI Pilot Data Summary
+category: pilots
+subcategory: pilot-data
+tags: 
+source_file_type: csv
+xfile_type: xlsx
+gfile_url: **FLAGGED - TO BE INSERTED**
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/DAVI_xlsx_downloads
+pdf_gdrive_url: NA
+pdf_github_url: NA
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+words: 2539
+tokens: 4082
+notes: 
+summary_short: Davie Fire and Rescue (DAVI) was a city/EMS program in Davie, FL where fire department staff operated FloodLAMP for pooled self-collection testing of EMS, first responders, and city staff at their fire station, using a standard configuration without the FloodLAMP mobile app. The program ran over 6 months (2021-09-01 to 2022-03-18), testing 2,279 tubes from 4,409 participant results with 384 positive tubes detected (16.8% positivity rate during the Delta and Omicron waves). All sample processing for the ROSA production pilot program was performed at the Davie site by the Davie staff.
+
+
+CONTENT
+
+## Plots
+
+### Composite
+
+![DAVI Weekly Composite](_plots/DAVI_weekly_composite.png)
+
+### Percent Positive Tubes
+
+![DAVI Weekly Percent Positives](_plots/DAVI_weekly_percent_positives.png)
+
+### Volume
+
+![DAVI Weekly Volume](_plots/DAVI_weekly_volume.png)
+
+## Files
+
+### Google Sheets URLs
+- [DAVI_RTR_deID_PUB](https://docs.google.com/spreadsheets/d/1gIvvt-IHhGwbIv_mVSF5QEfjbm5WdoSUDe4MW8SSCcA/edit?usp=drive_link)
+- [DAVI_RSR_deID_PUB](https://docs.google.com/spreadsheets/d/1QslpxtCjyHeau4SIHuLbkjLaLtB7tNrK3jQh96s3bIo/edit?usp=drive_link)
+
+### Curated CSVs
+- Curated CSV folder: `DAVI_curated_csvs/`
+- Stats key-values CSV: [DAVI_RSR_stats_key-values.csv](DAVI_curated_csvs/DAVI_RSR_stats_key-values.csv)
+- Weekly summary CSV: [DAVI_RSR_weekly-summary.csv](DAVI_curated_csvs/DAVI_RSR_weekly-summary.csv)
+- Referral tests by person CSV: _not available_
+
+### XLSX downloads:
+- [DAVI_RSR_deID_PUB.xlsx](DAVI_xlsx_downloads/DAVI_RSR_deID_PUB.xlsx)
+- [DAVI_RTR_deID_PUB.xlsx](DAVI_xlsx_downloads/DAVI_RTR_deID_PUB.xlsx)
+
+## Key tables
+
+### Stats key-values
+
+| section | metric | value | value_status | details | comments | source_sheet | source_row |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Files | RFR File | NONE | ok |  |  | Stats | 1 |
+| Files | RTR File | DAVI_RTR_PHI_v2.0 | ok |  |  | Stats | 2 |
+| Files | APS File | NONE | ok |  |  | Stats | 3 |
+| Overall | Number of Tubes Tested (initial only - no re-runs) | 2,279 | ok | initial run tubes only so excludes re-runs | Have no data on re-runs so just use reported tubes/pools total | Stats | 5 |
+| Overall | Number of Tube Tests Run (includes re-runs) | 2,279 | ok | includes re-runs |  | Stats | 6 |
+| Overall | Number of Initial Runs | 50 | ok |  | Use estimated number of runs based on number of days and pools run in  RSR reported weekly total | Stats | 7 |
+| Overall | Number of APS Only Tubes run | 0 | ok |  |  | Stats | 8 |
+| Overall | Number of Test Reactions (RFR plus APS only tubes run) | 2,279 | ok | includes technical replicates (the same tube sample in multiple reactions in the same run) |  | Stats | 9 |
+| Overall | Number of Participant Results | 4,409 | ok | counts individual samples in pools and excludes re-runs |  | Stats | 11 |
+| Overall | Number of ARF Tubes | 0 | ok | tubes run and present in RFR but not in Appivo - created tube IDs that start with ARF |  | Stats | 12 |
+| Overall | Sum of Participant Results plus ARF Tubes | 4,409 | ok | Will be equal to the number of tubes tested if no pooling. |  | Stats | 13 |
+| Overall | Average Pool Level (excludes ARF) | 1.9 | ok |  |  | Stats | 14 |
+| Re-runs | Number of Run Tubes (re-runs only) |  | not_available | from RFR Audit Num Run Tubes |  | Stats | 17 |
+| Re-runs | Number of Reactions (re-runs only) |  | not_available | from RFR Audit Num rxns (excl ctrls) |  | Stats | 18 |
+| Re-runs | Re-run % of Tubes |  | not_available | re-run / initial |  | Stats | 19 |
+| Re-runs | Number of Initial Runs with Re-runs |  | not_available |  |  | Stats | 20 |
+| Re-runs | % Initial Runs with Re-runs |  | not_available |  |  | Stats | 21 |
+| Positives | Number of Tubes with Final Result Positive | 384 | ok |  |  | Stats | 24 |
+| Positives | % of Tubes Positives (Final Result) | 16.8% | ok |  |  | Stats | 25 |
+| Positives | Number of Cases with Final Result Positive (Indiv or Pool) |  | not_available | Subtract off Re-tests | Not Available - not tube level data so no way to know cases | Stats | 26 |
+| Positives | Known Positive Cases | 329 | ok | Previous tested (including by FloodLAMP test) or reported positive | Many Return To Work tests after Initial Positive | Stats | 27 |
+| Positives | Unknown Positive Cases | 55 | ok |  |  | Stats | 28 |
+| Inconclusives | Number of Tubes with Final Result Inconclusive | 1 | ok |  |  | Stats | 31 |
+| Inconclusives | Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results |  | not_available |  |  | Stats | 32 |
+| Inconclusives | Total Number of Inconclusive Tubes | 1 | ok |  |  | Stats | 33 |
+| Inconclusives | % of Tubes Inconclusive | 0.0% | ok |  |  | Stats | 34 |
+| Inconclusives | Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence |  | not_available |  |  | Stats | 35 |
+| Inconclusives | % Inconclusives resolved Positive by Referral Tests | 0.0% | ok |  |  | Stats | 36 |
+| Inconclusives | Number of Inconclusive Tubes with Referral Test or Correspondence Negative |  | not_available |  |  | Stats | 37 |
+| Inconclusives | Number of Inconclusive Tubes with no Referral Test result or Correspondence | 1 | ok |  | No information on how this Final Inconclusive was resolved | Stats | 38 |
+| Inconclusives | Number of Tubes with Initial Inconclusives and Re-run Negative |  | not_available | Count Result Correction Code=2.5 in preDel col AJ, or from RFR preExcl if not resulted as Incl in App |  | Stats | 39 |
+| Inconclusives | Number of Inconclusive Test Run Calls | 26 | ok | includes re-runs - from RFR Audit only and excludes any APS only resulted inconclusives |  | Stats | 40 |
+| Inconclusives | % Tube Tests Run Called Inconclusive | 1.1% | ok | includes re-runs |  | Stats | 41 |
+| Referrals and Correspondence | Number of FloodLAMP Cases with Referral Tests or Correspondence | 44 | ok | Indiv or Pool, Cases used instead of Person to account for people being contracting COVID multiple times, and instead of Results to exclude re-tests | from Col C of RTR/Referral Antigen Comparison (formula to right) | Stats | 44 |
+| Referrals and Correspondence | Number of Referral Confirmed FloodLAMP Positives | 43 | ok | Sometimes also termed Agree Positives - Include initial Inconclusive with Referral or Correspondence Positive | One missing was antigen neg same day but never follow up antigen tested - it tested positive by FloodLAMP 4 times over the next 10 days and the person became symptomatic but we cannot count it was an Agree because technically there's no Pos referral test | Stats | 45 |
+| Referrals and Correspondence | FL Inconclusives with Referral / Correspondence Positive | 0 | ok |  | No information on the singe Final Inconclusive | Stats | 46 |
+| Referrals and Correspondence | % FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive | 97.7% | ok |  | This excludes many we do not have referral data on | Stats | 47 |
+| Referrals and Correspondence | FL Inconclusives but Referral / Correspondence Negative | 0 | ok |  |  | Stats | 48 |
+| Referrals and Correspondence | FL Inconclusives with No Referral Tests or Correspondence | 1 | ok |  |  | Stats | 49 |
+| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day) | 44 | ok |  |  | Stats | 52 |
+| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests | 38 | ok |  |  | Stats | 53 |
+| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative | 4 | ok | Agree with Referral Test Positive (usually PCR or later Antigen) but Initial Antigen Negative | See table at the top right of RTR/Referral Antigen Comparison (formula to right) | Stats | 54 |
+| Comparison to Antigen | % Confirmed FloodLAMP Positives with Same Day Antigen Negative | 10.5% | ok |  |  | Stats | 55 |
+| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative | 0 | ok |  |  | Stats | 56 |
+| Comparison to Antigen | % Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative | 0.0% | ok |  |  | Stats | 57 |
+| False Calls | False Positives Final Results | 0 | ok | From reviewing APS/Pos and Incl tab Unconfirmed FL Positives |  | Stats | 60 |
+| False Calls | False Negative Final Results (Suspected) | 0 | ok | From reviewing Referral Tests by Person and correspondence with Program Admin |  | Stats | 61 |
+| People | Number of Unique Individuals Tested |  | not_available | Includes UnknownPerson additions but not ARF tubes | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 64 |
+| People | Number of Unique Sponsors |  | not_available | People who collect using the app | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 65 |
+| Positivity | Number of Unique Individual Tested FloodLAMP Positive |  | not_available | includes Inconclusive FloodLAMP result confirmed Positive by follow-up or Referral | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 68 |
+| Positivity | % of Population FloodLAMP Positive (excluding pools not deconv) |  | not_available |  |  | Stats | 69 |
+| Positivity | Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool) |  | not_available |  | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 70 |
+| Positivity | % of Population FloodLAMP Positive (including everyone in a positive pool) |  | not_available |  |  | Stats | 71 |
+| Dates | Start Run Date | 2021-09-01 | ok |  |  | Stats | 74 |
+| Dates | End Run Date | 2022-03-18 | ok |  |  | Stats | 75 |
+| Info | Test Operator | Davie Fire and Rescue | ok | Who ran the actual testing (running LAMP reactions) |  | Stats | 78 |
+| Info | Test Processing Site | Fire Station Office | ok | Where the test processing (running LAMP reactions) was done |  | Stats | 79 |
+| Info | Population Tested | EMS, First Responders, City Staff | ok | Description of the participants |  | Stats | 80 |
+| Info | Configuration | Standard | ok | Equipment set used for test processing (relates to throughput and type of test tube used) |  | Stats | 81 |
+| Info | Collection Type | Pooled | ok |  Pooled, Individual, or Both |  | Stats | 82 |
+| Info | Self or HCW Collected | Self | ok | HCW is Health Care Worker |  | Stats | 83 |
+| Info | App Used? | No | ok | Was the FloodLAMP Mobile App and Admin Portal utilized in the program |  | Stats | 84 |
+| Info | Bring-up Type | In Person | ok | How the initial setup and validation of the testing site was done |  | Stats | 85 |
+| Info | Program Name | Davie | ok | Shorthand name used internally at FloodLAMP and in other documents for this program |  | Stats | 86 |
+| Info | Site | Fire Station | ok | Broader physical space where the testing was done and/or where participants congregated |  | Stats | 87 |
+| Info | Site Type | City / EMS | ok | Type of entity or organization receiving the testing program |  | Stats | 88 |
+| Info | Location | Davie, FL | ok | Geographical location of where the FloodLAMP testing program occurred |  | Stats | 89 |
+
+### Weekly summary
+
+| week_start_date | week_end_date | participants_n | tubes_n | positive_tubes_n | inconclusive_tubes_n | pct_positive | pct_positive_status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2021-08-30 | 2021-09-05 | 54 | 19 | 2 | 0 | 10.5% | ok |
+| 2021-09-06 | 2021-09-12 | 75 | 26 | 3 | 1 | 11.5% | ok |
+| 2021-09-13 | 2021-09-19 | 75 | 26 | 4 | 0 | 15.4% | ok |
+| 2021-09-20 | 2021-09-26 | 75 | 27 | 4 | 0 | 14.8% | ok |
+| 2021-09-27 | 2021-10-03 | 107 | 59 | 1 | 0 | 1.7% | ok |
+| 2021-10-04 | 2021-10-10 | 130 | 49 | 0 | 0 | 0.0% | ok |
+| 2021-10-11 | 2021-10-17 | 91 | 40 | 0 | 0 | 0.0% | ok |
+| 2021-10-18 | 2021-10-24 | 123 | 52 | 0 | 0 | 0.0% | ok |
+| 2021-10-25 | 2021-10-31 | 80 | 30 | 1 | 0 | 3.3% | ok |
+| 2021-11-01 | 2021-11-07 | 61 | 28 | 3 | 0 | 10.7% | ok |
+| 2021-11-08 | 2021-11-14 | 80 | 34 | 2 | 0 | 5.9% | ok |
+| 2021-11-15 | 2021-11-21 | 111 | 41 | 0 | 0 | 0.0% | ok |
+| 2021-11-22 | 2021-11-28 | 48 | 17 | 0 | 0 | 0.0% | ok |
+| 2021-11-29 | 2021-12-05 | 117 | 62 | 0 | 0 | 0.0% | ok |
+| 2021-12-06 | 2021-12-12 | 115 | 55 | 2 | 0 | 3.6% | ok |
+| 2021-12-13 | 2021-12-19 | 159 | 85 | 4 | 0 | 4.7% | ok |
+| 2021-12-20 | 2021-12-26 | 269 | 151 | 16 | 0 | 10.6% | ok |
+| 2021-12-27 | 2022-01-02 |  |  | 0 |  |  | not_available |
+| 2022-01-03 | 2022-01-09 | 801 | 575 | 217 | 0 | 37.7% | ok |
+| 2022-01-10 | 2022-01-16 | 350 | 225 | 60 | 0 | 26.7% | ok |
+| 2022-01-17 | 2022-01-23 | 216 | 118 | 29 | 0 | 24.6% | ok |
+| 2022-01-24 | 2022-01-30 | 202 | 108 | 14 | 0 | 13.0% | ok |
+| 2022-01-31 | 2022-02-06 | 217 | 110 | 11 | 0 | 10.0% | ok |
+| 2022-02-07 | 2022-02-13 | 223 | 91 | 9 | 0 | 9.9% | ok |
+| 2022-02-14 | 2022-02-20 | 227 | 92 | 2 | 0 | 2.2% | ok |
+| 2022-02-21 | 2022-02-27 | 168 | 63 | 0 | 0 | 0.0% | ok |
+| 2022-02-28 | 2022-03-06 | 94 | 37 | 0 | 0 | 0.0% | ok |
+| 2022-03-07 | 2022-03-13 | 70 | 26 | 0 | 0 | 0.0% | ok |
+| 2022-03-14 | 2022-03-20 | 71 | 33 | 0 | 0 | 0.0% | ok |
+
+
 # 8,120  DAVI_pilot-data_referral-antigen-comparison.md
 METADATA
 last updated: 2026-01-25
@@ -1159,7 +1329,7 @@ subcategory: pilot-data
 tags: 
 source_file_type: csv
 xfile_type: xlsx
-gfile_url: NA
+gfile_url: https://docs.google.com/document/d/13mShkjR7lnJSbZnggKarg6NDrgYXdhvEaPbQSLn3zaA
 xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/DAVI_xlsx_downloads
 pdf_gdrive_url: NA
 pdf_github_url: NA
@@ -1359,169 +1529,6 @@ _Testing between Jan 10th and Feb 7th (FloodLAMP used for initial + diagnosis an
 | 2022-01-10 00:00:00 | 2022-02-07 00:00:00 | 3 | Symptomatic | Positive | Positive | True |  | 6 | 7 | 0 |
 | 2022-01-10 00:00:00 | 2022-02-07 00:00:00 | 0 | Symptomatic | Positive | Positive | True |  | 9 | 10 | 0 |
 | 2022-01-10 00:00:00 | 2022-02-07 00:00:00 | 3 | Symptomatic | Positive | Positive | True |  | 10 | 11 | 0 |
-
-
-# 4,082  DAVI_pilot-data_summary.md
-METADATA
-last updated: 2026-01-25
-file_name: DAVI_pilot-data_summary.md
-file_date: 2022-03-18
-title: DAVI Pilot Data Summary
-category: pilots
-subcategory: pilot-data
-tags: 
-source_file_type: csv
-xfile_type: xlsx
-gfile_url: NA
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/DAVI_xlsx_downloads
-pdf_gdrive_url: NA
-pdf_github_url: NA
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-words: 2539
-tokens: 4082
-notes: 
-summary_short: Davie Fire and Rescue (DAVI) was a city/EMS program in Davie, FL where fire department staff operated FloodLAMP for pooled self-collection testing of EMS, first responders, and city staff at their fire station, using a standard configuration without the FloodLAMP mobile app. The program ran over 6 months (2021-09-01 to 2022-03-18), testing 2,279 tubes from 4,409 participant results with 384 positive tubes detected (16.8% positivity rate during the Delta and Omicron waves). All sample processing for the ROSA production pilot program was performed at the Davie site by the Davie staff.
-
-
-CONTENT
-
-## Plots
-
-### Composite
-
-![DAVI Weekly Composite](_plots/DAVI_weekly_composite.png)
-
-### Percent Positive Tubes
-
-![DAVI Weekly Percent Positives](_plots/DAVI_weekly_percent_positives.png)
-
-### Volume
-
-![DAVI Weekly Volume](_plots/DAVI_weekly_volume.png)
-
-## Files
-
-### Google Sheets URLs
-- [DAVI_RTR_deID_PUB](https://docs.google.com/spreadsheets/d/1gIvvt-IHhGwbIv_mVSF5QEfjbm5WdoSUDe4MW8SSCcA/edit?usp=drive_link)
-- [DAVI_RSR_deID_PUB](https://docs.google.com/spreadsheets/d/1QslpxtCjyHeau4SIHuLbkjLaLtB7tNrK3jQh96s3bIo/edit?usp=drive_link)
-
-### Curated CSVs
-- Curated CSV folder: `DAVI_curated_csvs/`
-- Stats key-values CSV: [DAVI_RSR_stats_key-values.csv](DAVI_curated_csvs/DAVI_RSR_stats_key-values.csv)
-- Weekly summary CSV: [DAVI_RSR_weekly-summary.csv](DAVI_curated_csvs/DAVI_RSR_weekly-summary.csv)
-- Referral tests by person CSV: _not available_
-
-### XLSX downloads:
-- [DAVI_RSR_deID_PUB.xlsx](DAVI_xlsx_downloads/DAVI_RSR_deID_PUB.xlsx)
-- [DAVI_RTR_deID_PUB.xlsx](DAVI_xlsx_downloads/DAVI_RTR_deID_PUB.xlsx)
-
-## Key tables
-
-### Stats key-values
-
-| section | metric | value | value_status | details | comments | source_sheet | source_row |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Files | RFR File | NONE | ok |  |  | Stats | 1 |
-| Files | RTR File | DAVI_RTR_PHI_v2.0 | ok |  |  | Stats | 2 |
-| Files | APS File | NONE | ok |  |  | Stats | 3 |
-| Overall | Number of Tubes Tested (initial only - no re-runs) | 2,279 | ok | initial run tubes only so excludes re-runs | Have no data on re-runs so just use reported tubes/pools total | Stats | 5 |
-| Overall | Number of Tube Tests Run (includes re-runs) | 2,279 | ok | includes re-runs |  | Stats | 6 |
-| Overall | Number of Initial Runs | 50 | ok |  | Use estimated number of runs based on number of days and pools run in  RSR reported weekly total | Stats | 7 |
-| Overall | Number of APS Only Tubes run | 0 | ok |  |  | Stats | 8 |
-| Overall | Number of Test Reactions (RFR plus APS only tubes run) | 2,279 | ok | includes technical replicates (the same tube sample in multiple reactions in the same run) |  | Stats | 9 |
-| Overall | Number of Participant Results | 4,409 | ok | counts individual samples in pools and excludes re-runs |  | Stats | 11 |
-| Overall | Number of ARF Tubes | 0 | ok | tubes run and present in RFR but not in Appivo - created tube IDs that start with ARF |  | Stats | 12 |
-| Overall | Sum of Participant Results plus ARF Tubes | 4,409 | ok | Will be equal to the number of tubes tested if no pooling. |  | Stats | 13 |
-| Overall | Average Pool Level (excludes ARF) | 1.9 | ok |  |  | Stats | 14 |
-| Re-runs | Number of Run Tubes (re-runs only) |  | not_available | from RFR Audit Num Run Tubes |  | Stats | 17 |
-| Re-runs | Number of Reactions (re-runs only) |  | not_available | from RFR Audit Num rxns (excl ctrls) |  | Stats | 18 |
-| Re-runs | Re-run % of Tubes |  | not_available | re-run / initial |  | Stats | 19 |
-| Re-runs | Number of Initial Runs with Re-runs |  | not_available |  |  | Stats | 20 |
-| Re-runs | % Initial Runs with Re-runs |  | not_available |  |  | Stats | 21 |
-| Positives | Number of Tubes with Final Result Positive | 384 | ok |  |  | Stats | 24 |
-| Positives | % of Tubes Positives (Final Result) | 16.8% | ok |  |  | Stats | 25 |
-| Positives | Number of Cases with Final Result Positive (Indiv or Pool) |  | not_available | Subtract off Re-tests | Not Available - not tube level data so no way to know cases | Stats | 26 |
-| Positives | Known Positive Cases | 329 | ok | Previous tested (including by FloodLAMP test) or reported positive | Many Return To Work tests after Initial Positive | Stats | 27 |
-| Positives | Unknown Positive Cases | 55 | ok |  |  | Stats | 28 |
-| Inconclusives | Number of Tubes with Final Result Inconclusive | 1 | ok |  |  | Stats | 31 |
-| Inconclusives | Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results |  | not_available |  |  | Stats | 32 |
-| Inconclusives | Total Number of Inconclusive Tubes | 1 | ok |  |  | Stats | 33 |
-| Inconclusives | % of Tubes Inconclusive | 0.0% | ok |  |  | Stats | 34 |
-| Inconclusives | Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence |  | not_available |  |  | Stats | 35 |
-| Inconclusives | % Inconclusives resolved Positive by Referral Tests | 0.0% | ok |  |  | Stats | 36 |
-| Inconclusives | Number of Inconclusive Tubes with Referral Test or Correspondence Negative |  | not_available |  |  | Stats | 37 |
-| Inconclusives | Number of Inconclusive Tubes with no Referral Test result or Correspondence | 1 | ok |  | No information on how this Final Inconclusive was resolved | Stats | 38 |
-| Inconclusives | Number of Tubes with Initial Inconclusives and Re-run Negative |  | not_available | Count Result Correction Code=2.5 in preDel col AJ, or from RFR preExcl if not resulted as Incl in App |  | Stats | 39 |
-| Inconclusives | Number of Inconclusive Test Run Calls | 26 | ok | includes re-runs - from RFR Audit only and excludes any APS only resulted inconclusives |  | Stats | 40 |
-| Inconclusives | % Tube Tests Run Called Inconclusive | 1.1% | ok | includes re-runs |  | Stats | 41 |
-| Referrals and Correspondence | Number of FloodLAMP Cases with Referral Tests or Correspondence | 44 | ok | Indiv or Pool, Cases used instead of Person to account for people being contracting COVID multiple times, and instead of Results to exclude re-tests | from Col C of RTR/Referral Antigen Comparison (formula to right) | Stats | 44 |
-| Referrals and Correspondence | Number of Referral Confirmed FloodLAMP Positives | 43 | ok | Sometimes also termed Agree Positives - Include initial Inconclusive with Referral or Correspondence Positive | One missing was antigen neg same day but never follow up antigen tested - it tested positive by FloodLAMP 4 times over the next 10 days and the person became symptomatic but we cannot count it was an Agree because technically there's no Pos referral test | Stats | 45 |
-| Referrals and Correspondence | FL Inconclusives with Referral / Correspondence Positive | 0 | ok |  | No information on the singe Final Inconclusive | Stats | 46 |
-| Referrals and Correspondence | % FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive | 97.7% | ok |  | This excludes many we do not have referral data on | Stats | 47 |
-| Referrals and Correspondence | FL Inconclusives but Referral / Correspondence Negative | 0 | ok |  |  | Stats | 48 |
-| Referrals and Correspondence | FL Inconclusives with No Referral Tests or Correspondence | 1 | ok |  |  | Stats | 49 |
-| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day) | 44 | ok |  |  | Stats | 52 |
-| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests | 38 | ok |  |  | Stats | 53 |
-| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative | 4 | ok | Agree with Referral Test Positive (usually PCR or later Antigen) but Initial Antigen Negative | See table at the top right of RTR/Referral Antigen Comparison (formula to right) | Stats | 54 |
-| Comparison to Antigen | % Confirmed FloodLAMP Positives with Same Day Antigen Negative | 10.5% | ok |  |  | Stats | 55 |
-| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative | 0 | ok |  |  | Stats | 56 |
-| Comparison to Antigen | % Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative | 0.0% | ok |  |  | Stats | 57 |
-| False Calls | False Positives Final Results | 0 | ok | From reviewing APS/Pos and Incl tab Unconfirmed FL Positives |  | Stats | 60 |
-| False Calls | False Negative Final Results (Suspected) | 0 | ok | From reviewing Referral Tests by Person and correspondence with Program Admin |  | Stats | 61 |
-| People | Number of Unique Individuals Tested |  | not_available | Includes UnknownPerson additions but not ARF tubes | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 64 |
-| People | Number of Unique Sponsors |  | not_available | People who collect using the app | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 65 |
-| Positivity | Number of Unique Individual Tested FloodLAMP Positive |  | not_available | includes Inconclusive FloodLAMP result confirmed Positive by follow-up or Referral | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 68 |
-| Positivity | % of Population FloodLAMP Positive (excluding pools not deconv) |  | not_available |  |  | Stats | 69 |
-| Positivity | Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool) |  | not_available |  | Not Available - Data provided to FloodLAMP does not enable us to calculate this | Stats | 70 |
-| Positivity | % of Population FloodLAMP Positive (including everyone in a positive pool) |  | not_available |  |  | Stats | 71 |
-| Dates | Start Run Date | 2021-09-01 | ok |  |  | Stats | 74 |
-| Dates | End Run Date | 2022-03-18 | ok |  |  | Stats | 75 |
-| Info | Test Operator | Davie Fire and Rescue | ok | Who ran the actual testing (running LAMP reactions) |  | Stats | 78 |
-| Info | Test Processing Site | Fire Station Office | ok | Where the test processing (running LAMP reactions) was done |  | Stats | 79 |
-| Info | Population Tested | EMS, First Responders, City Staff | ok | Description of the participants |  | Stats | 80 |
-| Info | Configuration | Standard | ok | Equipment set used for test processing (relates to throughput and type of test tube used) |  | Stats | 81 |
-| Info | Collection Type | Pooled | ok |  Pooled, Individual, or Both |  | Stats | 82 |
-| Info | Self or HCW Collected | Self | ok | HCW is Health Care Worker |  | Stats | 83 |
-| Info | App Used? | No | ok | Was the FloodLAMP Mobile App and Admin Portal utilized in the program |  | Stats | 84 |
-| Info | Bring-up Type | In Person | ok | How the initial setup and validation of the testing site was done |  | Stats | 85 |
-| Info | Program Name | Davie | ok | Shorthand name used internally at FloodLAMP and in other documents for this program |  | Stats | 86 |
-| Info | Site | Fire Station | ok | Broader physical space where the testing was done and/or where participants congregated |  | Stats | 87 |
-| Info | Site Type | City / EMS | ok | Type of entity or organization receiving the testing program |  | Stats | 88 |
-| Info | Location | Davie, FL | ok | Geographical location of where the FloodLAMP testing program occurred |  | Stats | 89 |
-
-### Weekly summary
-
-| week_start_date | week_end_date | participants_n | tubes_n | positive_tubes_n | inconclusive_tubes_n | pct_positive | pct_positive_status |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2021-08-30 | 2021-09-05 | 54 | 19 | 2 | 0 | 10.5% | ok |
-| 2021-09-06 | 2021-09-12 | 75 | 26 | 3 | 1 | 11.5% | ok |
-| 2021-09-13 | 2021-09-19 | 75 | 26 | 4 | 0 | 15.4% | ok |
-| 2021-09-20 | 2021-09-26 | 75 | 27 | 4 | 0 | 14.8% | ok |
-| 2021-09-27 | 2021-10-03 | 107 | 59 | 1 | 0 | 1.7% | ok |
-| 2021-10-04 | 2021-10-10 | 130 | 49 | 0 | 0 | 0.0% | ok |
-| 2021-10-11 | 2021-10-17 | 91 | 40 | 0 | 0 | 0.0% | ok |
-| 2021-10-18 | 2021-10-24 | 123 | 52 | 0 | 0 | 0.0% | ok |
-| 2021-10-25 | 2021-10-31 | 80 | 30 | 1 | 0 | 3.3% | ok |
-| 2021-11-01 | 2021-11-07 | 61 | 28 | 3 | 0 | 10.7% | ok |
-| 2021-11-08 | 2021-11-14 | 80 | 34 | 2 | 0 | 5.9% | ok |
-| 2021-11-15 | 2021-11-21 | 111 | 41 | 0 | 0 | 0.0% | ok |
-| 2021-11-22 | 2021-11-28 | 48 | 17 | 0 | 0 | 0.0% | ok |
-| 2021-11-29 | 2021-12-05 | 117 | 62 | 0 | 0 | 0.0% | ok |
-| 2021-12-06 | 2021-12-12 | 115 | 55 | 2 | 0 | 3.6% | ok |
-| 2021-12-13 | 2021-12-19 | 159 | 85 | 4 | 0 | 4.7% | ok |
-| 2021-12-20 | 2021-12-26 | 269 | 151 | 16 | 0 | 10.6% | ok |
-| 2021-12-27 | 2022-01-02 |  |  | 0 |  |  | not_available |
-| 2022-01-03 | 2022-01-09 | 801 | 575 | 217 | 0 | 37.7% | ok |
-| 2022-01-10 | 2022-01-16 | 350 | 225 | 60 | 0 | 26.7% | ok |
-| 2022-01-17 | 2022-01-23 | 216 | 118 | 29 | 0 | 24.6% | ok |
-| 2022-01-24 | 2022-01-30 | 202 | 108 | 14 | 0 | 13.0% | ok |
-| 2022-01-31 | 2022-02-06 | 217 | 110 | 11 | 0 | 10.0% | ok |
-| 2022-02-07 | 2022-02-13 | 223 | 91 | 9 | 0 | 9.9% | ok |
-| 2022-02-14 | 2022-02-20 | 227 | 92 | 2 | 0 | 2.2% | ok |
-| 2022-02-21 | 2022-02-27 | 168 | 63 | 0 | 0 | 0.0% | ok |
-| 2022-02-28 | 2022-03-06 | 94 | 37 | 0 | 0 | 0.0% | ok |
-| 2022-03-07 | 2022-03-13 | 70 | 26 | 0 | 0 | 0.0% | ok |
-| 2022-03-14 | 2022-03-20 | 71 | 33 | 0 | 0 | 0.0% | ok |
 
 
 # 7,091  FLMP_pilot-data_summary.md
@@ -1773,6 +1780,276 @@ CONTENT
 | 2022-12-19 | 2022-12-25 | 10 | 6 | 0 | 0 | 0.0% | ok |
 | 2022-12-26 | 2023-01-01 | 6 | 3 | 0 | 0 | 0.0% | ok |
 | 2023-01-02 | 2023-01-08 | 7 | 3 | 0 | 0 | 0.0% | ok |
+
+
+# 505  2021-12-28_Case Report - Randy.md
+METADATA
+last updated: 2026-02-25 BA
+file_name: 2021-12-28_Case Report - Randy.md
+file_date: 2021-12-28
+title: FloodLAMP Case Report - Randy Dec21 Infection
+category: pilots
+subcategory: pilot-data
+tags:
+source_file_type: gsheet
+xfile_type: xlsx
+gfile_url: https://docs.google.com/spreadsheets/d/1ZIbYYZ873RjV6IuUyhZ22wNdFKRv6zz1v5_Gm9VBlwE/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2021-12-28_Case%20Report%20-%20Randy.xlsx
+pdf_gdrive_url: NA
+pdf_github_url: NA
+conversion_input_file_type: xlsx
+conversion: msmid
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+tokens: 505
+words: 292
+notes:
+summary_short: FloodLAMP Case Report for FloodLAMP founder Randy True documenting a COVID-19 infection from likely exposure on 2021-12-13 through recovery on 2021-12-28, tracking daily FloodLAMP QuickColor LAMP and BinaxNow antigen test results alongside symptom progression, showing first positive on Day 0 (2021-12-18) and return to negative on Day 9 (2021-12-27).
+
+
+CONTENT
+
+## Randy Dec21 Infection
+| Days after 1st Pos Test | Day Week | Date  | Time    | FloodLAMP QC Test Result | BinaxNow Antigen Test Result | Symptoms / Notes                                                                                                                                                          |
+|-------------------------|----------|-------|---------|-------------------------|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                         | Mon      | 12-13 | 9:00 PM |                         |                              | Likely exposure at big holiday party, honor system test req, mask req but not followed<br/>I masked 80% of time there, 3 others I was with mostly mask off, none infected |
+|                         | Tues     | 12-14 | 9:00 AM |                         |                              |                                                                                                                                                                           |
+|                         | Thurs    | 12-16 | 9:00 AM | NEG                     |                              | symptoms start at night - bad headache and 4 hrs sleep, foggy brain                                                                                                       |
+|                         | Fri      | 12-17 |         | No Test                 |                              | symptoms continue - bad headache and 4 hrs sleep, foggy brain                                                                                                             |
+| 0                       | Sat      | 12-18 | 7:00 AM | POS                     | POS - bright 5min            | symptoms continue - headache, fatigue, brain fog (more than usual)                                                                                                        |
+| 4                       |          | 12-22 | 6:00 AM | POS nasal, INC saliva   |                              | symptoms continue - headache, fatigue, brain fog (more than usual)                                                                                                        |
+| 5                       |          | 12-23 | 9:00 AM | POS                     |                              | symptoms less                                                                                                                                                             |
+| 6                       |          | 12-24 | 7:00 AM | POS                     | POS - bright                 | symptoms less                                                                                                                                                             |
+| 7                       | Sat      | 12-25 | 8:00 AM | POS                     |                              | symptoms less                                                                                                                                                             |
+| 8                       | Sun      | 12-26 | 5:00 AM | POS                     | 2pm POS - dim                | symptoms less                                                                                                                                                             |
+| 9                       | Mon      | 12-27 | 5:00 PM | NEG                     |                              | symptoms minimal/gone                                                                                                                                                     |
+| 10                      | Tues     | 12-28 | 8:00 AM | NEG                     |                              | symptoms minimal/gone                                                                                                                                                     |
+||
+
+
+# 1,174  2022-01-01_Case Report - New Years Eve.md
+METADATA
+last updated: 2026-02-25 BA
+file_name: 2022-01-01_Case Report - New Years Eve.md
+file_date: 2022-01-01
+title: FloodLAMP Case Report - New Years Eve
+category: pilots
+subcategory: pilot-data
+tags:
+source_file_type: pdf
+xfile_type: NA
+gfile_url: NA
+xfile_github_download_url: NA
+pdf_gdrive_url: https://drive.google.com/file/d/1hdTOuLxX7SnE7VL9Rdw61PeU-HE4ylli/
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/pilots/pilot-data/2022-01-01_Case%20Report%20-%20New%20Years%20Eve.pdf
+conversion_input_file_type: pdf
+conversion: msmid
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+tokens: 1174
+words: 679
+notes: 
+summary_short: FloodLAMP New Years Eve Case Report documenting how FloodLAMP detected an asymptomatic SARS-CoV-2 infection that all antigen and OTC/POC molecular tests missed, tracking 19 tests across 8 different test types (FloodLAMP QuickColor LAMP, FloodLAMP EasyPCR/SalivaDirect, Accula, Lucira, Detect, FlowFlex, CareStart, BinaXNow) from 12-27-21 to 01-02-22, with FloodLAMP returning the first positive on 12-31-21 while same-day antigen and rapid molecular tests were negative.
+
+
+CONTENT
+
+| Date Collected | Time Collected | Test | Sample Type | CLAMP | Tube Code | Swab ID | Logged? | PCR Ct |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12-27-21 | 9:37 AM | Detect | nasal swab | NEG |  |  |  |  |
+| 12-29-21 | 7:48 AM | FlowFlex Antigen | nasal swab | NEG |  |  |  |  |
+| 12-29-21 | 1:00 PM | FloodLAMP | nasal swab | NEG | MAX398 | JUR |  |  |
+| 12-31-21 | 9:00 AM | FloodLAMP | nasal swab | POS | MAX288 | JUR |  | 33.9 |
+| 12-31-21 | 2:01 PM | FlowFlex Antigen | nasal swab | NEG |  |  |  |  |
+| 12-31-21 | 2:10 PM | Detect | nasal swab | NEG |  |  |  |  |
+| 12-31-21 | 4:52 PM | Lucira | nasal swab | NEG |  |  |  |  |
+| 12-31-21 | 5:00 PM | FloodLAMP | nasal swab | NEG | MAX340 | JUR |  | 2 Und, 1 39.4 |
+| 12-31-21 | 5:00 PM | FloodLAMP | throat swab | POS | MAX347 | JUR |  | 30.2 |
+| 12-31-21 | 5:00 PM | BinaXNow Antigen | nasal swab | NEG |  |  |  |  |
+| 12-31-21 | 8:00 PM | FloodLAMP | saliva |  | MAX368 |  | logged in form | 27.7 |
+| 01-01-22 | 11:00 AM | FloodLAMP | saliva |  | MA4 |  |  | 29.0 |
+| 01-01-22 | 10:28 AM | BinaXNow | nasal swab | NEG |  |  |  |  |
+| 01-01-22 | 10:33 AM | BinaXNow | throat swab | NEG |  |  |  |  |
+| 01-01-22 | 10:45 AM | FloodLAMP | nasal swab | POS | MA63 | JUR |  | 32.2 |
+| 01-01-22 | 10:50 AM | FloodLAMP | throat swab | POS | MA92 | JUR |  | 35.5 |
+| 01-01-22 | 4:22 PM | Accula (Worksite) | nasal swab | NEG |  |  |  |  |
+| 01-02-22 | 10:30 AM | CareStart | nasal swab | POS |  |  |  |  |
+| 01-02-22 | 10:30 AM | BinaXNow | nasal swab | POS |  |  |  |  |
+||
+
+### FloodLAMP New Years Eve Case Report
+caught asymptomatic infection that all antigen and OTC/POC molecular tests missed
+
+![FloodLAMP New Years Eve Case Report](_plots/FLMP_nye_case_report.png)
+
+|  |  |  | |  |  |  |
+|---|---|---|---|---|---|---|
+| FloodLAMP EasyPCR on saliva | | | | POS - SalivaDirect PCR Ct 27.7, 8 PM | POS - SalivaDirect PCR Ct 27.7, 11 AM | |
+| Accula Rapid Molecular PCR (Worksite) | | | | | Accula NEG - nasal swab, 4 PM | |
+| Lucira Rapid Molecular LAMP | | | | Lucira NEG - nasal swab, 5 PM | | |
+| Detect Rapid Molecular LAMP | NEG - nasal swab, 10 AM |  | Detect NEG - nasal swab, 2 PM | | | |
+| CaseStart Antigen | | | | | | |
+| FlowFlex Antigen | | NEG - nasal swab, 8 AM | NEG - nasal swab, 2 PM | | | POS - nasal swab, 10 AM |
+| BinaxNow Antigen | | | | NEG - nasal swab, 5 PM | NEG - nasal and throat swabs, 10 AM | POS - nasal swab, 10 AM |
+| FloodLAMP QuickColor LAMP Nasal Swab | | NEG - nasal swab, 1 PM | | NEG - nasal swab PCR Ct Und/39.4, 5PM | POS - nasal swab PCR Ct 32.2, 10 AM | |
+| FloodLAMP QuickColor LAMP Throat Swab | | | POS - nasal swab PCR Ct 33.9, 9 AM | POS - throat swab PCR Ct 30.2, 5 PM | POS - throat swab PCR Ct 35.5, 10 AM | |
+|  | 12-27-21 | 12-29-21 | 12-31-21 | 12-31-22 | 1-1-22 | 1-2-22 |
+||
+
+
+# 4,849  2022-01-02_Carillon Case Report of Asymptomatic Positive Family Pool.md
+METADATA
+last updated: 2026-02-25 BA
+file_name: 2022-01-02_Carillon Case Report of Asymptomatic Positive Family Pool.md
+file_date: 2022-01-02
+title: FloodLAMP Case Report - Carillon Asymptomatic Positive Family Pool
+category: pilots
+subcategory: pilot-data
+tags:
+source_file_type: gsheet
+xfile_type: xlsx
+gfile_url: https://docs.google.com/spreadsheets/d/1eWD8z2MqoZEVoTFPJWcxr7-UsxcyYGklwmAUhEuawbM/
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/2022-01-02_Carillon%20Case%20Report%20of%20Asymptomatic%20Positive%20Family%20Pool.xlsx
+pdf_gdrive_url: NA
+pdf_github_url: NA
+conversion_input_file_type: xlsx
+conversion: msmid
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+tokens: 4849
+words: 2430
+notes: 
+summary_short: FloodLAMP Carillon preschool case report documenting a family pool (2 parents, 2 children) where FloodLAMP detected an asymptomatic SARS-CoV-2 infection on 2022-01-02 through pooled household testing while same-day BinaxNow antigen tests were negative for both parents. Individual FloodLAMP follow-up confirmed both parents positive on 01-03, and children developed symptoms and tested positive by home antigen on 01-04, followed by confirmatory PCR lab tests for all family members. The family remained FloodLAMP-positive through 01-17.
+
+
+CONTENT
+
+## Example Data
+### FLOODLAMP DATA with EXTRA COLUMNS ADDED
+| TUBE ID | SPONSOR  | PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL   | SYMPTOMS | POOLED | TAT     | NOTES |
+|---------|----------|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|--------------|----------|--------|---------|-------|
+| FLT1134 | Jane Doe | Kid1 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLY1134 | Jane Doe | Kid1 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLT1134 | Jane Doe | Kid2 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLY1134 | Jane Doe | Kid2 Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLT1134 | Jane Doe | John Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLY1134 | Jane Doe | John Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLT1134 | Jane Doe | Jane Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLY1134 | Jane Doe | Jane Doe    |       |      | Negative | 11/28/2021      |                 | 11/28/2021  | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLE484  | Jane Doe | Kid1 Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLE484  | Jane Doe | Kid2 Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLE484  | Jane Doe | John Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLE484  | Jane Doe | Jane Doe    |       |      | Negative | 12/6/2021       |                 | 12/7/2021   | Molecular | FloodLAMP QC |          | 1      |         |       |
+| FLT1433 | Jane Doe | Kid1 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
+| FLT1433 | Jane Doe | Kid2 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
+| FLT1433 | Jane Doe | John Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
+| FLT1433 | Jane Doe | Jane Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |          | 1      | 2 hours |       |
+| FLT1570 | Jane Doe | Kid1 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
+| FLT14   | Jane Doe | Kid2 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
+| FLT1128 | Jane Doe | John Doe    |       |      | Positive | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |          | 0      | 1 hour  |       |
+| FLE810  | Jane Doe | Kid1 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
+| FLE885  | Jane Doe | Kid2 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
+| FLE895  | Jane Doe | John Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
+| FLE812  | Jane Doe | Jane Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |          | 0      | 2 hours |       |
+| FLB7156 | Jane Doe | Kid1 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
+| FLB7156 | Jane Doe | Jane Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
+| FLB7156 | Jane Doe | Kid2 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |       |
+| FLB7156 | Jane Doe | John Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |          | 1      | 3 hours |
+||
+
+### NON FLOODLAMP TEST DATA (can be from before or after FloodLAMP test)
+| PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL | SYMPTOMS | POOLED | TAT       | NOTES                   |
+|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|------------|----------|--------|-----------|-------------------------|
+| John Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow   | Asym     | 0      | immediate | evening after referral  |
+| Jane Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow   | Asym     | 0      | immediate | evening after referral  |
+| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/4/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
+| Kid2 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown    | Sympt    | 0      | immediate |                         |
+| Kid1 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown    | Sympt    | 0      | immediate |                         |
+| Jane Doe    |       |      | Positive | 1/4/2022        |                 | 1/7/2022    | Molecular | PCR Lab    |          | 0      | 3 days    |                         |
+| Kid2 Doe    |       |      | Positive | 1/6/2022        |                 | 1/7/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
+| Kid1 Doe    |       |      | Positive | 1/7/2022        |                 | 1/8/2022    | Molecular | PCR Lab    |          | 0      | 1 day     |                         |
+| Kid2 Doe    |       |      | Positive | 1/13/2022       |                 | 1/13/2022   | Antigen   | Unknown    |          | 0      | immediate | slight second line      |
+| John Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
+| Jane Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
+| Kid2 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |                         |
+| Kid1 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown    |          | 0      | immediate |
+||
+
+### COMBINED TEST DATA
+| PARTICIPANT | MINOR | NOTE | RESULT   | COLLECTION DATE | COLLECTION TIME | RESULT DATE | TEST TYPE | TEST MODEL   |  | POOLED | TAT       | NOTES                   |  | DAY SP |
+|-------------|-------|------|----------|-----------------|-----------------|-------------|-----------|--------------|--|--------|-----------|-------------------------|--|--------|
+| Kid1 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
+| Kid2 Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
+| John Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
+| John Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow     |  | 0      | immediate | evening after referral  |  | 0      |
+| Jane Doe    |       |      | Positive | 1/2/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 1      | 2 hours   |                         |  | 0      |
+| Jane Doe    |       |      | Negative | 1/2/2022        |                 | 1/2/2022    | Antigen   | BinaXNow     |  | 0      | immediate | evening after referral  |  | 0      |
+| Kid1 Doe    |       |      | Negative | 1/3/2022        |                 | 1/2/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
+| Kid2 Doe    |       |      | Negative | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
+| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/3/2022    | Molecular | FloodLAMP QC |  | 0      | 1 hour    |                         |  | 1      |
+| John Doe    |       |      | Positive | 1/3/2022        |                 | 1/4/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 1      |
+| Jane Doe    |       |      | Positive | 1/4/2022        |                 | 1/7/2022    | Molecular | PCR Lab      |  | 0      | 3 days    |                         |  | 2      |
+| Kid2 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown      |  | 0      | immediate |                         |  | 2      |
+| Kid1 Doe    |       |      | Positive | 1/4/2022        |                 | 1/4/2022    | Antigen   | Unknown      |  | 0      | immediate |                         |  | 2      |
+| Kid2 Doe    |       |      | Positive | 1/6/2022        |                 | 1/7/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 4      |
+| Kid1 Doe    |       |      | Positive | 1/7/2022        |                 | 1/8/2022    | Molecular | PCR Lab      |  | 0      | 1 day     |                         |  | 5      |
+| Kid1 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
+| Kid2 Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
+| John Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
+| Jane Doe    |       |      | Positive | 1/9/2022        |                 | 1/10/2022   | Molecular | FloodLAMP QC |  | 0      | 2 hours   |                         |  | 7      |
+| Kid2 Doe    |       |      | Positive | 1/13/2022       |                 | 1/13/2022   | Antigen   | Unknown      |  | 0      | immediate | slight second line      |  | 11     |
+| Kid1 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
+| Kid2 Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
+| John Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
+| Jane Doe    |       |      | Negative | 1/14/2022       |                 | 1/14/2022   | Antigen   | Unknown      |  | 0      | immediate |                         |  | 12     |
+| Kid1 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
+| Kid2 Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
+| John Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
+| Jane Doe    |       |      | Positive | 1/17/2022       |                 | 1/17/2022   | Molecular | FloodLAMP QC |  | 1      | 3 hours   |                         |  | 15     |
+||
+
+### TABLE VIEW for FAMILY
+![Carillon Case Report](_plots/FLMP_carillon_case_report.png)
+
+| | | 1/2/2022 (0) | 1/3/2022 (1) | 1/4/2022 (2) | 1/6/2022 (4) | 1/7/2022 (5) | 1/8/2022 (6) | 1/9/2022 (7) | 1/10/2022 (8) | 1/13/2022 (11) | 1/14/2022 (12) | 1/17/2022 (15) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| | Family Pool | POS FloodLAMP | | | | | | | | | | POS FloodLAMP |
+| Jane Doe | Parent 1 | Asymptomatic<br>POS FloodLAMP (Family Pool)<br>NEG Antigen | POS FloodLAMP (Indiv) | POS PCR Lab > | > > > > > | > POS PCR Result | | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
+| John Doe | Parent 2 | Asymptomatic<br>POS FloodLAMP (Family Pool)<br>NEG Antigen | POS FloodLAMP<br>POS PCR Lab > | Symptoms<br>> POS PCR Result | | | | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
+| Kid1 Doe | Child 1 | Asymptomatic<br>POS FloodLAMP (Family Pool) | NEG FloodLAMP | Symptoms<br>POS Antigen | Asymptomatic | POS PCR Lab > | > POS PCR Result | POS FloodLAMP (Indiv) | > POS FL Result | | NEG Antigen | POS FloodLAMP (Family Pool) |
+| Kid2 Doe | Child 2 | Asymptomatic<br>POS FloodLAMP (Family Pool) | NEG FloodLAMP | Symptoms<br>POS Antigen | Asymptomatic<br>POS PCR Lab > | | > POS PCR Result | POS FloodLAMP (Indiv) | > POS FL Result | POS Antigen (slight) | NEG Antigen | POS FloodLAMP (Family Pool) |
+||
+
+### CALENDAR INFO from PEOPLE
+**Jan 2nd**
+- FloodLAMP pool samples – Positive result as a household
+- Abbott BinaxNow Home antigen test – John & Jane, Negative result
+
+**Jan 3rd**
+- FloodLAMP individual samples provided – John & Jane positive, Kid2 Kid1 negative
+- John PCR test taken
+
+**Jan 4th**
+- Jane PCR test taken
+- John PCR test results – Positive
+- Kid2 & Kid1 home antigen test taken – Positive
+
+**Jan 6th**
+- Kid2 PCR test taken
+
+**Jan 7th**
+- Kid1 PCR test taken
+- Kid2 PCR results – Positive
+- Jane PCR results – Positive
+
+**Jan 8th**
+- Kid1 PCR results – Positive
+
+**Jan 13th**
+- Kid2 home antigen test – Mostly negative with a slight second line
+
+**Jan 14th**
+- John, Kid2, Kid1, Jane home antigen test – Negative (no slight second line)
+
+**Jan 17th**
+- FloodLAMP pool samples dropped off – still detected positive as a household
 
 
 # 7,624  FLSP_pilot-data_summary.md
@@ -2599,255 +2876,3 @@ CONTENT
 | 2021-11-29 | 2021-12-05 | 59 | 59 | 0 | 0 | 0.0% | ok |
 | 2021-12-06 | 2021-12-12 | 84 | 84 | 0 | 0 | 0.0% | ok |
 | 2021-12-13 | 2021-12-19 | 97 | 97 | 1 | 0 | 1.0% | ok |
-
-
-# 9,387  aggregate_pilot-data_summary.md
-METADATA
-last updated: 2026-01-25
-file_name: aggregate_pilot-data_summary.md
-file_date: 2026-01-25
-title: Aggregate Pilot Data Summary
-category: pilot-data
-subcategory: aggregate
-tags: 
-source_file_type: csv
-xfile_type: xlsx
-gfile_url: https://docs.google.com/spreadsheets/d/1b1uWHNGBL9yatTUNnzrbOTdWOMlD-XYVsn4V6pSYmmk
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/Aggregate%20Pilot%20Data%20Summary.xlsx
-pdf_gdrive_url: NA
-pdf_github_url: NA
-license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-words: 4917
-tokens: 9387
-notes: Aggregated statistics across all FloodLAMP pilot sites.
-summary_short: Aggregate FloodLAMP pilot data summary across all sites. Total tubes run: 16715; Total positive tubes: 889; Total participants: 37200; Date range: 2020-12-07 to 2023-06-04.
-
-
-CONTENT
-
-## Plots
-
-### Composite
-
-![aggregate Weekly Composite](_plots/aggregate_weekly_composite.png)
-
-### Percent Positive Tubes
-
-![aggregate Weekly Percent Positives](_plots/aggregate_weekly_percent_positives.png)
-
-### Volume
-
-![aggregate Weekly Volume](_plots/aggregate_weekly_volume.png)
-
-## Files
-
-### Aggregate CSVs
-- Aggregate CSV folder: `aggregate_pilot-data/`
-- Stats key-values CSV: [aggregate_pilot-data_stats_key-values.csv](aggregate_pilot-data_stats_key-values.csv)
-- Weekly summary CSV: [aggregate_pilot-data_weekly-summary.csv](aggregate_pilot-data_weekly-summary.csv)
-- Referral agreement CSV: [aggregate_pilot-data_stats_referral-agreement.csv](aggregate_pilot-data_stats_referral-agreement.csv)
-
-## Key tables
-
-### Stats key-values
-
-| section | metric | value | value_status | value_formula | sites_included_n | sites_missing_n | source_sheet | source_row |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overall | Number of Tubes Tested (initial only - no re-runs) | 16,209 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Overall | Number of Tube Tests Run (includes re-runs) | 16,484 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Overall | Number of Initial Runs | 795 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Overall | Number of APS Only Tubes run | 8,727 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Overall | Number of Test Reactions (RFR plus APS only tubes run) | 17,096 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Overall | Number of Participant Results | 37,706 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Overall | Number of ARF Tubes | 386 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Overall | Sum of Participant Results plus ARF Tubes | 38,092 | ok | participant_results + arf_tubes | 10 | 0 | AGGREGATE |  |
-| Overall | Average Pool Level (excludes ARF) | 2.4 | ok | participant_results / (tubes_tested_initial - arf_tubes) | 10 | 0 | AGGREGATE |  |
-| Re-runs | Number of Run Tubes (re-runs only) | 275 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Re-runs | Number of Reactions (re-runs only) | 705 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Re-runs | Re-run % of Tubes | 1.7% | partial | rerun_tubes / tubes_tested_initial | 6 | 4 | AGGREGATE |  |
-| Re-runs | Number of Initial Runs with Re-runs | 148 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Re-runs | % Initial Runs with Re-runs | 18.6% | partial | initial_runs_with_reruns / initial_runs | 6 | 4 | AGGREGATE |  |
-| Positives | Number of Tubes with Final Result Positive | 884 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Positives | % of Tubes Positives (Final Result) | 5.5% | ok | positive_tubes_final / tubes_tested_initial | 10 | 0 | AGGREGATE |  |
-| Positives | Number of Cases with Final Result Positive (Indiv or Pool) | 87 | partial | sum(site values) | 8 | 2 | AGGREGATE |  |
-| Positives | Known Positive Cases | 337 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Positives | Unknown Positive Cases | 134 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Inconclusives | Number of Tubes with Final Result Inconclusive | 14 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Inconclusives | Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results | 3 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Inconclusives | Total Number of Inconclusive Tubes | 17 | partial | inconclusive_tubes_final + inconclusive_not_in_aps | 10 | 4 | AGGREGATE |  |
-| Inconclusives | % of Tubes Inconclusive | 0.1% | partial | total_inconclusive_tubes / tubes_tested_initial | 10 | 4 | AGGREGATE |  |
-| Inconclusives | Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence | 4 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Inconclusives | % Inconclusives resolved Positive by Referral Tests | 23.5% | partial | inconclusive_resolved_pos / total_inconclusive_tubes | 9 | 4 | AGGREGATE |  |
-| Inconclusives | Number of Inconclusive Tubes with Referral Test or Correspondence Negative | 3 | partial | sum(site values) | 8 | 2 | AGGREGATE |  |
-| Inconclusives | Number of Inconclusive Tubes with no Referral Test result or Correspondence | 9 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Inconclusives | Number of Tubes with Initial Inconclusives and Re-run Negative | 68 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Inconclusives | Number of Inconclusive Test Run Calls | 159 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Inconclusives | % Tube Tests Run Called Inconclusive | 1.0% | ok | inconclusive_run_calls / tube_tests_run_total | 10 | 0 | AGGREGATE |  |
-| Referrals and Correspondence | Number of FloodLAMP Cases with Referral Tests or Correspondence | 127 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Referrals and Correspondence | Number of Referral Confirmed FloodLAMP Positives | 121 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Referrals and Correspondence | FL Inconclusives with Referral / Correspondence Positive | 4 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| Referrals and Correspondence | % FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive | 98.4% | ok | (agree_positives + incl_ref_pos) / cases_with_referral | 10 | 0 | AGGREGATE |  |
-| Referrals and Correspondence | FL Inconclusives but Referral / Correspondence Negative | 2 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Referrals and Correspondence | FL Inconclusives with No Referral Tests or Correspondence | 12 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day) | 68 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Comparison to Antigen | Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests | 62 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative | 15 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Comparison to Antigen | % Confirmed FloodLAMP Positives with Same Day Antigen Negative | 24.2% | partial | positive_same_day_antigen_neg / positive_same_day_antigen | 6 | 4 | AGGREGATE |  |
-| Comparison to Antigen | Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative | 1 | partial | sum(site values) | 6 | 4 | AGGREGATE |  |
-| Comparison to Antigen | % Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative |  | not_available | positive_antigen_other_neg / positive_antigen_other | 0 | 10 | AGGREGATE |  |
-| False Calls | False Positives Final Results | 0 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| False Calls | False Negative Final Results (Suspected) | 0 | ok | sum(site values) | 10 | 0 | AGGREGATE |  |
-| People | Number of Unique Individuals Tested | 2,752 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| People | Number of Unique Sponsors | 481 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Positivity | Number of Unique Individual Tested FloodLAMP Positive | 444 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Positivity | % of Population FloodLAMP Positive (excluding pools not deconv) | 16.1% | partial | unique_positive / unique_individuals | 9 | 1 | AGGREGATE |  |
-| Positivity | Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool) | 475 | partial | sum(site values) | 9 | 1 | AGGREGATE |  |
-| Positivity | % of Population FloodLAMP Positive (including everyone in a positive pool) | 17.3% | partial | unique_positive_incl_pool / unique_individuals | 9 | 1 | AGGREGATE |  |
-| Dates | Start Run Date | 2020-12-11 | ok | min(site values) | 10 | 0 | AGGREGATE |  |
-| Dates | End Run Date | 2023-06-02 | ok | max(site values) | 10 | 0 | AGGREGATE |  |
-
-### Weekly summary
-
-| week_start_date | week_end_date | participants_n | tubes_n | positive_tubes_n | inconclusive_tubes_n | pct_positive | pct_positive_status | pct_positive_formula | sites_included_n | sites_total_n |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2020-12-07 | 2020-12-13 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2020-12-14 | 2020-12-20 | 3 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2020-12-21 | 2020-12-27 | 2 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2020-12-28 | 2021-01-03 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-01-04 | 2021-01-10 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-01-11 | 2021-01-17 | 36 | 15 | 3 | 0 | 20.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-01-18 | 2021-01-24 | 49 | 24 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-01-25 | 2021-01-31 | 45 | 19 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-02-01 | 2021-02-07 | 31 | 11 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-02-08 | 2021-02-14 | 40 | 13 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-02-15 | 2021-02-21 | 14 | 4 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-02-22 | 2021-02-28 | 24 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-03-01 | 2021-03-07 | 35 | 11 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-03-08 | 2021-03-14 | 30 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-03-15 | 2021-03-21 | 16 | 6 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-03-22 | 2021-03-28 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-03-29 | 2021-04-04 | 6 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-04-05 | 2021-04-11 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-04-12 | 2021-04-18 | 8 | 3 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-04-19 | 2021-04-25 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-04-26 | 2021-05-02 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-05-03 | 2021-05-09 | 1 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-05-10 | 2021-05-16 | 5 | 2 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-05-17 | 2021-05-23 | 6 | 6 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-05-24 | 2021-05-30 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-05-31 | 2021-06-06 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-06-07 | 2021-06-13 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-06-14 | 2021-06-20 | 197 | 63 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-06-21 | 2021-06-27 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-06-28 | 2021-07-04 | 105 | 374 | 2 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-07-05 | 2021-07-11 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-07-12 | 2021-07-18 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-07-19 | 2021-07-25 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-07-26 | 2021-08-01 | 85 | 322 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2021-08-02 | 2021-08-08 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-08-09 | 2021-08-15 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-08-16 | 2021-08-22 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-08-23 | 2021-08-29 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2021-08-30 | 2021-09-05 | 172 | 55 | 2 | 0 | 3.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2021-09-06 | 2021-09-12 | 192 | 63 | 3 | 1 | 4.8% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2021-09-13 | 2021-09-19 | 194 | 65 | 4 | 0 | 6.2% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2021-09-20 | 2021-09-26 | 235 | 75 | 4 | 0 | 5.3% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2021-09-27 | 2021-10-03 | 240 | 108 | 1 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-10-04 | 2021-10-10 | 322 | 171 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-10-11 | 2021-10-17 | 281 | 154 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-10-18 | 2021-10-24 | 251 | 138 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-10-25 | 2021-10-31 | 219 | 108 | 1 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-11-01 | 2021-11-07 | 227 | 126 | 3 | 0 | 2.4% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-11-08 | 2021-11-14 | 220 | 120 | 16 | 0 | 13.3% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-11-15 | 2021-11-21 | 271 | 141 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-11-22 | 2021-11-28 | 157 | 74 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-11-29 | 2021-12-05 | 275 | 152 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-12-06 | 2021-12-12 | 319 | 183 | 2 | 0 | 1.1% | ok | positive_tubes_n / tubes_n | 5 | 10 |
-| 2021-12-13 | 2021-12-19 | 396 | 246 | 9 | 2 | 3.7% | ok | positive_tubes_n / tubes_n | 5 | 10 |
-| 2021-12-20 | 2021-12-26 | 535 | 260 | 31 | 0 | 11.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2021-12-27 | 2022-01-02 | 1368 | 488 | 66 | 0 | 13.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-01-03 | 2022-01-09 | 3400 | 1502 | 327 | 1 | 21.8% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-01-10 | 2022-01-16 | 3188 | 1251 | 167 | 1 | 13.3% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-01-17 | 2022-01-23 | 2766 | 1013 | 102 | 0 | 10.1% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-01-24 | 2022-01-30 | 3041 | 1053 | 48 | 0 | 4.6% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-01-31 | 2022-02-06 | 2897 | 966 | 27 | 0 | 2.8% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-02-07 | 2022-02-13 | 2878 | 933 | 23 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-02-14 | 2022-02-20 | 2876 | 977 | 5 | 2 | 0.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-02-21 | 2022-02-27 | 2216 | 783 | 4 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-02-28 | 2022-03-06 | 732 | 316 | 3 | 0 | 0.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-03-07 | 2022-03-13 | 271 | 165 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-03-14 | 2022-03-20 | 180 | 93 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-03-21 | 2022-03-27 | 212 | 147 | 1 | 0 | 0.7% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-03-28 | 2022-04-03 | 27 | 14 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-04-04 | 2022-04-10 | 246 | 189 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-04-11 | 2022-04-17 | 225 | 164 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-04-18 | 2022-04-24 | 250 | 187 | 1 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-04-25 | 2022-05-01 | 221 | 156 | 2 | 0 | 1.3% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-05-02 | 2022-05-08 | 148 | 70 | 2 | 0 | 2.9% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-05-09 | 2022-05-15 | 260 | 197 | 4 | 2 | 2.0% | ok | positive_tubes_n / tubes_n | 4 | 10 |
-| 2022-05-16 | 2022-05-22 | 227 | 160 | 1 | 0 | 0.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-05-23 | 2022-05-29 | 243 | 189 | 1 | 0 | 0.5% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-05-30 | 2022-06-05 | 191 | 149 | 1 | 0 | 0.7% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-06-06 | 2022-06-12 | 87 | 145 | 3 | 0 | 2.1% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-06-13 | 2022-06-19 | 19 | 9 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-06-20 | 2022-06-26 | 13 | 5 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-06-27 | 2022-07-03 | 97 | 129 | 4 | 3 | 3.1% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-07-04 | 2022-07-10 | 131 | 132 | 1 | 0 | 0.8% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-07-11 | 2022-07-17 | 124 | 124 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-07-18 | 2022-07-24 | 105 | 204 | 4 | 0 | 2.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-07-25 | 2022-07-31 | 14 | 7 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-08-01 | 2022-08-07 | 63 | 90 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-08-08 | 2022-08-14 | 62 | 62 | 1 | 0 | 1.6% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-08-15 | 2022-08-21 | 0 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-08-22 | 2022-08-28 | 4 | 1 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-08-29 | 2022-09-04 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-09-05 | 2022-09-11 | 121 | 64 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-09-12 | 2022-09-18 | 145 | 57 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-09-19 | 2022-09-25 | 118 | 52 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-09-26 | 2022-10-02 | 151 | 63 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-10-03 | 2022-10-09 | 154 | 65 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 3 | 10 |
-| 2022-10-10 | 2022-10-16 | 120 | 51 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-10-17 | 2022-10-23 | 111 | 50 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-10-24 | 2022-10-30 | 118 | 56 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-10-31 | 2022-11-06 | 84 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-11-07 | 2022-11-13 | 102 | 46 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-11-14 | 2022-11-20 | 89 | 46 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-11-21 | 2022-11-27 | 49 | 28 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-11-28 | 2022-12-04 | 114 | 48 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-12-05 | 2022-12-11 | 98 | 40 | 1 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-12-12 | 2022-12-18 | 42 | 24 | 1 | 0 | 4.2% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-12-19 | 2022-12-25 | 64 | 32 | 2 | 0 | 6.2% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2022-12-26 | 2023-01-01 | 6 | 3 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2023-01-02 | 2023-01-08 | 100 | 41 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 2 | 10 |
-| 2023-01-09 | 2023-01-15 | 80 | 39 | 0 | 2 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-01-16 | 2023-01-22 | 86 | 40 | 0 | 1 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-01-23 | 2023-01-29 | 65 | 29 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-01-30 | 2023-02-05 | 13 | 7 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-02-06 | 2023-02-12 | 70 | 33 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-02-13 | 2023-02-19 | 87 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-02-20 | 2023-02-26 | 89 | 40 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-02-27 | 2023-03-05 | 81 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-03-06 | 2023-03-12 | 112 | 47 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-03-13 | 2023-03-19 | 0 | 0 | 0 | 0 |  | denom_zero | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-03-20 | 2023-03-26 | 84 | 37 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-03-27 | 2023-04-02 | 90 | 40 | 1 | 0 | 2.5% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-04-03 | 2023-04-09 | 54 | 28 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-04-10 | 2023-04-16 | 81 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-04-17 | 2023-04-23 | 67 | 39 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-04-24 | 2023-04-30 | 55 | 33 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-05-01 | 2023-05-07 | 43 | 22 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-05-08 | 2023-05-14 | 67 | 31 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-05-15 | 2023-05-21 | 54 | 31 | 1 | 0 | 3.2% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-05-22 | 2023-05-28 | 49 | 26 | 4 | 0 | 15.4% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-| 2023-05-29 | 2023-06-04 | 43 | 25 | 0 | 0 | 0.0% | ok | positive_tubes_n / tubes_n | 1 | 10 |
-
-### Referral agreement
-
-| fl_result_category | tubes_n | cases_n | with_ref_or_corresp_n | agree_n | agree_pct | agree_pct_status | disagree_n | disagree_pct | disagree_pct_status | ref_cor_pos_n | incl_gt_pos_pct | incl_gt_pos_pct_status | ref_cor_neg_n | incl_gt_neg_pct | incl_gt_neg_pct_status | source_sheet | source_anchor | agree_pct_formula | disagree_pct_formula | incl_gt_pos_pct_formula | incl_gt_neg_pct_formula | sites_included_n |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Positive | 884 | 87 | 120 | 119 | 99.2% | ok | 1 | 0.8% | ok |  |  |  |  |  |  | AGGREGATE |  | agree_n / with_ref_or_corresp_n | disagree_n / with_ref_or_corresp_n |  |  | 8 |
-| Inconclusive | 17 | 16 | 7 |  |  |  |  |  |  | 4 | 57.1% | ok | 2 | 28.6% | ok | AGGREGATE |  |  |  | ref_cor_pos_n / with_ref_or_corresp_n | ref_cor_neg_n / with_ref_or_corresp_n | 8 |
-
-# ===== END OF SUBCATEGORY _archive-combined-files_pilot-data_84k.md =====
-
-# ===== END OF FILE _archive-combined-files_pilots_84k.md =====

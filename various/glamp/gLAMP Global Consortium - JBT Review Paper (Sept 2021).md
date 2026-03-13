@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
-tokens: 72181
-words: 39929
+tokens: 72247
+words: 39865
 notes:
 summary_short: The gLAMP Consortium review article (Journal of Biomolecular Techniques, Sept. 2021) surveys RT-LAMP methods for SARS-CoV-2 detection and broader pathogen testing, covering sample types, inactivation and extraction-free workflows, primer/enzyme design, detection chemistries, contamination control, and deployment hardware/software. It compiles practical protocols and case studies from an international group, including open-source approaches to reagents and devices, and compares testing configurations across settings from low-resource sites to high-throughput labs. It also summarizes the evolving regulatory landscape (EUA/LDT/IRB/surveillance) and provides design tradeoffs and recommendations for building fit-for-purpose LAMP tests.
 

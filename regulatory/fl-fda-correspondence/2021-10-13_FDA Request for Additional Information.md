@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4362
-words: 2944
+tokens: 4365
+words: 2948
 notes: 
 summary_short: The FDA October 13, 2021 additional information letter for EUA210582 details deficiencies in FloodLAMP’s QuickColor COVID-19 Test validation, including gaps in intended-use population description, unsupported specimen claims, sub-threshold clinical performance, lack of low-viral-load positives, and required updates to inclusivity/variant analysis, cross-reactivity, and interference testing. It also addresses control material expectations and the regulatory risks of relying on RUO-labeled reagents, outlining acceptable alternatives and warning of possible withdrawal or suspension of distribution if adequate data were not provided by the deadline.
 

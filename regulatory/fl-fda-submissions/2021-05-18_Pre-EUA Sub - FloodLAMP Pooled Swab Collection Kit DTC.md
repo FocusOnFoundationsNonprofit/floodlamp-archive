@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse-u
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1498
-words: 1085
+tokens: 1515
+words: 1093
 notes: 
 summary_short: The FloodLAMP Pooled Swab Collection Kit DTC instructions describe how up to four people can self-collect anterior nasal swabs into a single barcoded/QR-coded tube, with step-by-step workflows for both a mobile app–guided and non-app version. It explains kit contents, hygiene and swabbing steps, participant association and tube scanning in the app, and how to package and return specimens via collection point or prepaid mailer. It includes EUA-required limitations stating the product is authorized only for home collection/maintenance of anterior nasal swabs for SARS-CoV-2 nucleic acid detection during the active emergency declaration.
 

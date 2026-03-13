@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 2689
-words: 2080
+tokens: 2661
+words: 2077
 notes:
 summary_short: The JD Supra article “FDA Oversight of Laboratory-Developed Tests Continues To Evolve” reviews how FDA regulation of LDTs has shifted over decades and highlights the August 19, 2020 policy change stating LDTs would not face FDA premarket review absent formal rulemaking. It summarizes COVID-era FDA policies and the emerging role of Congress (including the VALID Act) in shaping a longer-term regulatory framework, underscoring ongoing uncertainty for laboratories and diagnostic developers.
 

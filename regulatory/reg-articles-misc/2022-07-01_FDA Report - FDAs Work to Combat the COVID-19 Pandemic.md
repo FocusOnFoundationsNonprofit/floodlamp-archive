@@ -16,7 +16,7 @@ conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
 tokens: 6335
-words: 4818
+words: 4827
 notes:
 summary_short: The FDA “Work to Combat the COVID-19 Pandemic” overview (data current as of April 2022) summarizes FDA’s cross-center actions on vaccines, therapeutics, diagnostics/devices, supply chain resilience, inspections/fraud enforcement, and regulatory science. It highlights scale and mechanisms such as EUAs and postmarket monitoring, expanded data infrastructure and real-world evidence efforts, device/test oversight and communications, and initiatives to prevent shortages and intercept fraudulent or contaminated products. It also notes crosscutting research and equity-focused work intended to strengthen preparedness for future public health emergencies.
 

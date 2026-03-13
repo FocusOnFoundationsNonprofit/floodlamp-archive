@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 503
-words: 317
+tokens: 497
+words: 330
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 2 (Results) submission documents the team's estimated limit of detection (1-5 copies/µL), which is based on experiments spiking ZeptoMetrix inactivated virions and Twist RNA into samples. Results are qualitative using contrived saliva samples, with no clinical validation pilots completed at time of submission.
 

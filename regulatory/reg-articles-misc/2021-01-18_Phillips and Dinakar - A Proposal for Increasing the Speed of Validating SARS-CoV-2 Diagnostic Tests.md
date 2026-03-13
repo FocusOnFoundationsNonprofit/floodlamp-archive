@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: AI
 license: 3rd Party
-tokens: 8408
-words: 4930
+tokens: 8418
+words: 4928
 notes:
 summary_short: Phillips and Dinakar's proposal paper (v0.1.9, January 2021) recommends three extensions to the FDA's EUA process for accelerating validation of SARS-CoV-2 diagnostic tests: structured (machine-readable) EUA data submissions, distributed FDA-directed CLIA-led validation leveraging existing laboratory expertise, and building an open synthetic patient clinical specimen panel to reduce dependence on limited clinical samples for test validation.
 

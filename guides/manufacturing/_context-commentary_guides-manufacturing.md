@@ -3,6 +3,7 @@ last updated: 2026-02-16 RT
 file_name: _context-commentary_guides-manufacturing.md
 category: guides
 subcategory: manufacturing
+gfile_url: **FLAGGED - TDB after review and update of all CC**
 words: 1176
 tokens: 1669
 

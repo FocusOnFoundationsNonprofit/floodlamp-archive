@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: Public Domain
-tokens: 6268
-words: 4478
+tokens: 6296
+words: 4509
 notes:
 summary_short: The CDC ELC Reopening Schools guidance (updated 8/2/2021) describes how American Rescue Plan funding (Project E) should support K–12 screening testing and related prevention activities to keep schools open safely during the 2021–2022 school year. It outlines required tasks, allowable costs (including testing supplies, staffing, IT/reporting systems, diagnostics support, and optional prevention measures like HEPA filtration), and reporting expectations for districts and jurisdictions. It also specifies activity requirements for deploying resources, submitting updated K–12 testing plans aligned to CDC guidance, and implementing and monitoring screening programs over time.
 

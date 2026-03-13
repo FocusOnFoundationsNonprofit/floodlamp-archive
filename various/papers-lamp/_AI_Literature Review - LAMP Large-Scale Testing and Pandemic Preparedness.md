@@ -4,7 +4,7 @@ file_name: _AI_Literature Review - RT-LAMP Large-Scale Testing and Pandemic Prep
 file_date: 2026-02-23
 title: FloodLAMP Literature Review - RT-LAMP Large-Scale Testing and Pandemic Preparedness
 category: various
-subcategory: papers
+subcategory: papers-lamp
 tags: rt-lamp, large-scale-testing, pandemic-preparedness, screening, literature-review
 source_file_type: md
 xfile_type: NA

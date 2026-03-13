@@ -15,13 +15,15 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1958
-words: 925
-notes: This is a presentation (pptx/Google Slides) consisting primarily of manufacturing process flow diagrams (images). The content below lists slide titles only as placeholders since the slides are image-based diagrams. Refer to the source PDF or pptx for the actual diagrams.
+tokens: 1971
+words: 934
+notes: This is a presentation (pptx/Google Slides) consisting primarily of manufacturing process flow diagrams (images). The markdown content lists slide titles only as placeholders since the slides are image-based diagrams. Refer to the source PDF or pptx for the actual diagrams.
 summary_short: The FloodLAMP Assay and Reagent Manufacturing Diagrams is a 19-slide presentation containing process flow diagrams for all key reagent manufacturing and assay workflows. It covers the FloodLAMP Direct RNA Assays (QuickColor LAMP and EasyPCR) at 48- and 96-reaction scales, validation first-run setup, gamma contrived positive preparation, 100X Inactivation Solution manufacturing (standard and XL batches), 1X Inactivation Saline Solution preparation, Twist Positive Control aliquoting, Gamma Blue and 10K dilution series, Primer-Guanidine Solution (PGS) batching, colorimetric CLAMP assay setup, 5X PCR primer preparation, and PCR assay reaction mix preparation.
 
 
 CONTENT
+
+Added line for testing. Added more for 2nd test.
 
 ## Slide 1: FloodLAMP Direct RNA Assays - 48 Reaction Volumes
 _Manufacturing process flow diagram showing reagent preparation and assay workflow for 48-reaction scale. Covers 100X Inactivation Solution, 0.9% Saline, Primer-Guanidine Solution (PGS, 550µL), Colorimetric LAMP MM (655µL), PCR Reaction Mix, and both QuickColor LAMP Test (65°C/25min) and EasyPCR Test (qPCR, 80min) pathways._

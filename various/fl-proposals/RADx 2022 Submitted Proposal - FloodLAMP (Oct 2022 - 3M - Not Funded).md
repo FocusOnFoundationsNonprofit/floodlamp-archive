@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 7938
-words: 5777
+tokens: 7818
+words: 5797
 notes:
 summary_short: The FloodLAMP RADx submission outlines a next-generation, low-cost LAMP-based screening platform pairing reagent-in-cap test devices with modular heater/reader instruments and an integrated mobile app/admin portal for pooled, decentralized testing programs. It summarizes pilot experience (~35,000 samples across 11 surveillance deployments), projected performance and costs, and an open-source business model built around disclosed chemistry, Rights of Reference, and broad licensing for interoperability. It also proposes a two-phase RADx work plan to prototype devices/instruments, run multi-site clinical studies, pursue EUA/510(k) pathways, and scale manufacturing and digital infrastructure for pandemic-ready screening.
 

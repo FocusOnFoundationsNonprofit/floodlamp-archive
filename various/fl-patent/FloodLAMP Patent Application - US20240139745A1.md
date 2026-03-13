@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: mixed
 license: Public Domain
-tokens: 45622
-words: 34842
+tokens: 45623
+words: 34846
 notes: gdoc is different than pdf, for conversion merged in gdoc md text with converted google patents pdf
 summary_short: The "Platform for Decentralized Testing" patent application (US 2024/0139745 A1) describes container-coupling reaction caps and heater/reader systems that move a measured portion of sample into sealed reaction chambers for amplification tests (e.g., LAMP) with optical readout. It details multiple cap and fluidic designs (rotating, plunger, dropper, valves, anti-diffusion features) plus multi-slot instruments for asynchronous processing and automated result capture/communication. This supports low-training, point-of-need and at-home testing workflows with reusable readers and low-cost consumables.
 

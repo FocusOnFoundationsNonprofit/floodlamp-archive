@@ -1,4 +1,33 @@
 METADATA
+last updated: 2026-03-13_062659
+file_name: _archive-combined-files_guides_140k.md
+category: guides
+subcategory: NA
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_guides_140k (54 files, 140,389 tokens)
+
+METADATA
+last updated: 2026-03-13_062659
+file_name: _archive-combined-files_manufacturing_14k.md
+category: guides
+subcategory: manufacturing
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_manufacturing_14k (7 files, 13,698 tokens)
+
+# 3,429  _AI_Reagent Concentrations.md
+METADATA
 last updated: 2026-02-17 RT initial creation
 file_name: _AI_Reagent Concentrations.md
 file_date: 2026-02-17
@@ -276,6 +305,7 @@ last updated: 2026-02-16 RT
 file_name: _context-commentary_guides-manufacturing.md
 category: guides
 subcategory: manufacturing
+gfile_url: **FLAGGED - TDB after review and update of all CC**
 words: 1176
 tokens: 1669
 
@@ -323,7 +353,7 @@ The bottleneck during the Omicron surge was not reagent manufacturing itself but
 The model to follow is SalivaDirect, which contracted with Eurofins to produce commercially available SalivaDirect kits, which were available for general order and not restricted to clinical labs designated under Saliva Direct's open EUA. When we ordered those kits, they arrived next day, were well formulated, and a relatively inexperienced lab tech was able to run the protocol successfully on a PCR machine. That combination — simplified protocol, commercially manufactured reagents, fast shipping — is what decentralized testing needs. Having individual labs or small companies mix their own reagents is a dead end for scale.
 
 
-# 1,958  Assay and Reagent Manufacturing Diagrams.md
+# 1,971  Assay and Reagent Manufacturing Diagrams.md
 METADATA
 last updated: 2026-02-15 RT initial conversion
 file_name: Assay and Reagent Manufacturing Diagrams.md
@@ -341,13 +371,15 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1958
-words: 925
-notes: This is a presentation (pptx/Google Slides) consisting primarily of manufacturing process flow diagrams (images). The content below lists slide titles only as placeholders since the slides are image-based diagrams. Refer to the source PDF or pptx for the actual diagrams.
+tokens: 1971
+words: 934
+notes: This is a presentation (pptx/Google Slides) consisting primarily of manufacturing process flow diagrams (images). The markdown content lists slide titles only as placeholders since the slides are image-based diagrams. Refer to the source PDF or pptx for the actual diagrams.
 summary_short: The FloodLAMP Assay and Reagent Manufacturing Diagrams is a 19-slide presentation containing process flow diagrams for all key reagent manufacturing and assay workflows. It covers the FloodLAMP Direct RNA Assays (QuickColor LAMP and EasyPCR) at 48- and 96-reaction scales, validation first-run setup, gamma contrived positive preparation, 100X Inactivation Solution manufacturing (standard and XL batches), 1X Inactivation Saline Solution preparation, Twist Positive Control aliquoting, Gamma Blue and 10K dilution series, Primer-Guanidine Solution (PGS) batching, colorimetric CLAMP assay setup, 5X PCR primer preparation, and PCR assay reaction mix preparation.
 
 
 CONTENT
+
+Added line for testing. Added more for 2nd test.
 
 ## Slide 1: FloodLAMP Direct RNA Assays - 48 Reaction Volumes
 _Manufacturing process flow diagram showing reagent preparation and assay workflow for 48-reaction scale. Covers 100X Inactivation Solution, 0.9% Saline, Primer-Guanidine Solution (PGS, 550µL), Colorimetric LAMP MM (655µL), PCR Reaction Mix, and both QuickColor LAMP Test (65°C/25min) and EasyPCR Test (qPCR, 80min) pathways._
@@ -845,11 +877,20 @@ Neg Ctrl ID (today's 1XISS):
 Initial Inconclusives?:
 Notes:
 
-# ===== END OF SUBCATEGORY _archive-combined-files_manufacturing_14k.md =====
+
+METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_operations_27k.md
+category: guides
+subcategory: operations
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_operations_27k.md =====
-# operations (4 files, 26,965 tokens)
+CONTENT
+
+# _archive-combined-files_operations_27k (4 files, 26,956 tokens)
 
 # 1,145  _context-commentary_guides-operations.md
 METADATA
@@ -1841,7 +1882,7 @@ conversion: pandas
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 1630
 words: 520
-notes: Unsure about license
+notes: 
 summary_short: The FloodLAMP LAMP Primers list (updated 12/17/2020) specifies SARS-CoV-2 and human internal control primer sets derived from the Rabe–Cepko protocol, including sequences, mix concentrations, and ordering/handling notes (HPLC purification, resuspension, packaging, and minimum order quantities). It provides premix targets for 30X stock solutions for ORF1ab (AS1e), E gene (E1), N gene (N2), and human controls (RNaseP and ACTB) to support standardized assay preparation and procurement.
 
 
@@ -1904,11 +1945,20 @@ CONTENT
 | ACTB-B                       | CGAGAAGATGACCCAGATCATGT                             | 23.0         | 12.0     |      |                |
 ||
 
-# ===== END OF SUBCATEGORY _archive-combined-files_operations_27k.md =====
+
+METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_qms-sops_10k.md
+category: guides
+subcategory: qms-sops
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_qms-sops_10k.md =====
-# qms-sops (8 files, 9,679 tokens)
+CONTENT
+
+# _archive-combined-files_qms-sops_10k (8 files, 9,651 tokens)
 
 # 737  _context-commentary_guides-qms-sops.md
 METADATA
@@ -2672,11 +2722,20 @@ Print Format
 -   **Crop and apply vivid filter**
 -   **Log Amp Run Form with QR code link**
 
-# ===== END OF SUBCATEGORY _archive-combined-files_qms-sops_10k.md =====
+
+METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_sds_30k.md
+category: guides
+subcategory: sds
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_sds_30k.md =====
-# sds (7 files, 30,058 tokens)
+CONTENT
+
+# _archive-combined-files_sds_30k (7 files, 30,046 tokens)
 
 # 10,048  _AI_Waste Disposal and Risk Assessment.md
 METADATA
@@ -4954,11 +5013,20 @@ Phone: 1-415-216-8966
 **Other Information:**  
 Information provided herein is believed to be correct but is not deemed to be all inclusive and should only be used as a guide. Twist Bioscience should not be held liable for any damage resulting from handling or from contact with the above product.
 
-# ===== END OF SUBCATEGORY _archive-combined-files_sds_30k.md =====
+
+METADATA
+last updated: 2026-03-10_105719
+file_name: _archive-combined-files_software_5k.md
+category: guides
+subcategory: software
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_software_5k.md =====
-# software (4 files, 5,389 tokens)
+CONTENT
+
+# _archive-combined-files_software_5k (4 files, 5,377 tokens)
 
 # 859  _context-commentary_guides-software.md
 METADATA
@@ -5302,11 +5370,20 @@ Select the result and tap “Update Status.”
     b.  *Note: Notifications to Participants are currently turned off globally in the FloodLAMP Mobile App to comply with non-diagnostic surveillance testing guidance.*
 _Three mobile screenshots showing the Results view with AMP-status batches/tubes and the UPDATE button, the result selection options (NULL / INVALID / INCONCLUSIVE / NEGATIVE / POSITIVE) with "Update Status" button, and the NOTIFY confirmation dialog._
 
-# ===== END OF SUBCATEGORY _archive-combined-files_software_5k.md =====
+
+METADATA
+last updated: 2026-03-10_105720
+file_name: _archive-combined-files_test-site_22k.md
+category: guides
+subcategory: test-site
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_test-site_22k.md =====
-# test-site (17 files, 21,720 tokens)
+CONTENT
+
+# _archive-combined-files_test-site_22k (17 files, 21,662 tokens)
 
 # 1,144  _context-commentary_guides-test-site.md
 METADATA
@@ -6614,11 +6691,20 @@ Hi \[**name**\], this is \[**staff name**\] at \[**FloodLAMP or your organizatio
 -   The inconclusive could be caused by contamination of the sample or a weak positive
 -   We are referring you and your pool’s participants for follow up diagnostic testing, usually a lab PCR test or an at-home antigen test. Please note that antigen tests are not as sensitive as FloodLAMP’s molecular test, and so [a negative antigen test does not preclude infection](https://www.fda.gov/medical-devices/safety-communications/home-covid-19-antigen-tests-take-steps-reduce-your-risk-false-negative-fda-safety-communication).
 
-# ===== END OF SUBCATEGORY _archive-combined-files_test-site_22k.md =====
+
+METADATA
+last updated: 2026-03-10_105721
+file_name: _archive-combined-files_test-training_21k.md
+category: guides
+subcategory: test-training
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_test-training_21k.md =====
-# test-training (4 files, 21,238 tokens)
+CONTENT
+
+# _archive-combined-files_test-training_21k (4 files, 21,226 tokens)
 
 # 920  _context-commentary_guides-test-training.md
 METADATA
@@ -7095,11 +7181,20 @@ So we just cleaned our table and we're gonna go through cleaning the pipettes re
 Test Trainer  [0:00](https://vimeo.com/668273690/40c8936544?ts=0)
 All right. We are getting prepared to do a run here. And first I'm going to go through setting up the dispenser. So we got it in a handy little Tupperware here. Got our 500 mil bottle and we just, I've got the whole controls. I just leave everything plugged in. It's easiest this way. Okay, and then I'm gonna stretch this cord across. There we go. And I just stick the whole head in a plastic bag to keep it clean. But before I do, I'm going to put our saline. Actually, I'm sorry, this is our 1X inactivation solution we just made. It's 50 mils for 35 samples. Should be enough overage. Oops. I should have my mask on when handling this. It's okay. Got a little drip. Okay, now we can go ahead and stick this guy on. Alright, all sealed up. Now we're gonna get this set up. This over here. This set up back here. Okay, actually you know what? We probably want to set this up on the other side because of the cord. Once we get it started we're not going to need a change. Nope. I think I can get it. Nope. See the plug right there. This thing does have batteries, so you can't operate it for a while without the plug. We are going to go ahead and plug it in though. System test. Okay. Everything's set up. One mil dispense, 10 iterations. Let's go ahead and prime it. Let's also get this cord out. Let's do a little cord management here. There we go. Okay, it's looking good. Okay, ready to go. Alright, so our dispenser is all set up. In case we need to catch a drip. Looks like there's a drip right there. Okay. All right.
 
-# ===== END OF SUBCATEGORY _archive-combined-files_test-training_21k.md =====
+
+METADATA
+last updated: 2026-03-10_105721
+file_name: _archive-combined-files_test-validation_11k.md
+category: guides
+subcategory: test-validation
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
 
 
-# ===== START OF SUBCATEGORY _archive-combined-files_test-validation_11k.md =====
-# test-validation (3 files, 11,059 tokens)
+CONTENT
+
+# _archive-combined-files_test-validation_11k (3 files, 11,051 tokens)
 
 # 1,195  _context-commentary_guides-test-validation.md
 METADATA
@@ -7677,7 +7772,3 @@ _photo showing Room Temperature Box, Inactivation & Assay Box (-dry ice), and Po
 email: randy@floodlamp.bio		phone: 415-269-2974
 
 ## Notes and Suggestions
-
-# ===== END OF SUBCATEGORY _archive-combined-files_test-validation_11k.md =====
-
-# ===== END OF FILE _archive-combined-files_guides_140k.md =====

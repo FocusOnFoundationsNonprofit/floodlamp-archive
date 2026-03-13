@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 5980
-words: 4225
+tokens: 5914
+words: 4228
 notes: 
 summary_short: The FloodLAMP COVID-19 Biobank and Test Validation Protocol (Protocol 20210401) lays out an IRB-governed study to collect up to 100,000 consented clinical specimens across multiple U.S. sites to evaluate FloodLAMP’s QuickColor/QuickFluor RT-LAMP assays, EasyPCR RT-qPCR assay, and a home collection kit (including pooled collection and optional mobile app use). It specifies intended use, inclusion/exclusion criteria, collection variations (co-located sites, independent/mobile sites, and distributed “home” kits), specimen handling requirements (e.g., dry swabs within 56 hours or frozen ≤-70°C), QC/control expectations, and comparison to an EUA-authorized high-sensitivity PCR reference method. It describes de-identification and bias-minimization procedures, data collection and statistical analysis plans (PPA/NPA with confidence intervals and call-rate handling), plus monitoring, record retention, deviations, and ethics/safety oversight aligned to GCP and 21 CFR Part 812.
 

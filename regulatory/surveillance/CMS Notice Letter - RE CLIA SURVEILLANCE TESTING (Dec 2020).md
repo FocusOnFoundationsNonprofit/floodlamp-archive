@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 746
+tokens: 741
 words: 507
 notes:
 summary_short: The CMS CLIA Surveillance Testing notice (Dec. 28, 2020) explains when a facility is considered a CLIA-regulated laboratory and states that COVID-19 testing generally requires CLIA certification if patient-specific results are reported. It describes CMS’s temporary enforcement discretion for SARS-CoV-2 surveillance testing in non-CLIA facilities, allowing non-FDA-authorized methods so long as no individual results (e.g., negative/positive/inconclusive) are provided and individuals are only referred to CLIA-certified labs for follow-up.

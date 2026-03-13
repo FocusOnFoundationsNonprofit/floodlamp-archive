@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4708
-words: 2209
+tokens: 2915
+words: 2007
 notes:
 summary_short: The “Resilient Florida” proposal outlines a statewide plan to stand up locally operated, non-diagnostic rapid molecular surveillance testing sites at emergency response agencies using FloodLAMP’s pooled colorimetric LAMP system and integrated digital tools. It describes a phased rollout (Phase 1: 10 sites; Phase 2: 50 sites plus mobile; Phase 3: preparedness) including turnkey equipment packages, technician training/certification, weekly kit resupply, and responsibilities split among FloodLAMP, the State, and local agencies. It also provides projected throughput and staffing models and a budget estimating about $966K for Phase 1 and $4.36M for Phase 2, positioning the capability as reusable infrastructure for future pathogens by swapping primer sets.
 

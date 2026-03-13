@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse-v
 license: Public Domain
-tokens: 67576
-words: 49258
+tokens: 67421
+words: 49252
 notes: 
 summary_short: The American Clinical Laboratory Association’s December 4, 2023 letter submits formal comments opposing FDA’s proposed rule to regulate laboratory developed tests (LDTs) as medical devices. It argues that LDTs are professional laboratory services already subject to robust oversight under CLIA and state law, and that applying device regulation would reduce patient access, stifle diagnostic innovation, and exceed FDA’s legal authority.
 

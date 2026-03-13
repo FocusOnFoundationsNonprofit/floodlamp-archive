@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 2135
-words: 1451
+tokens: 2061
+words: 1444
 notes: 
 summary_short: The RADx Tech “High-Performance COVID-19 Rapid Tests” solicitation describes NIH/NIBIB’s fast-track program to fund next-generation OTC and point-of-care COVID-19 tests with substantially improved performance, accessibility, and digital reporting readiness. It outlines the multi-stage process (rolling review, Deep Dive, Work Packages 1–2), evaluation criteria, timeline, and application pathways for teams seeking milestone-driven support toward FDA authorization and commercialization.
 

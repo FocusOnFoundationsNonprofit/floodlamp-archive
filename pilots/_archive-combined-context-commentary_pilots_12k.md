@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105726
+file_name: _archive-combined-context-commentary_pilots_12k.md
+category: pilots
+subcategory: NA
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-context-commentary_pilots_12k (2 files, 11,644 tokens)
+
+# 3,225  _context-commentary_pilot-data_data-processing.md
+METADATA
 last updated: 2026-02-27 RT
 file_name: README_pilot-data_data-processing
 category: pilots
@@ -593,5 +608,3 @@ The head of Abrome provided a written endorsement stating that the school emerge
 A documented case from December 2022 illustrates the detection model: a morning LAMP test flagged a positive household pool (two parents and one student), none of whom had symptoms. The student was immediately separated from the school. Within hours, one parent tested positive on rapid PCR; the student developed symptoms and tested positive two days later. No other Abrome students or staff tested positive, suggesting that the rapid detection and quarantine interrupted transmission to the school community.
 
 Abrome's success was supported by conditions that may not be generalizable: a school culture that embraced mandatory daily testing, a small enough community for a single staff member to manage the program, and grant funding covering the full cost. These factors made Abrome an effective setting but also highlight the financial and cultural prerequisites for similar programs elsewhere.
-
-# ===== END OF FILE _archive-combined-context-commentary_pilots_12k.md =====

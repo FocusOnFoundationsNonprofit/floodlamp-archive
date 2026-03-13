@@ -16,7 +16,7 @@ conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 2202
-words: 603
+words: 604
 notes: 
 summary_short: The “Testing Programs and Playbooks” index is a curated compilation of links and brief notes on COVID-19 testing strategies, school surveillance programs, pooled-testing pilots, lab partners, and related guidance (national and state). It’s useful for quickly finding comparable playbooks, vendor/program examples, and operational references when designing or evaluating a testing program.
 

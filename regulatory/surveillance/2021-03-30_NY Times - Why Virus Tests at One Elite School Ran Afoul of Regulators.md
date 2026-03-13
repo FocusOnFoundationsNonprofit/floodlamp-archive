@@ -17,7 +17,7 @@ conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
 tokens: 2222
-words: 1788
+words: 1790
 notes:
 summary_short: The New York Times article “Why Virus Tests at One Elite School Ran Afoul of Regulators” recounts how New Trier High School’s large-scale COVID testing program triggered scrutiny over whether it was conducting regulated screening without proper CLIA certification or an FDA-authorized test. It highlights the practical confusion between “surveillance” and “screening” when individual students are flagged and sent home, and describes how the investigation ended after the testing vendor sought federal lab certification and added qualified oversight.
 

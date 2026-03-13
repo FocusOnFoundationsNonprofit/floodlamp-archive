@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4128
-words: 2042
+tokens: 4121
+words: 2051
 notes: attachments changed from gdoc version
 summary_short: The email thread documents FDA’s October 2021 interactive review of FloodLAMP’s EUA210582 QuickColor COVID-19 Test, including an FDA request for additional information, a follow-up offer to meet by Zoom, and FloodLAMP’s written response arguing for an amended serial-screening intended use. It captures key feedback from FDA reviewers about open-protocol EUA/designation concerns, the need for acceptable clinical evidence for serial screening, and constraints around reference panels, followed by FDA’s deprioritization/closure letter and FloodLAMP’s appeal for reconsideration. The final exchange confirms FDA understood the intended-use amendment but deemed FloodLAMP’s clinical study inadequate for screening with serial testing, directing FloodLAMP to the updated molecular EUA template or a pre-EUA supplement for study-design feedback.
 

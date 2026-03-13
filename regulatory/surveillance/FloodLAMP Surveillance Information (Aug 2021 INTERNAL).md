@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4043
-words: 2254
+tokens: 3906
+words: 2239
 notes: many links to other FL archive files
 summary_short: The regulatory overview and FAQ memo explains how FloodLAMP frames pooled COVID-19 surveillance testing as a non-diagnostic public health activity under CMS guidance, emphasizing that no patient-specific results (e.g., “positive/negative/inconclusive”) are reported and participants are referred to CLIA-certified diagnostic testing when SARS-CoV-2 is detected in a pool. It contrasts surveillance testing, LDTs, and FDA-authorized EUA tests, cites CMS enforcement discretion and an eCFR research-lab exemption, and includes prepared language and supporting federal links to justify compliance for a municipal surveillance program.
 

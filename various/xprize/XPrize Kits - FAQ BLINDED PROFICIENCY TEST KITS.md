@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 397
-words: 293
+tokens: 388
+words: 302
 notes:
 summary_short: FAQ document for XPRIZE Rapid Covid Testing semi-finalist teams explaining the blinded proficiency test kit contents (150-200 contrived BSL-1 samples), shipping timeline (September 24 - October 2, 2020), one-week testing window, and results submission process via the Prize Operations Platform.
 

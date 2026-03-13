@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 12096
-words: 6632
+tokens: 12077
+words: 6626
 notes:
 summary_short: The “Extending the Reach of LAMP” BARDA market research deck (March 7, 2022) presents FloodLAMP’s case for a globally accessible, decentralized molecular screening platform built around pooled collection, an instrument-free QuickColor LAMP assay paired with a sister PCR assay, and wraparound digital, training, and quality systems. It summarizes real-world municipal/EMS and school pilots, argues for “open EUA” regulatory pathways with full component disclosure to enable interoperable “generic” diagnostics, and outlines the operational assets (kits, portable lab setups, mobile app/admin portal) needed to scale rapid community screening.
 

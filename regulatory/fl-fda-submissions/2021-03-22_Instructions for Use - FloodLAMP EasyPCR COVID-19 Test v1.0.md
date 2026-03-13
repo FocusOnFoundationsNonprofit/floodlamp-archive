@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: gdoc
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 13973
-words: 8770
+tokens: 13972
+words: 8769
 notes: 
 summary_short: The Instructions for Use for the FloodLAMP EasyPCR COVID-19 Test v1.0 provides CLIA high-complexity labs with the full workflow for an extraction-free, duplex RT-qPCR assay using CDC N1 and RNaseP targets after TCEP-based chemical plus heat inactivation. It specifies required reagents and equipment, contamination controls, instrument setup/templates, step-by-step plate and run procedures, and Ct-based result interpretation with control acceptance criteria. It also summarizes stated analytical/clinical performance (including a 3,100 copies/mL LoD and 97.5%/100% agreement in an 80-specimen evaluation) and required reporting/recordkeeping under EUA conditions.
 

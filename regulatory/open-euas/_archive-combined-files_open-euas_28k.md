@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105731
+file_name: _archive-combined-files_open-euas_28k.md
+category: regulatory
+subcategory: open-euas
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_open-euas_28k (6 files, 27,806 tokens)
+
+# 12,968  _AI_open-euas-open-access-diagnostics-report.md
+METADATA
 last updated: 2026-03-02 RT
 file_name: _AI_open-euas-open-access-diagnostics-report.md
 file_date: 2026-03-02
@@ -653,16 +668,16 @@ The "generics of diagnostics" framing from the nomination letter remains, in our
 
 # 884  2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 METADATA
-last updated: 2025-12-19 RT
+last updated: 2026-03-05 by BA
 file_name: 2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 file_date: 2020-08-15
-title: 2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect
+title: FDA Website - Press Release FDA Issues EUA for SalivaDirect
 category: regulatory
 subcategory: open-euas
 tags: 
 source_file_type: webcopy
 xfile_type: NA
-gfile_url: https://docs.google.com/document/d/1AI0m-P7DGfK2HivDJYcSRgkLbsf3G2KRTPmfOpJXAyA
+gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: NA
 pdf_github_url: NA
@@ -723,26 +738,26 @@ Consumer:
  888-INFO-FDA
 
 
-# 5,295  2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
+# 5,102  2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
 METADATA
-last updated: 2026-01-02 CT
-file_name: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.pdf
+last updated: 2026-03-05 by BA
+file_name: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary.md
 file_date: 2020-10-15
-title: 2020-10-15_SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary
+title: SalivaDirect EUA IFU - Yale School of Public Health SalivaDirect assay EUA Summary
 category: regulatory
-subcategory: fda-euas
+subcategory: open-euas
 tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/2020-10-15_SalivaDirect%20EUA%20IFU%20-%20Yale%20School%20of%20Public%20Health%20SalivaDirect%20assay%20EUA%20Summary.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1mGUCmYzhqj1aoBgu1KeKE7S3ndyuhUID
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/open-euas/2020-10-15_SalivaDirect%20EUA%20IFU%20-%20Yale%20School%20of%20Public%20Health%20SalivaDirect%20assay%20EUA%20Summary.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
-tokens: 5295
-words: 3262
+tokens: 5102
+words: 3161
 notes: 
 summary_short: The SalivaDirect EUA Summary (updated Oct. 15, 2020) outlines Yale’s extraction-free saliva RT-qPCR test authorized for use only in CLIA high-complexity laboratories designated by Yale, including the intended use, workflow, validated instruments, and detailed reagent/vendor options to support supply-chain flexibility. It provides control requirements, result interpretation criteria, and performance data including LoD studies across multiple reagent and instrument combinations and a paired clinical comparison showing high positive agreement with an authorized comparator.
 
@@ -764,8 +779,6 @@ Results are for the detection and identification of SARS-CoV-2 RNA. The SARS-CoV
 
 Negative results do not preclude SARS-CoV-2 infection and should not be used as the sole basis for patient management decisions. Negative results must be combined with clinical observations, patient history, and epidemiological information. Negative results for SARS-CoV-2 RNA from saliva should be confirmed by testing of an alternative specimen type if clinically indicated.
 
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
-
 SalivaDirect is intended for use by qualified and trained clinical laboratory personnel specifically instructed and trained in the techniques of RT-qPCR and in vitro diagnostic procedures. The assay is only for use under the Food and Drug Administration's Emergency Use Authorization.
 
 
@@ -782,6 +795,7 @@ SalivaDirect should be used with the following RT-qPCR instruments:
 | | ThermoFisher Scientific | Applied Biosystems 7500 Fast Real-Time PCR System |
 | | ThermoFisher Scientific | Applied Biosystems 7500 Fast Dx Real-Time PCR System |
 | | ThermoFisher Scientific | Applied Biosystems QuantStudio 5 Real-Time PCR System ||
+||
 
 
 ## REAGENTS AND MATERIALS
@@ -839,6 +853,7 @@ SalivaDirect should be used with the following RT-qPCR instruments:
 | | | B1500L | 100 mL | |
 | | Order the following positive control | | | |
 | Twist Bioscience | Synthetic SARS-CoV-2 RNA Control 2 | 102024 | 100 µL | |
+||
 
 
 ## CONTROLS RUN WITH THE COVID-19 RT-PCR
@@ -849,18 +864,15 @@ The following controls are run with the SalivaDirect assay:
 | Negative Template Control (NTC) | Nuclease-free water | To monitor for contamination of PCR reagents | Every PCR plate with up to 93 saliva samples |
 | Positive | Twist Synthetic SARS-CoV-2 RNA control. (Dilute to 100 copies/µL) | To monitor functioning of RT-qPCR reagents | Every PCR plate with up to 93 saliva samples |
 | Internal Process Control | Primer/Probe set detecting RNaseP | To ensure that saliva of a sufficient quantity and quality was tested | Every sample |
-
-pg. 4
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
+||
 
 ## INTERPRETATION OF RESULTS
-1) <u>**SARS-CoV-2 RT-PCR test Controls – Positive, Negative, and Internal:**</u>
+1) ***SARS-CoV-2 RT-PCR test Controls – Positive, Negative, and Internal:***
 **Positive control**: The positive control should yield a “detected” result for the N1 target and “not detected” for the RNaseP control.
 **Negative Extraction Control (NEC)**: The NEC should yield a “not detected” result for the N1 target and “detected” for RNaseP.
 **Negative Template Control**: The NTC should yield a “not detected” result for both the N1 and RNaseP targets.
 **Internal Control**: Detection of RNaseP at PCR cycle threshold (CT) <35 indicates that saliva of sufficient quantity and quality were tested. Detection of RNaseP is required to report a negative SARS-CoV-2 result.
-2) <u>**Examination and Interpretation of Patient Specimen Results:**</u>
+2) ***Examination and Interpretation of Patient Specimen Results:***
 All test controls should be examined prior to interpretation of patient results. If the controls are not valid, the patient results cannot be interpreted. Results will be interpreted according to the table below:
 
 **Bio-Rad CFX96 / ABI 7500 Fast / ABI QuantStudio 5**
@@ -869,6 +881,7 @@ All test controls should be examined prior to interpretation of patient results.
 | Positive | <40 | Any value |
 | Negative | ≥40 | <35 |
 | *Invalid | ≥40 | ≥35 |
+||
 
 **ABI 7500 Fast Dx**
 | Result | Ct value N1 | Ct value RP |
@@ -876,13 +889,10 @@ All test controls should be examined prior to interpretation of patient results.
 | Positive | <37 | Any value |
 | Negative | ≥37 | <35 |
 | *Invalid | ≥37 | ≥35 |
-
-pg. 5
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
+||
 
 ## PERFORMANCE EVALUATION
-1) <u>**Analytical Sensitivity:**</u>
+1) ***Analytical Sensitivity:***
 Limit of Detection (LoD):
 A positive saliva specimen from a confirmed COVID-19 healthcare worker with a known virus concentration (3.7 × 104 copies/µL) was spiked into saliva collected from healthcare workers who tested negative for SARS-CoV-2 using the CDC assay. The following 2-fold dilution series was tested in triplicate to determine the preliminary limit of detections: 400, 200, 100, 50, 25, 12, and 6 copies/µL. Spiked saliva specimens were tested according to the SalivaDirect protocol. In total, three different proteinase K reagents, three different RT-qPCR kits, and three different RT-qPCR thermocyclers were validated with the assay. Input volumes, matrices and RT-qPCR programs were the same for each combination of proteinase K, RT-qPCR kit, and RT-qPCR instrument. The preliminary limit of detection was then confirmed with 20 additional replicates. The table below shows the final limit of detection for the different reagents/instruments used with SalivaDirect.
 ### Proteinase K
@@ -891,39 +901,37 @@ A positive saliva specimen from a confirmed COVID-19 healthcare worker with a kn
 | Thermo | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 36.7 (1.0) |
 | NEB | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 35.6 (0.4) |
 | AmericanBio | NEB Luna | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 35.5 (0.4) |
+||
 
 ### RT-qPCR kit
 | Proteinase K | RT-qPCR kit | RT-qPCR instrument | LOD | Positive replicates | Mean Ct value (SD) |
 |---|---|---|---|---|---|
 | Thermo | Bio-Rad Reliance | Bio-Rad CFX96 | 6 copies/µL | 100% (20/20) | 36.4 (0.6) |
 | Thermo | Thermo TaqPath | Bio-Rad CFX96 | 12 copies/µL | 100% (20/20) | 35.9 (1.2) |
+||
 
 ### RT-qPCR instrument
 | Proteinase K | RT-qPCR kit | RT-qPCR instrument | LOD | Positive replicates | Mean Ct value (SD) |
 |---|---|---|---|---|---|
 | Thermo | Thermo TaqPath | ABI 7500 Fast | 12 copies/µL | 95% (19/20) | 36.8 (1.2) |
 | Thermo | Thermo TaqPath | ABI 7500 Fast Dx | 6 copies/µL | 95% (19/20) | 32.4 (0.9) |
+||
 
-Bridging Studies for Additional Instruments
+*Bridging Studies for Additional Instruments*
 
-A bridging study was performed to validate an additional thermocycler, the ABI QuantStudio 5. A 2-fold dilution series was tested in triplicate with the ABI QuantStudio 6
+A bridging study was performed to validate an additional thermocycler, the ABI QuantStudio 5. A 2-fold dilution series was tested in triplicate with the ABI QuantStudio 5 in parallel with the ABI 7500 Dx Fast to establish equivalent performance. Samples were prepared by spiking positive saliva from a confirmed COVID-19 healthcare worker with a known concentration (3.7 x 104 copies/µL) into saliva collected from healthcare workers who tested negative for SARS-CoV-2. The following concentrations were tested: 100, 50, 25, 12, 6, 3, and 1 copies/µL. All samples were tested using the Thermo Proteinase K with the NEB Luna RT-qPCR kit. The table below lists the positivity rates for each concentration when tested using either thermocycler:
 
-pg. 6
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
-
-5 in parallel with the ABI 7500 Dx Fast to establish equivalent performance. Samples were prepared by spiking positive saliva from a confirmed COVID-19 healthcare worker with a known concentration (3.7 x 104 copies/µL) into saliva collected from healthcare workers who tested negative for SARS-CoV-2. The following concentrations were tested: 100, 50, 25, 12, 6, 3, and 1 copies/µL. All samples were tested using the Thermo Proteinase K with the NEB Luna RT-qPCR kit. The table below lists the positivity rates for each concentration when tested using either thermocycler:
-
-| Instrument | 100 copies/µL | 50 copies/µL | 25 copies/µL | 12 copies/µL | 6 copies/µL | 3 copies/µL | 1 copy/µL | 0 copies/µL |
+|  | 100 copies/µL | 50 copies/µL | 25 copies/µL | 12 copies/µL | 6 copies/µL | 3 copies/µL | 1 copy/µL | 0 copies/µL |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | ABI 7500 Dx Fast | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 2/3 | 0/3 |
 | ABI QuantStudio 5 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 3/3 | 1/3 | 0/3 |
+||
 
-2) <u>**Analytical Inclusivity/Cross Reactivity**</u>
+2) ***Analytical Inclusivity/Cross Reactivity***
 The sequences for the N1 primers and probe used in this assay are identical to the primer/probe sequences used in the FDA authorized CDC SARS-CoV-2 assay. Please refer to EUA200001/A004 for an updated in silico analysis of the primers/probes used with the CDC assay.
 In addition, SalivaDirect was tested on 52 saliva specimens collected from adults during the 2018/2019 and 2019/2020 (pre-COVID19) autumn/winter influenza seasons. Out of the 52 specimens tested, 51 resulted as negative, and one resulted as invalid (both N1 and RP were not detected).
 
-3) <u>**Clinical Evaluation:**</u>
+3) ***Clinical Evaluation:***
 Performance of SalivaDirect was compared to the authorized ThermoFisher Scientific TaqPath RT-PCR COVID-19 combo kit by testing paired nasopharyngeal and saliva samples. Nasopharyngeal swabs and saliva were collected from inpatients and healthcare workers in the Yale-New Haven Hospital. Saliva was collected in sterile urine cups or 5 mL tubes without addition of any preservatives.
 For the preliminary selection of specimens, specimens were tested with a modified version of the US CDC assay. Based on these results, a total of 67 NP/saliva pairs were tested for the current study, with 37 being NP positive and 30 being NP negative by the modified CDC assay. These NP and saliva specimens were subsequently tested in parallel with the EUA-authorized TaqPath COVID-19 combo kit (on NP specimens) and SalivaDirect (on saliva specimens). The ThermoFisher Scientific TaqPath COVID- 19 combo kit combines RNA extraction using the MagMax Viral/Pathogen Nucleic Acid Isolation Kit with a multiplex RT-PCR diagnostic assay targeting 3 regions of the SARS-CoV-2 genome. For SalivaDirect testing, the ThermoFisher Scientific proteinase
 K, ThermoFisher Scientific TaqPath RT-PCR kit, and Bio-Rad CFX96 instrument were utilized.
@@ -940,14 +948,11 @@ The results from this paired study are described below:
 | **Total** | **34** | **33** |
 | Positive agreement = 94.1% (32/34)  |
 | Negative agreement = 90.9% (30/33) |
+||
 
 Out of the 34 individuals with nasopharyngeal swab specimens that tested positive by the TaqPath COVID-19 kit, 32 had saliva specimens that were positive by the SalivaDirect, yielding a PPA of 94.1%. Out of the 33 individuals with negative NP swab specimens by the TaqPath assay, 30 had saliva specimens that were negative by SalivaDirect, generating an NPA of 90.9%. There were three individuals who tested positive by SalivaDirect on saliva specimens but negative by TaqPath on NP specimens. It should be noted that these 3 individuals previously tested weakly positive with the modified CDC assay.
 
 As an additional analysis, the results from the SalivaDirect on saliva specimens were compared to the results from the modified CDC assay on the paired NP specimens. This modified CDC assay used the 2019-nCoV_N1, 2019-nCoV_N2, and RP primer-probe sets with the NEB Luna Universal Probe One-Step RT-qPCR kit on the Bio-Rad CFX96. The SalivaDirect results were concordant with 94.6% (35/37) of the NP positive results and 100% of the NP negative results, as shown below:
-
-pg. 8
-
-Yale School of Public Health, Department of Epidemiology of Microbial Diseases SalivaDirect assay EUA Summary – Updated October 15, 2020
 
 **Modified CDC RT-PCR (Nasopharyngeal swab)**
 
@@ -958,6 +963,7 @@ Yale School of Public Health, Department of Epidemiology of Microbial Diseases S
 | **Total** | **37** | **30** |
 | Positive agreement = 94.6% (35/37) |
 | Negative agreement = 100% (30/30) |
+||
 
 
 ## WARNINGS:
@@ -966,12 +972,10 @@ Yale School of Public Health, Department of Epidemiology of Microbial Diseases S
 - This test has been authorized only for the detection of nucleic acid from SARS- CoV-2, not for any other viruses or pathogens; and
 - This test is only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of in vitro diagnostics for detection and/or diagnosis of COVID-19 under Section 564(b)(1) of the Federal Food, Drug and Cosmetic Act, 21 U.S.C. § 360bbb-3(b)(1), unless the authorization is terminated or revoked sooner.
 
-pg. 9
 
-
-# 1,437  Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
+# 1,428  Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
 METADATA
-last updated: 2025-12-30 CT
+last updated: 2026-03-05 by BA
 file_name: Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards.md
 file_date: 2022-06-03
 title: Anne Wyllie Nomination for FDA Foundation 2022 Innovations in Regulatory Science Awards
@@ -981,13 +985,13 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/16muU80i9sAFPsCQNosyrK6ZYJqMPxf0gSqZcsudqYZM
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/Anne%20Wyllie%20Nomination%20for%20FDA%20Foundation%202022%20Innovations%20in%20Regulatory%20Science%20Awards.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1w5MajWqU_1w4aIgNZJ3HKzbzlzGAc9tB
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/open-euas/Anne%20Wyllie%20Nomination%20for%20FDA%20Foundation%202022%20Innovations%20in%20Regulatory%20Science%20Awards.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1437
+tokens: 1428
 words: 1034
 notes:
 summary_short: The Reagan-Udall Foundation nomination argues that Anne Wyllie’s SalivaDirect EUA pioneered an “open source protocol” model by validating saliva and extraction-free processing while disclosing components and qualifying multiple reagent/instrument options for broad CLIA lab adoption. It highlights the FDA “designation” approach, legal and operational infrastructure for scaling a lab network, and downstream effects such as supply-chain resilience and industry-wide cost compression in molecular testing. The nomination frames SalivaDirect as a template for “generic” diagnostics authorization with relevance to future pandemic preparedness, while disclosing FloodLAMP’s advisory relationship to Wyllie.
@@ -999,7 +1003,7 @@ CONTENT
 
 June 3, 2022
 
-The FDA called it the most unusual submission they had ever received. They were referring to the EUA for the SalivaDirect SARS-CoV-2 RT-PCR Test EUA, developed by Anne Wyllie and a small, dedicated team at the Yale School of Public Health. Dr. Wyllie, working with Professor Nathan Grubaugh, pioneered innovations on several different fronts of diagnostic testing, by 1) validating saliva as an excellent specimen type for a respiratory virus, 2) omitting the gold standard RNA extraction step, and with it a significant cost and supply chain vulnerability, and 3) creating the first "open source protocol" EUA. For the latter "ground breaking" "game changing"<sup>1</sup> contribution to the field of regulatory science, we nominate Dr. Anne Wyllie for the Reagan-Udall Foundation's 2022 Innovation Award.
+The FDA called it the most unusual submission they had ever received. They were referring to the EUA for the SalivaDirect SARS-CoV-2 RT-PCR Test EUA, developed by Anne Wyllie and a small, dedicated team at the Yale School of Public Health. Dr. Wyllie, working with Professor Nathan Grubaugh, pioneered innovations on several different fronts of diagnostic testing, by 1) validating saliva as an excellent specimen type for a respiratory virus, 2) omitting the gold standard RNA extraction step, and with it a significant cost and supply chain vulnerability, and 3) creating the first "open source protocol" EUA. For the latter "ground breaking" "game changing"^1^ contribution to the field of regulatory science, we nominate Dr. Anne Wyllie for the Reagan-Udall Foundation's 2022 Innovation Award.
 
 What made the SalivaDirect EUA so unusual is that Dr. Wyllie and her team submitted for an IVD EUA even though they never intended to manufacture and sell test kits. Normally university labs submit for LDT EUAs which are inherently limited to a single clinical lab, or affiliated lab network. Dr. Wyllie understood that to have a large impact, their test would need to be available to all CLIA labs, as is the case for commercial molecular diagnostic test kits. Working with 2 former FDA reviewers, they came up with a multifaceted creative solution.
 
@@ -1019,7 +1023,7 @@ Dr. Wyllie has spearheaded a new paradigm of regulatory authorization, pioneerin
 
 DISCLOSURE: Dr. Wyllie is a scientific advisor to FloodLAMP Biotechnologies, a public benefit corporation. FloodLAMP has submitted tests to the FDA as open source protocol EUAs.
 
-1\. [<u>FDA Press Release - Aug 15, 2020</u>](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health)
+1. [FDA Press Release - Aug 15, 2020](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-yale-school-public-health)
 FLOODLAMP ARCHIVE FILE PATH: regulatory/open-euas/2020-08-15_FDA Website - Press Release FDA Issues EUA for SalivaDirect.md
 
 Sincerely,
@@ -1027,9 +1031,9 @@ Randy True
 CEO, FloodLAMP Biotechnologies, PBC
 
 
-# 3,871  Open EUA Consortium (stalled quickly end of 2020) - Main Doc.md
+# 3,766  Open EUA Consortium (stalled quickly end of 2020) - Main Doc.md
 METADATA
-last updated: 2025-12-27 CT
+last updated: 2026-03-05 by BA
 file_name: Open EUA Consortium (stalled quickly end of 2020) - Main Doc.md
 file_date: 2020-12-01
 title: Open EUA Consortium (stalled quickly end of 2020) - Main Doc
@@ -1039,14 +1043,14 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1T0j9-Z_npX1A1AgNoPpRkXB6moEG5qNEUiVIi81QSWI
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/regulatory/open-euas/Open%20EUA%20Consortium%20%28stalled%20quickly%20end%20of%202020%29%20-%20Main%20Doc.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1h7fYRtMEm54Mmq_nvdVkLAMhHJtbFRhk
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/regulatory/open-euas/Open%20EUA%20Consortium%20%28stalled%20quickly%20end%20of%202020%29%20-%20Main%20Doc.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 3871
-words: 1784
+tokens: 3766
+words: 1785
 notes: 
 summary_short: The Open EUA Consortium overview describes a collaborative effort among COVID-19 test developers to build a small suite of low-cost, interoperable “open source protocol” EUAs modeled on SalivaDirect, enabling designated labs (or CLIA labs via LDT revalidation) to run validated methods using off-the-shelf components. It lays out goals, membership growth, and the operational needs—shared validation materials, blanket Rights of Reference (especially for standardized LAMP primers), supply-chain coordination, and implementation playbooks—to rapidly scale screening and diagnostic testing across diverse settings.
 
@@ -1140,53 +1144,53 @@ What other chunks can OEC validate and offer ROR's for?
 
 
 ## Sources of Validation Materials
-Interfering substances [<u>price list with Vendor and Catalog Numbers</u>](https://docs.google.com/spreadsheets/d/1v7VZYTwgw1ZzjY87q_h14Zo8qiR0VTXg6KwKyFXV6S0/edit?usp=sharing) from [<u>Pro-Lab Dx EUA</u>](https://drive.google.com/file/d/1G24k4ns8syox-CYDxIrQcnm0nqgxPFX2/view?usp=sharing)
+Interfering substances [price list with Vendor and Catalog Numbers](https://docs.google.com/spreadsheets/d/1v7VZYTwgw1ZzjY87q_h14Zo8qiR0VTXg6KwKyFXV6S0/edit?usp=sharing) from [Pro-Lab Dx EUA](https://drive.google.com/file/d/1G24k4ns8syox-CYDxIrQcnm0nqgxPFX2/view?usp=sharing)
 
 
 ## LAMP Primers
-[<u>Primers Compilation LAMP</u>](https://docs.google.com/spreadsheets/d/1cdVJ0oi6qHysaYQLEQiPhjqIjwjeXhaF9u8WSCbL70Q/edit?usp=sharing)
+[Primers Compilation LAMP](https://docs.google.com/spreadsheets/d/1cdVJ0oi6qHysaYQLEQiPhjqIjwjeXhaF9u8WSCbL70Q/edit?usp=sharing)
 
 12-15 RT requesting validation run of AS1e, E1, N2 from Eurofins - 10X in water, std desalt
 
 
 ## FDA Links
-[<u>CLIA Classification</u>](https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-categorizations#:~:text=A%20score%20of%201%20indicates,are%20categorized%20as%20high%20complexity)
+[CLIA Classification](https://www.fda.gov/medical-devices/ivd-regulatory-assistance/clia-categorizations#:~:text=A%20score%20of%201%20indicates,are%20categorized%20as%20high%20complexity)
 
-[<u>FDA Town Halls</u>](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-coronavirus-covid-19-test-development-and-validation-12092020-12092020?utm_medium=email&utm_source=govdelivery) - FDA link and FloodLAMP youtube page link, our notes link
+[FDA Town Halls](https://www.fda.gov/medical-devices/workshops-conferences-medical-devices/virtual-town-hall-series-coronavirus-covid-19-test-development-and-validation-12092020-12092020?utm_medium=email&utm_source=govdelivery) - FDA link and FloodLAMP youtube page link, our notes link
 
-[<u>FDA Town Hall Survey</u>](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDEyMDguMzE3Mjk5NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdXJ2ZXltb25rZXkuY29tL3IvY2RyaHZpcnR1YWx0b3duaGFsbHM_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.1nAGtlX2lXpNcGQQYKhnXNy6xQI0ZRlgFchTyWumv18/s/1299946100/br/91257259322-l)
+[FDA Town Hall Survey](https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMDEyMDguMzE3Mjk5NzEiLCJ1cmwiOiJodHRwczovL3d3dy5zdXJ2ZXltb25rZXkuY29tL3IvY2RyaHZpcnR1YWx0b3duaGFsbHM_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.1nAGtlX2lXpNcGQQYKhnXNy6xQI0ZRlgFchTyWumv18/s/1299946100/br/91257259322-l)
 
-[<u>FDA Pre-EUA</u>](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/how-submit-pre-eua-vitro-diagnostics-fda)
+[FDA Pre-EUA](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/how-submit-pre-eua-vitro-diagnostics-fda)
 
-[<u>CDRH-EUA-Templates@fda.hhs.gov</u>](mailto:CDRH-EUA-Templates@fda.hhs.gov)
+[CDRH-EUA-Templates@fda.hhs.gov](mailto:CDRH-EUA-Templates@fda.hhs.gov)
 
-[<u>https://www.cms.gov/files/document/clia-university-lab-testing.pdf</u>](https://www.cms.gov/files/document/clia-university-lab-testing.pdf)
+[https://www.cms.gov/files/document/clia-university-lab-testing.pdf](https://www.cms.gov/files/document/clia-university-lab-testing.pdf)
 
-[<u>https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19</u>](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19)
+[https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19](https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pooled-sample-testing-and-screening-testing-covid-19)
 
-[<u>11-17 COVID-19 Update: FDA’s Ongoing Commitment to Transparency for COVID-19 EUAs</u>](https://www.fda.gov/news-events/press-announcements/covid-19-update-fdas-ongoing-commitment-transparency-covid-19-euas)
+[11-17 COVID-19 Update: FDA’s Ongoing Commitment to Transparency for COVID-19 EUAs](https://www.fda.gov/news-events/press-announcements/covid-19-update-fdas-ongoing-commitment-transparency-covid-19-euas)
 
 
 ## Helpful Links
-[<u>Gates Nasal Swab Presentation 9-17-20</u>](https://aslm.org/wp-content/uploads/2020/09/1600973669-Nasal-swab-methods-and-results-BMGF-17Sept2020_1_.pdf?x16776)
+[Gates Nasal Swab Presentation 9-17-20](https://aslm.org/wp-content/uploads/2020/09/1600973669-Nasal-swab-methods-and-results-BMGF-17Sept2020_1_.pdf?x16776)
 
 KAREN A HEICHMAN, PhD Senior Program Officer, Innovative Technology Solutions Program Global Health at Bill and Melinda Gates Foundation
 
 Has dry swab elution protocol (10min, vortex)
 
-[<u>FDA SARS-CoV-2 Reference Panel Comparative Data - Google Sheet by Matt McFarlane</u>](https://docs.google.com/spreadsheets/d/1Y1H4bPgi-xeD08LaMvvtvQhyj6vchuf1tObI9KTyKcw/edit?usp=sharing)
+[FDA SARS-CoV-2 Reference Panel Comparative Data - Google Sheet by Matt McFarlane](https://docs.google.com/spreadsheets/d/1Y1H4bPgi-xeD08LaMvvtvQhyj6vchuf1tObI9KTyKcw/edit?usp=sharing)
 
-[<u>https://www.resiliencehealth.com/tests.html</u>](https://www.resiliencehealth.com/tests.html)
+[https://www.resiliencehealth.com/tests.html](https://www.resiliencehealth.com/tests.html)
 
-[<u>https://opencovidpledge.org/</u>](https://opencovidpledge.org/)
+[https://opencovidpledge.org/](https://opencovidpledge.org/)
 
-[<u>Pledging intellectual property for COVID-19</u>](https://www.nature.com/articles/s41587-020-0682-1) - Nature Biotechniques 10-5-2020
+[Pledging intellectual property for COVID-19](https://www.nature.com/articles/s41587-020-0682-1) - Nature Biotechniques 10-5-2020
 
-[<u>https://www.invetechgroup.com/insights/2020/05/emergency-use-authorization-how-diagnostic-developers-can-address-covid-19/</u>](https://www.invetechgroup.com/insights/2020/05/emergency-use-authorization-how-diagnostic-developers-can-address-covid-19/)
+[https://www.invetechgroup.com/insights/2020/05/emergency-use-authorization-how-diagnostic-developers-can-address-covid-19/](https://www.invetechgroup.com/insights/2020/05/emergency-use-authorization-how-diagnostic-developers-can-address-covid-19/)
 
 
 ## Article Links
-[<u>Open-source toolkit helps developing countries meet demand for COVID-19 R&D</u>](https://www.cam.ac.uk/research/news/open-source-toolkit-helps-developing-countries-meet-demand-for-covid-19-research-and-diagnostics)
+[Open-source toolkit helps developing countries meet demand for COVID-19 R&D](https://www.cam.ac.uk/research/news/open-source-toolkit-helps-developing-countries-meet-demand-for-covid-19-research-and-diagnostics)
 
 
 ## Suggestions for New Open Source EUA FDA Meetings
@@ -1223,6 +1227,7 @@ from Matt McFarlane (twitter @mattmcfar)
 | May-18/Aug31 | Color | Color Genomics SARS-CoV-2 RT-LAMP Diagnostic Assay | N, E, nsp3 | Human RNaseP | Colorimetric | automated (PerkinElmer_CMG-1033 on PerkinElmer_Chemagic360) | plate reader (Biotek_NEO2), Hamilton_Star | ATCC_VR-1986D (gRNA) | 2,250 |
 | May-06 | Sherlock BioSci | Sherlock CRISPR SARS-CoV-2 Kit | orf1ab, N | Human RNaseP | CRISPR Probe | Manual (ThermoFisher_12280050) | heat block or qPCR, Plate reader (BioTek_NEO2) | gRNA | 20,250 |
 | Apr-10 | Atila BioSystems | iAMP COVID-19 Detection Kit | orf1ab, N | human GAPDH | Probe | Direct (swab into 350µl, 15min RT then 3µl to LAMP) | BioRad_CFX96 or ABI7500 or Roche_LightCycler480II or Atila_PG9600 | SeraCare_AccuPlex_0505-0129 pseudovirus (recombinant alphavirus) | 3,500* |
+||
 
 
 ## FDA Statements and Quotes
@@ -1233,5 +1238,3 @@ from Matt McFarlane (twitter @mattmcfar)
 "we’re very eager to authorize home diagnostic tests either over-the-counter or by prescription. I have to say though we haven’t received a single EUA application for a home test, not one and we’ve had our template out there for a long time and we’ve clearly expressed flexibility so we want to reiterate. We want to see home test submissions and we’re willing to be very flexible here."
 
 "So what we have attempted to do is provide as much flexibility to add an asymptomatic claim to anybody who wants one."
-
-# ===== END OF FILE _archive-combined-files_open-euas_28k.md =====

@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: msmid (note: msmid produced binary output; content extracted via PDF text reader)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 302
-words: 143
+tokens: 291
+words: 157
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 1 (Contact and Design) submission form captures the team's contact information (San Carlos, CA), technology overview (isothermal LAMP using ORF1a and N gene targets with colorimetric readout), input volumes (500 or 2000 µL), sample sources (nasal swab and saliva), and intended applications (distributed lab and point of care).
 

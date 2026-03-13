@@ -16,7 +16,7 @@ conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 431
-words: 239
+words: 240
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 11 Equipment Setup spreadsheet lists all required equipment organized into three categories: assay equipment (dry block heaters, pipettes, centrifuge, vortexer), inactivation station equipment (heater, hole block, centrifuge, splash guard), and additional infrastructure (biosafety cabinet, PCR enclosure).
 

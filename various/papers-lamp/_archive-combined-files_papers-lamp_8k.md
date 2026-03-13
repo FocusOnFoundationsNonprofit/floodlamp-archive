@@ -1,10 +1,25 @@
 METADATA
+last updated: 2026-03-10_105745
+file_name: _archive-combined-files_papers-lamp_8k.md
+category: various
+subcategory: papers-lamp
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_papers-lamp_8k (3 files, 7,791 tokens)
+
+# 3,732  _AI_Literature Review - LAMP Large-Scale Testing and Pandemic Preparedness.md
+METADATA
 last updated: 2026-02-23 AI
 file_name: _AI_Literature Review - RT-LAMP Large-Scale Testing and Pandemic Preparedness.md
 file_date: 2026-02-23
 title: FloodLAMP Literature Review - RT-LAMP Large-Scale Testing and Pandemic Preparedness
 category: various
-subcategory: papers
+subcategory: papers-lamp
 tags: rt-lamp, large-scale-testing, pandemic-preparedness, screening, literature-review
 source_file_type: md
 xfile_type: NA
@@ -266,5 +281,3 @@ Several papers represent groups that were central to the open-source LAMP testin
 On the commercial side, Color Genomics obtained FDA Emergency Use Authorization for a purified, fluorometric LAMP assay read on a PCR thermal cycler. Color's test was widely deployed in screening programs across the San Francisco Bay Area, including at Stanford University and numerous companies. Its authorization and scale of deployment served as an important validation that LAMP-based molecular testing could function as a practical alternative to RT-PCR in large screening programs. The collection also includes a paper from Domus, which developed a lyophilized colorimetric RT-LAMP kit; Domus was a recipient of late-stage RADx (Rapid Acceleration of Diagnostics) funding from NIH.
 
 Additional papers in the collection represent other notable academic efforts in LAMP-based SARS-CoV-2 detection, including work from Stanford (Prakash, using the Rabe-Cepko protocol with a low-cost centrifuge), UPenn (Sherrill-Mix on molecular beacons; Song on closed-tube detection), University of Chicago (Wang, saliva-based assays), and groups working in sub-Saharan Africa (Marcello et al., multicenter evaluation). An AI-generated literature review included in the subcategory extends coverage to 20 additional papers prioritized for large-scale testing and pandemic preparedness. The subcategory also includes a citations file with full bibliographic references and links for all papers in the collection.
-
-# ===== END OF FILE _archive-combined-files_papers-lamp_8k.md =====

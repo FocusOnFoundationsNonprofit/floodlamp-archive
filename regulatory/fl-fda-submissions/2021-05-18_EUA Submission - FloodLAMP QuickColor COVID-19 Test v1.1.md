@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: gdoc markdown
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 10743
-words: 6571
+tokens: 16140
+words: 9114
 notes: 
 summary_short: The EUA Submission for the FloodLAMP QuickColor™ COVID-19 Test v1.1 describes an extraction-free RT-LAMP, colorimetric assay for qualitative SARS-CoV-2 RNA detection from upper respiratory swab specimens in both symptomatic individuals and routine serial screening programs. It details intended use, primer targets (ORF1ab, N, E), workflow and controls, manufacturing inputs, and analytical/clinical performance data to support an FDA Emergency Use Authorization request.
 

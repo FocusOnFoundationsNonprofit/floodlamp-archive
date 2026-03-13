@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105743
+file_name: _archive-combined-files_glamp_85k.md
+category: various
+subcategory: glamp
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_glamp_85k (4 files, 85,428 tokens)
+
+# 3,048  _AI_Global LAMP Consortium (gLAMP) - Public Information Survey.md
+METADATA
 last updated: 2026-02-23 AI
 file_name: _AI_Global LAMP Consortium (gLAMP) - Public Information Survey.md
 file_date: 2026-02-23
@@ -256,29 +271,29 @@ This did not happen, and the reasons were practical rather than principled. Acad
 Whether the gLAMP consortium represented a missed opportunity for open, collectively developed diagnostic infrastructure, or whether the review paper was the most realistic and valuable product the group could have produced, is a question worth considering. For future pandemic preparedness efforts, the tension between academic output and deployable infrastructure is one of the more consequential design choices a consortium can face.
 
 
-# 6,995  2020-08-31_NEB Podcast - Interview with Chris Mason.md
+# 6,980  2020-08-31_NEB Podcast - Interview with Chris Mason.md
 METADATA
-last updated: 2026-02-23 RT
-file_name: 2020-08-31_NEB Podcast - Interview with Chris Mason
+last updated: 2026-03-06 by BA
+file_name: 2020-08-31_NEB Podcast - Interview with Chris Mason.md
 file_date: 2020-08-31
 title: NEB Podcast - Interview with Chris Mason
 category: various
 subcategory: glamp
 tags: 
+youtube_url: https://youtu.be/LKt9C6SWjGA
 source_file_type: webcopy
 xfile_type: 
 gfile_url: https://docs.google.com/document/d/1-FrI-HBBQkli8bhwnqcTqCukUKJOi71rxfkuGZi9JZo
-xfile_github_download_url: 
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/2020-08-31_NEB%20Podcast%20-%20Interview%20with%20Chris%20Mason.
 pdf_gdrive_url: https://drive.google.com/file/d/1FDO5Sr95bjfHXPh8C671UP-_tqyXMaPz
-pdf_github_url: 
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/glamp/2020-08-31_NEB%20Podcast%20-%20Interview%20with%20Chris%20Mason.pdf
 conversion_input_file_type: webcopy
 conversion: manual cut and paste
 license: 3rd Party
-tokens: 6995
-words: 5179
+tokens: 6980
+words: 5170
 notes: date converted 2026-02-23. Transcript obtained from NEB website video library page.
 web_url: https://www.neb.com/en-us/tools-and-resources/video-library/covid-19-researcher-spotlight-interview-with-chris-mason
-link_youtube: https://youtu.be/LKt9C6SWjGA
 audio_file_name: 
 summary_short: The NEB COVID-19 Researcher Spotlight Series video captures an interview with Dr. Chris Mason of Weill Cornell Medicine discussing LAMP-based SARS-CoV-2 detection, metagenomics sampling of NYC subways and hospitals, the GLAMP consortium for pre-competitive sharing of LAMP protocols, saliva-based testing as a more accessible alternative to nasopharyngeal swabs, and the value of pre-print servers during a pandemic.
 
@@ -286,8 +301,6 @@ summary_short: The NEB COVID-19 Researcher Spotlight Series video captures an in
 CONTENT
 
 ***INTERNAL TITLE:*** NEB COVID-19 Researcher Spotlight Series: Interview with Chris Mason
-
-NEB COVID-19 Researcher Spotlight Series: Interview with Chris Mason
 
 https://www.neb.com/en-us/tools-and-resources/video-library/covid-19-researcher-spotlight-interview-with-chris-mason
 
@@ -487,10 +500,10 @@ Opus 4.6
 - Net assessment: pre-prints are "essential, mostly great" during a pandemic despite the risk of sensational reports
 
 
-# 72,181  gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
+# 72,247  gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
 METADATA
-last updated: 2026-01-08 RT
-file_name: gLAMP Global Consortium - JBT Review Paper (Sept 2021).pdf
+last updated: 2026-03-06 by BA
+file_name: gLAMP Global Consortium - JBT Review Paper (Sept 2021).md
 file_date: 2021-09-01
 title: gLAMP Global Consortium - JBT Review Paper (Sept 2021)
 category: various
@@ -499,14 +512,14 @@ tags:
 source_file_type: pdf
 xfile_type: NA
 gfile_url: NA
-xfile_github_download_url:
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/glamp/gLAMP%20Global%20Consortium%20-%20JBT%20Review%20Paper%20%28Sept%202021%29.NA
 pdf_gdrive_url: https://drive.google.com/file/d/1qdf-dL2cmbB7aK4rw57CgjPmWQ9K5X0F
-pdf_github_url:
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/glamp/gLAMP%20Global%20Consortium%20-%20JBT%20Review%20Paper%20%28Sept%202021%29.pdf
 conversion_input_file_type: pdf
 conversion: megaparse
 license: 3rd Party
-tokens: 72181
-words: 39929
+tokens: 72247
+words: 39865
 notes:
 summary_short: The gLAMP Consortium review article (Journal of Biomolecular Techniques, Sept. 2021) surveys RT-LAMP methods for SARS-CoV-2 detection and broader pathogen testing, covering sample types, inactivation and extraction-free workflows, primer/enzyme design, detection chemistries, contamination control, and deployment hardware/software. It compiles practical protocols and case studies from an international group, including open-source approaches to reagents and devices, and compares testing configurations across settings from low-resource sites to high-throughput labs. It also summarizes the evolving regulatory landscape (EUA/LDT/IRB/surveillance) and provides design tradeoffs and recommendations for building fit-for-purpose LAMP tests.
 
@@ -593,68 +606,11 @@ Our emphasis is primarily methodological and although focused on LAMP, many aspe
 
 We have highlighted the different lenses and perspectives through which researchers can view LAMP technology, depending on whether they provide one-to-one patient care in a remote rural environment or conversely frequent mass testing for surveillance and epidemiology in a large public health laboratory. The series of choices (and corresponding compromises) that one makes to create a test that is fit for a specific purpose is a common theme: regardless of one's setting, budget or scale of testing, *‘there is a LAMP for that’* (**Figure 1**).
 
-[1 tool called]
-
-Based on the image and the file content, here's the complete figure as simple markdown:
-
-#### FIGURE: RT-LAMP Design Options
-
-##### Strategy
-- Individual
-- Pools
-
-##### Sampling
-###### Swabs
-1. NPS
-2. ANS
-3. OPS
-
-###### Liquid biopsy
-1. Saliva
-2. Gargle/wash
-
-###### Wastewater
-
-##### Inactivation & Release
-- Heat Only
-- Heat ± TCEP/EDTA
-- Proteinase K ± TCEP/EDTA
-- Commercial
-
-##### Extraction & Purification
-- Silica Beads
-- Magnetic Beads
-- Commercial extraction kit
-- None (Direct)
-
-##### Amplification
-- DIY Enzyme LAMP
-- Commercial Enzyme LAMP
-
-##### Readout
-###### Colorimetric
-1. Phenol red
-2. HNB
-3. LCV
-
-###### Fluorimetric - sequence independent
-- E.g SYTO9
-
-###### Fluorimetric - sequence specific
-1. DARQ
-2. QUASR
-3. OSD
-4. MolBeac
-5. Displ. Probe
-
-##### Instrument
-- qPCR
-- Tube / Plate Reader
-- Smartphone / camera
-- Naked eye
-- Microfluidic
-  1. Channel
-  2. Paper
+#### RT-LAMP Design Options
+| STRATEGY | SAMPLING | INACTIVATION & RELEASE | EXTRACTION & PURIFICATION | AMPLIFICATION | READOUT | INSTRUMENT |
+|---|---|---|---|---|---|---|
+| **Individual**<br><br>**Pools** | **Swab**<br>1. NPS<br>2. ANS<br>3. OPS<br><br>**Liquid biopsy**<br>1. Saliva<br>2. Gargle/wash<br><br>**Wastewater** | Heat Only<br><br>Heat ± TCEP/EDTA<br><br>Proteinase K ± TCEP/EDTA<br><br>Commercial | Silica Beads<br><br>Magnetic Beads<br><br>Commercial extraction kit<br><br>None (Direct) | **DIY Enzyme LAMP**<br><br>**Commercial Enzyme LAMP** | **Colorimetric**<br>1. Phenol red<br>2. HNB<br>3. LCV<br><br>**Fluorimetric - sequence independent**<br>E.g SYTO9<br><br>**Fluorimetric - sequence specific**<br>1. DARQ<br>2. QUASR<br>3. OSD<br>4. MolBeac<br>5. Displ. Probe | qPCR<br><br>Tube / Plate Reader<br><br>Smartphone / camera<br><br>Naked eye<br><br>**Microfluidic**<br>1. Channel<br>2. Paper |
+||
 
 ***Figure 1. “We have a LAMP for that”: major design choices when developing RT-LAMP tests.** At each stage in the design process, a series of decisions impact the final configuration of the test, be that for an individual patient or for surveillance testing with pooled screening. The inherent flexibility and comparative simplicity of LAMP means that for almost all settings and use cases there is one configuration of the LAMP toolbox that is fit-for-purpose. LAMP tests for use in any two settings or geographies can be dramatically different. Nasopharngeal Swab (NPS), Anterior Nares Swab (ANS), oralpharyngeal swab (OPS), tris(2-carboxyethyl) phosphine (TCEP), Ethylenediamine tetraacetic acid (EDTA), Do-it-yourself (DIY), Hydroxy naphthol blue (HNB), leuco crystal violet (LCV), Dark Quenching technique (DARQ), Quenching of Unincorporated Amplification Signal Reporters (QUASR), oligonucleotide strand exchange (OSD), Molecular Beacons (MolBeac).*
 
@@ -1868,5 +1824,3 @@ biomedical engineering, 10, 107–144. https://doi.org/10.1146/annurev.bioeng.10
 224. Zhang, Y., Ren, G., Buss, J., Barry, A. J., Patton, G. C., & Tanner, N. A. (2020). Enhancing colorimetric loop-mediated isothermal amplification speed and sensitivity with guanidine chloride. BioTechniques, 69(3), 178–185. https://doi.org/10.2144/btn-2020-0078
 
 225. Zhu, J., Guo, J., Xu, Y., & Chen, X. (2020). Viral dynamics of SARS-CoV-2 in saliva from infected patients. The Journal of infection, 81(3), e48–e50. https://doi.org/10.1016/j.jinf.2020.06.059
-
-# ===== END OF FILE _archive-combined-files_glamp_85k.md =====

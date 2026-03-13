@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105727
+file_name: _archive-combined-files_fda-euas_45k.md
+category: regulatory
+subcategory: fda-euas
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_fda-euas_45k (2 files, 45,416 tokens)
+
+# 725  _context-commentary_regulatory-fda-euas.md
+METADATA
 last updated: 2026-02-26 RT
 file_name: _context-commentary_regulatory-fda-euas.md
 category: regulatory
@@ -2376,5 +2391,3 @@ Viruses Branch by email at respvirus@cdc.gov.
 **DISTRIBUTED BY** Manufactured by the Centers for Disease Control and Prevention, 1600 Clifton Road, Atlanta, Georgia, 30329, USA
 
 **IVD**
-
-# ===== END OF FILE _archive-combined-files_fda-euas_45k.md =====

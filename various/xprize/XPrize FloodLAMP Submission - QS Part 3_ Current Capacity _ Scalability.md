@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1120
-words: 819
+tokens: 1110
+words: 833
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 3 (Current Capacity and Scalability) submission details the team's testing throughput (50 tests/day current, 200K/day potential with pooling at 100), 2-hour sample-to-result time, sub-$1 per-test cost, sub-$10K capital expense, and plans for scaling through automation with OpenTrons liquid handling and open-source distribution to other labs.
 

@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 739
+tokens: 736
 words: 537
 notes: 
 summary_short: The Email to FDA CDRH - Request for Guidance (Oct 22, 2020) outlines FloodLAMP’s pre-EUA request to the FDA for feedback on validating a pooled SARS-CoV-2 RT-LAMP screening program, including proposed pooling levels, turnaround targets, and two assay configurations (fluorimetric and colorimetric) with preliminary LoD data. It’s useful as an early regulatory-facing snapshot of FloodLAMP’s technical approach, intended use in asymptomatic group screening, and the specific guidance and template updates they were seeking to shape an EUA-ready validation plan.

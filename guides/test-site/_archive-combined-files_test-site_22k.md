@@ -1,4 +1,19 @@
 METADATA
+last updated: 2026-03-10_105720
+file_name: _archive-combined-files_test-site_22k.md
+category: guides
+subcategory: test-site
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_test-site_22k (17 files, 21,662 tokens)
+
+# 1,144  _context-commentary_guides-test-site.md
+METADATA
 last updated: 2026-02-17 RT
 file_name: _context-commentary_guides-test-site_WIP.md
 category: guides
@@ -1302,5 +1317,3 @@ Hi \[**name**\], this is \[**staff name**\] at \[**FloodLAMP or your organizatio
 ### Talking points
 -   The inconclusive could be caused by contamination of the sample or a weak positive
 -   We are referring you and your pool’s participants for follow up diagnostic testing, usually a lab PCR test or an at-home antigen test. Please note that antigen tests are not as sensitive as FloodLAMP’s molecular test, and so [a negative antigen test does not preclude infection](https://www.fda.gov/medical-devices/safety-communications/home-covid-19-antigen-tests-take-steps-reduce-your-risk-false-negative-fda-safety-communication).
-
-# ===== END OF FILE _archive-combined-files_test-site_22k.md =====

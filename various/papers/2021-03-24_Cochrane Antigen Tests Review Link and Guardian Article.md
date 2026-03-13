@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1197
-words: 821
+tokens: 1152
+words: 820
 notes:
 summary_short: The Cochrane review and related March 24, 2021 Guardian coverage summarize evidence that rapid SARS-CoV-2 antigen (lateral flow) tests perform substantially worse in asymptomatic people (reported average sensitivity around 58%) and vary widely by brand. The materials are useful for assessing the risks of using antigen tests for “test-to-release” or to permit school/work attendance, especially in low-prevalence screening where false negatives and false positives can meaningfully affect public health decisions.
 

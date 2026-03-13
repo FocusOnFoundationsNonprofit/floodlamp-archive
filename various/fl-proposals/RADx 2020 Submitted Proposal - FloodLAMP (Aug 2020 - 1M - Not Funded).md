@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: megaparse
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 7940
-words: 5763
+tokens: 7513
+words: 5754
 notes: Title says Aug 2020, so used 2020-08-01 as date
 summary_short: The RADx Tech “FloodLAMP” Fast-Track application (Application 6207, June–July 2020) proposes scaling an extraction-free, colorimetric RT-LAMP mass screening program using flexible multi-stage pooling, centralized reagent production, and distributed deployment across existing labs to reach population-level throughput at ~$1 per result. It describes a pooled self-collection workflow (saliva or swabs), TCEP/EDTA heat inactivation, silica-based RNA capture to support very large pool sizes, and operational plans for staffing, logistics, data/software, and supply-chain resilience using readily available reagents and standard equipment. It outlines staged work packages focused on SOP hardening, pilot software, EUA submission with a clinical partner, large pilots across prevalence “tiers,” manufacturing scale-up, and training/support to enable rapid national rollout.
 

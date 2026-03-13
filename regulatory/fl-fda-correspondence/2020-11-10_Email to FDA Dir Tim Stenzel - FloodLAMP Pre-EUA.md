@@ -15,7 +15,7 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 383
+tokens: 382
 words: 281
 notes: 
 summary_short: The Email to FDA Dir Tim Stenzel - FloodLAMP Pre-EUA (Nov 10, 2020) is an outreach note requesting a meeting to discuss FloodLAMP’s newly submitted pre-EUA for an ultra-low-cost, LAMP-based SARS-CoV-2 test and how an “open source” EUA model could be expanded beyond SalivaDirect. It highlights key regulatory topics FloodLAMP wanted to align on—especially asymptomatic screening, pooling, and on-site/at-home collection—and proposes forming a consortium of mission-driven developers to produce validated, open-access molecular tests.

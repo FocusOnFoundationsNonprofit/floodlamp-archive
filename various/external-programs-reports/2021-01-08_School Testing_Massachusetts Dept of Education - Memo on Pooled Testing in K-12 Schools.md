@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: 3rd Party
-tokens: 1620
-words: 1042
+tokens: 1594
+words: 1032
 notes: 
 summary_short: The Massachusetts Department of Education memo (January 8, 2021) outlines a statewide K–12 COVID-19 pooled PCR screening program, explaining weekly anterior nasal swab pooling with 24–48 hour results and individual follow-up testing (primarily Abbott BinaxNOW) after a positive pool. It describes a no-cost 6-week early launch with a contracted testing service provider supplying kits, logistics, training, software, and support, with optional continuation funded by federal stimulus dollars. The memo also summarizes consent requirements and clarifies that pooled results are not reported to DPH while individual diagnostic follow-up results are.
 

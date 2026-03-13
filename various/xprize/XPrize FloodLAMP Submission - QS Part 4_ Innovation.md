@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1548
-words: 1120
+tokens: 1545
+words: 1138
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 4 (Innovation) submission covers biosafety protocols, data collection and privacy through the custom Appivo app, innovative sample collection approach with in-app guided self-pooling by households, and the team's core innovation of combining available LAMP technology into an open-source integrated screening platform designed for scalable, affordable deployment by any basic laboratory.
 

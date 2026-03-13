@@ -1,10 +1,25 @@
 METADATA
+last updated: 2026-03-10_105746
+file_name: _archive-combined-files_xprize_81k.md
+category: various
+subcategory: xprize
+gfile_url: **FLAGGED - TBD user-facing Google-hosted public file URL**
+words: 
+tokens: 
+
+
+CONTENT
+
+# _archive-combined-files_xprize_81k (25 files, 81,326 tokens)
+
+# 5,385  _AI_gLAMP and XPrize - pre-competitive vs open-source.md
+METADATA
 last updated: 2026-02-24 AI and RT
 file_name: _AI_gLAMP and XPrize - pre-competitive vs open-source.md
 file_date: 2026-03-03
 title: FloodLAMP Global LAMP Consortium (gLAMP) - Pre-Competitive vs Open Source Approaches
 category: various
-subcategory: glamp
+subcategory: xprize
 tags: glamp, pre-competitive, open-source, pandemic-testing, public-goods
 source_file_type: md
 xfile_type: NA
@@ -254,7 +269,7 @@ The deeper question raised by the XPRIZE experience is whether prize competition
 
 # 612  XPrize - Guidelines or Resources.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - Guidelines or Resources.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Guidelines and Resources
@@ -264,9 +279,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1k8SyKMYW6BS44V1ZaPGZoKV3aMFEXPkiSxWAZ1rBsgs/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1wdQMjL-HXOsiDgdWtENM6Z25oS6DG2tZ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20Guidelines%20or%20Resources.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -319,7 +334,7 @@ Whenever possible, individual team member forms should be compiled into one file
 
 # 1,976  XPrize - List of Semi-Finalist Teams (in alphabetical order).md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - List of Semi-Finalist Teams (in alphabetical order).md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - List of Semi-Finalist Teams
@@ -329,9 +344,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1Tp0hbGabVjm50FpnC3QaUuE2DAskmU6Z6pkDLUwnLRE/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1pFYmqP3xaUT8HX01uvdj_UxnxZvubYp_/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20List%20of%20Semi-Finalist%20Teams%20%28in%20alphabetical%20order%29.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -575,7 +590,7 @@ Total Countries: **35**
 
 # 2,216  XPrize - Semifinalists and Competition Letter-Shipping.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - Semifinalists and Competition Letter-Shipping.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Semifinalists Competition Letter and Shipping Authorization
@@ -587,7 +602,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1cI6IPAKNXoI9MOOl6ghgqPJDLSGVkmQK/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20Semifinalists%20and%20Competition%20Letter-Shipping.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20Semifinalists%20and%20Competition%20Letter-Shipping.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -608,7 +623,6 @@ This shipment they are receiving contains a test kit for research use only and h
 The kit does not contain hazardous chemicals. No infectious agents have been added to any of the samples. Sample targets in the antigen test kit include gamma-irradiated cell line products and purified recombinant proteins. Targets in the RNA test kit include chemically-inactivated cell line products and synthetic RNA.
 
 ## Official Semi-Finalist List
-
 - Total Semi-Finalist Teams: 219
 - Total Countries: 35
 
@@ -848,9 +862,9 @@ Fax: 310-741-4974
 https://www.xprize.org
 
 
-# 628  XPrize - XPRCT Field Notes Comms Toolkit.md
+# 624  XPrize - XPRCT Field Notes Comms Toolkit.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - XPRCT Field Notes Comms Toolkit.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Field Notes Communications Toolkit
@@ -860,14 +874,14 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1DFBBbP7CQd8wzN5ZKcMdgrl-qECGjp_pIgu02pJoYzc/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1JMS9K85AAtlsF3ZVeHx4poXJD0yS2WXw/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20XPRCT%20Field%20Notes%20Comms%20Toolkit.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 628
-words: 383
+tokens: 624
+words: 389
 notes:
 summary_short: The XPRIZE Rapid Covid Testing Field Notes Communications Toolkit encouraged semi-finalist teams to create 60-second selfie video updates ("Field Notes") documenting their progress, with guidance on content format, suggested social media copy, and promotion of the #RapidTesting campaign across XPRIZE social channels.
 
@@ -878,10 +892,10 @@ CONTENT
 
 As XPRIZE Rapid Covid Testing semi-finalists receive testing kits to validate their solutions, we want to encourage ongoing filming of prize teams in their quest to help reopen society, safely.
 
-**THE ASK**
+### THE ASK
 Please record yourself and the team in a '60-second selfie video, a 'Field Notes' film, to keep us up-to-date on what is happening. Then, post the video via social channels with #RapidTesting and tag @XPRIZE. Additionally, if you would like a chance to be to have your video produced into an XPRIZE video, please submit your Field Notes to [https://cloud.greenrock.tv/index.php/s/Db1yvXGY2Ku9V9y](https://cloud.greenrock.tv/index.php/s/Db1yvXGY2Ku9V9y)
 
-**WHAT MAKES A GOOD FIELD NOTE?**
+### WHAT MAKES A GOOD FIELD NOTE?
 This format needn't be bogged down in the context of the overall prize, just a snapshot.
 
 | **What this is** | **What this isn't** |
@@ -892,7 +906,7 @@ This format needn't be bogged down in the context of the overall prize, just a s
 | Bankable content for raising awareness of prizes | Detailed look at the specifics |
 ||
 
-**QUESTIONS TO SHAPE THE RECORD**
+### QUESTIONS TO SHAPE THE RECORD
 
 Who are you and what do you do?
 
@@ -904,13 +918,13 @@ How will this impact your future work?
 
 Sign off
 
-**WHAT SHOULD I POST ON SOCIAL?**
+### WHAT SHOULD I POST ON SOCIAL?
 To help, XPRIZE has drafted a suggested social copy example. Edit where needed to match your channel's tone and voice.
 
 - **Suggested Copy:**
 COVID-19 has impacted our lives for too long. We want everything to reopen, but it needs to happen safely. We're one of 219 teams in the $5M XPRIZE Rapid Covid Testing competition trying to solve this problem. Follow along our #RapidTesting journey with @XPRIZE.
 
-**HOW CAN I HELP PROMOTE THIS CAMPAIGN?**
+### HOW CAN I HELP PROMOTE THIS CAMPAIGN?
 Our goal with the campaign is to let the world know people are working on solutions to help society reopen. Other teams will be posting videos. Click on the hashtag #RapidTesting, and share videos of other competitors. Be sure to mention and tag @XPRIZE in your social media accounts where possible. Here are links to the pages of our most active accounts:
 
 - [Facebook](https://www.facebook.com/XPRIZE/)
@@ -918,13 +932,13 @@ Our goal with the campaign is to let the world know people are working on soluti
 - [Instagram](https://www.instagram.com/xprize/)
 - [YouTube](https://www.youtube.com/user/xprize)
 
-**QUESTIONS?**
+### QUESTIONS?
 For marketing and media inquiries, contact Caden Kinard, Communications Strategist, at [caden.kinard@xprize.org](mailto:caden.kinard@xprize.org).
 
 
-# 738  XPrize - XPRCT Team PR Toolkit.md
+# 737  XPrize - XPRCT Team PR Toolkit.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize - XPRCT Team PR Toolkit.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - PR Toolkit for Semi-Finalist Teams
@@ -934,14 +948,14 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1RK-axKhjF-C3hQcZXBqFpu8653tag6gI7zbFvR1xgyk/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1un8cgfjBgfuICOqKNFLxDxgifOhNw_OV/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20-%20XPRCT%20Team%20PR%20Toolkit.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 738
-words: 476
+tokens: 737
+words: 480
 notes:
 summary_short: The XPRIZE Rapid Covid Testing PR Toolkit provided semi-finalist teams with guidelines for press release approval, XPRIZE brand usage requirements, the official XPRIZE boilerplate, and approved competition timeline messaging including details on the semi-final proficiency testing and final clinical validation phases.
 
@@ -950,12 +964,12 @@ CONTENT
 
 ***INTERNAL TITLE:*** XPRIZE RAPID COVID TESTING PR TOOLKIT FOR SEMI-FINALIST TEAMS
 
-**Press Releases & Usage of XPRIZE brand**
+### Press Releases & Usage of XPRIZE brand
 
-**Press Release Approval Process:**
+#### Press Release Approval Process
 Teams are required to submit all media releases to XPRIZE via email (testing@xprize.org) at least three (3) business days prior to publication so that we can approve content, clarify messaging and amplify results as applicable.
 
-**XPRIZE Brand Requirements**
+### XPRIZE Brand Requirements
 The official name of the competition must always be used (XPRIZE Rapid Covid Testing), no abbreviations are allowed.
 
 When referencing the XPRIZE Rapid Covid Testing or XPRIZE, please note that all instances of "XPRIZE" should be expressed in all capital letters and not broken into two lines, no hyphen, and no foundation.
@@ -966,7 +980,7 @@ Please include the latest XPRIZE boilerplate in press releases:
 
 *XPRIZE, a 501(c)(3) nonprofit, is the global leader in designing and implementing innovative competition models to solve the world's grandest challenges. Active competitions include the $20 Million NRG COSIA Carbon XPRIZE, the $10 Million Rainforest XPRIZE, the $10 Million ANA Avatar XPRIZE, the $5 Million IBM Watson AI XPRIZE, $5 Million XPRIZE Rapid Reskilling, XPRIZE NextGen Mask Challenge and $5 Million XPRIZE Rapid COVID Testing. For more information, visit [xprize.org](http://xprize.org).*
 
-**XPRIZE Rapid Covid Testing Competition Timeline Messaging**
+### XPRIZE Rapid Covid Testing Competition Timeline Messaging
 Society's most vulnerable citizens and populations are disproportionately affected by Covid-19, with tests being inaccessible, too expensive or too slow. Communities are being forced to shut down. Economies are crippled due to Covid-19.
 
 Launched on July 28, 2020, XPRIZE Rapid Covid Testing is a $5 million, 6-month competition that aims to increase Covid-19 testing capabilities 100-times past our current standard, the level of increase needed to more safely return to everyday activities.
@@ -980,7 +994,7 @@ A $1-million grand prize will be awarded to each of the top five teams that deve
 
 # 10,243  XPrize FloodLAMP Proficiency Test Results.md
 METADATA
-last updated: 2026-03-03 AI and RT
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Proficiency Test Results.md
 file_date: 2021-01-08
 title: FloodLAMP XPRIZE Proficiency Test Results — Submitted Results Merged with Answer Key
@@ -990,7 +1004,7 @@ tags: xprize, proficiency-test, results, LAMP, performance
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1kBM2uK_QlB8YW2YHPm1bV6q-jtbv5_qH_ckKkVGXg9s
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Proficiency%20Test%20Results.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Proficiency%20Test%20Results.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
@@ -1007,7 +1021,6 @@ CONTENT
 FloodLAMP's blinded proficiency test results from the XPRIZE Rapid Covid Testing competition, merged with the answer key that XPRIZE released after judging. FloodLAMP submitted results under Team ID 3362. The "Detected" column contains FloodLAMP's submitted calls (1=detected, 0=not detected). The remaining columns show the unblinded sample compositions.
 
 ## Performance Summary
-
 ### Rack NSP17634 (Zepto particles, PBS/Saliva/Nasal, 4°C)
 - 69 samples total
 - 51 correct calls, 18 false negatives, 0 false positives
@@ -1187,9 +1200,9 @@ These results represent the early glass milk purification version of the FloodLA
 ||
 
 
-# 933  XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
+# 998  XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 10 Reagent or Consumable.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 10 Reagent or Consumable
@@ -1199,14 +1212,14 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1C5zZe9I1dL5b3srfZ2a1XzsXWGqghIXn/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2010%20Reagent%20or%20Consumable.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2010%20Reagent%20or%20Consumable.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 933
-words: 449
+tokens: 998
+words: 488
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 10 Reagent or Consumable spreadsheet itemizes all reagents and consumables required for the pooled LAMP assay at 0.5mL volume with pool level of 10, including TCEP, NaI, NEB LAMP Master Mix, IDT primers, tubes, and PCR plates, with a total estimated cost of $0.46 per sample and $4.57 per run.
 
@@ -1214,36 +1227,36 @@ summary_short: FloodLAMP's XPRIZE submission Part 10 Reagent or Consumable sprea
 CONTENT
 
 ## FloodLAMP Reagent List
-**Reagent List (if you have a custom reagent the cost must be what you will sell it for)**
-| Reagent or Consumable                                                                                                      | Supplier       | Catalog #    | Cost per item (e.g., cost of a tube of enzyme) | Amount (in relevant units, e.g., ul, ug, U, count) per item (e.g., U per tube of enzyme) | Amount per test sample | Amount per test run | Cost per Sample | Cost per Run |
-|----------------------------------------------------------------------------------------------------------------------------|----------------|--------------|------------------------------------------------|------------------------------------------------------------------------------------------|------------------------|---------------------|-----------------|--------------|
-| Text                                                                                                                       | Text           | Numeric      | Numeric                                        | Numeric                                                                                  | Numeric                | Numeric             | USD ($)         | USD ($)      |
-| assumes we are running at the 0.5ml volume for 10 pools                                                                    |                |              |                                                |                                                                                          |                        |                     |                 |              |
-|                                                                                                                            |                |              |                                                | pool level                                                                               | 10                     |                     | -               | -            |
-| TCEP                                                                                                                       | Sigma          | C4706-10G    | $380                                           | 10                                                                                       | 0.00004                | 0.00036             | $0.00           | $0.01        |
-| NaI                                                                                                                        | Sigma          | 217638-2.5KG | $766                                           | 2500                                                                                     | 0.0225                 | 0.225               | $0.01           | $0.07        |
-| LAMP Master Mix                                                                                                            | NEB            | 1804L        | $1.83                                          | 1                                                                                        | 0.2                    | 2                   | $0.37           | $3.66        |
-| Primers                                                                                                                    | IDT            | 1umole       | $446                                           | 16100                                                                                    | 0.3                    | 3                   | $0.01           | $0.08        |
-| Remaining chemicals and primers are negligible cost, full recipes are listed on protocols.io and our website floodlamp.bio |                |              |                                                |                                                                                          |                        |                     | -               | -            |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |
-| 15ml Falcon Tube                                                                                                           | Various        |              | $0.20                                          | 1                                                                                        | 0.1                    | 1                   | $0.02           | $0.20        |
-| 5ml Transport Tube                                                                                                         | Various        |              | $0.20                                          | 1                                                                                        |                        | 0                   | $0.00           | $0.00        |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |
-| 5ml tube                                                                                                                   | CellTreat      | 229449       | $23                                            | 100                                                                                      | 0.1                    | 1                   | $0.02           | $0.23        |
-| 1.5ml tube DNA Low Bind                                                                                                    | Eppendorf      |              | $39                                            | 250                                                                                      | 0.11                   | 1.1                 | $0.02           | $0.17        |
-| PCR Strip Tubes                                                                                                            | USA Scientific | 1402-2500    | $81                                            | 125                                                                                      | 0.004                  | 0.044               | $0.00           | $0.03        |
-| PCR Plates                                                                                                                 | Eppendorf      | EP951020303  | 130                                            | 25                                                                                       | 0.002                  | 0.022               | $0.01           | $0.12        |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
-|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |
+### Reagent List (if you have a custom reagent the cost must be what you will sell it for)
+| Reagent or Consumable                                                                                                      | Supplier       | Catalog #    | Cost per item (e.g., cost of a tube of enzyme) | Amount (in relevant units, e.g., ul, ug, U, count) per item (e.g., U per tube of enzyme) | Amount per test sample | Amount per test run | Cost per Sample | Cost per Run |                                                                                 |
+|----------------------------------------------------------------------------------------------------------------------------|----------------|--------------|------------------------------------------------|------------------------------------------------------------------------------------------|------------------------|---------------------|-----------------|--------------|---------------------------------------------------------------------------------|
+| Text                                                                                                                       | Text           | Numeric      | Numeric                                        | Numeric                                                                                  | Numeric                | Numeric             | USD ($)         | USD ($)      |                                                                                 |
+| assumes we are running at the 0.5ml volume for 10 pools                                                                    |                |              |                                                |                                                                                          |                        |                     |                 |              |                                                                                 |
+|                                                                                                                            |                |              |                                                | pool level                                                                               | 10                     |                     | -               | -            |                                                                                 |
+| TCEP                                                                                                                       | Sigma          | C4706-10G    | $380                                           | 10                                                                                       | 0.00004                | 0.00036             | $0.00           | $0.01        |                                                                                 |
+| NaI                                                                                                                        | Sigma          | 217638-2.5KG | $766                                           | 2500                                                                                     | 0.0225                 | 0.225               | $0.01           | $0.07        |                                                                                 |
+| LAMP Master Mix                                                                                                            | NEB            | 1804L        | $1.83                                          | 1                                                                                        | 0.2                    | 2                   | $0.37           | $3.66        | This is a 15% discount at $20K volume, very large volume expect half that price |
+| Primers                                                                                                                    | IDT            | 1umole       | $446                                           | 16100                                                                                    | 0.3                    | 3                   | $0.01           | $0.08        |                                                                                 |
+| Remaining chemicals and primers are negligible cost, full recipes are listed on protocols.io and our website floodlamp.bio |                |              |                                                |                                                                                          |                        |                     | -               | -            |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |                                                                                 |
+| 15ml Falcon Tube                                                                                                           | Various        |              | $0.20                                          | 1                                                                                        | 0.1                    | 1                   | $0.02           | $0.20        | for saliva                                                                      |
+| 5ml Transport Tube                                                                                                         | Various        |              | $0.20                                          | 1                                                                                        |                        | 0                   | $0.00           | $0.00        |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     |                 |              |                                                                                 |
+| 5ml tube                                                                                                                   | CellTreat      | 229449       | $23                                            | 100                                                                                      | 0.1                    | 1                   | $0.02           | $0.23        |                                                                                 |
+| 1.5ml tube DNA Low Bind                                                                                                    | Eppendorf      |              | $39                                            | 250                                                                                      | 0.11                   | 1.1                 | $0.02           | $0.17        |                                                                                 |
+| PCR Strip Tubes                                                                                                            | USA Scientific | 1402-2500    | $81                                            | 125                                                                                      | 0.004                  | 0.044               | $0.00           | $0.03        |                                                                                 |
+| PCR Plates                                                                                                                 | Eppendorf      | EP951020303  | 130                                            | 25                                                                                       | 0.002                  | 0.022               | $0.01           | $0.12        |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |                                                                                 |
+|                                                                                                                            |                |              |                                                |                                                                                          |                        |                     | -               | -            |                                                                                 |
 | Total                                                                                                                      |                |              |                                                |                                                                                          |                        |                     | $0.46           | $4.57        |
 ||
 
 
 # 431  XPrize FloodLAMP Submission - Part 11 Equipment Setup.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 11 Equipment Setup.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 11 Equipment Setup
@@ -1253,14 +1266,14 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1ISK1xG-KtccAZa8MYlH_G7qUnX0bZl5Y/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2011%20Equipment%20Setup.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%2011%20Equipment%20Setup.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 431
-words: 239
+words: 240
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 11 Equipment Setup spreadsheet lists all required equipment organized into three categories: assay equipment (dry block heaters, pipettes, centrifuge, vortexer), inactivation station equipment (heater, hole block, centrifuge, splash guard), and additional infrastructure (biosafety cabinet, PCR enclosure).
 
@@ -1268,7 +1281,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 11 Equipment Setup spreadsheet
 CONTENT
 
 ## FloodLAMP Equipment
-**Equipment List**
+### Equipment List
 | Equipment                | Supplier | Catalog #        | Setup Cost |                                             |
 |--------------------------|----------|------------------|------------|---------------------------------------------|
 | Text                     | Text     | Text             | USD ($)    |                                             |
@@ -1294,9 +1307,9 @@ CONTENT
 ||
 
 
-# 585  XPrize FloodLAMP Submission - Part 7 Targets.md
+# 584  XPrize FloodLAMP Submission - Part 7 Targets.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 7 Targets.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 7 Targets
@@ -1306,14 +1319,14 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1K6wkOvyBhdVZBEKIYphTfM18wlJ0xKoG/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%207%20Targets.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%207%20Targets.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 585
-words: 214
+tokens: 584
+words: 215
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 7 Targets spreadsheet lists the 18 LAMP primer sequences targeting ORF1 (As1e set) and N gene (N2 set), plus 6 RNaseP internal control primers used in the FloodLAMP SARS-CoV-2 assay.
 
@@ -1321,7 +1334,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 7 Targets spreadsheet lists th
 CONTENT
 
 ## FloodLAMP Targets
-**Primer Sequences OR Antigen target/antibody**
+### Primer Sequences OR Antigen target/antibody
 | Target Number | Target Gene | Sequence/Antibody |
 | --- | --- | --- |
 | Numeric | Text | Text |
@@ -1354,7 +1367,7 @@ RNAseP is standard but we plan to move to an RNA only internal control.
 
 # 2,146  XPrize FloodLAMP Submission - Part 8 Results.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 8 Results.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 8 Results
@@ -1364,14 +1377,14 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1A7XmTQysodHBUUbLf-cBhAZOQLpkIIGV/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%208%20Results.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%208%20Results.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
 tokens: 2146
-words: 1286
+words: 1287
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 8 Results spreadsheet provides test data from multiple experimental runs including blinded real saliva samples spiked with ZeptoMetrix inactivated virions, Twist RNA limit-of-detection runs at 2mL volume, and real nasal/saliva sample screening, all using As1e and N2 combined primer sets with visual binary readout.
 
@@ -1379,7 +1392,7 @@ summary_short: FloodLAMP's XPRIZE submission Part 8 Results spreadsheet provides
 CONTENT
 
 ## FloodLAMP Results
-**Results**
+### Results
 |                                                                                                                                                        |             |                           |               |             |              |              |               |                                               |                              |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------|---------------|-------------|--------------|--------------|---------------|-----------------------------------------------|------------------------------|
 | Sample #                                                                                                                                                      | Known Value | Sample Type               | Sample Source | Known Value | Known Units  | Result Value | Result Units  | Result Interpretation                         | Notes                        |
@@ -1458,9 +1471,9 @@ The challenge is not getting good results on one run, but setting up a system to
 We've moved to single use RNA controls, and aliquoting of many components in specific volumes in preparation for pilot runs.
 
 
-# 264  XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
+# 302  XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Part 9 Results Interpretation.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Submission - Part 9 Results Interpretation
@@ -1470,14 +1483,14 @@ tags:
 source_file_type: gsheet
 xfile_type: xlsx
 gfile_url: https://docs.google.com/spreadsheets/d/1W4o2wfltdjJq0MHjf2qvL7-PI3Z2QICj/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%209%20Results%20Interpretation.xlsx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Part%209%20Results%20Interpretation.xlsx
 pdf_gdrive_url: NA
 pdf_github_url: NA
 conversion_input_file_type: xlsx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 264
-words: 201
+tokens: 302
+words: 193
 notes:
 summary_short: FloodLAMP's XPRIZE submission Part 9 Results Interpretation spreadsheet defines how assay results are interpreted based on combinations of batch positive/negative controls, SARS-CoV-2 target results, and human internal control (RNaseP) results, including rules for reporting findings of potential clinical significance, invalid samples, and batch failures.
 
@@ -1485,26 +1498,26 @@ summary_short: FloodLAMP's XPRIZE submission Part 9 Results Interpretation sprea
 CONTENT
 
 ## FloodLAMP Results Interpretation
-**Result Interpretation**
-| Result | Next Step | Batch Control (+) | Batch Control (-) | SARS Target(s) | Human Internal Control Target |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Text | Text |  |  | Numeric | Numeric |
-| Finding of Potential Clinical Significance | Report result | Positive | Negative | Positive | Positive |  |
-| No Finding of Potential Clinical Significance | Report result | Positive | Negative | Negative | Positive |  |
-| Finding of Potential Clinical Significance | Run again | Positive | Negative | Positive | Negative/Inconclusive | EUA's say to report this result as positive even if internal control is negative |
-| Sample/Pool Invalid | Run again |  |  | Negative | Negative/Inconclusive |  |
-| Batch Invalid | Run again | Negative/Inconclusive | Positive/Inconclusive |  |  |  |
+### Result Interpretation
+| Result                                        | Next Step     | Batch Control (+)     | Batch Control (-)     | SARS Target(s) | Human Internal Control Target |                                                                                  |
+|-----------------------------------------------|---------------|-----------------------|-----------------------|----------------|-------------------------------|----------------------------------------------------------------------------------|
+| Text                                          | Text          |                       |                       | Numeric        | Numeric                       |                                                                                  |
+| Finding of Potential Clinical Significance    | Report result | Positive              | Negative              | Positive       | Positive                      |                                                                                  |
+| No Finding of Potential Clinical Significance | Report result | Positive              | Negative              | Negative       | Positive                      |                                                                                  |
+| Finding of Potential Clinical Significance    | Run again     | Positive              | Negative              | Positive       | Negative/Inconclusive         | EUA's say to report this result as positive even if internal control is negative |
+| Sample/Pool Invalid                           | Run again     | NA                    | NA                    | Negative       | Negative/Inconclusive         |                                                                                  |
+| Batch Invalid                                 | Run again     | Negative/Inconclusive | Positive/Inconclusive | NA             | NA                            |
 ||
 
 For a positive pool, we will run the other aliquot of the pool as a confirmation, and run the individual samples.
 
-**Targets**
+### Targets
 Target numbers (1,2,n..) need to correspond to names in "targets" table. Define every possibility of target result and how test result is interpreted.
 
 
-# 302  XPrize FloodLAMP Submission - QS Part 1_ Contact _ Design.md
+# 291  XPrize FloodLAMP Submission - QS Part 1_ Contact _ Design.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - QS Part 1_ Contact _ Design.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Qualifying Submission - QS Part 1 Contact and Design
@@ -1516,63 +1529,63 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1anBtyopz0Au-hRg19S1sUtt-J1q98n9A/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%201_%20Contact%20_%20Design.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%201_%20Contact%20_%20Design.pdf
 conversion_input_file_type: pdf
 conversion: msmid (note: msmid produced binary output; content extracted via PDF text reader)
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 302
-words: 143
+tokens: 291
+words: 157
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 1 (Contact and Design) submission form captures the team's contact information (San Carlos, CA), technology overview (isothermal LAMP using ORF1a and N gene targets with colorimetric readout), input volumes (500 or 2000 µL), sample sources (nasal swab and saliva), and intended applications (distributed lab and point of care).
 
 
 CONTENT
 
-## FloodLAMP XPRIZE Qualifying Submission - QS Part 1: Contact and Design
+***INTERNAL TITLE:*** FloodLAMP XPRIZE Qualifying Submission - QS Part 1: Contact and Design
 
-**EMAIL ADDRESS:**
+### EMAIL ADDRESS:
 randy@floodlamp.bio
 
-**WHERE ARE YOU LOCATED? (Country, State, City):**
+### WHERE ARE YOU LOCATED? (Country, State, City):
 USA, California, San Carlos
 
-**WHAT ORGANIZATION ARE YOU AFFILIATED WITH?**
+### WHAT ORGANIZATION ARE YOU AFFILIATED WITH?
 FloodLAMP Biotechnologies, Public Benefit Corporation
 
-**WHAT IS YOUR PHONE NUMBER?**
+### WHAT IS YOUR PHONE NUMBER?
 415-269-2974
 
-**WHAT TECHNOLOGY DOES YOUR TEST INVOLVE?**
+### WHAT TECHNOLOGY DOES YOUR TEST INVOLVE?
 Isothermal
 
-**IF ISOTHERMAL, TELL US MORE ABOUT YOUR ISOTHERMAL TECHNOLOGY:**
+### IF ISOTHERMAL, TELL US MORE ABOUT YOUR ISOTHERMAL TECHNOLOGY:
 Loop-mediated isothermal amplification (LAMP)
 
-**DOES YOUR TEST DETECT NUCLEIC ACID OR PROTEIN?**
+### DOES YOUR TEST DETECT NUCLEIC ACID OR PROTEIN?
 Nucleic Acid
 
-**IF NUCLEIC ACID, HOW MANY SEQUENCES DO YOU TARGET?**
+### IF NUCLEIC ACID, HOW MANY SEQUENCES DO YOU TARGET?
 2, ORF1a and N
 
-**IF NUCLEIC ACID, HOW MANY GENES DO YOU TEST FOR?**
+### IF NUCLEIC ACID, HOW MANY GENES DO YOU TEST FOR?
 2, ORF1a and N
 
-**WHAT READ-OUT TECHNOLOGY DO YOU USE?**
+### WHAT READ-OUT TECHNOLOGY DO YOU USE?
 Spectrometric (including Colorimetric)
 
-**WHAT IS YOUR INPUT VOLUME PER TEST?**
+### WHAT IS YOUR INPUT VOLUME PER TEST?
 500 or 2000 µL per test
 
-**WHAT SAMPLE SOURCES ARE YOU PLANNING TO USE ONCE OPERATIONAL?**
+### WHAT SAMPLE SOURCES ARE YOU PLANNING TO USE ONCE OPERATIONAL?
 Nasal swab, Saliva
 
-**WHICH APPLICATION BEST DEFINES YOUR TEST?**
+### WHICH APPLICATION BEST DEFINES YOUR TEST?
 Distributed Lab
 
 
-# 503  XPrize FloodLAMP Submission - QS Part 2_ Results.md
+# 497  XPrize FloodLAMP Submission - QS Part 2_ Results.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - QS Part 2_ Results.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Qualifying Submission - QS Part 2 Results
@@ -1584,60 +1597,60 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1yi2ENCjoLdCUSZPqvt4yTjFfGyJOX9Ol/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%202_%20Results.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%202_%20Results.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 503
-words: 317
+tokens: 497
+words: 330
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 2 (Results) submission documents the team's estimated limit of detection (1-5 copies/µL), which is based on experiments spiking ZeptoMetrix inactivated virions and Twist RNA into samples. Results are qualitative using contrived saliva samples, with no clinical validation pilots completed at time of submission.
 
 
 CONTENT
 
-## FloodLAMP XPRIZE Qualifying Submission - QS Part 2: Results
+***INTERNAL TITLE:*** FloodLAMP XPRIZE Qualifying Submission - QS Part 2: Results
 
-**WHAT IS YOUR LIMIT OF DETECTION? (copies/µL)**
+### WHAT IS YOUR LIMIT OF DETECTION? (copies/µL)
 1-5 copies/μL
 
-**WHAT TARGETS IS YOUR LIMIT OF DETECTION BASED ON?**
+### WHAT TARGETS IS YOUR LIMIT OF DETECTION BASED ON?
 Our estimated limit of detection is based upon both our experiments (spiking ZeptoMetrix inactivated virions into raw samples and Twist RNA into inactivated samples) and what has been found by Rabe, Cepko, Anahtar et al in running the same assay chemistry. We have yet to do the full 20 replicates at several levels near the LOD to precisely determine it, as we have instead prioritized optimizing various aspects of the workflow (primarily handling the silica pellet prior to amplification). Our goal for the LOD is a real world raw sample level of 1e4/mL, as this gets us to 1e5/mL for a pool of 10. This is a level significantly below what has been cited as the suspected threshold for infectiousness of 1e6/mL (level "Capable to Infect Others"). A viral load of 1e5/ml is the level that the CDC seems to be recommending for new "less sensitive" tests. The viral target which we are detecting is a combination of ORF1a and N genes (using AS1e and N2 primers).
 
-**WHAT SAMPLE TYPES ARE USED FOR YOUR LIMIT OF DETECTION?**
+### WHAT SAMPLE TYPES ARE USED FOR YOUR LIMIT OF DETECTION?
 Nasal swab, Saliva
 
-**ARE RESULTS BASED OFF OF CLINICAL OR CONTRIVED SAMPLES?**
+### ARE RESULTS BASED OFF OF CLINICAL OR CONTRIVED SAMPLES?
 Contrived
 
-**WHAT SAMPLE TYPES ARE USED FOR YOUR RESULTS?**
+### WHAT SAMPLE TYPES ARE USED FOR YOUR RESULTS?
 Nasal swab, Saliva
 
-**MEDIAN POSITIVE SAMPLE CONCENTRATION (X LOD):**
+### MEDIAN POSITIVE SAMPLE CONCENTRATION (X LOD):
 NA, have not yet run clinical validation pilots
 
-**WHAT IS YOUR POSITIVE PERCENT AGREEMENT (PPA)? (%)**
+### WHAT IS YOUR POSITIVE PERCENT AGREEMENT (PPA)? (%)
 NA, have not yet run clinical validation pilots
 
-**HOW MANY POSITIVE SAMPLES WERE USED?**
+### HOW MANY POSITIVE SAMPLES WERE USED?
 NA, have not yet run clinical validation pilots
 
-**WHAT IS YOUR NEGATIVE PERCENT AGREEMENT (NPA)? (%)**
+### WHAT IS YOUR NEGATIVE PERCENT AGREEMENT (NPA)? (%)
 NA, have not yet run clinical validation pilots
 
-**HOW MANY NEGATIVE SAMPLES WERE USED?**
+### HOW MANY NEGATIVE SAMPLES WERE USED?
 NA, have not yet run clinical validation pilots
 
-**ARE YOUR RESULTS QUALITATIVE OR QUANTITATIVE?**
+### ARE YOUR RESULTS QUALITATIVE OR QUANTITATIVE?
 Qualitative
 
-**HAVE YOU CONDUCTED CROSS REACTIVITY EXPERIMENTS?**
+### HAVE YOU CONDUCTED CROSS REACTIVITY EXPERIMENTS?
 No
 
 
-# 1,120  XPrize FloodLAMP Submission - QS Part 3_ Current Capacity _ Scalability.md
+# 1,110  XPrize FloodLAMP Submission - QS Part 3_ Current Capacity _ Scalability.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - QS Part 3_ Current Capacity _ Scalability.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Qualifying Submission - QS Part 3 Current Capacity and Scalability
@@ -1649,63 +1662,63 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1sQKsJTu9oNw76n8sHOpnzwf6LHd0j_8q/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%203_%20Current%20Capacity%20_%20Scalability.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%203_%20Current%20Capacity%20_%20Scalability.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1120
-words: 819
+tokens: 1110
+words: 833
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 3 (Current Capacity and Scalability) submission details the team's testing throughput (50 tests/day current, 200K/day potential with pooling at 100), 2-hour sample-to-result time, sub-$1 per-test cost, sub-$10K capital expense, and plans for scaling through automation with OpenTrons liquid handling and open-source distribution to other labs.
 
 
 CONTENT
 
-## FloodLAMP XPRIZE Qualifying Submission - QS Part 3: Current Capacity and Scalability
+***INTERNAL TITLE:*** FloodLAMP XPRIZE Qualifying Submission - QS Part 3: Current Capacity and Scalability
 
-**HOW MANY TESTS DO YOU CURRENTLY RUN PER DAY?**
+### HOW MANY TESTS DO YOU CURRENTLY RUN PER DAY?
 Approximately 50. We are still in development, not yet running pilots or production. Last week we ran a batch of 24 diluted samples at the 2mL volume (for 10 pools)—a simulation of a run that would comprise 240 individuals.
 
-**HOW MANY TESTS COULD YOU RUN PER DAY WITH CURRENT SETUP?**
+### HOW MANY TESTS COULD YOU RUN PER DAY WITH CURRENT SETUP?
 200,000, but this is difficult to answer and depends on what is meant by "current setup." Our organization is still doing development but we are growing quickly. The 200,000 number is based on our current leased-lab space at MBC Biolabs, which includes 2 biosafety cabinets, 4 lab bench, and 1 chemical fume hood. It is based on a pooling level of 100, which our LOD supports while still reaching the threshold of infectiousness (~1e6/mL). Likely we will not run many 100 pools immediately and will primarily run 10 pools. The 200,000 number is also based on a 1 hr hands-on time per batch using multichannel pipettes, which is the first configuration we are optimizing in order to spread this screening capability and enable other labs without automation to scale quickly. With a single liquid handling robot, such as an OpenTrons or Bravo (which we intend to bring online in Sept), the hands-on time per batch would go down to minutes and the same personnel could run at least 10X the number of samples/pools.
 
-**HOW LONG DOES IT TAKE TO GO FROM SAMPLE COLLECTION TO RESULTS (MINUTES)?**
+### HOW LONG DOES IT TAKE TO GO FROM SAMPLE COLLECTION TO RESULTS (MINUTES)?
 2 hrs, though again, this is difficult to answer and can be misleading for our program. We are integrating several components of a screening system to achieve mass scale. Our screening system is designed to find unknown new infections among large populations which will be re-screened frequently. Therefore, a 12 hr turnaround for results is sufficient. Through planning or fast-tracking batches, we could reasonably expect 4 hr sample-to-result times.
 
-**WHAT IS THE HANDS-ON TIME (MINUTES)?**
+### WHAT IS THE HANDS-ON TIME (MINUTES)?
 1 hr per batch of 45 pooled samples (pool level of 10-100) if using multichannel pipettors. 5-10 minutes if using liquid handling robots.
 
-**HOW MANY TESTS CAN BE RUN PER DAY WITH ONE SETUP?**
+### HOW MANY TESTS CAN BE RUN PER DAY WITH ONE SETUP?
 10K per 24 hr day, assuming no automation, several shifts, and a total of about 10 staff. This scales to 100K+/day with the addition of automation.
 
-**COULD THE TEST BE ADAPTED TO POINT OF CARE?**
+### COULD THE TEST BE ADAPTED TO POINT OF CARE?
 No
 
-**CAPITAL EXPENSE:**
+### CAPITAL EXPENSE:
 Less than $10K to purchase all the equipment for the baseline lab configuration from scratch. However, most labs will likely already have most of the necessary equipment.
 
-**ESTIMATED COST PER TEST:**
+### ESTIMATED COST PER TEST:
 <$1, highly dependent on pool level. Current per pool costs are dominated by the NEB LAMP MM (1804) which is $2/rxn in small volumes and approx $0.75 in very large volumes. Consumables cost per pool are currently approximately $5, dropping to <$3 in large volumes. The cost could potentially drop significantly further if the open source LAMP Master Mix using the HIV-1 RT is produced and made available to the LAMP community at a cost less than NEB's product.
 
-**ESTIMATED COST PER RUN:**
+### ESTIMATED COST PER RUN:
 For the non-automated configuration using multichannel pipettes, a batch size of 45 samples would currently cost approximately $150 in consumables and need 3 hours of labor. At $40/hr labor charge, the batch cost comes to $270. Assuming the standard pool size of 10, that covers 450 people for a primary screen.
 
-**IS THIS TEST CAPABLE OF POOLING SAMPLES?**
+### IS THIS TEST CAPABLE OF POOLING SAMPLES?
 Yes
 
-**DO YOU CURRENTLY POOL SAMPLES?**
+### DO YOU CURRENTLY POOL SAMPLES?
 Yes
 
-**IF YES, HOW MANY SAMPLES DO YOU CURRENTLY POOL?**
+### IF YES, HOW MANY SAMPLES DO YOU CURRENTLY POOL?
 We typically pool 2-5 individuals for our development runs, but do so in a total volume of 5mL (assumes 0.5mL per individual in the pool). One of the key concerns for pooling larger numbers of people (even 10) is whether inhibitors or adulterants present in one sample will cause a failure of the pool. We point to China's success at large scale sample pooling at the level of 10 using cheek swabs as evidence for optimism.
 
-**WHAT ARE THE CURRENT LIMITATIONS TO SCALE THIS TEST?**
+### WHAT ARE THE CURRENT LIMITATIONS TO SCALE THIS TEST?
 The key limitation of our current configuration is not using automation. However, development of this mode is intentional, as access to liquid handling robots and the resources to feed them would be limiting for many, many labs. With multichannel pipetting and the baseline configuration we are developing, those labs can scale to 10K+ people per day screened. Another limitation is the use of silica rather than magnetic beads. Again, this choice has been intentional due to the availability and cost of magnetic capture beads. This is something we will investigate and consider bringing up in parallel to silica. Practically, we are currently limited in resources—both funding and staffing. We closed our first seed investment last week and expect more funding soon. Recruiting qualified employees is particularly challenging now, but we intend to do further outreach and publicize our efforts very soon.
 
 
-# 1,548  XPrize FloodLAMP Submission - QS Part 4_ Innovation.md
+# 1,545  XPrize FloodLAMP Submission - QS Part 4_ Innovation.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - QS Part 4_ Innovation.md
 file_date: 2020-09-09
 title: FloodLAMP XPRIZE Qualifying Submission - QS Part 4 Innovation
@@ -1717,75 +1730,75 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1Vc87logYUNc-fLuXBXMkH5StXjA2rBMQ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%204_%20Innovation.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20QS%20Part%204_%20Innovation.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1548
-words: 1120
+tokens: 1545
+words: 1138
 notes: 
 summary_short: FloodLAMP's XPRIZE QS Part 4 (Innovation) submission covers biosafety protocols, data collection and privacy through the custom Appivo app, innovative sample collection approach with in-app guided self-pooling by households, and the team's core innovation of combining available LAMP technology into an open-source integrated screening platform designed for scalable, affordable deployment by any basic laboratory.
 
 
 CONTENT
 
-## FloodLAMP XPRIZE Qualifying Submission - QS Part 4: Innovation
+***INTERNAL TITLE:*** FloodLAMP XPRIZE Qualifying Submission - QS Part 4: Innovation
 
-**(BIO SAFETY) DO YOU USE STANDARD PPE & BIOHAZARD WASTE PROCEDURES TO ENSURE PERSONNEL & BIOHAZARD SAFETY?**
+### (BIO SAFETY) DO YOU USE STANDARD PPE & BIOHAZARD WASTE PROCEDURES TO ENSURE PERSONNEL & BIOHAZARD SAFETY?
 Yes
 
-**(BIO SAFETY) DO YOU HAVE A UNIQUE OR INNOVATIVE WAY TO ENSURE PERSONNEL OR BIOHAZARD SAFETY?**
+### (BIO SAFETY) DO YOU HAVE A UNIQUE OR INNOVATIVE WAY TO ENSURE PERSONNEL OR BIOHAZARD SAFETY?
 No
 
-**(DATA) HOW DO YOU COLLECT & PROCESS RESULTS?**
+### (DATA) HOW DO YOU COLLECT & PROCESS RESULTS?
 Automated
 
-**(DATA) DO YOU STORE PATIENT RESULTS?**
+### (DATA) DO YOU STORE PATIENT RESULTS?
 Yes
 
-**IF YES, HOW DO YOU ENSURE DATA & RESULT PRIVACY & SAFETY?**
+### IF YES, HOW DO YOU ENSURE DATA & RESULT PRIVACY & SAFETY?
 Using industry standard procedures. Personal Identifying Information is carefully protected by assigning non-PII unique identifiers that are utilized to track samples and pools.
 
-**(DATA) HOW DO YOU REPORT RESULTS?**
+### (DATA) HOW DO YOU REPORT RESULTS?
 Other
 
-**IF OTHER, PLEASE SPECIFY**
+### IF OTHER, PLEASE SPECIFY
 Through a custom app, with the participants selecting their method of notification. In-app notification is the most secure, however some participants may choose less secure but more convenient direct notification by text or email. Anonymized, aggregated results will also be reported to organizations and participants per specific agreements.
 
-**(DATA) DO YOU HAVE AN INNOVATIVE WAY TO PROCESS DATA AND REPORT RESULTS, SUCH AS AN APP?**
+### (DATA) DO YOU HAVE AN INNOVATIVE WAY TO PROCESS DATA AND REPORT RESULTS, SUCH AS AN APP?
 Yes
 
-**IF YES, TELL US ABOUT YOUR INNOVATIVE METHOD:**
+### IF YES, TELL US ABOUT YOUR INNOVATIVE METHOD:
 Yes, we have developed a custom app with a partner company, Appivo, that has a low-code app development platform. The alpha version of our app is currently under review by Apple. Through the app, participants collect individual samples and self-pooled samples, thus greatly streamlining the overall system. The collection process is initiated and supervised by a "sponsor" who is typically a member of the pool and who has accepted responsibility for understanding and implementing the proper collection process. This is facilitated by in-app instruction (including video links), which take a few minutes. The app has been optimized for a smooth user experience and for repeated screening by pre-populating with previous collection information. Pooled collection including minors with parents/guardians is included.
 
-**IF YES, IS THIS METHOD COMPATIBLE WITH SAMPLE POOLING?**
+### IF YES, IS THIS METHOD COMPATIBLE WITH SAMPLE POOLING?
 Yes
 
-**(DATA) CAN YOU INTEGRATE WITH EMPLOYERS/ADMIN FOR TRACKING?**
+### (DATA) CAN YOU INTEGRATE WITH EMPLOYERS/ADMIN FOR TRACKING?
 Yes.
 
-**(DATA) CAN YOU INTEGRATE WITH PUBLIC DOMAIN TRACKERS (I.E. APPLE, GOOGLE)?**
+### (DATA) CAN YOU INTEGRATE WITH PUBLIC DOMAIN TRACKERS (I.E. APPLE, GOOGLE)?
 Yes, our app has an API.
 
-**(DATA) DO YOU HAVE A UNIQUE OR INNOVATIVE WAY TO COLLECT SAMPLES?**
+### (DATA) DO YOU HAVE A UNIQUE OR INNOVATIVE WAY TO COLLECT SAMPLES?
 Yes
 
-**IF YES, HOW DO YOU ENSURE DATA & RESULT PRIVACY & SAFETY?**
+### IF YES, HOW DO YOU ENSURE DATA & RESULT PRIVACY & SAFETY?
 The Appivo platform has built-in industry standard security. Appivo has developed apps that include health data for NGOs, and we are leveraging legal and privacy elements of those apps. The Appivo platform enables separate secure instances to be spun up, siloing separate organizations data. The Appivo platform also enables customization of the app—the branding, the design, and the actual functionality. With the mission to spread mass screening capability, FloodLAMP will license the app to other partner organizations, such as universities, which can customize it to suit any specific needs.
 
-**WHAT MAKES YOUR TEST UNIQUE? WHAT IS YOUR BIGGEST INNOVATION?**
+### WHAT MAKES YOUR TEST UNIQUE? WHAT IS YOUR BIGGEST INNOVATION?
 FloodLAMP's innovation is combining currently available technology into a highly efficient, integrated infectious disease screening program that can scale—and doing so in a truly open way. New technologies have enormous potential, but it's not clear if any will be ready in 2020. Both well-funded startups and large diagnostics companies will surely bring online significant additional testing capacity, but most of that will be on closed systems or in closed labs, and will be at the highest price the market will bear. Some new options will have impactful tradeoffs, such as antigen tests with LOD's above the threshold for infectiousness. Incentives have not been properly set to encourage the development of a program that any basic lab can affordably bring up and run at significant scale. FloodLAMP is building upon the foundational work of others to combine a sensitive, super cheap, flexible and molecular assay with streamlined sample collection. We are openly sharing not just our protocols but the wrap around processes for a dedicated screening program that is designed to be accessible for all other labs. At the same time we are soliciting help in best practices, under a structure where that knowledge is shared and disseminated, not just used in a limited, closed offering. In short, we're bringing open source to biotech, helping to create the Linux of infectious disease screening. We're building on the current important open efforts (such as JOGL, gLAMP, shared protocol websites like protocols.io) and implementing an integrated screening program to address the global COVID-19 crisis.
 
-**OPENTRONS IS PARTNERING WITH XPRIZE TO SUPPORT TEAMS WITH LIQUID HANDLING ROBOTS DURING THE PILOT PHASE. PLEASE TELL US WHETHER YOUR TEST CAN BENEFIT FROM LIQUID HANDLING AUTOMATION AND HOW YOU MIGHT USE (OR ARE ALREADY USING) THE OPENTRONS LIQUID HANDLER.**
+### OPENTRONS IS PARTNERING WITH XPRIZE TO SUPPORT TEAMS WITH LIQUID HANDLING ROBOTS DURING THE PILOT PHASE. PLEASE TELL US WHETHER YOUR TEST CAN BENEFIT FROM LIQUID HANDLING AUTOMATION AND HOW YOU MIGHT USE (OR ARE ALREADY USING) THE OPENTRONS LIQUID HANDLER.
 Yes, we can benefit greatly from liquid handling automation. We plan to develop the next configuration of our assay protocol around the OpenTrons robot. There is one at our shared lab facility (MBC Biolabs in San Carlos) that we would like to gain access to in mid Sept. We have consulted with the automation expert at Denali Pharmaceuticals who planned to automate the Rabe Cepko assay, which primarily involves the silica washing steps. We have extensive experience in automating assay protocols involving silica microparticles, through FloodLAMP founder's previous startup True Materials. Affymetrix acquired True Materials in 2008, and we automated several processes for pilot production of liquid arrays using the True Materials' silica microbarcodes on a Biomek Fx, plate washers, and vacuum aspirators. The OpenTrons system is ideal for our automation development because of the low upfront cost of the system and the open source approach of the company.
 
-**PLEASE TELL US ANY REASONS THE PROFICIENCY OR CLINICAL TESTS MAY NOT ACCURATELY RECAPITULATE HOW WELL YOUR TEST WORKS.**
+### PLEASE TELL US ANY REASONS THE PROFICIENCY OR CLINICAL TESTS MAY NOT ACCURATELY RECAPITULATE HOW WELL YOUR TEST WORKS.
 The buffer that the proficiency samples are in may not be compatible with our nucleic acid binding protocol. At a high level, we are not just developing a test (or assay protocol, that's already been done by Rabe and Cepko and their clinical collaborators, Anahtar et al)—we are developing an integrated screening program. That being said, many parts of the system are plug and play. For example, with a slight modification of our existing protocol (elution from the dried pellet), we can go into qPCR as well. We have done almost all of our development on real human samples, starting with raw saliva and soaked nasal swabs. We inactivate those samples with a chemical reducing agent, TCEP/EDTA per the Rabe Cepko protocol. The next step of the main assay protocol uses a high salt solution (NaI) along with the prepared silica for nucleic acid binding, and that may not work or work as well without the TCEP. For our no template controls, we use 1X PBS with the corresponding amount of the TCEP Inactivation Solution. We have not yet run our assay protocol with VTM or other sample collection buffers, as we will collect and inactivate using our protocol.
 
 
 # 1,045  XPrize FloodLAMP Submission - Slides.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission - Slides.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Qualifying Submission - Presentation Slides
@@ -1795,9 +1808,9 @@ tags:
 source_file_type: gslide
 xfile_type: pptx
 gfile_url: https://docs.google.com/presentation/d/1-Dd9oNqmi2FmppZ0Xpw7G6Hh5zIz2bsI044IPjb2x5U/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pptx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pptx
 pdf_gdrive_url: https://drive.google.com/file/d/1cJaAi1EGXlDuoViG8LRER1EnwJgVYmcL/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission%20-%20Slides.pdf
 conversion_input_file_type: pptx
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -1924,7 +1937,7 @@ _Photos of FloodLAMP laboratory facilities at MBC Biolabs_
 
 # 10,730  XPrize FloodLAMP Submission.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize FloodLAMP Submission.md
 file_date: 2020-09-08
 title: FloodLAMP XPRIZE Qualifying Submission - Complete Working Document
@@ -1934,9 +1947,9 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1TedJlyh6UsNWcFVnEV-9aOIdkoOTGm29c7-wcjD9FAc/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20FloodLAMP%20Submission.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20FloodLAMP%20Submission.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1xpkId8BJRVRpSSdZXJRI8ubDLo6-5fAJ/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20FloodLAMP%20Submission.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2406,9 +2419,9 @@ Yes, we can benefit greatly from liquid handling automation. We plan to develop 
 The buffer that the proficiency samples are in may not be compatible with our nucleic acid binding protocol. At a high level, we are not just developing a test (or assay protocol, that's already been done by Rabe and Cepko and their clinical collaborators, Anahtar et al). We are developing an integrated screening program. That being said, many parts of the system are plug and play. For example, with a slight modification of our existing protocol (elution from the dried pellet), we can go into qPCR as well. We have done almost all of our development on real human samples, starting with raw saliva and soaked nasal swabs. We inactivate those samples with a chemical reducing agent, TCEP/EDTA per the Rabe Cepko protocol. The next step of the main assay protocol uses a high salt solution (NaI) along with the prepared silica for nucleic acid binding, and that may not work or work as well without the TCEP. For our no template controls, we use 1X PBS with the corresponding amount of the TCEP Inactivation Solution. We have not yet run our assay protocol with VTM or other sample collection buffers, as we will collect and inactivate using our protocol.
 
 
-# 397  XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
+# 388  XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Kits - FAQ BLINDED PROFICIENCY TEST KITS.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - FAQ Blinded Proficiency Test Kits
@@ -2418,14 +2431,14 @@ tags:
 source_file_type: gdoc
 xfile_type: docx
 gfile_url: https://docs.google.com/document/d/1s2OLcJDaSRc5WsaGxCYGtSf8FTM7JOWXaskm3f1OvB0/
-xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.docx
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.docx
 pdf_gdrive_url: https://drive.google.com/file/d/1gZQia4vjJcbtjWZAjcM5_y4meQUxzwCW/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Kits%20-%20FAQ%20BLINDED%20PROFICIENCY%20TEST%20KITS.pdf
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 397
-words: 293
+tokens: 388
+words: 302
 notes:
 summary_short: FAQ document for XPRIZE Rapid Covid Testing semi-finalist teams explaining the blinded proficiency test kit contents (150-200 contrived BSL-1 samples), shipping timeline (September 24 - October 2, 2020), one-week testing window, and results submission process via the Prize Operations Platform.
 
@@ -2434,7 +2447,7 @@ CONTENT
 
 ***INTERNAL TITLE:*** FAQ – BLINDED PROFICIENCY TEST KITS
 
-**What will be contained in the blinded proficiency test kits?**
+### What will be contained in the blinded proficiency test kits?
 
 150-200 blinded samples, each containing synthetic SARS-CoV-2 RNA and inactivated viral particles. The samples will be 200-400 μl each.
 
@@ -2442,42 +2455,42 @@ There will be several base fluids used. We will not reveal the base fluids. Some
 
 Kits will be designed for both RNA and Antigen detection tests.
 
-**What biosafety level is required to process the samples?**
+### What biosafety level is required to process the samples?
 
 The kits will be non-infectious BSL-1. They are all inactivated, contrived samples. No clinical samples will be included. However, please treat all samples as if they were clinical.
 
-**When will the kits be sent?**
+### When will the kits be sent?
 
 The blinded proficiency kits will be shipped between **September 24 – October 2, 2020**.
 
-**How will the kits be shipped?**
+### How will the kits be shipped?
 
 The kits will be shipped frozen (on dry ice).
 
-**Will I be notified when my kit ships?**
+### Will I be notified when my kit ships?
 
 Yes. We will notify you when a kit has been shipped to you. They will be scheduled to arrive during a business day.
 
-**Will I received tracking information for the shipment?**
+### Will I received tracking information for the shipment?
 
 Yes. We will send you tracking information as soon as the kit has been shipped.
 
-**How much time do I have to validate the blinded proficiency test?**
+### How much time do I have to validate the blinded proficiency test?
 
 Upon receiving a kit, each team will have **one (1) week** to complete the blinded proficiency test and upload their results to POP.
 
-**How do I upload the results to POP?**
+### How do I upload the results to POP?
 
 In the next few days, we will email you instructions for uploading your results to POP.
 
-**Will I receive my results even if I don't make it to the next round of the competition?**
+### Will I receive my results even if I don't make it to the next round of the competition?
 
 Yes. All teams will receive performance results, even if they do not make it to the next round.
 
 
-# 1,001  XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
+# 1,000  XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Kits - Rapid Testing Proficiency Kit Handling Instructions.md
 file_date: **FLAGGED - UNKNOWN**
 title: XPRIZE Rapid Covid Testing - Proficiency Kit Handling Instructions
@@ -2489,11 +2502,11 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1P05UkYPfngq6hq-8zQUTO8xjbG_6cx8n/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Kits%20-%20Rapid%20Testing%20Proficiency%20Kit%20Handling%20Instructions.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Kits%20-%20Rapid%20Testing%20Proficiency%20Kit%20Handling%20Instructions.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 1001
+tokens: 1000
 words: 776
 notes:
 summary_short: Detailed handling instructions for the XPRIZE Rapid Testing proficiency test kits sent to semi-finalist teams, covering sample format (0.5-1 mL Matrix tubes with barcodes), storage requirements (-80°C for dry ice shipments, 4°C for cold pack shipments), result entry format, and specific guidance for both antigen (gamma-irradiated cell products) and RNA (chemically-inactivated cell products and synthetic RNA) test kits, including notes on albumin precipitation at high temperatures.
@@ -2501,7 +2514,7 @@ summary_short: Detailed handling instructions for the XPRIZE Rapid Testing profi
 
 CONTENT
 
-***INTERNAL TITLE:***  XPRIZE Rapid Testing Proficiency Kit Instructions
+***INTERNAL TITLE:*** XPRIZE Rapid Testing Proficiency Kit Instructions
 
 This shipment contains a test kit for semifinalists of the XPRIZE Rapid Testing competition. It is for research use only and has no commercial value.
 
@@ -2519,12 +2532,12 @@ If your test does not function with a particular matrix fluid, you may dilute th
 
 If your test requires knowledge of prevalence (e.g., for pooling strategies), you may choose to individually analyze a portion of each sample and determine this yourself. XPRIZE will not be revealing this information.
 
-## Antigen Test Kit
+### Antigen Test Kit
 If you are testing for antigen, your kit consists of one rack shipped on dry ice. The kit ideally should be stored at -80°C until analysis. For short term storage for a week or less, -20°C is sufficient. Additional freeze-thaw cycles should be avoided. While performing your testing protocol, samples still should be kept on ice or as cold as reasonably possible until the moment of analysis.
 
 The positive control has virus material with 10^4 RNA copies/µL. Units here are RNA copies/µL because the material was analyzed by PCR. Rest assured that antigen components are also present.
 
-## RNA Test Kit
+### RNA Test Kit
 If you are testing for RNA, your kit consists of two racks, one shipped on dry ice and one on cold packs. The rack shipped on dry ice should be stored at -80°C until analysis. For short term storage for a week or less, -20°C is sufficient. The rack shipped on cold packs should be stored at 4°C until analysis. While performing your testing protocol, samples still should be kept on ice or as cold as reasonably possible until the moment of analysis.
 
 The dry ice-shipped positive control has 10^4 RNA copies/µL. The cold pack-shipped positive control has 10^2 RNA copies/µL.
@@ -2534,7 +2547,7 @@ Several of the samples (including the positive control) that are shipped on cold
 
 # 2,278  XPrize Legal - Competitor Agreement (certificate summary).md
 METADATA
-last updated: 2026-02-25 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Legal - Competitor Agreement (certificate summary).md
 file_date: 2020-09-08
 title: XPRIZE Competitor Agreement - DocuSign Certificate of Completion (FloodLAMP)
@@ -2546,7 +2559,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1vK_P5Fgi_P_YtnUBV4bK3i-s0Mo_INFE/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement%20(certificate%20summary).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement%20%28certificate%20summary%29.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2558,7 +2571,7 @@ summary_short: DocuSign Certificate of Completion for FloodLAMP's XPRIZE Rapid C
 
 CONTENT
 
-## Certificate Of Completion
+### Certificate Of Completion
 Envelope Id: C865A9DBB0A0488887A93BD3C49899D6
 Status: Sent
 Subject: Please DocuSign: XPRIZE_Covid Testing_Competitor Agreement_FINAL_2020.08.04.pdf
@@ -2574,13 +2587,13 @@ Envelope Originator: XPRIZE Foundation, 800 Corporate Pointe, Suite 350, Culver 
 skipso.docusign@xprize.org
 IP Address: 104.40.24.165
 
-## Record Tracking
+### Record Tracking
 Status: Original
 9/8/2020 3:15:23 AM
 Holder: XPRIZE Foundation, skipso.docusign@xprize.org
 Location: DocuSign
 
-## Signer Events
+### Signer Events
 Randy True
 randy@floodlamp.bio
 Security Level: .Email
@@ -2593,7 +2606,7 @@ Sent: 9/8/2020 3:15:24 AM
 Viewed: 9/8/2020 3:15:30 AM
 Signed: 9/8/2020 3:16:30 AM
 
-## Electronic Record and Signature Disclosure:
+### Electronic Record and Signature Disclosure:
 Accepted: 9/7/2020 2:07:08 PM
 ID: d237fe09-1ff3-446e-91be-014488db3be7
 
@@ -2602,7 +2615,7 @@ Lisa.Covington@xprize.org
 Security Level: Email, Account Authentication (None)
 Sent: 9/8/2020 3:16:31 AM
 
-## Electronic Record and Signature Disclosure:
+### Electronic Record and Signature Disclosure:
 Not Offered via DocuSign
 
 |  |  |  |
@@ -2621,44 +2634,44 @@ Not Offered via DocuSign
 | Electronic Record and Signature Disclosure | | |
 ||
 
-## ELECTRONIC RECORD AND SIGNATURE DISCLOSURE
+### ELECTRONIC RECORD AND SIGNATURE DISCLOSURE
 From time to time, X PRIZE Foundation - Envelope (we, us or Company) may be required by law to provide to you certain written notices or disclosures. Described below are the terms and conditions for providing to you such notices and disclosures electronically through your DocuSign, Inc. (DocuSign) Express user account. Please read the information below carefully and thoroughly, and if you can access this information electronically to your satisfaction and agree to these terms and conditions, please confirm your agreement by clicking the 'I agree' button at the bottom of this document.
 
-### Getting paper copies
+#### Getting paper copies
 At any time, you may request from us a paper copy of any record provided or made available electronically to you by us. For such copies, as long as you are an authorized user of the DocuSign system you will have the ability to download and print any documents we send to you through your DocuSign user account for a limited period of time (usually 30 days) after such documents are first sent to you. After such time, if you wish for us to send you paper copies of any such documents from our office to you, you will be charged a $0.00 per-page fee. You may request delivery of such paper copies from us by following the procedure described below.
 
-### Withdrawing your consent
+#### Withdrawing your consent
 If you decide to receive notices and disclosures from us electronically, you may at any time change your mind and tell us that thereafter you want to receive required notices and disclosures only in paper format. How you must inform us of your decision to receive future notices and disclosure in paper format and withdraw your consent to receive notices and disclosures electronically is described below.
 
-### Consequences of changing your mind
+#### Consequences of changing your mind
 If you elect to receive required notices and disclosures only in paper format, it will slow the speed at which we can complete certain steps in transactions with you and delivering services to you because we will need first to send the required notices or disclosures to you in paper format, and then wait until we receive back from you your acknowledgment of your receipt of such paper notices or disclosures. To indicate to us that you are changing your mind, you must withdraw your consent using the DocuSign 'Withdraw Consent' form on the signing page of your DocuSign account. This will indicate to us that you have withdrawn your consent to receive required notices and disclosures electronically from us and you will no longer be able to use your DocuSign Express user account to receive required notices and consents electronically from us or to sign electronically documents from us.
 
-### All notices and disclosures will be sent to you electronically
+#### All notices and disclosures will be sent to you electronically
 Unless you tell us otherwise in accordance with the procedures described herein, we will provide electronically to you through your DocuSign user account all required notices, disclosures, authorizations, acknowledgements, and other documents that are required to be provided or made available to you during the course of our relationship with you. To reduce the chance of you inadvertently not receiving any notice or disclosure, we prefer to provide all of the required notices and disclosures to you by the same method and to the same address that you have given us. Thus, you can receive all the disclosures and notices electronically or in paper format through the paper mail delivery system. If you do not agree with this process, please let us know as described below. Please also see the paragraph immediately above that describes the consequences of your electing not to receive delivery of the notices and disclosures electronically from us.
 
 Electronic Record and Signature Disclosure created on: 7/13/2015 11:37:56 AM
 Parties agreed to: Randy True
 
-### How to contact X PRIZE Foundation - Envelope
+#### How to contact X PRIZE Foundation - Envelope
 You may contact us to let us know of your changes as to how we may contact you electronically, to request paper copies of certain information from us, and to withdraw your prior consent to receive notices and disclosures electronically as follows:
 
 To contact us by email send messages to: ap@xprize.org
 
-### To advise X PRIZE Foundation - Envelope of your new e-mail address
+#### To advise X PRIZE Foundation - Envelope of your new e-mail address
 To let us know of a change in your e-mail address where we should send notices and disclosures electronically to you, you must send an email message to us at ap@xprize.org and in the body of such request you must state: your previous e-mail address, your new e-mail address. We do not require any other information from you to change your email address.
 
 In addition, you must notify DocuSign, Inc to arrange for your new email address to be reflected in your DocuSign account by following the process for changing e-mail in DocuSign.
 
-### To request paper copies from X PRIZE Foundation - Envelope
+#### To request paper copies from X PRIZE Foundation - Envelope
 To request delivery from us of paper copies of the notices and disclosures previously provided by us to you electronically, you must send us an e-mail to ap@xprize.org and in the body of such request you must state your e-mail address, full name, US Postal address, and telephone number. We will bill you for any fees at that time, if any.
 
-### To withdraw your consent with X PRIZE Foundation - Envelope
+#### To withdraw your consent with X PRIZE Foundation - Envelope
 To inform us that you no longer want to receive future notices and disclosures in electronic format you may:
 
 i. decline to sign a document from within your DocuSign account, and on the subsequent page, select the check-box indicating you wish to withdraw your consent, or you may;
 ii. send us an e-mail to ap@xprize.org and in the body of such request you must state your e-mail, full name, US Postal Address, telephone number, and account number. We do not need any other information from you to withdraw consent. The consequences of your withdrawing consent for online documents will be that transactions may take a longer time to process.
 
-### Required hardware and software
+#### Required hardware and software
 |  |  |
 | --- | --- |
 | Operating Systems | Windows 2000 or Windows XP |
@@ -2671,7 +2684,7 @@ ii. send us an e-mail to ap@xprize.org and in the body of such request you must 
 
 ** These minimum requirements are subject to change. If these requirements change, we will provide you with an email message at the email address we have on file for you at that time providing you with the revised hardware and software requirements, at which time you will have the right to withdraw your consent.
 
-### Acknowledging your access and consent to receive materials electronically
+#### Acknowledging your access and consent to receive materials electronically
 To confirm to us that you can access this information electronically, which will be similar to other electronic notices and disclosures that we will provide to you, please verify that you were able to read this electronic disclosure and that you also were able to print on paper or electronically save this page for your future reference and access or that you were able to e-mail this disclosure and consent to an address where you will be able to print on paper or save it for your future reference and access. Further, if you consent to receiving notices and disclosures exclusively in electronic format on the terms and conditions described above, please let us know by clicking the 'I agree' button below.
 
 By checking the 'I Agree' box, I confirm that:
@@ -2683,7 +2696,7 @@ By checking the 'I Agree' box, I confirm that:
 
 # 19,298  XPrize Legal - Competitor Agreement_FINAL_2020.08.04.md
 METADATA
-last updated: 2026-02-24 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Legal - Competitor Agreement_FINAL_2020.08.04.md
 file_date: 2020-08-04
 title: XPRIZE Rapid Covid Testing - Competitor Agreement (Final, August 4, 2020)
@@ -2695,7 +2708,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1wKZGHnesUQ4tVi5bfaZ-AxN0VZhsVua7/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement_FINAL_2020.08.04.pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Competitor%20Agreement_FINAL_2020.08.04.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -2708,8 +2721,8 @@ summary_short: The full XPRIZE Rapid Covid Testing Competitor Agreement (dated A
 CONTENT
 
 ***INTERNAL TITLE:*** XPRIZE COMPETITOR AGREEMENT
-## 1. PARTIES
-### 1.1 XPRIZE Foundation, Inc., a Delaware corporation and 501(c)(3) non-profit foundation ("XPRIZE")
+### 1. PARTIES
+#### 1.1 XPRIZE Foundation, Inc., a Delaware corporation and 501(c)(3) non-profit foundation ("XPRIZE")
 
 |  |  |
 | --- | --- |
@@ -2722,7 +2735,7 @@ CONTENT
 |XPRIZE Title: | Prize Lead |
 ||
 
-### 1.2 [TEAM NAME], a(n) [JURISDICTION] [TYPE OF ENTITY] ("Team")<br> FloodLAMP
+#### 1.2 [TEAM NAME], a(n) [JURISDICTION] [TYPE OF ENTITY] ("Team")<br> FloodLAMP
 
 |  |  |
 | --- | --- |
@@ -2734,37 +2747,37 @@ CONTENT
 | Team Signatory Name: | Randy True |
 | Team Signatory Title: | CEO |
 
-### 1.3 Parties to this Agreement
+#### 1.3 Parties to this Agreement
 
 XPRIZE and Team are each, individually, a "Party" and jointly the "Parties" to this Agreement.
 
-## 2. SCOPE OF AGREEMENT
-### 2.1 Legal Notice
+### 2. SCOPE OF AGREEMENT
+#### 2.1 Legal Notice
 
 THIS COMPETITOR AGREEMENT, INCLUDING ANY AND ALL EXHIBITS ("Agreement"), SHALL GOVERN THE XPRIZE Rapid COVID Testing ("Competition") AND WILL SUPERSEDE ANY OTHER AGREEMENT BETWEEN THE PARTIES RELATED TO THE COMPETITION.
 
-### 2.2 Binding Agreement
+#### 2.2 Binding Agreement
 
 THE PARTIES, BY VOLUNTARILY ENTERING INTO THIS AGREEMENT, HEREBY AGREE TO BE BOUND BY AND COMPLY WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF TEAM, OR ANY TEAM MEMBER ("Team Member" or "Member"), DOES NOT AGREE TO BE BOUND BY AND COMPLY WITH THIS AGREEMENT, THEN TEAM AND/OR TEAM MEMBER(S) SHOULD NOT ENTER THE COMPETITION OR JOIN THE TEAM. BY SIGNING THIS AGREEMENT, TEAM REPRESENTS AND WARRANTS THAT IT AND ITS PRESENT AND FUTURE TEAM MEMBERS UNDERSTAND AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
 
-### 2.3 Purpose
+#### 2.3 Purpose
 
 The $5 Million Dollar XPRIZE Rapid COVID Testing is a seven (7) month global competition to incentivize and accelerate the development of high-quality, affordable COVID-19 testing that can be effectively scaled around the world. The winning team will Develop COVID-19 tests that are radically affordable compared to what is currently available on the market, that are equal to, or better than, commercial offerings at measuring sensitivity, specificity, and limit of detection (LoD), With a maximum turnaround time of 12 hours from sample to result. A successful solution to this challenge will develop novel technologies to accelerate the development of high-quality COVID-19 testing that is fast, frequent, affordable, and easy.
 
-### 2.4 Competition Guidelines
+#### 2.4 Competition Guidelines
 
 The Parties recognize and acknowledge that the structure, judging criteria, and procedures of the various rounds of the Competition, and details concerning the testing protocols, rules and regulations that will govern the Competition will still be subject to certain changes pursuant to Section 17.1 below.
 
-### 2.5 Limitation on the Team's rights
+#### 2.5 Limitation on the Team's rights
 
 This Agreement contains important limitations on the Team's rights that are necessary in light of XPRIZE's mission and dedication to the development of technology for the good of society. In light of these limitations, Team is encouraged to consult with legal counsel and ask any questions about its decision to enter into this Agreement and agree to these limitations. By entering into this Agreement, Team represents and warrants that it has had such opportunity to consult with counsel and ask questions about this Agreement.
 
-### 2.6 Prior Status of Team
+#### 2.6 Prior Status of Team
 
 Prior to entering this Agreement, Team must have been an official registered Team in the Qualifying Round of the Competition and submitted their technical documentation describing their current technology assets, their approach to the Competition, a plan for technology development and integration during the Competition, and their plans for further development after the Competition.
 
-## 3. ELIGIBILITY AND REGISTRATION
-### 3.1 Eligible Entity
+### 3. ELIGIBILITY AND REGISTRATION
+#### 3.1 Eligible Entity
 
 In order to compete in the Competition and/or receive: (i) any portion of any prize purse; (ii) any other monetary payment; or (iii) any nonmonetary consideration (collectively, "Award") under this Agreement, Team must be either a single individual or organized under a single legal entity. Team must be an "Eligible Entity," defined for the purposes of this Agreement as an entity that is:
 
@@ -2792,21 +2805,21 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 3.5 BELOW
 TEAM: RT
 XPRIZE:
 
-### 3.2 Conflicts of Interest
+#### 3.2 Conflicts of Interest
 
 XPRIZE employees and their immediate families may neither participate in, nor have any financial or other material interest in any Team. XPRIZE and Team acknowledge that certain members of the XPRIZE Board of Trustees (who are not employees of XPRIZE) may promote, fund, or be otherwise involved with one or more Team(s). Such individuals shall have neither input into XPRIZE's decisions with respect to the Competition, nor access to non-public information about the Competition.
 
 Each XPRIZE officer, employee, director, trustee or agent who may have any influence over the acceptance of any Team into the Competition and/or the administration and/or judging of the Competition, including without limitation "Advisors" as defined in Section 5.2 below and "Judges" as defined in Section 5.3 below, and will disclose to XPRIZE any significant past, present, or expected or resulting future relationship with any Team in the Competition. In the event that any relationship results in a conflict of interest, as determined by XPRIZE, in its sole and absolute discretion, the conflicted individual will be denied access to any Team's confidential information and will be recused from any decision(s) concerning the acceptance of any Team into the Competition and the administration and judging of the Competition.
 
-### 3.3 Compliance with Applicable Laws
+#### 3.3 Compliance with Applicable Laws
 
 Generally, where applicable, XPRIZE shall apply for and secure permits from appropriate government agencies, authorities or other regulatory bodies. In particular, where Team specific permits are required, Team is obligated to comply with all applicable laws and acquire all necessary licenses, waivers, and/or permits from the applicable regulatory bodies or other applicable third parties. XPRIZE is not required to advise Team regarding such legal and regulatory compliance.
 
-### 3.4 Team Acquisition or Merger
+#### 3.4 Team Acquisition or Merger
 
 Subject to Section 6.7 below and the express written approval of XPRIZE, Team may acquire or merge with another Team or acquire another Team's assets at any time during the Competition. Each Team must provide XPRIZE with ten (10) days' prior written notice of any such acquisition or merger.
 
-### 3.5 Disqualification of Team
+#### 3.5 Disqualification of Team
 
 At any time during the Competition, at the sole and absolute discretion of XPRIZE, XPRIZE shall be entitled to disqualify Team, in whole or in part, upon service of written notice to Team, if:
 
@@ -2826,16 +2839,16 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 3.5 ABOVE
 TEAM: RT
 XPRIZE:
 
-### 3.6 Return and Reallocation of Awards
+#### 3.6 Return and Reallocation of Awards
 
 If Team is disqualified pursuant to Section 3.5 above after Team has received any Award and the basis of such disqualification is conduct occurring prior to Team receiving the Award that is discovered after Team received the Award, then Team shall return such Award to XPRIZE within five (5) days of request by XPRIZE and XPRIZE shall have sole and absolute discretion to reallocate such Award.
 
-### 3.7 Withdrawal from the Competition
+#### 3.7 Withdrawal from the Competition
 
 Team may withdraw from the Competition at any time. Team must provide written notice of withdrawal to XPRIZE ten (10) business days prior to its withdrawal. Upon withdrawal, Team will: (i) forfeit Team's Registration Fee; (ii) no longer be eligible to receive any Award; (iii) or return milestone awards that need to be used as a finalist if withdrawing before the final pilot test; (iv) cease use of all XPRIZE materials; and (v) return (or destroy if so instructed in writing by XPRIZE) all media, documents, information, and/or materials provided to Team by XPRIZE or its affiliates or sponsors. Team shall certify in writing that it has complied with this provision within ten (10) business days of Team's withdrawal. Once a Team has withdrawn or is otherwise disqualified from the Competition, Team or Team Members shall not engage in conduct that is determined by XPRIZE: (i) to reflect poorly on XPRIZE and/or any Sponsor and other Competition sponsor; (ii) to be disparaging to XPRIZE or any XPRIZE employee, director, sponsor or agent, or to Sponsor or any Sponsor employee, director, sponsor or agent; or (iii) to disrupt or harm, in any manner, the Competition, XPRIZE, Sponsor or any other Competition sponsor.
 
-## 4. REGISTRATION
-### 4.1 Registration Process
+### 4. REGISTRATION
+#### 4.1 Registration Process
 
 To be fully registered to participate in the Main Competition:
 
@@ -2853,15 +2866,15 @@ To be fully registered to participate in the Main Competition:
 
 4.1.7 XPRIZE must approve Team's Registration, at XPRIZE's sole and absolute discretion.
 
-### 4.2 Registration Fee
+#### 4.2 Registration Fee
 
 Team's Registration Fee, (if applicable), is non-refundable and non-transferable.
 
-### 4.3 Method of Payment
+#### 4.3 Method of Payment
 
 Registration Fee amounts and all references to currency in this Agreement and related documents will be in United States Dollars and shall be paid in accordance with the payment instructions set forth on the Competition Portal.
 
-### 4.4 Registration of Multiple Entries
+#### 4.4 Registration of Multiple Entries
 
 Team will be allowed to register more than one Entry in the Competition; provided, however, that each Entry registered by Team shall be substantially different than the other Entry or Entries also registered by Team. All Entries by Team will be governed by this Competitor Agreement, but a separate Registration Fee will be required for each Entry. The Registration Fee for each Entry will be determined pursuant to Section 4.2 above according to the date that such Entry is registered and the applicable Registration Fee is paid. If interested, Team should contact XPRIZE for details on how to register one or more additional Entries.
 
@@ -2869,173 +2882,173 @@ Each Entry must be approved by XPRIZE, at its sole and absolute discretion, prio
 
 Each Entry must be registered, and the Registration Fee must be paid by or prior to the Registration Deadline. No additional Entry Registrations will be accepted or approved after the Registration Deadline.
 
-### 4.5 Compliance Certification
+#### 4.5 Compliance Certification
 
 Within thirty (30) days following the announcement of selection of Semifinalist Teams, as set forth in the Competition Guidelines, attached hereto as Exhibit A, all Semifinalist Teams will be required to submit a fully-executed "Compliance Certification Form" in which Team will be required to certify that it is in full compliance with: (i) Sections 3.1, 3.3, and 3.3 above; (ii) Section 11.1 below; and (iii) the Insurance Requirements detailed in Exhibit C to this Agreement, (iv) and has been in compliance through the term listed in Section 4.1.5 (above) as evidenced by the signature of the Team Leader (and in the case of the Insurance Requirements, Teams insurance representative). The deadline for submission of the Compliance Certification Form shall be set forth in the Competition Guidelines, attached hereto as Exhibit A.
 
 In addition to the Registration requirements specified in Section 4.1 above, XPRIZE shall also have the right, at its sole and absolute discretion, to demand that Team submit current proof of legal status, certificate of good standing from the country or state in which the legal entity is registered, and Insurance coverage, at any time during the Term described in Section 6.1 below, within ten (10) business days of the delivery of a written demand from XPRIZE to Team.
 
-## 5. COMPETITION JUDGING - ADVISORS AND JUDGES
-### 5.1 Implementation
+### 5. COMPETITION JUDGING - ADVISORS AND JUDGES
+#### 5.1 Implementation
 
 To Implement the XPRIZE Rapid COVID Testing and support the validity and integrity of the prize process, XPRIZE will convene an Advisory Board, and a Judging Panel.
 
-### 5.2 Independent Advisors and Judges
+#### 5.2 Independent Advisors and Judges
 
 XPRIZE will form panels of relevant experts ("Advisors") to serve on Advisory Boards and Judging Panels for the Competition. These panels will remain in place throughout the Competition to advise XPRIZE regarding all aspects of the design and implementation of the Competition. Each Advisor will enter into an Agreement with XPRIZE that will: (i) outline Advisor's duties and obligations; (ii) require Advisor to maintain confidentiality of XPRIZE's and Teams' Confidential Information, in accordance with Section 11 of this Agreement; and (iii) require Advisor to acknowledge that he or she shall make no claim to any Team's Intellectual Property.
 
 These panels will be independent of XPRIZE, the Sponsor and all Teams and Team Members. No Advisor, nor any member of Advisor's immediate family, shall participate, nor have any financial or other material interest, in any Team or Team Member. All Advisors shall promptly disclose to XPRIZE any such current or former, or expected future conflict of interest with XPRIZE, the Sponsor or any other Competition sponsor, and/or any Team or Team Member pursuant to Section 3.2 above.
 
-### 5.3 Independent Judges
+#### 5.3 Independent Judges
 
 XPRIZE shall select, at its sole and absolute discretion, a panel of independent subject matter experts (each, individually, a "Judge" and collectively, the "Judging Panel") to judge the Competition. XPRIZE shall enter into an agreement with each Judge obligating the Judge to comply with the terms and conditions of this Agreement, including the Confidentiality provisions in Section 11 below and an acknowledgement that he or shall make no claim to Team's Intellectual Property (as defined in Section 9.1 below).
 
 The Judging Panel will be independent of XPRIZE, Sponsor, and all Teams and Team Members. No Judge, nor any member of Judge's immediate family, shall participate, nor have any financial or other material interest, in any Team or Team Member. All Judges shall promptly disclose to XPRIZE any such current or former, or expected future conflict of interest with XPRIZE or any Team or Team Member.
 
-### 5.4 Judging Panel has Sole Authority to Judge the Competition
+#### 5.4 Judging Panel has Sole Authority to Judge the Competition
 
 Consistent with this Agreement and Guidelines of the Competition, the Judging Panel shall have sole authority to judge the Competition. XPRIZE shall retain authority to make decision on issues expressly left for XPRIZE's discretion in this Agreement. Unless expressly provided otherwise in this Agreement, all determinations, exercises of discretion, decisions and the like made by XPRIZE or the Judging Panel may be made by XPRIZE's and Judging Panel's respective sole discretion, including, without limitation, the awarding of Prizes. All judging decisions and opinions made by the Judging Panel are binding on both Team and XPRIZE, and not subject to review or contest. The Judging Panel retains ultimate discretion to declare a winner of the Competition and otherwise award all Prizes subject to Section 5.6 below. Any such judging decision may not be challenged by Team and Team agrees to abide and refrain from challenging such decision. Notwithstanding the above, XPRIZE retains sole authority to determine the prize purse structure.
 
-### 5.5 Technical Decisions of the Judging Panel are Final
+#### 5.5 Technical Decisions of the Judging Panel are Final
 
 Subject to the express terms of this Agreement, the Judging Panel shall have sole and absolute discretion: (i) to allocate duties among the Judges; (ii) to determine the degree of accuracy and error rate that is acceptable to the Judging Panel for all Competition calculations, measurements, and results, where not specified in the Guidelines; and (iii) to determine the methodology used by the Judging Panel to render its decisions. The technical decisions of the Judging Panel shall be binding on XPRIZE, Team and each Team Member. XPRIZE and Team agree to not dispute any technical decision or ruling of the Judging Panel, including decisions regarding the degree of accuracy or error rate of any Competition calculations, measurements, or results. Team shall have no right to observe other Teams' testing or evaluation, or to be informed of such calculations, measurements or results, unless the information is made publicly available by XPRIZE.
 
-### 5.6 Key Responsibilities of the Judging Panel
+#### 5.6 Key Responsibilities of the Judging Panel
 
 The key responsibilities of the Judging Panel include, but are not limited to: (i) working with XPRIZE to interpret the Competition Guidelines and apply such Guidelines to the facts and circumstances of each Team's participation in the Competition; (ii) reviewing Team's final prototype; (iii) usability test; (iv) evaluating additional technical information obtained from the Team; and (v) making Prize award determinations.
 
-### 5.7 Non-Disclosure
+#### 5.7 Non-Disclosure
 
 The members of the Judging Panel shall be required to sign non-disclosure agreements that they agree to engage in no communication likely to have a material impact on the Competition with any Team or any representative of a Team other than (i) through official channels of communication established by XPRIZE; or (ii) communications within the scope of the Judge's services as a member of the Judging Panel. Judges are also required to notify XPRIZE if any Team or representative of any Team approaches or otherwise communicates with a member of the Judging Panel with regard to any unethical proposition or suggestion that would result in a conflict of interest, as described in Section 5.8 below.
 
-### 5.8 Conflict of Interest
+#### 5.8 Conflict of Interest
 
 All members of the Judging Panel will be required to disclose any significant current, former, or expected future relationships with any team. To prevent conflicts of interest, or the appearance of said conflicts, Teams may request that a Judging Panel sub-committee be formed to judge the specific issue that is deemed by XPRIZE in its sole and absolute discretion as a perceived or actual conflict of interest. XPRIZE will consider such requests in good faith but has no obligation to grant them. The composition of the Judging Panel sub-committee will not be available to Teams and any request for information will come directly from the managing Judge assigned to Team.
 
-### 5.9 Requirements
+#### 5.9 Requirements
 
 The provisions of this Agreement are requirements and Team must fully comply with them to be eligible to win any of the Prizes. XPRIZE may, however, decide in its sole discretion to remove or erase such requirements, provided that it does so for all Teams simultaneously. Notwithstanding the preceding sentences, if no Team in the Competition fulfills all such requirements, but the Judging Panel determines, in its sole discretion, that a Team or Teams has or have substantially fulfilled such requirements, it may award Prize(s) to one or more such Teams in its sole discretion.
 
-### 5.10 Ex-Parte Communications
+#### 5.10 Ex-Parte Communications
 
 Teams (including all Teams Members and their representatives) shall not engage in any communications with any member of the Judging Panel about the Competition outside of communication channels and events officially facilitated by XPRIZE.
 
-## 6. TERM, TERMINATION, AMENDMENT AND ASSIGNMENT
-### 6.1 Term of Agreement
+### 6. TERM, TERMINATION, AMENDMENT AND ASSIGNMENT
+#### 6.1 Term of Agreement
 
 The "Term" of this Agreement will begin on the date of the last signature on this Agreement ("Effective Date") and will end upon the conclusion of the final Competition Awards Ceremony as defined in the Competition Guidelines, unless extended or terminated earlier by XPRIZE.
 
-### 6.2 Termination of this Agreement by Disqualification of Team
+#### 6.2 Termination of this Agreement by Disqualification of Team
 
 If Team is disqualified pursuant to Section 3.5 above, this Agreement shall be terminated between XPRIZE and Team effective immediately upon the effective date of such disqualification; provided, however, that those Sections and Exhibits specified in Section 17.1 below shall survive such termination.
 
-### 6.3 Cancellation of the Competition
+#### 6.3 Cancellation of the Competition
 
 XPRIZE may, in its sole and absolute discretion, cancel the Competition at any time and immediately terminate this Agreement without cause.
 
-### 6.4 Team Notice and Comment prior to Cancellation
+#### 6.4 Team Notice and Comment prior to Cancellation
 
 XPRIZE will notify Team of any potential cancellation pursuant to Section 6.3 above and will post a public notice of the same on the XPRIZE website, thirty (30) calendar days prior to the cancellation of the Competition.
 
-### 6.5 Effect of Cancellation
+#### 6.5 Effect of Cancellation
 
 If XPRIZE cancels the Competition pursuant to Section 6.3 above, XPRIZE may, in its sole discretion, return all, or a portion of Team's registration fee, but Team will be ineligible to win or receive any Award(s).
 
-### 6.6 Amendment by Mutual Consent
+#### 6.6 Amendment by Mutual Consent
 
 This Agreement may be supplemented, amended or otherwise modified only by the prior written consent of the Parties. Notwithstanding the foregoing, XPRIZE has the right, upon ten (10) business days' written notice, to amend in good faith any and all Exhibits to this Agreement, and the Parties agree that any such amendment made solely by XPRIZE shall be binding on all Parties hereto.
 
-### 6.7 No Assignment by Team
+#### 6.7 No Assignment by Team
 
 Registration in the Competition is non-transferable. Team shall not assign, delegate or otherwise transfer such Registration or any of Team's rights, interests, duties and/or responsibilities under this Agreement without prior signed, written approval from XPRIZE. Any attempted assignment, delegation or transfer in violation of this Section 6.7 shall be void.
 
-### 6.8 Assignment by XPRIZE
+#### 6.8 Assignment by XPRIZE
 
 XPRIZE may assign, delegate or transfer any of its rights or interests or duties under this Agreement at its sole and absolute discretion.
 
-## 7. PRIZE PURSES
-### 7.1 Total Prize Purse
+### 7. PRIZE PURSES
+#### 7.1 Total Prize Purse
 
 The total "Prize Purse" for the competition is defined in the Competition Guidelines.
 
-### 7.2 Competition Guidelines
+#### 7.2 Competition Guidelines
 
 The Competition will be administered and judged and the Prize Purse(s) will be managed and awarded as set forth in the Competition Guidelines, attached as Exhibit A to this Agreement and incorporated into this Agreement pursuant to Section 17 below.
 
-### 7.3 Determinations
+#### 7.3 Determinations
 
 All determinations with respect to the satisfaction of Competition Guidelines (Exhibit A) will be made by the Judging Panel subject to Section 5.6 above.
 
-### 7.4 Allocation of Prizes
+#### 7.4 Allocation of Prizes
 
 Any Award allocated to Team will be delivered in its entirety to Team, and only to Team, with applicable fees deducted per Section 7.6 below. Team shall be solely responsible for allocation of the Award funds among Team Members and for any payments to be made to third parties.
 
-### 7.5 Awards Subject to Applicable Law
+#### 7.5 Awards Subject to Applicable Law
 
 All Awards shall be made in accordance with United States law and other applicable laws that: (i) may restrict or prohibit payment to Teams organized or domiciled in countries that are subject to United States sanctions; and (ii) may subject Team to United States tax liabilities, even if Team is organized or domiciled outside the United States of America.
 
-### 7.6 Team is responsible for all fees incurred in processing of Prize payment and allocation
+#### 7.6 Team is responsible for all fees incurred in processing of Prize payment and allocation
 
 Any and all fees and taxes incurred in the processing, transfer, allocation, currency exchange, or delivery of payment of an Award to a Team will be the responsibility of the Team. Should XPRIZE be required to make such payments in order to complete delivery of an Award payment, said payments will be deducted from the Prize Purse.
 
-### 7.7 Prize Purse Conditions
+#### 7.7 Prize Purse Conditions
 
 If Sponsor or another major sponsor of the Competition refuses or fails to timely pay XPRIZE the funds that will be used for all or any Award, XPRIZE will not be liable to deliver such Award (or any unpaid portion(s) thereof or to otherwise compensate Team or any Team Member. XPRIZE reserves the right to increase and/or adjust the Prize Purse and/or offer additional Awards at its sole and absolute discretion, but XPRIZE shall have no obligation to do so.
 
-### 7.8 Payments to Team
+#### 7.8 Payments to Team
 
 Team shall only be paid upon winning of an Award and shall not receive payment for preparation or participation in the Competition. XPRIZE reserves the right to withhold or recover any milestone prize payments if Team intends to withdraw or fails to participate throughout the complete duration of the competition. Team and Team Members are solely responsible for all of their own costs. XPRIZE shall make any necessary payment to the bank account specified by Team during Registration. Team bank account information may be updated by written notice to XPRIZE, as per the terms of this Agreement, at least thirty calendar (30) days prior to any expected payment. Compliance with payment instructions provided by Team shall constitute payment of the applicable Award. Team shall be solely responsible for any taxes arising from or relating to the payment of any Award. XPRIZE is not responsible for any division or distribution of any of the Prizes awarded in the Competition among or between Team Members. Instead, distribution or division of any Prize among individual Team Members is the sole responsibility of the participating Team.
 
-## 8. COMPETITION GUIDELINES
-### 8.1 Competition Guidelines govern Competition
+### 8. COMPETITION GUIDELINES
+#### 8.1 Competition Guidelines govern Competition
 
 The Competition will be administered and judged and the Prize Purse(s) will be managed and awarded as set forth in the Competition Guidelines, available through the XPRIZE website and referenced here as Exhibit A and incorporated into this Agreement pursuant to Section 17 below.
 
-### 8.2 Update and Revisions to the Competition Guidelines
+#### 8.2 Update and Revisions to the Competition Guidelines
 
 Pursuant to Section 6.6 above, the Competition Guidelines may be expanded and updated subject to XPRIZE's sole and absolute discretion at any time during the Term of this Agreement.
 
-## 9. INTELLECTUAL PROPERTY
-### 9.1 Definition of "Team Technology"
+### 9. INTELLECTUAL PROPERTY
+#### 9.1 Definition of "Team Technology"
 
 Inventorship of patentable developments or discoveries conceived and reduced to practice in connection with Team's participation in the Competition during the period of Teams active participation in the Competition ("Team Inventions") will be determined in accordance with U.S. Patent Law. Authorship of copyrighted works, including computer software, created or fixed in a tangible medium of expression by Team or Team Member in connection with Team's participation in the Competition during the period of Teams active participation the Competition ("Team Copyrighted Works") will be determined in accordance with U.S. Copyright Law. "Team Technology" shall include both Team Inventions and Team Copyrighted Works.
 
-### 9.2 Team Will Retain Ownership of Team's Intellectual Property
+#### 9.2 Team Will Retain Ownership of Team's Intellectual Property
 
 Team will retain all right, title and other ownership interests in Team Inventions and Team Copyrighted Works. Team will also retain all right, title and other ownership interests in Team's submission and in all inventions, patents, patent applications, designs, copyrights, trademarks, trade secrets, software, source code, object code, processes, formulae, ideas, methods, know-how, techniques, devices, creative works, works of authorship, publications, and/or other intellectual property not included in the definition of Team Technology ("Intellectual Property") developed by Team during the Competition; subject to Section 10.1 below and the media rights granted by Team to XPRIZE pursuant to the Media Rights Agreement, attached as Exhibit B to this Agreement and incorporated into this Agreement pursuant to Section 17 below.
 
-## 10. DATA AND TRADEMARKS
-### 10.1 Validation Data
+### 10. DATA AND TRADEMARKS
+#### 10.1 Validation Data
 
 Measurement, scoring, statistical and other data ("Data") collected by XPRIZE during the operation of the Competition is the intellectual property of XPRIZE. XPRIZE retains the right to license such data for academic, research and other purposes.
 
-## 11. CONFIDENTIALITY
-### 11.1 "Confidential Information" Defined
+### 11. CONFIDENTIALITY
+#### 11.1 "Confidential Information" Defined
 
 "Confidential Information" means all information regarding the business, affairs and technology of XPRIZE, its affiliates, a sponsor or any team participating in the Competition, including, without limitation, business concepts, processes, methods, systems, know-how, devices, formulas, marketing methods, prices, customer information, customer lists, methods of operation, trade secrets, or other information, whether in oral, written, or electronic form, regardless of who discloses the information. Confidential Information also includes inventions, designs, drawings, standards, specifications, modifications, technical information, prototypes, test versions, and models associated with the inventions or solutions conceived or developed by teams. For clarity, Competition results until publicly announced by XPRIZE are the Confidential Information of XPRIZE.
 
-### 11.2 Exclusions from "Confidential Information"
+#### 11.2 Exclusions from "Confidential Information"
 
 The following information will NOT be considered Confidential Information: (i) information that is publicly available through no fault of the party that was obligated to keep it confidential; (ii) information that was known by a party prior to commencement of discussions regarding the subject matter of this Agreement; (iii) information that was independently developed by a party without reference to the Confidential Information of the other party; and (iv) information rightfully disclosed to a party by a third party without continuing restrictions on its use or disclosure.
 
-### 11.3 Obligation of Confidentiality
+#### 11.3 Obligation of Confidentiality
 
 Each Party will: (i) hold the other Party's Confidential Information in confidence (using at least the same measures as it does to protect its own Confidential Information of a similar nature) and not disclose the Confidential Information to any third party except to the extent permitted by the terms of this Agreement; and (ii) not remove or permit to be removed from any item any proprietary, confidential, or copyright notices, markings, or legends placed thereon by either Party. This obligation will continue in effect for five (5) years after expiration or termination of the Agreement.
 
-### 11.4 Team's Entry and Submissions
+#### 11.4 Team's Entry and Submissions
 
 XPRIZE acknowledges that information relating to technical aspects of any Entry developed by Team and submitted to XPRIZE or the Judging Panel as required by this Agreement, will be deemed Confidential Information of Team, regardless of whether or not it is marked as such.
 
-### 11.5 Injunctive Relief
+#### 11.5 Injunctive Relief
 
 Each Party acknowledges that money damages would not be a sufficient remedy for any breach of this Section 11 above (Confidentiality), and such breach would result in irreparable harm for which there is no adequate remedy at law. Accordingly, in the event of any such breach or threatened breach, each Party, in addition to any other remedies that it may have, will be entitled, without the requirement of proving actual damages or posting a bond or other security (to the extent permitted under Law), to obtain equitable relief, including without limitation injunctive relief and specific performance in any court of competent jurisdiction.
 
-### 11.6 Remedies
+#### 11.6 Remedies
 
 The remedies stated in Section 11.5 above are non-exclusive and the exercise of any right a Party may have will not preclude the exercise of any other right under this Agreement, at law, or in equity.
 
-## 12. REPRESENTATIONS AND WARRANTIES
-### 12.1 By Team
+### 12. REPRESENTATIONS AND WARRANTIES
+#### 12.1 By Team
 
 Team hereby represents and warrants that:
 
@@ -3057,7 +3070,7 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 12.1 ABOVE
 TEAM: RT
 XPRIZE:
 
-### 12.2 By XPRIZE
+#### 12.2 By XPRIZE
 
 XPRIZE hereby represents and warrants that:
 
@@ -3069,28 +3082,28 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 12.2 ABOVE
 TEAM: RT
 XPRIZE:
 
-## 13. INDEMNIFICATION AND LIMITATION OF LIABILITY
-### 13.1 "Losses" Defined
+### 13. INDEMNIFICATION AND LIMITATION OF LIABILITY
+#### 13.1 "Losses" Defined
 
 "Losses" means any losses, liabilities, damages (including, without limitation, personal injury, death or property damage), or claims, or any related costs and expenses (including, without limitation, attorneys' and other legal fees and disbursements and costs of investigation, litigation, settlement, judgment, interest, and penalties).
 
-### 13.2 Indemnification By Team
+#### 13.2 Indemnification By Team
 
 Team agrees to indemnify, defend, and hold harmless XPRIZE and its affiliates, Sponsor and Sponsor's affiliates, and other Competition Sponsors (if applicable) and their affiliates, from and against any and all Losses which they may incur arising from or relating to Team and/or Team's participation in the Competition.
 
-### 13.3 DISCLAIMER OF WARRANTIES
+#### 13.3 DISCLAIMER OF WARRANTIES
 
 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NO PARTY MAKES ANY WARRANTY, EXPRESS OR IMPLIED, REGARDING THE SUBJECT MATTER OF THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, RESULTS OF THE COMPETITION, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT. EACH PARTY EXPRESSLY DISCLAIMS ALL SUCH WARRANTIES.
 
-### 13.4 EXCLUSION OF DAMAGES
+#### 13.4 EXCLUSION OF DAMAGES
 
 FOR ANY CLAIMS, CAUSES OF ACTION, DISPUTES (AS DEFINED IN SECTION 14.1 BELOW), LOSSES (AS DEFINED IN SECTION 13.1 ABOVE OR DEMANDS ARISING FROM, RELATING TO, OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO SUCH CLAIMS RESULTING FROM THE BREACH OF ANY TERM OF THIS AGREEMENT AND/OR A PARTY'S NEGLIGENCE OR OTHER TORTIOUS CONDUCT AND/OR ANY DECISION BY XPRIZE TO DISQUALIFY A TEAM AND/OR TERMINATION OF THIS AGREEMENT BY XPRIZE. NO PARTY SHALL BE LIABLE TO ANY OTHER PARTY FOR ANY LOSS OF PROFITS, LOSS OF USE, LOSS OF GOODWILL, OR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES OF ANY KIND, WHETHER OR NOT SUCH PARTY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND EVEN IF CIRCUMSTANCES CAUSE AVAILABLE REMEDIES TO FAIL.
 
-### 13.5 LIMITATION OF LIABILITY
+#### 13.5 LIMITATION OF LIABILITY
 
 THE TOTAL AGGREGATE LIABILITY OF XPRIZE FOR ANY CLAIMS, CAUSES OF ACTION, DISPUTES (AS DEFINED IN SECTION 14.1 BELOW), LOSSES, (AS DEFINED IN SECTION 13.1 ABOVE) OR DEMANDS ARISING FROM, RELATING TO, OR IN CONNECTION WITH THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO SUCH LIABILITY RESULTING FROM XPRIZE'S BREACH OF ANY TERM OF THIS AGREEMENT AND/OR XPRIZE'S NEGLIGENCE OR OTHER TORTIOUS CONDUCT AND/OR ANY DECISION BY XPRIZE TO DISQUALIFY A TEAM AND/OR TERMINATION OF THIS AGREEMENT BY XPRIZE, SHALL BE LIMITED TO THE LESSER OF: (I) THE AMOUNT TEAM PAID TO XPRIZE UNDER THIS AGREEMENT; OR (II) TEAM'S DIRECT DAMAGES NOT TO EXCEED TWENTY FIVE THOUSAND DOLLARS ($25,000.00). NOTWITHSTANDING THE FOREGOING, THIS SECTION 13.5 SHALL NOT ALTER XPRIZE'S OBLIGATION TO PAY PRIZE PURSES IN ACCORDANCE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO SECTION 7 ABOVE AND THE COMPETITION GUIDELINES, ATTACHED AS EXHIBIT A HERETO.
 
-### 13.6 RELIANCE ON SECTION 13 PROVISIONS
+#### 13.6 RELIANCE ON SECTION 13 PROVISIONS
 
 EACH PARTY RECOGNIZES AND ACKNOWLEDGES THAT THE OTHER PARTY WOULD NOT HAVE ENTERED INTO THIS AGREEMENT BUT FOR EACH PARTY'S ACCEPTANCE OF ALL PROVISIONS IN THIS SECTION 13.
 
@@ -3098,32 +3111,32 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 13 ABOVE
 TEAM: RT
 XPRIZE:
 
-## 14. DISPUTE RESOLUTION
-### 14.1 Definition of "Dispute"
+### 14. DISPUTE RESOLUTION
+#### 14.1 Definition of "Dispute"
 
 "Dispute" shall mean any claim, controversy and/or dispute arising out of or related to this Agreement or the making, performance, breach, or interpretation of this Agreement, including, without limitation, any dispute relating to alleged tortious conduct, administrative decisions made by XPRIZE in the operation of the Competition and/or the decisions of the Judging Panel.
 
-### 14.2 Governing Law
+#### 14.2 Governing Law
 
 This Agreement and all Disputes arising hereunder shall be governed and construed in accordance with the laws of the State of California, United States of America ("Laws"), without regard to its conflict of laws rules.
 
-### 14.3 XPRIZE and Judging Panel Decisions Final
+#### 14.3 XPRIZE and Judging Panel Decisions Final
 
 Decisions made by XPRIZE and/or the Judging Panel: (i) are made in the sole and absolute discretion of XPRIZE and/or the Judging Panel; (ii) are final; and (iii) are not subject to review, reconsideration, or contest.
 
-### 14.4 Goal of the Competition
+#### 14.4 Goal of the Competition
 
 Team and XPRIZE agree that a paramount goal of the Competition is to inspire and educate individuals, attracting new enthusiasm, new investments, and new ideas to the field and increase the connection that individuals around the world feel to the goals of the Competition ("Goals").
 
-### 14.5 Public Disputes Cause Harm to the Competition
+#### 14.5 Public Disputes Cause Harm to the Competition
 
 Team and XPRIZE agree that Team, XPRIZE, Sponsor and all of the sponsors of the Competition have invested a substantial amount of time, effort, and resources in the Competition. Team and XPRIZE agree that, in light of the Competition's ultimate goal of inspiring and educating individuals, any public dispute regarding any claim or controversy arising out of or related to this Agreement or the making, performance, breach, or interpretation of this Agreement, including, without limitation, any challenge to any decision by the Judging Panel, would detract from the Goals defined in Section 14.4 above and would reflect poorly on Team, XPRIZE, Sponsor, and other sponsors of the Competition. Further, any public dispute regarding any claim or controversy arising out of or related to this Agreement or the making, performance, breach, or interpretation of this Agreement, including, without limitation, any challenge to any decision by the Judging Panel, will result in irreparable harm to XPRIZE, Sponsor, sponsors and prize fulfillment entities of the Competition.
 
-### 14.6 Resolution of Disputes pursuant to Agreement
+#### 14.6 Resolution of Disputes pursuant to Agreement
 
 Any and all Disputes shall be raised and handled solely pursuant to the dispute resolution provisions set forth in this Agreement and in no other manner. Team and XPRIZE agree that the mandatory and exclusive dispute resolution procedures in this Agreement are in the best interests of both Parties.
 
-### 14.7 Condition Precedent / Notice of Dispute / Statute of Limitations
+#### 14.7 Condition Precedent / Notice of Dispute / Statute of Limitations
 
 A PARTY MUST SERVE TO THE OTHER PARTY A WRITTEN NOTICE OF DISPUTE SETTING FORTH: (I) THE SUBJECT OF THE DISPUTE; (II) THE DATE(S) OF EVENT(S) GIVING RISE TO THE DISPUTE; AND (III) THE RELIEF REQUESTED ("NOTICE OF DISPUTE") WITHIN TEN (10) CALENDAR DAYS OF THE FIRST INCIDENT GIVING RISE TO THE DISPUTE. SERVICE OF THE NOTICE OF DISPUTE WITHIN SUCH TEN (10)-DAY PERIOD IS A CONDITION PRECEDENT TO PURSUING ANY DISPUTE HEREUNDER AND FAILURE TO DO SO SHALL MEAN THAT ANY RIGHT TO RAISE ANY SUCH CLAIM, CONTROVERSY AND/OR DISPUTE SHALL BE FOREVER FORFEITED AND WAIVED.
 
@@ -3131,7 +3144,7 @@ INITIAL HERE TO ACCEPT AND ACKNOWLEDGE SECTION 14.7 ABOVE
 TEAM: RT
 XPRIZE:
 
-### 14.8 Informal Dispute Resolution
+#### 14.8 Informal Dispute Resolution
 
 If a Party has served a Notice of Dispute in accordance with the provisions of Section 14.7 above, then the Parties agree to first attempt to resolve their dispute informally within sixty (60) days of the date of service of the Notice of Dispute in accordance with the following:
 
@@ -3141,7 +3154,7 @@ If a Party has served a Notice of Dispute in accordance with the provisions of S
 
 14.8.3 The specific format for the discussions will be left to the discretion of the designated representatives.
 
-### 14.9 Mediation
+#### 14.9 Mediation
 
 The Parties agree that in the event that any Dispute cannot be resolved within sixty (60) days of the date of service of the Notice of Dispute pursuant to the informal dispute resolution process set forth in Section 14.8 above, then no later than ninety (90) days after the date of service of the Notice of Dispute and as a condition precedent to any future demand for arbitration, either Party may commence mediation by providing the other Party a written request for mediation. Upon written request, the Parties will proceed with non-binding mediation before a mediator selected by the Parties to be held in Los Angeles, California. Provided, however, that if one Party maintains that the other Party has failed to comply with the requirements set forth in Section 14.7 above, then such Party shall have the right to refuse to mediate the dispute and proceed directly to arbitration pursuant to Section 14.10 below.
 
@@ -3149,7 +3162,7 @@ The Parties shall cooperate with one another in selecting a mediator and in sche
 
 The Parties covenant that they shall participate in the mediation in good faith, and that they will share equally in the cost of the mediation, including mediator's fees. Further, each Party shall pay all expenses for its own participation therein. All offers, promises, conduct, and statements, whether oral or written, made in the course of the mediation by either of the Parties, their agents, employees, experts, and attorneys, and by the mediator, shall be confidential, privileged under California Evidence Code §§ 1115-1128, and inadmissible for any purpose, including, without limitation, impeachment, in any litigation or other proceeding involving the Parties, provided that evidence that is otherwise admissible or discoverable will not be rendered inadmissible or non-discoverable as a result of its use in the mediation.
 
-### 14.10 Arbitration
+#### 14.10 Arbitration
 
 Except as provided in Section 11 above (Confidentiality), if the Parties are not able to settle the Dispute in mediation pursuant to Section 14.9 above, Team and XPRIZE agree that: (i) any Dispute; (ii) any issues pertaining to the Dispute; and/or (iii) any claim that this Agreement or any part hereof is invalid, illegal, or otherwise voidable or void, shall be submitted to and finally determined by mandatory and binding arbitration. Arbitration will be conducted in two stages as set forth below. As a condition precedent to arbitration of any Dispute, the Party seeking to arbitrate the Dispute must file a demand for arbitration with JAMS in Los Angeles County, California, as set forth in Section 14.10.4, within one hundred and eighty (180) days of the date of service of the Notice of Dispute. Failure to file the demand to arbitrate with JAMS within such 180-day period shall mean that any right to arbitrate or litigate in any manner such Dispute shall be forever forfeited and waived.
 
@@ -3179,98 +3192,98 @@ XPRIZE:
 
 14.10.6 Stage 2 Arbitration: If necessary, the second stage of arbitration shall be conducted before the International Chamber of Commerce (ICC) in Los Angeles County, California, in accordance with the then-prevailing Rules of Arbitration of the ICC by three (3) arbitrators appointed as follows: each Party shall select an arbitrator, and such arbitrators shall select a third; provided, however, that in all events at least two (2) out of the three (3) arbitrators must be active members of the bar of a U.S. State and that each arbitrator must be fluent in English. Notwithstanding the foregoing, none of the arbitrators used in Stage 1 Arbitration may be selected in Stage 2 Arbitration.
 
-### 14.11 Other Decisions of XPRIZE and the Judging Panel
+#### 14.11 Other Decisions of XPRIZE and the Judging Panel
 
 Nothing in this Section 14 (Dispute Resolution) will limit in any manner: (i) the ability of XPRIZE to eliminate or disqualify Team or cancel the Competition; (ii) the ability of XPRIZE or Team to seek injunctive relief as expressly provided in Section 11.5 above (Confidentiality — Injunctive Relief), and Exhibit B, Paragraph XV (Media Rights Agreement — Injunctive Relief for XPRIZE); or (iii) the sole and exclusive discretion of the Judging Panel, as provided in Section 5.4 above (Judging Panel) and in the Competition Guidelines.
 
-### 14.12 Attorney's Fees
+#### 14.12 Attorney's Fees
 
 Unless otherwise expressly set forth herein, the Parties shall bear their own attorney's fees, costs, and expenses in connection with the matters set forth in the Agreement.
 
-## 15. TEAM MANAGEMENT
-### 15.1 Team Name
+### 15. TEAM MANAGEMENT
+#### 15.1 Team Name
 
 The legal entity that is the Team ("Team Entity") and the official name of the Team ("Team Name") shall be set forth in the Team's profile in Section 1 above of this Agreement.
 
-### 15.2 Changes to Team Name
+#### 15.2 Changes to Team Name
 
 Team shall promptly inform XPRIZE of any intent to change the Team Name and cooperate with XPRIZE to execute the documents and instruments necessary to accomplish such change.
 
-### 15.3 "Team Member" Defined
+#### 15.3 "Team Member" Defined
 
 "Team Member" shall be defined as an individual or corporate entity acting as either an employee, consultant, volunteer, or contractor of Team who makes any contribution to Team's efforts in connection with the Competition, as determined by XPRIZE in its sole and absolute discretion. Team Members include, without limitation: (i) contributors of any pre-existing or developed Intellectual Property to Team; (ii) individuals or entities involved in the design, development, or testing of the Entry; and (iii) any individual or entity having a management, supervisory, or other leadership role within Team. Team Members do not include: (a) investors, donors, and Team Sponsors who make only financial contributions to Team; (b) suppliers of off-the-shelf parts and hardware; or (c) customers of the Team; and (d) third-party holders of any intellectual property licensed to Team for use in its Entry.
 
-### 15.4 Team Member Requirements
+#### 15.4 Team Member Requirements
 
 Except as provided herein, individual Team Members must either: (i) be of the age of majority (or older) in their jurisdiction of residence; or (ii) obtain the signed written consent of a parent or legal guardian, in order to be eligible to participate in the Competition. If a Team Member is not of the age of majority (or older) in their jurisdiction of residence, then all contracts and waivers required to be signed by Team Members must be signed by such Team Member's parent or legal guardian. All Team Members shall be listed in Team's records on the Competition Portal. Team may add and/or remove Team Members at any time through the Competition Portal. Team agrees to promptly notify XPRIZE through the Competition Portal in the event that Team decides to add and/or remove one or more Team Members.
 
-### 15.5 Team Leader
+#### 15.5 Team Leader
 
 Each Team shall designate a Team Member to act as "Team Leader" in all communications with XPRIZE. Team Leader will be responsible for receiving communications from and communicating with XPRIZE and the Judging Panel. The Team Leader shall be an individual and shall be at least eighteen (18) years old (or the age of majority in their jurisdiction of residence, if such age of majority is older than eighteen (18) years of age).
 
-### 15.6 Changes in Team Leadership
+#### 15.6 Changes in Team Leadership
 
 Team may replace the designated Team Leader at any time through the Competition Portal. Team shall promptly notify XPRIZE through the Competition Portal in the event that Team decides to replace the designated Team Leader. XPRIZE reserves the right to disqualify Team if Team unreasonably and repeatedly appoints a new Team Leader, appoints a Team Leader who is unqualified, or otherwise disrupts the administration of the Competition. For clarity, Team Leaders must perform all obligations required of Team Members, including, without limitation, signing and delivering a Team Member Release, Waiver, and Confidentiality Agreement.
 
-### 15.7 Team Release and Waiver
+#### 15.7 Team Release and Waiver
 
 Concurrent with the execution of the Agreement, Team Leader shall execute the Team Release and Waiver (in the form attached as Exhibit D to the Agreement) on behalf of the Team and the Team Entity. If Team fails to timely provide a Team Release and Waiver, as required pursuant to this Section 15.7, then Team shall be ineligible to participate in the Competition.
 
-### 15.8 Team Member Release and Waiver
+#### 15.8 Team Member Release and Waiver
 
 TEAM SHALL ENSURE THAT EACH TEAM MEMBER THAT IS NOT AN EMPLOYEE OF THE TEAM ENTITY (INCLUDING TEAM LEADER, IF APPLICABLE) RECEIVES, REVIEWS, SIGNS AND DELIVERS TO XPRIZE A SIGNED COPY OF THE TEAM MEMBER RELEASE, WAIVER AND CONFIDENTIALITY AGREEMENT (IN THE FORM ATTACHED AS EXHIBIT E TO THIS AGREEMENT) ON BEHALF OF SUCH TEAM MEMBER. If Team Member is an entity, then such Team Member's Team Member Release, Waiver and Confidentiality Agreement shall be on behalf of all employees of such Team Member. Team shall deliver to XPRIZE a signed copy of the Team Member Release, Waiver and Confidentiality Agreement for each and every Member of the Team within thirty calendar (30) days of the Effective Date of the Agreement. Team agrees that, prior to admitting any new Team Member(s), Team shall deliver to XPRIZE a copy of the Team Member Release, Waiver and Confidentiality Agreement signed by each new Team Member. If Team fails to timely provide a Team Member Release, Waiver and Confidentiality Agreement for each Team Member, as required pursuant to this Section 15.8, then Team shall be ineligible to participate in the Competition.
 
-### 15.9 Decisions Concerning Team Participation in Competition
+#### 15.9 Decisions Concerning Team Participation in Competition
 
 To the maximum extent permissible under applicable law, Team Leader and each Team Member agrees to abide by any decision made by XPRIZE to remove, suspend, deem ineligible, or disqualify Team, without contest, legal recourse, or any other action of protest of the decision. Such decisions may be made by XPRIZE for reasons including, but not limited to, ethical transgressions, breach or violation of this Agreement, actions that jeopardize the Competition, or actions that jeopardize sponsorship of the Competition.
 
-## 16. GENERAL LEGAL PROVISIONS
-### 16.1 Not Agents, Partners, or in Joint Venture
+### 16. GENERAL LEGAL PROVISIONS
+#### 16.1 Not Agents, Partners, or in Joint Venture
 
 Parties are not agents or partners of or with one another. Parties are not engaged in any form of joint venture with one another. Parties cannot bind one another by contract.
 
-### 16.2 No Third-Party Beneficiaries
+#### 16.2 No Third-Party Beneficiaries
 
 Except as expressly set forth in Section 9 above, Parties agree and acknowledge that there are, and shall be, no third-party beneficiaries to this Agreement, including without limitation, Team Members.
 
-### 16.3 Official Language
+#### 16.3 Official Language
 
 The official language of the Competition and of this Agreement shall be English. All communications with XPRIZE will be in English unless Team has received prior written authorization from XPRIZE to submit communications in another language. Additional copies in other languages are welcomed and, if provided on behalf of XPRIZE, are for convenience only but are in no way binding on XPRIZE.
 
-### 16.4 Notices
+#### 16.4 Notices
 
 All notices, requests, claims, demands and other communications between the parties shall be in writing. All notices shall be given (i) by delivery in person (ii) by a nationally recognized next day courier service, (iii) by first class, registered or certified mail, postage prepaid, (iv) by facsimile, or (v) by electronic mail to the address of the party specified in this Agreement or such other address as either party may specify in writing. All notices shall be effective upon (i) receipt by the party to which notice is given, or (ii) on the fifth (5th) calendar day following mailing, whichever occurs first.
 
-### 16.5 Force Majeure
+#### 16.5 Force Majeure
 
 Neither Party hereto will be liable for or suffer any penalty or termination of rights hereunder by reason of any failure or delay in performing any of its obligations hereunder if such failure or delay is occasioned by compliance with governmental regulation or order, or by circumstances beyond the reasonable control of the Party so failing or delaying, including, but not limited to, acts of God, war, civil war, insurrection, acts of terrorism, sabotage, an act of public enemy, travel warnings announced by the United States Department of State, fire, flood, accident, strike or other labor disturbance, equipment failure, or interruption of or delay in transportation caused by forces beyond the parties' control ("Force Majeure Event"). Each Party will promptly notify the other in writing of any such Force Majeure Event, the expected duration thereof, and its anticipated effect on the Party affected. XPRIZE has no obligation to suspend or delay the Competition to accommodate Team if a Force Majeure Event impedes Team's ability to participate in the Competition according to the Competition schedule. XPRIZE may suspend, postpone, or cancel the Competition in the case of a Force Majeure Event.
 
-### 16.6 No Waiver
+#### 16.6 No Waiver
 
 No failure of either Party to insist upon strict compliance with any covenant, obligation, condition, warranty or agreement contained herein will operate as a waiver of, or estoppel with respect to, any such covenant, obligation, condition, or agreement. Waiver by any Party of any breach of any provision of this Agreement will not be considered as, nor constitute, a continuing waiver or waiver of any other breach of any provision of this Agreement.
 
-### 16.7 Headings
+#### 16.7 Headings
 
 Article, section, subsection and paragraph headings in this Agreement are included for convenience of reference only and will not constitute a part of this Agreement for any other purpose.
 
-### 16.8 Severability
+#### 16.8 Severability
 
 If any provision of this Agreement conflicts with the Law under which this Agreement is construed or that is otherwise applicable to a Team, or if any such provision is held invalid by a competent authority, such provision will be deemed to be restated to reflect as nearly as possible the original intentions of the parties in accordance with Law. If the competent authority holds the provision illegal, invalid, or unenforceable even after restatement, the provision will be limited or eliminated to the minimum extent necessary. The remainder of this Agreement will remain in full force and effect.
 
-### 16.9 No Strict Construction
+#### 16.9 No Strict Construction
 
 In the event an ambiguity or question regarding the enforceability, intent or interpretation of any term or condition of this Agreement arises, this Agreement will be construed as if drafted jointly by the parties, and no presumption or burden of proof will arise favoring or disfavoring any Party by virtue of the authorship of any of the provisions of this Agreement. No Agreement from any prior or future XPRIZE competition will be used to construe this Agreement, and this Agreement will not be used to construe any Agreement from any prior or future XPRIZE competition.
 
-### 16.10 Counterparts
+#### 16.10 Counterparts
 
 This Agreement may be signed in counterparts, and together signed and delivered counterparts will constitute a complete, binding contract. Facsimile or electronic signatures will have the same weight and effect as originals.
 
-### 16.11 Survival
+#### 16.11 Survival
 
 The following Sections of, and Exhibits to, this Agreement will survive the expiration or termination of this Agreement: Sections 2 above (Scope of Agreement); 3.7 above (Return and Reallocation of Awards); 6.5 above (Effect of Cancellation); 7.4 above (Allocation of Prizes); 7.5 above (Awards Subject to Applicable Law); 7.7 above (Prize Purse Conditions); 11 above (Confidentiality); 11 above (Representations and Warranties); 12 above (Indemnification and Limitation of Liability); 13 above (Dispute Resolution); 15 above (General Legal Provisions); and any and all Exhibits and Waivers, etc.
 
-## 17. EXHIBITS AND RELATED FORMS
-### 17.1 Exhibits Incorporated into Agreement
+### 17. EXHIBITS AND RELATED FORMS
+#### 17.1 Exhibits Incorporated into Agreement
 
 THE PARTIES AGREE AND ACKNOWLEDGE THAT THEY SHALL BE BOUND BY THE TERMS AND CONDITIONS OF ALL EXHIBITS TO THIS AGREEMENT. THE FOLLOWING EXHIBITS ARE ATTACHED HERETO AND ARE INCORPORATED INTO THIS AGREEMENT BY THIS REFERENCE:
 
@@ -3284,25 +3297,25 @@ THE PARTIES AGREE AND ACKNOWLEDGE THAT THEY SHALL BE BOUND BY THE TERMS AND COND
 
 17.1.5 Exhibit E — Team Member Release, Waiver and Confidentiality Agreement
 
-### 17.2 Forms Incorporated into Agreement
+#### 17.2 Forms Incorporated into Agreement
 
 THE PARTIES AGREE AND ACKNOWLEDGE THAT THEY WILL BE BOUND BY THE TERMS AND CONDITIONS OF ANY AND ALL FORMS COMPLETED AS PART OF THE INTENT TO COMPETE FORM; (ii) THE TEAM INFORMATION PROVIDED THROUGH THE COMPETITION PORTAL; AND (iii) THE ENTRY SUBMISSION FORM(S) AND REGISTRATION PROCESS DESCRIBED IN SECTION 4 ABOVE, AND THAT ALL SUCH FORMS ARE HEREBY INCORPORATED INTO THIS AGREEMENT BY THIS REFERENCE, OR SHALL BE INCORPORATED INTO THIS AGREEMENT WHEN SUCH FORMS ARE COMPLETED AND SUBMITTED BY TEAM.
 
-### 17.3 Additional Exhibits
+#### 17.3 Additional Exhibits
 
 As pursuant to section 6.6 above, XPRIZE may at its sole and absolute discretion add Exhibits to this Agreement for the purpose of further clarifying the rules and regulations governing the Competition.
 
-### 17.4 All Exhibits Subject to Change and Updates
+#### 17.4 All Exhibits Subject to Change and Updates
 
 The parties agree and acknowledge that, as pursuant to sections 6.6 above and 8.2 above of this Agreement, and to this Section 17.4, all Exhibits are subject to change and update at XPRIZE's sole and absolute discretion.
 
-## EXHIBIT A — Competition Guidelines
+### EXHIBIT A — Competition Guidelines
 
 The Competition Guidelines may be accessed through the Competition Website at:
 
 https://www.xprize.org/prizes/covidtesting/guidelines
 
-## EXHIBIT B — Media Rights Agreement
+### EXHIBIT B — Media Rights Agreement
 
 XPRIZE intends to capture audio, video, digital, and photographic material related to the Competition ("XPRIZE Media"). XPRIZE shall retain (on behalf of itself, its Prize Fulfillment Partner and its media partners, including without limitation Discovery Channel) the right to request and obtain preferential (above Team media partners and other media organizations) access to any and all Team facilities or events for the purposes of the capture of XPRIZE Media for later usage; these requests shall not be unreasonably denied or delayed. Team shall use best efforts to provide similar access to facilities of Team contractors, sponsors or partners for the purposes of capture of XPRIZE Media. If such access is not possible, such as for reasons of confidentiality or health and safety, Team shall provide a XPRIZE with a written communication describing with particularity the reasons that such access is not possible. XPRIZE shall consider such communication in good faith and will then determine whether or not (in its sole discretion) to waive this requirement with respect to the particular facility or event. The parties acknowledge and agree that Team's agreement to provide such preferential access constitutes material consideration under this Agreement and XPRIZE's ability to capture and use XPRIZE Media in communications to the general public is a primary purpose for which the Competition is conducted. Accordingly, submission of bad faith requests or other abuse of this provision may, in the sole discretion of XPRIZE, result in Team's disqualification or other adverse consequences to Team.
 
@@ -3314,8 +3327,8 @@ Team agrees to execute all papers and to perform any acts as XPRIZE may deem nec
 
 XPRIZE will use reasonable efforts to promote the Competition. XPRIZE also anticipates that Team may enter agreements with media partners that are interested in promoting Team's participation in the Competition ("Team Media Partners"). Team shall provide notice to XPRIZE no later than thirty (30) calendar days prior to the execution of any agreement with a Team Media Partner, by completing and submitting the Team Media Partnership Notification Form that will provide XPRIZE with the following information: (i) name of Team Media Partner; (ii) a brief description of the media, marketing, or promotional rights granted to the Team Media Partner; and (iii) a written summary of the business points of any agreement with the Team Media Partner. XPRIZE shall review such agreement terms within ten (10) business days. If such contracts or relationships involve any contractual or implicit commitment to exclusivity, then XPRIZE may impose limitations on or reject the proposed Team Media Partner Agreement as XPRIZE determines to be in the best interests of the Competition. XPRIZE may also reject the proposed Team Media Partner Agreement, if such agreement, in XPRIZE's sole opinion: (i) would cause Team to breach any term of this Agreement; (ii) would require unsuitable advertising including, but not limited to, any advertising that depicts, describes, implies, or promotes obscene or sexually explicit matters, libelous or illegal matters, violence, racial, sexual or other types of legally prohibited discrimination, a particular political view, or may infringe on or otherwise violate any rights of XPRIZE or any third party; (iii) conflicts with the exclusivity of or jeopardizes any sponsorship associated with the Competition; or (iv) undermines the Competition, its underlying goals, or the educational mission of XPRIZE. Team is encouraged to work with XPRIZE well prior to finalizing any agreements with a Team Media Partner to streamline the approval process. If Team has signed agreements with Team Media Partners or other similar relationships prior to the execution of this Agreement, Team shall provide to XPRIZE a detailed written summary of the business points of such agreements and shall amend or terminate such agreements upon request by XPRIZE in accordance with this Exhibit.
 
-## EXHIBIT C — Insurance Requirements
-### Liability Insurance
+### EXHIBIT C — Insurance Requirements
+#### Liability Insurance
 
 Within thirty (30) days of being selected as a Semifinalist Team, Team shall procure, pay for and thereafter maintain such insurance as will protect against claims for bodily injury or death, or for damage to property, which may arise out of the Team's participation in the challenge or by anyone employed by any of them, or by anyone for whose acts any of them may be liable. Such insurance will include but not be limited to the following minimum coverage and limits of no less than Two Hundred Fifty Thousand Dollars ($250,000) per occurrence and Five Hundred Thousand Dollars ($500,000) aggregate.
 
@@ -3331,19 +3344,19 @@ Team shall obtain, from its general liability insurance provider, a certificate 
 
 **If Team does not obtain XPRIZE written approval of all insurance and eligibility requirements, then Team may be ineligible to participate in the Semifinal and/or Final round of this competition.**
 
-### Workers' Compensation — Volunteers Accident Insurance
+#### Workers' Compensation — Volunteers Accident Insurance
 
 Team shall maintain Workers' Compensation or comparable insurance as required by any applicable Law, in accordance with the provisions of the Laws of the nation, state, territory or province having jurisdiction over Team's employees with limits sufficient to cover Team's potential liability to its employees in connection with Team's participation in the Competition. If Team has no employees or is otherwise not required by applicable laws to carry such insurance, then Workers Compensation Insurance will not be required. In the event Team is exempt from the requirement to obtain Workers' Compensation insurance pursuant to Law, Team shall insure that all individuals serving as volunteers secure Health Insurance and/or Volunteers Accident Insurance. Team shall be solely responsible for verifying that all volunteers have either form of insurance with sufficient coverage for any and all injuries that may occur during the course of the Competition.
 
-### Automobile Insurance
+#### Automobile Insurance
 
 If Team owns, leases or operates automobiles in connection with its participation in the Competition, Team will maintain an automobile insurance policy with limits sufficient to cover Team's potential liability for bodily injury and property damage to third parties in connection with Team's participation in the Competition. Coverage should include protection for owned automobiles, non-owned automobiles, and hired automobiles, as applicable. An endorsement to the General Liability Policy or self-insurance coverage above covering hired & non-owned automobiles is acceptable.
 
-### Insurance Providers and Coverage Term
+#### Insurance Providers and Coverage Term
 
 All policies and limits should be written with an insurer with an AM Best Rating of A-VII or better, or in the case of workers' compensation, be insured by an acceptable state or government approved program. If the insurer is not rated by AM Best, evidence supporting the insurer's financial strength may be required and be subject to the approval of XPRIZE. The insurance policies required above shall be maintained by Team for such length of time as is necessary to cover all claims arising out of or related to Team's participation in the Competition.
 
-### Compliance Certification Form
+#### Compliance Certification Form
 
 Each Team will be required to provide XPRIZE with proof that Team has satisfied the above Insurance Requirements by delivering to XPRIZE a completed Compliance Certification Form (in a form to be provided by XPRIZE), pursuant to which Team will be required (among other requirements as detailed in Section 4.5 of the Agreement) to: (i) clearly outline documentation clearly outlining (in English) how the Team's insurance coverage satisfies the Insurance Requirements set forth above; (ii) certifying, as evidenced by the signature of the Team Leader and Team's insurance agent, broker or representative, that Team is in full compliance with the Insurance Requirements; and (iii) attaching certificates of insurance (in English) evidencing the required coverage, including without limitation, endorsements to the general liability policies naming the XPRIZE Foundation, Inc. as an Additional Insured with Waivers of Subrogation, in a form satisfactory to XPRIZE. A Waiver of Subrogation endorsement is not required for International Teams. The template Compliance Certification Form and the deadline for submission of a completed and signed Compliance Certification Form shall be provided by XPRIZE in the to be attached to the Competition Guidelines.
 
@@ -3353,11 +3366,11 @@ As specified in Section 4.5 of the Agreement, in addition to the requirements sp
 
 The delivery of a written demand to submit current proof of insurance coverage is not intended to give you time to get the necessary insurance policies if they are not already in place. If you don't have the required insurance coverage when you are required to submit proof of such insurance, then you will be ineligible to continue to participate in the Competition. This means that you should definitely not delay in getting the required insurance coverage.
 
-## EXHIBIT D — Team Release and Waiver
+### EXHIBIT D — Team Release and Waiver
 
 Team acknowledges and agrees, on behalf of Team and each Team Member, that XPRIZE, Sponsor and any parties affiliated with XPRIZE or Sponsor in connection with the Competition ("Released Parties") will not be liable for any liabilities, damages (including, without limitation, personal injury, death or property damage), or claims, or any related costs and expenses ("Losses") arising from, related to, or connected in any way with any property loss or damage or personal injury, including, without limitation, death, sustained by Team, any Team Member, any partner, sponsor or affiliate of Team, or any person or entity claiming on behalf of Team, arising from, relating to, or connected in any way with Team's participation in the Competition, even in the event of negligence or fault of any of the Released Parties, whether such negligence is present at the execution of the Competitor Agreement ("Agreement") or arises in the future. Team assumes full responsibility for and all risks of any Losses which may occur to Team, any Team Member, any partner, sponsor or affiliate of Team, or any person or entity claiming on behalf of Team, arising from, relating to, or connected in any way with Team's participation in the Competition. Team hereby unconditionally releases and waives all of the Released Parties from any claims alleging Losses, whether existing now or arising in the future, that in any way relate to the Released Parties' execution or duties under this Agreement.
 
-### Waiver of California Civil Code Section 1542
+#### Waiver of California Civil Code Section 1542
 
 The releases in this Agreement are intended to be, and are, full, complete, unconditional and general releases with respect to all claims, demands, causes of action, defenses, and other matters described above, or any other theory, cause of action, occurrence, matter or thing which might give rise to liability, related to or arising out of any and all acts, omissions, or events occurring prior to the date of this Agreement.
 
@@ -3367,7 +3380,7 @@ A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR 
 
 With respect to those claims being released hereunder, each of the Parties acknowledges that he, she, or it is releasing unknown claims and waives all rights he, she, or it has or may have under California Civil Code Section 1542 or any other statute or common law principle of similar effect. Each of the Parties acknowledges that he, she, or it may hereafter discover claims or facts in addition to or different from those now known or believed to exist with respect to the subject matter of the claims being released pursuant hereto, and which, if known or suspected at the time of entering into the Agreement, may have materially affected this Agreement. Nevertheless, each of the Parties hereby waives any right, claim(s), or cause of action that might arise as a result of such different or additional claim(s) or facts. Each of the Parties acknowledges and understands the significance and consequence of such release and such specific waiver of California Civil Code Section 1542.
 
-### No Liability
+#### No Liability
 
 Team agrees that the Released Parties will not be held liable for any Losses that accrue or may accrue to Team, any Team Member, any partner or affiliate of Team, any Team Sponsor, or any person or entity claiming on behalf of Team, arising in any way from Team's participation in the Competition.
 
@@ -3376,7 +3389,7 @@ Date: 9/8/2020
 Team Signatory Name: Randy True
 Team Signatory Title: CEO
 
-## EXHIBIT E — Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E — Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -3410,7 +3423,7 @@ Date of Signature: 9/8/2020
 
 # 2,333  XPrize Legal - Registration Fee (certificate summary).md
 METADATA
-last updated: 2026-02-25 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Legal - Registration Fee (certificate summary).md
 file_date: 2020-09-08
 title: XPRIZE Registration Fee - DocuSign Certificate of Completion (FloodLAMP)
@@ -3434,7 +3447,7 @@ summary_short: DocuSign Certificate of Completion for FloodLAMP's XPRIZE Rapid C
 
 CONTENT
 
-## Certificate Of Completion
+### Certificate Of Completion
 Envelope Id: B60F97D5848B4D0784C0E9A246094676
 Status: Completed
 Subject: Please DocuSign: XPRIZE Rapid COVID Testing Registration Fee
@@ -3451,13 +3464,13 @@ Envelope Originator: XPRIZE Foundation, 800 Corporate Pointe, Suite 350, Culver 
 skipso.docusign@xprize.org
 IP Address: 104.40.24.165
 
-## Record Tracking
+### Record Tracking
 Status: Original
 9/8/2020 3:13:59 AM
 Holder: XPRIZE Foundation, skipso.docusign@xprize.org
 Location: DocuSign
 
-## Signer Events
+### Signer Events
 Randy True
 randy@floodlamp.bio
 Signature: **Completed**
@@ -3469,7 +3482,7 @@ Sent: 9/8/2020 3:14:00 AM
 Viewed: 9/8/2020 3:14:07 AM
 Signed: 9/8/2020 3:15:11 AM
 
-## Electronic Record and Signature Disclosure:
+### Electronic Record and Signature Disclosure:
 Accepted: 9/7/2020 2:07:08 PM
 ID: d237fe09-1ff3-446e-91be-014488db3be7
 
@@ -3493,44 +3506,44 @@ ID: d237fe09-1ff3-446e-91be-014488db3be7
 | Electronic Record and Signature Disclosure | | |
 ||
 
-## ELECTRONIC RECORD AND SIGNATURE DISCLOSURE
+### ELECTRONIC RECORD AND SIGNATURE DISCLOSURE
 From time to time, X PRIZE Foundation - Envelope (we, us or Company) may be required by law to provide to you certain written notices or disclosures. Described below are the terms and conditions for providing to you such notices and disclosures electronically through your DocuSign, Inc. (DocuSign) Express user account. Please read the information below carefully and thoroughly, and if you can access this information electronically to your satisfaction and agree to these terms and conditions, please confirm your agreement by clicking the 'I agree' button at the bottom of this document.
 
-### Getting paper copies
+#### Getting paper copies
 At any time, you may request from us a paper copy of any record provided or made available electronically to you by us. For such copies, as long as you are an authorized user of the DocuSign system you will have the ability to download and print any documents we send to you through your DocuSign user account for a limited period of time (usually 30 days) after such documents are first sent to you. After such time, if you wish for us to send you paper copies of any such documents from our office to you, you will be charged a $0.00 per-page fee. You may request delivery of such paper copies from us by following the procedure described below.
 
-### Withdrawing your consent
+#### Withdrawing your consent
 If you decide to receive notices and disclosures from us electronically, you may at any time change your mind and tell us that thereafter you want to receive required notices and disclosures only in paper format. How you must inform us of your decision to receive future notices and disclosure in paper format and withdraw your consent to receive notices and disclosures electronically is described below.
 
-### Consequences of changing your mind
+#### Consequences of changing your mind
 If you elect to receive required notices and disclosures only in paper format, it will slow the speed at which we can complete certain steps in transactions with you and delivering services to you because we will need first to send the required notices or disclosures to you in paper format, and then wait until we receive back from you your acknowledgment of your receipt of such paper notices or disclosures. To indicate to us that you are changing your mind, you must withdraw your consent using the DocuSign 'Withdraw Consent' form on the signing page of your DocuSign account. This will indicate to us that you have withdrawn your consent to receive required notices and disclosures electronically from us and you will no longer be able to use your DocuSign Express user account to receive required notices and consents electronically from us or to sign electronically documents from us.
 
-### All notices and disclosures will be sent to you electronically
+#### All notices and disclosures will be sent to you electronically
 Unless you tell us otherwise in accordance with the procedures described herein, we will provide electronically to you through your DocuSign user account all required notices, disclosures, authorizations, acknowledgements, and other documents that are required to be provided or made available to you during the course of our relationship with you. To reduce the chance of you inadvertently not receiving any notice or disclosure, we prefer to provide all of the required notices and disclosures to you by the same method and to the same address that you have given us. Thus, you can receive all the disclosures and notices electronically or in paper format through the paper mail delivery system. If you do not agree with this process, please let us know as described below. Please also see the paragraph immediately above that describes the consequences of your electing not to receive delivery of the notices and disclosures electronically from us.
 
 Electronic Record and Signature Disclosure created on: 7/13/2015 11:37:56 AM
 Parties agreed to: Randy True
 
-### How to contact X PRIZE Foundation - Envelope
+#### How to contact X PRIZE Foundation - Envelope
 You may contact us to let us know of your changes as to how we may contact you electronically, to request paper copies of certain information from us, and to withdraw your prior consent to receive notices and disclosures electronically as follows:
 
 To contact us by email send messages to: ap@xprize.org
 
-### To advise X PRIZE Foundation - Envelope of your new e-mail address
+#### To advise X PRIZE Foundation - Envelope of your new e-mail address
 To let us know of a change in your e-mail address where we should send notices and disclosures electronically to you, you must send an email message to us at ap@xprize.org and in the body of such request you must state: your previous e-mail address, your new e-mail address. We do not require any other information from you to change your email address.
 
 In addition, you must notify DocuSign, Inc to arrange for your new email address to be reflected in your DocuSign account by following the process for changing e-mail in DocuSign.
 
-### To request paper copies from X PRIZE Foundation - Envelope
+#### To request paper copies from X PRIZE Foundation - Envelope
 To request delivery from us of paper copies of the notices and disclosures previously provided by us to you electronically, you must send us an e-mail to ap@xprize.org and in the body of such request you must state your e-mail address, full name, US Postal address, and telephone number. We will bill you for any fees at that time, if any.
 
-### To withdraw your consent with X PRIZE Foundation - Envelope
+#### To withdraw your consent with X PRIZE Foundation - Envelope
 To inform us that you no longer want to receive future notices and disclosures in electronic format you may:
 
 i. decline to sign a document from within your DocuSign account, and on the subsequent page, select the check-box indicating you wish to withdraw your consent, or you may;
 ii. send us an e-mail to ap@xprize.org and in the body of such request you must state your e-mail, full name, US Postal Address, telephone number, and account number. We do not need any other information from you to withdraw consent. The consequences of your withdrawing consent for online documents will be that transactions may take a longer time to process.
 
-### Required hardware and software
+#### Required hardware and software
 |  |  |
 | --- | --- |
 | Operating Systems | Windows 2000 or Windows XP |
@@ -3543,7 +3556,7 @@ ii. send us an e-mail to ap@xprize.org and in the body of such request you must 
 
 ** These minimum requirements are subject to change. If these requirements change, we will provide you with an email message at the email address we have on file for you at that time providing you with the revised hardware and software requirements, at which time you will have the right to withdraw your consent.
 
-### Acknowledging your access and consent to receive materials electronically
+#### Acknowledging your access and consent to receive materials electronically
 To confirm to us that you can access this information electronically, which will be similar to other electronic notices and disclosures that we will provide to you, please verify that you were able to read this electronic disclosure and that you also were able to print on paper or electronically save this page for your future reference and access or that you were able to e-mail this disclosure and consent to an address where you will be able to print on paper or save it for your future reference and access. Further, if you consent to receiving notices and disclosures exclusively in electronic format on the terms and conditions described above, please let us know by clicking the 'I agree' button below.
 
 By checking the 'I Agree' box, I confirm that:
@@ -3555,7 +3568,7 @@ By checking the 'I Agree' box, I confirm that:
 
 # 3,260  XPrize Legal - Release, Waiver, and Confidentiality Agreement (Team Member).md
 METADATA
-last updated: 2026-02-25 BA
+last updated: 2026-03-06 by BA
 file_name: XPrize Legal - Release, Waiver, and Confidentiality Agreement (Team Member).md
 file_date: 2020-09-08
 title: XPRIZE Competitor Agreement Exhibit E - Team Member Release, Waiver and Confidentiality Agreement (FloodLAMP)
@@ -3567,7 +3580,7 @@ xfile_type: NA
 gfile_url: NA
 xfile_github_download_url: NA
 pdf_gdrive_url: https://drive.google.com/file/d/1k4YGkqhOnC8dX3jlh_kqcDtSqmM3owFX/
-pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20(Team%20Member).pdf
+pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive-wip/blob/main/various/xprize/XPrize%20Legal%20-%20Release%2C%20Waiver%2C%20and%20Confidentiality%20Agreement%20%28Team%20Member%29.pdf
 conversion_input_file_type: pdf
 conversion: msmid
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
@@ -3579,7 +3592,7 @@ summary_short: Exhibit E of the XPRIZE Rapid Covid Testing Competitor Agreement,
 
 CONTENT
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -3610,7 +3623,7 @@ Team Member Name:
 Team Member Signature: 
 Date of Signature: 
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -3641,7 +3654,7 @@ Team Member Name: Antanas Sadunas
 Team Member Signature: _Signature_ Verified by PDFfiller
 Date of Signature: 09/08/2020
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -3672,7 +3685,7 @@ Team Member Name: Carey Tan
 Team Member Signature: _Signature_
 Date of Signature: Sept. 8, 2020
 
-## EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
+### EXHIBIT E - Team Member Release, Waiver and Confidentiality Agreement
 
 This Team Member Release, Waiver, and Confidentiality Agreement is made pursuant to that certain Competitor Agreement ("Agreement"). I represent and warrant that I have reviewed the Agreement to which this Team Member Release, Waiver and Confidentiality Agreement is attached as Exhibit E, and I hereby agree to be bound by, and comply with, the terms and conditions of the Agreement.
 
@@ -3702,5 +3715,3 @@ Team Name: FloodLAMP
 Team Member Name: Samantha Fogelberg
 Team Member Signature: _Signature_
 Date of Signature: 09-08-2020
-
-# ===== END OF FILE _archive-combined-files_xprize_81k.md =====

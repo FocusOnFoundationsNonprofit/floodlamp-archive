@@ -1,14 +1,39 @@
-##### Commentary on DAVI Referral-Antigen Comparison Data (AI Generated - Opus 4.6)
+METADATA
+last updated: 2026-03-04 BA
+file_name: _AI_DAVI Pilot Data Referral Antigen Comparison Analysis.md
+file_date: 2026-03-04
+title: FloodLAMP DAVI Pilot Data Referral Antigen Comparison Analysis
+category: pilots
+subcategory: pilot-data
+tags: davi, pilot-data, referral-antigen-comparison, ai-analysis
+source_file_type: md
+xfile_type: NA
+gfile_url: https://docs.google.com/document/d/18kmV9Ezn2ORHu7Mh1z9MMyLp3EUHZxaV01QAJgJLNU4
+xfile_github_download_url: https://raw.githubusercontent.com/FocusOnFoundationsNonprofit/floodlamp-archive/main/pilots/pilot-data/_AI_DAVI%20Pilot%20Data%20Referral%20Antigen%20Comparison%20Analysis.md
+pdf_gdrive_url: NA
+pdf_github_url: NA
+conversion_input_file_type: NA
+conversion: NA
+license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+tokens: 4317
+words: 2590
+notes: Created by Opus 4.6 during archive preparation. **PARTIAL HUMAN VERIFICATION - MAY CONTAIN ERRORS** Commentary and analysis of DAVI referral-antigen comparison data, based primarily on `DAVI_pilot-data_referral-antigen-comparison.md` and `DAVI_pilot-data_summary.md`, with an included human verification checklist covering row-level and summary-level claims.
+summary_short: DAVI pilot data referral-antigen comparison analysis summarizing same-day agreement between FloodLAMP and BinaxNOW across 51 employee cases, highlighting four FloodLAMP-positive and antigen-negative detections and the strongest sensitivity advantage in asymptomatic cases. Includes a detailed human verification checklist tied to the DAVI comparison and summary files.
+
+
+CONTENT
+
+## Commentary on DAVI Referral-Antigen Comparison Data (AI Generated - Opus 4.6)
 The Davie site produced the archive's most detailed head-to-head comparison between FloodLAMP and BinaxNOW rapid antigen testing, tracking 51 employee cases through three evolving testing protocols during the Delta and Omicron waves. Across cases where both tests were administered on the same day, FloodLAMP and BinaxNOW agreed 90% of the time. In the remaining 10% of cases -- four employees -- FloodLAMP detected the infection while BinaxNOW did not. Three of those four were asymptomatic. There were no cases where antigen detected a positive that FloodLAMP missed. During the intensive dual-testing phase (Group 2, Dec 24 -- Jan 9), when both tests were used for daily follow-up through return to work, the two tests tracked closely, typically clearing on the same day. This pattern suggests that the practical sensitivity difference between FloodLAMP and antigen testing was concentrated at the onset of infection, particularly in asymptomatic or low-viral-load individuals -- precisely the detection gap that molecular screening is designed to address. The Davie data, combined with the anecdotal reports from Coral Springs where 21 of 22 FloodLAMP positives in a single plate were antigen-negative but subsequently confirmed, reinforced a consistent finding across the pilot programs: BinaxNOW rapid antigen tests lagged FloodLAMP molecular detection at infection onset, especially in asymptomatic individuals.
 
-##### Analysis of DAVI Referral-Antigen Comparison Data (AI Generated - Opus 4.6)
+## Analysis of DAVI Referral-Antigen Comparison Data (AI Generated - Opus 4.6)
 The file tracks 51 employee COVID cases at the Davie Fire and Rescue site across three protocol phases during the Delta and Omicron waves (Sept 2021 -- Feb 2022), each with a different approach to using FloodLAMP (FL) and BinaxNOW rapid antigen (B) together:
 
 - **Group 1** (15 employees, Sep 15 -- Dec 23): FL as primary test; BinaxNOW used sometimes at home on Day 0. Only 8 of 15 had same-day antigen comparison data.
 - **Group 2** (22 employees, Dec 24 -- Jan 9): Both FL and BinaxNOW used throughout until return-to-work clearance. This is the most informative group for head-to-head comparison.
 - **Group 3** (14 employees, Jan 10 -- Feb 7): FL for initial detection/diagnosis; BinaxNOW for return-to-work clearance. FL was not used for ongoing follow-up.
 
-###### Key findings
+### Key findings
 
 1. **Same-day concordance on Day 0**: Of ~42 cases with same-day FL and antigen results, 38 (90.5%) agreed (both positive) and 4 (9.5%) disagreed -- all 4 being FL-positive / antigen-negative. There were zero cases of antigen catching a positive that FloodLAMP missed.
 
@@ -18,7 +43,7 @@ The file tracks 51 employee COVID cases at the Davie Fire and Rescue site across
 
 4. **Zero false positives**: Across the full DAVI program, the stats file reports 0 false positives and 0 suspected false negatives for FloodLAMP, with 97.7% of FL positives confirmed by referral or correspondence.
 
-###### Inconsistency - (CAN REMOVE; ERROR HAS BEEN CORRECTED)
+### Inconsistency - (CAN REMOVE; ERROR HAS BEEN CORRECTED)
 The inconsistency is in the original xlsx spreadsheet, not in the md processing. The md file faithfully reproduced what was in the spreadsheet.
 Here's what's happening:
 The correct numbers come from the "Same Day" summary table (columns AB--AD, rows 2--6), which uses proper COUNTIFS formulas scanning the structured data columns. These correctly compute FL+/B+ = 38 and FL+/B- = 4 (total 42 same-day comparisons).

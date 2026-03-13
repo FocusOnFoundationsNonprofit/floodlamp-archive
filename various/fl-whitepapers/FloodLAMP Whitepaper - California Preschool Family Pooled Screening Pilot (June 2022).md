@@ -15,8 +15,8 @@ pdf_github_url: https://github.com/FocusOnFoundationsNonprofit/floodlamp-archive
 conversion_input_file_type: docx
 conversion: pandoc
 license: CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-tokens: 4029
-words: 2883
+tokens: 4192
+words: 3049
 notes: 
 summary_short: The “FloodLAMP Preschool Pilot Whitepaper” describes a California preschool’s at-home family pooled COVID-19 surveillance testing program using FloodLAMP’s QuickColor molecular LAMP test, including onboarding, collection/drop-off workflows, near-site processing, and reporting practices. It documents pilot outcomes across the 2021–2022 school year (including the Omicron period), presents case studies comparing FloodLAMP to rapid antigen tests, and summarizes participation, turnaround time, and community impact with supporting figures and feedback.
 
