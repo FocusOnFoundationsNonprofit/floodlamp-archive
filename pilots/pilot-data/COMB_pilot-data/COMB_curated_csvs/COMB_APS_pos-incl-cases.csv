@@ -1,0 +1,18 @@
+tube_id,collection_date,collection_time,sponsor_id,result_date,result_time,app_result,final_result,result_correct_code,correction_notes,pool_level_n,sample_person1,sample_person2,sample_person3,sample_person4,retest_flag,correspondence_no_referral_flag,agreement_with_ref_or_correspondence_flag,known_positive_not_retest_flag,floodlamp_result_eval
+MA199,2022-03-21,06:41:47,SpCOMB209300,2022-03-21,09:46:51,Positive,Positive,,,1,COMB644258,,,,,,,,No Referral Test or Correspondence - FL Positive
+FM4056,2022-04-21,07:26:45,SpCOMB308088,2022-04-21,10:42:08,Positive,Positive,,,1,COMB907794,,,,,1,True,1,Run Form Note Confirmed - FL Positive - Known Positive
+FM4123,2022-04-25,16:43:29,SpCOMB308088,2022-04-25,20:21:24,Positive,Positive,,,1,COMB704360,,,,,,True,,Referral Confirmed - FL Positive
+FM4141,2022-04-29,06:34:14,SpCOMB308088,2022-04-29,08:51:49,Positive,Positive,,,1,COMB704360,,,,1,,True,,Referral Confirmed - FL Positive - Re-test
+FM2642,2022-05-31,06:26:10,SpCOMB308088,,,Null,Positive,3,RFR Audit shows clear positive and Response Notes say person was known positive 7 days in - no one resulted positive in App and this tube was only collected so chose it to be the positive because it was the only one different,1,COMB543985,,,,,,,1,No Referral Test or Correspondence - FL Positive
+FM2799,2022-06-06,16:52:02,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB770137,,,,,,True,,Referral Confirmed - FL Positive
+FM2475,2022-06-27,16:18:34,SpCOMB308088,,,Null,Inconclusive,4,"There is an RFR audited inconclusive that was also explicitly described in the Run Form Notes that was never resulted as Inconclusive in the App (all App results that day Null), so chose the first tube and made Final Result Inconclusive.",1,COMB340946,,,,,,,,No Referral Test or Correspondence - FL Inconclusive
+FM2198,2022-06-27,16:21:53,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB353066,,,,,,True,,Referral Confirmed - FL Positive
+FM2128,2022-06-27,16:22:46,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB945952,,,,,,True,,Referral Confirmed - FL Positive
+FM2159,2022-06-27,16:28:54,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB170110,,,,,,True,,Referral Confirmed - FL Positive
+FM2472,2022-06-28,06:39:35,SpCOMB308088,,,Null,Inconclusive,4,Inconclusive,1,COMB596496,,,,,,True,,Referral Confirmed - FL Inconclusive
+FM2492,2022-07-01,08:40:30,SpCOMB308088,,,Null,Inconclusive,4,initial pos but called as session inconclusive after rerun with only 1/3 inconclusive and 2/3 neg,1,COMB724402,,,,,,True,,Referral Confirmed - FL Inconclusive
+FM2765,2022-07-04,19:21:02,SpCOMB308088,,,Null,Positive,3,RFR Audit shows 1 positive and note says it was a person positive last week so arbitrarily chose this one of the 3 people,1,COMB353066,,,,1,,True,,Referral Confirmed - FL Positive - Re-test
+FM1198,2022-07-19,06:59:05,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB242905,,,,,,True,,Referral Confirmed - FL Positive
+FM1080,2022-07-22,09:22:15,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB213226,,,,,,True,,Referral Confirmed - FL Positive
+FM1303,2022-07-22,09:22:42,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB413047,,,,,,True,,Referral Confirmed - FL Positive
+FM3085,2022-08-08,18:13:33,SpCOMB308088,,,Null,Positive,3,Null changed to Positive,1,COMB185924,,,,,,True,,Referral Confirmed - FL Positive

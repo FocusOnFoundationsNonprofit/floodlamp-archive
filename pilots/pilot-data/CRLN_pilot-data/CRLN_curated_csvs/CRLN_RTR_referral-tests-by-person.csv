@@ -1,0 +1,32 @@
+participant_id,num_sequential_referral_tests,num_floodlamp_results_pos_or_incl,floodlamp_tube_id,floodlamp_test_result,floodlamp_test_date,first_referral_test_date,referral_overall_result,first_referral_test_type,first_referral_test_result,second_referral_test_type,second_referral_test_result,third_referral_test_type,third_referral_test_result,antigen_neg_with_other_positive_flag,referral_eval
+FLMP132170,7,0,MA100A,Negative,2022-05-02,2022-05-02,Negative,PCR,Negative,Antigen,Negative,Antigen,Negative,False,FL pos pool of 3 in morning then indiv deconvl with FL and this person was neg but there was 1 FL deconv pos that was confirmed by PCR (neg by antigen initally then pos 2 days later)
+FLMP147333,6,2,FLT1465,Positive,2022-01-10,2022-01-09,Positive,Antigen,Positive,PCR,Positive,,,False,known pos that tested pos by FL - not sure if they told us about antigen result before FL test
+FLMP172687,1,1,FLB5889,Positive,2022-01-06,2022-12-30,NA - Return Test,Antigen,Positive,,,,,NA - Return Test,FL test (pos) was test to return after anitgen pos test 7 days prior
+FLMP254321,2,0,FLE269,Negative,2022-05-09,2022-05-09,Negative,Antigen,Negative,PCR,Negative,,,False,"FL incl pool of 3, then indiv deconv and 1 of 3 pos, this one was FL neg and also neg by PCR and antigen"
+FLMP290315,1,0,NO FL testing,,,2022-05-16,Negative,Antigen,Negative,,,,,False,
+FLMP302189,3,4,FLT1433,Positive,2022-01-02,2022-01-02,Positive,Antigen,Negative,PCR,Positive,,,True,parent tested neg by antigen so did indiv deconv FL test and was pos
+FLMP322473,1,0,AH679,Negative,2022-05-09,2022-05-09,Negative,PCR,Negative,,,,,False,
+FLMP325595,1,0,AH245,Negative,2022-05-09,2022-05-09,Negative,PCR,Negative,,,,,False,
+FLMP330127,4,2,FLT1400,Positive,2022-01-10,2022-01-07,Positive,Antigen,Positive,PCR,Positive,,,False,known pos that tested pos by FL - not sure if they told us about antigen result before FL test
+FLMP464138,7,0,MA82,Negative,2022-05-02,2022-05-02,Negative,PCR,Negative,Antigen,Negative,Antigen,Negative,False,FL pos pool of 3 in morning then indiv deconvl with FL and this person was neg but there was 1 FL deconv pos that was confirmed by PCR (neg by antigen initally then pos 2 days later)
+FLMP472803,7,1,MA57,Negative,2022-05-02,2022-05-02,Negative,PCR,Negative,Antigen,Negative,Antigen,Negative,False,FL pos pool of 3 in morning then indiv deconvl with FL and this person was neg but there was 1 FL deconv pos that was confirmed by PCR (neg by antigen initally then pos 2 days later)
+FLMP473007,2,0,FLB6845,Positive,2022-01-02,2022-01-03,Positive,Antigen,Positive,PCR,Positive,,,False,Only initial FL positive pool - no indiv deconv
+FLMP549529,1,1,FLB5830,Positive,2022-01-06,2022-01-01,NA - Return Test,Antigen,Positive,,,,,NA - Return Test,FL test (pos) was test to return after anitgen pos test 5 days prior
+FLMP552537,2,2,FLE202,Positive,2022-05-09,2022-05-09,Positive,Antigen,Positive,PCR,Positive,,,False,"FL incl pool of 3, then indiv deconv and 1 of 3 pos, this one was confrimed by PCR and antigen"
+FLMP601970,1,1,FLT1129,Positive,2022-01-17,2022-01-18,Positive,Antigen,Positive,,,,,False,this was a later return test - the CRLN child did not test on 1-10 with parents
+FLMP608363,1,2,AH365,Positive,2022-05-09,2022-05-09,Positive,PCR,Positive,,,,,False,CRLN child (no symptomys) - FL pos pool of 4 then indiv deconv by FL with 1 of 4 pos and this one confimed by PCR
+FLMP652238,2,1,FLB6845,Positive,2022-01-02,2022-01-03,Negative,Antigen,Negative,PCR,Negative,,,False,Only initial FL positive pool - no indiv deconv
+FLMP687722,8,2,MA108,Positive,2022-05-02,2022-05-02,Positive,Antigen,Negative,PCR,Positive,Antigen,Positive,True,FL pos pool of 3 in morning then indiv deconvl with FL and this person was pos that was confirmed by PCR (neg by antigen initally then pos 2 days later) - other 3 in pool neg by PCR and antigen
+FLMP705416,2,0,FLB5969,Negative,2022-05-09,2022-05-09,Positive,Antigen,Negative,PCR,Positive,,,True,"FL incl pool of 3, then indiv deconv and 1 of 3 pos, this one was FL neg and also neg by antigen byt pos by PCR"
+FLMP776278,3,3,FLT1433,Positive,2022-01-02,2022-01-04,Positive,Antigen,Positive,PCR,Positive,,,False,Non-CRLN child that test pos by antigen so no indiv deconv FL test
+FLMP779627,1,0,AJ9253,Negative,2022-05-09,2022-05-09,Negative,PCR,Negative,,,,,False,
+FLMP828735,4,3,FLT1433,Positive,2022-01-02,2022-01-04,Positive,Antigen,Positive,PCR,Positive,,,False,CRLN child that test pos by antigen so no indiv deconv FL test
+FLMP857562,3,2,FLT1433,Positive,2022-01-02,2022-01-02,Positive,Antigen,Negative,PCR,Positive,,,True,parent tested neg by antigen so did indiv deconv FL test and was pos
+FLMP858721,1,1,FLT1136,Positive,2022-01-06,2022-12-29,NA - Return Test,Antigen,Positive,,,,,NA - Return Test,FL test (pos) was test to return after anitgen pos test 8 days prior
+FLMP876455,1,0,FLT1161,Positive,2022-01-10,2022-01-12,Negative,PCR,Negative,,,,,False,"FL pos pool of 3 in morning then indiv deconvl with FL and this person was neg along with one other both by PCR, and 3rd pool person was PCR pos"
+FLMP887888,4,2,FLT1161,Positive,2022-01-10,2022-01-04,Positive,PCR,Positive,,,,,False,FL pos pool of 3 in morning then indiv deconvl with FL and only this person was pos (other 2 FL and the referral PCR neg) - ignore neg antigen tests for analysis because they were 6 days before and 5 days after FL tests
+FLMP915544,2,0,FLB6845,Positive,2022-01-02,2022-01-03,Positive,Antigen,Positive,PCR,Positive,,,False,Only initial FL positive pool - no indiv deconv
+FLMP939793,1,0,FLB5852,Negative,2022-01-06,2022-12-30,NA - Return Test,Antigen,Positive,,,,,NA - Return Test,FL test (neg) was test to return after anitgen pos test 7 days prior
+FLMP942437,1,0,NO FL testing,,,2022-05-16,Positive,Antigen,Positive,,,,,False,
+FLMP969044,1,0,FLT1161,Positive,2022-01-10,2022-01-12,Negative,PCR,Negative,,,,,False,"FL pos pool of 3 in morning then indiv deconvl with FL and this person was neg along with one other both by PCR, and 3rd pool person was PCR pos"
+FLMP987142,4,2,FLB6807,Positive,2022-05-19,2022-05-16,Positive,Antigen,Negative,Antigen,Negative,PCR,Positive,True,"Partner tested pos by antigen then this partner tested neg by antigen 3 days in a row then next day was FL pos, which was confirmed by PCR collected same day and resulted 2 days later (this was a teacher - so FL screening likely stopped spread!)"

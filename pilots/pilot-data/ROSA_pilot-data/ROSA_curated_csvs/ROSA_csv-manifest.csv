@@ -1,0 +1,11 @@
+site_code,source_workbook,source_tab,output_csv,data_level,primary_key,join_keys,row_grain,notes
+ROSA,ROSA_APS_deID_PUB.xlsx,Stats,ROSA_APS_stats_key-values.csv,stats,,,one row per metric,Tidy key/value extraction from Stats A-D; sectioned by header rows in col B.
+ROSA,ROSA_APS_deID_PUB.xlsx,Stats,ROSA_APS_stats_referral-agreement.csv,stats,,,one row per FL result category,Extract mini-table anchored at 'Number of Tubes with FL Result' (cols E-L); includes pct status columns.
+ROSA,ROSA_APS_deID_PUB.xlsx,REF Weekly,ROSA_APS_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,Weekly screening rollup (imported from RFR when present); includes pct_positive_status.
+ROSA,ROSA_APS_deID_PUB.xlsx,Pos and Incl,ROSA_APS_pos-incl-cases.csv,tube,tube_id,tube_id;case_cluster_id,one row per pos/incl tube,Case-centric pos/incl subset with pool membership + referral linkage.
+ROSA,ROSA_APS_deID_PUB.xlsx,postDEL,ROSA_APS_swabs-in-tubes.csv,participant_result,,tube_id;participant_id,one row per swab-in-tube row,Trimmed participant-result table; drops QA scaffolding and blank PII columns.
+ROSA,ROSA_APS_deID_PUB.xlsx,APS Tubes,ROSA_APS_tubes.csv,tube,tube_id,tube_id,one row per tube,Canonical tube table (Appivo tubes); pool level + timing + results + corrections.
+ROSA,ROSA_APS_deID_PUB.xlsx,APS Tubes by Date,ROSA_APS_daily-tubes-rollup.csv,daily_rollup,collect_date,collect_date,one row per collection date,Exports only leftmost A-I rollup table; headers normalized to remove embedded totals.
+ROSA,ROSA_RSR_deID_PUB.xlsx,Stats,ROSA_RSR_stats_key-values.csv,stats,,,one row per metric,Tidy key/value extraction from Stats A-D; sectioned by header rows in col B (if Stats tab present).
+ROSA,ROSA_RSR_deID_PUB.xlsx,Stats,ROSA_RSR_stats_referral-agreement.csv,stats,,,one row per FL result category,Extract mini-table anchored at 'Number of Tubes with FL Result' (if Stats tab present).
+ROSA,ROSA_RSR_deID_PUB.xlsx,RSR Weekly,ROSA_RSR_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,RSR weekly screening rollup; includes pct_positive_status.

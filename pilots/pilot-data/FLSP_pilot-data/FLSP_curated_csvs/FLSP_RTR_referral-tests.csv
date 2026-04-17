@@ -1,0 +1,26 @@
+participant_id,referral_test_collection_date,referral_test_collection_time,referral_test_result_date,referral_test_result_time,referral_test_type,referral_test_model,referral_test_result,referral_test_ct,symptoms_flag,vaccinated_flag,source_notes,init_fl_pos_tube_id
+FLMP183184,2022-12-15,11:39:00,2022-12-15,12:00:00,LAMP Device,Lucira,Positive,,0,True,gdoc on case,
+FLMP183184,2022-12-15,12:25:00,2022-12-15,12:38:00,Antigen,CareStart,Negative,,0,True,gdoc on case,
+FLMP197976,2021-01-15,16:00:00,2021-01-15,19:00:00,Direct PCR,FloodLAMP EasyPCR,Negative,,0,False,FL Run File P19,351430
+FLMP197976,2021-01-17,16:00:00,2021-01-17,21:00:00,Direct PCR,FloodLAMP SalivaDirect,Negative,,0,False,FL Run File P19,351430
+FLMP197976,2021-01-17,16:00:00,2021-01-17,,Lab Purif PCR,,Positive,,0,False,,351430
+FLMP233123,2022-01-12,10:00:00,2022-01-14,,Lab PCR,,Negative,,0,True,From email receipt,MA26
+FLMP233123,2022-01-12,11:45:00,2022-01-13,13:13:00,Lab PCR,,Positive,,1,True,from email receipt,MA26
+FLMP268140,2021-01-15,07:48:24,2021-01-15,14:00:00,Direct PCR,FloodLAMP EasyPCR,Positive,31.6,0,False,FL Run File P17,351430
+FLMP466389,2021-01-16,16:00:00,2021-01-16,19:00:00,Direct PCR,FloodLAMP EasyPCR,Positive,35.3,0,False,FL Run File P19,351430
+FLMP466389,2021-01-17,16:00:00,2021-01-17,,Lab Purif PCR,,Positive,,0,False,,351430
+FLMP466389,2021-01-18,16:00:00,2021-01-18,21:00:00,Direct PCR,FloodLAMP SalivaDirect,Positive,37.1,0,False,FL Run File P19,351430
+FLMP618864,2022-12-15,10:54:00,2022-12-15,11:24:00,LAMP Device,Lucira,Negative,,0,True,gdoc on case,
+FLMP618864,2022-12-15,11:13:00,2022-12-15,11:28:00,Antigen,CareStart,Negative,,0,True,gdoc on case,
+FLMP619442,2021-12-18,07:00:00,2021-12-18,,Antigen,BinaXNow,Positive,,1,True,,MA1463
+FLMP964950,2021-12-31,14:10:00,2021-12-31,14:30:00,Antigen,FlowFlex,Negative,,0,True,Case Report for NYE,
+FLMP964950,2021-12-31,14:10:00,2021-12-31,14:30:00,LAMP Device,Detect,Negative,,0,True,Case Report for NYE,
+FLMP964950,2021-12-31,16:52:00,2021-12-31,17:30:00,LAMP Device,Lucira,Negative,,0,True,Case Report for NYE,
+FLMP964950,2021-12-31,17:00:00,2021-12-31,17:15:00,Antigen,BinaXNow,Negative,,0,True,Case Report for NYE,
+FLMP964950,2021-12-31,20:00:00,2022-01-01,12:00:00,Direct PCR,FloodLAMP SalivaDirect,Positive,27.7,0,True,Case Report for NYE,
+FLMP964950,2022-01-01,10:00:00,2022-01-01,10:15:00,Antigen,BinaXNow,Negative,,0,True,Case Report for NYE,
+FLMP964950,2022-01-01,10:00:00,2022-01-01,10:15:00,Antigen,BinaXNow,Negative,,0,True,Case Report for NYE,
+FLMP964950,2022-01-01,11:00:00,2022-01-01,12:00:00,Direct PCR,FloodLAMP SalivaDirect,Positive,29,0,True,Case Report for NYE,
+FLMP964950,2022-01-01,16:00:00,2022-01-01,18:00:00,Rapid PCR,Accula,Negative,,0,True,Case Report for NYE,
+FLMP964950,2022-01-02,10:00:00,2022-01-02,10:15:00,Antigen,BinaXNow,Positive,,,True,Case Report for NYE,
+FLMP964950,2022-01-02,10:00:00,2022-01-02,10:15:00,Antigen,FlowFlex,Positive,,,True,Case Report for NYE,

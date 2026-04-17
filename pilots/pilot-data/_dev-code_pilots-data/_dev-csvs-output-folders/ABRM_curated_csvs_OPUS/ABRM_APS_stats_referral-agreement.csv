@@ -1,0 +1,3 @@
+fl_result_category,tubes_n,cases_n,with_ref_or_corresp_n,agree_n,agree_pct,disagree_n,disagree_pct,ref_cor_pos_n,incl_gt_pos_pct,ref_cor_neg_n,incl_gt_neg_pct,source_sheet,source_anchor
+Positive,8,3,1,1,1,0,0,,,,,Stats,Stats!F23
+Inconclusive,3,3,0,,,,,0,,0,,Stats,Stats!F23

@@ -1,0 +1,3 @@
+fl_result_category,tubes_n,cases_n,with_ref_or_corresp_n,agree_n,agree_pct,agree_pct_status,disagree_n,disagree_pct,disagree_pct_status,ref_cor_pos_n,incl_gt_pos_pct,incl_gt_pos_pct_status,ref_cor_neg_n,incl_gt_neg_pct,incl_gt_neg_pct_status,source_sheet,source_anchor
+Positive,8,3,1,1,1,ok,0,0,ok,,,,,,,Stats,F23
+Inconclusive,3,3,0,,,,,,,0,,denom_zero,0,,denom_zero,Stats,F23

@@ -1,0 +1,6 @@
+site_code,source_workbook,source_tab,output_csv,data_level,primary_key,join_keys,row_grain,notes
+DAVI,DAVI_RTR_deID_PUB.xlsx,Referral Test Data,DAVI_RTR_referral-tests.csv,referral,referral_test_id,participant_id;case_cluster_id;init_fl_pos_tube_id,one row per referral test,Trimmed referral test rows; keeps SOURCE NOTES; normalized missing times to blank.
+DAVI,DAVI_RTR_deID_PUB.xlsx,Referral Tests by Person,DAVI_RTR_referral-tests-by-person.csv,referral,participant_id,participant_id,one row per participant,Per-person referral summary; drops PII and internal matching helper columns.
+DAVI,DAVI_RSR_deID_PUB.xlsx,Stats,DAVI_RSR_stats_key-values.csv,stats,,,one row per metric,Tidy key/value extraction from Stats A-D; sectioned by header rows in col B (if Stats tab present).
+DAVI,DAVI_RSR_deID_PUB.xlsx,Stats,DAVI_RSR_stats_referral-agreement.csv,stats,,,one row per FL result category,Extract mini-table anchored at 'Number of Tubes with FL Result' (if Stats tab present).
+DAVI,DAVI_RSR_deID_PUB.xlsx,RSR Weekly,DAVI_RSR_weekly-summary.csv,weekly_rollup,,week_start_date;week_end_date,one row per week,RSR weekly screening rollup; includes pct_positive_status.

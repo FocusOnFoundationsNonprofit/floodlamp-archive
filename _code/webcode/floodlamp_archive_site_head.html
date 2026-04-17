@@ -1,0 +1,448 @@
+<!--===== START OF FILE floodlamp_archive_site_head.html  =====-->
+<!-- deploy: copy to Site Settings > Custom Code > Head -->
+<!-- contains: FloodLAMP archive item template site-head logging and CSS styles not included in Webflow designer -->
+
+<script>
+  var fileInfo = `floodlamp_archive_site_head.html   3-15 1114 index category link refinements`;
+  console.log('CSS loaded from site head  ', fileInfo);
+</script>
+
+<style>
+/* Current decision:
+   - Keep archive CSS in one file for straightforward copy/paste maintenance.
+   - Do not split "general" vs "item-template" CSS yet because all current rules
+     are specific to the archive template and are safely namespaced with fl-archive-*.
+   - Revisit a split only after multiple archive pages start sharing the same custom rules.
+*/
+
+/* START Archive item template: shell and layout */
+#fl-archive-template-root,
+[data-fl-archive-template-root='true'] {
+  width: 100%;
+}
+.fl-archive-shell {
+  align-items: stretch;
+  gap: 32px;
+}
+.fl-archive-hero,
+.fl-archive-hero-copy,
+.fl-archive-section-header {
+  align-items: stretch;
+}
+
+/* START Archive item template: label and summary */
+.fl-archive-paragraph {
+  color: #000;
+  text-align: left;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 150%;
+}
+.fl-archive-kicker-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  width: 100%;
+}
+.fl-archive-kicker {
+  color: #000;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-family: Lato, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.fl-archive-kicker-detail {
+  color: #000;
+}
+.fl-archive-kicker-link {
+  color: #5185ed;
+  text-decoration: none;
+}
+.fl-archive-kicker-link:hover {
+  text-decoration: underline;
+}
+.fl-archive-title.heading {
+  width: 100%;
+  margin: 0;
+  text-align: left;
+  line-height: 1.1;
+}
+.fl-archive-summary.fl-archive-paragraph {
+  width: 100%;
+  margin: 0;
+}
+.fl-archive-summary-empty,
+.fl-archive-empty-block,
+.fl-archive-state {
+  color: #5f6b7a;
+}
+
+/* START Archive item template: badges and notices */
+.fl-archive-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 100%;
+}
+.fl-archive-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 12px;
+  border: 1px solid #d6e3ff;
+  border-radius: 999px;
+  background: #f4f8ff;
+  color: #5185ed;
+  font-family: Lato, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.fl-archive-beta-note {
+  width: 100%;
+  padding: 16px 18px;
+  border: 1px solid #f0d38a;
+  border-radius: 16px;
+  background: #fff8e3;
+  color: #6f5200;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* START Archive item template: section wrappers */
+.fl-archive-section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+.fl-archive-section-actions {
+  gap: 20px;
+}
+.fl-archive-section-title.sub-page-titles,
+.fl-archive-section-title.sub-page-titles.sub-page-sub-headings {
+  width: 100%;
+  margin: 0;
+  text-align: left;
+}
+
+/* START Archive item template: primary actions */
+.fl-archive-actions-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  width: 100%;
+}
+.fl-archive-action-button.w-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 88px;
+  width: 100%;
+  margin: 0;
+  padding: 20px 24px;
+  border: 1px solid transparent;
+  border-radius: 20px;
+  background: #5185ed;
+  box-shadow: 0 10px 24px rgba(81, 133, 237, 0.18);
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  white-space: normal;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+}
+.fl-archive-action-button-default.w-button {
+  border-color: #d6e3ff;
+  background: #f4f8ff;
+  box-shadow: none;
+  color: #5185ed;
+}
+.fl-archive-action-button:hover,
+.fl-archive-inline-link:hover {
+  transform: translateY(-2px);
+}
+.fl-archive-action-title {
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+/* START Archive item template: inline access links */
+.fl-archive-inline-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+}
+.fl-archive-inline-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0;
+  width: min(100%, 320px);
+  min-height: 64px;
+  padding: 14px 18px;
+  border: 1px solid #e4ebf3;
+  border-radius: 16px;
+  background: #f4f8ff;
+  color: #000;
+  text-decoration: none;
+  transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.fl-archive-inline-link:hover {
+  border-color: #c8dafd;
+  box-shadow: 0 10px 22px rgba(81, 133, 237, 0.08);
+}
+.fl-archive-inline-link-label {
+  color: #5185ed;
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.4;
+  text-align: center;
+}
+
+/* START Archive item template: metadata rows */
+.fl-archive-metadata {
+  display: grid;
+  gap: 0;
+  width: 100%;
+  margin: 0;
+}
+.fl-archive-metadata-row {
+  display: grid;
+  grid-template-columns: minmax(180px, 220px) minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  padding: 14px 0;
+  border-top: 1px solid #e4ebf3;
+}
+.fl-archive-metadata-row dt {
+  margin: 0;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.fl-archive-metadata-row dd {
+  margin: 0;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* START Archive item template: responsive */
+@media (max-width: 991px) {
+  .fl-archive-actions-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 767px) {
+  .fl-archive-shell {
+    gap: 24px;
+  }
+  .fl-archive-kicker-row,
+  .fl-archive-inline-link,
+  .fl-archive-metadata-row {
+    flex-direction: column;
+    grid-template-columns: 1fr;
+  }
+  .fl-archive-inline-link {
+    width: 100%;
+  }
+}
+/* END Archive item template styles. */
+
+/* START Archive homepage/category page styles. */
+.fl-archive-page {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 100%;
+}
+.fl-archive-page-hero,
+.fl-archive-page-section,
+.fl-archive-page-card,
+.fl-archive-page-subsection,
+.fl-archive-page-callout {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+.fl-archive-page-eyebrow {
+  color: #000;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-family: Lato, sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+.fl-archive-page-title {
+  margin: 0;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.05;
+}
+.fl-archive-page-subtitle {
+  margin: 0;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+.fl-archive-page-minor-title {
+  margin: 0;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.fl-archive-page-index-category-link {
+  color: #5185ed;
+  text-decoration: none;
+}
+.fl-archive-page-index-category-link:hover {
+  text-decoration: underline;
+}
+.fl-archive-page-lead,
+.fl-archive-page-body,
+.fl-archive-page-list,
+.fl-archive-page-list li {
+  margin: 0;
+}
+.fl-archive-page-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  width: 100%;
+}
+.fl-archive-page-grid-1 {
+  grid-template-columns: 1fr;
+}
+.fl-archive-page-card {
+  padding: 24px;
+  border: 1px solid #e4ebf3;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 0 10px 22px rgba(81, 133, 237, 0.06);
+}
+.fl-archive-page-callout {
+  padding: 20px 22px;
+  border: 1px solid #d6e3ff;
+  border-radius: 20px;
+  background: #f4f8ff;
+}
+.fl-archive-page-links,
+.fl-archive-page-toc,
+.fl-archive-page-index-list {
+  display: grid;
+  gap: 12px;
+  width: 100%;
+}
+.fl-archive-page-link,
+.fl-archive-page-toc-link {
+  color: #5185ed;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.fl-archive-page-link:hover,
+.fl-archive-page-toc-link:hover {
+  text-decoration: underline;
+}
+.fl-archive-toggle {
+  margin-top: 6px;
+}
+.fl-archive-toggle-input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+.fl-archive-toggle-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.4;
+  text-decoration: none;
+}
+.fl-archive-toggle-caret {
+  display: inline-block;
+  color: #000;
+  font-size: 18px;
+  line-height: 1;
+  transition: transform 0.15s ease;
+}
+.fl-archive-toggle-input:not(:checked) ~ .fl-archive-toggle-content {
+  display: none;
+}
+.fl-archive-toggle-input:checked + .fl-archive-toggle-label .fl-archive-toggle-caret {
+  transform: rotate(90deg);
+}
+.fl-archive-toggle-content {
+  margin-top: 10px;
+}
+.fl-archive-page-meta {
+  color: #5f6b7a;
+  font-family: Lato, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.fl-archive-page-list {
+  padding-left: 20px;
+  color: #000;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+.fl-archive-page-rule {
+  width: 100%;
+  height: 1px;
+  background: #e4ebf3;
+}
+@media (max-width: 991px) {
+  .fl-archive-page-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 767px) {
+  .fl-archive-page {
+    gap: 28px;
+  }
+  .fl-archive-page-title {
+    font-size: 36px;
+  }
+  .fl-archive-page-subtitle {
+    font-size: 28px;
+  }
+  .fl-archive-page-minor-title {
+    font-size: 22px;
+  }
+  .fl-archive-page-card,
+  .fl-archive-page-callout {
+    padding: 20px;
+  }
+}
+/* END Archive homepage/category page styles. */
+</style>
+
+<!--===== END OF FILE floodlamp_archive_site_head.html  =====-->

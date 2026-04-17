@@ -1,0 +1,12 @@
+tube_id,collection_date,collection_time,sponsor_id,result_date,result_time,app_result,final_result,result_correct_code,correction_notes,pool_level_n,sample_person1,sample_person2,sample_person3,sample_person4,case_cluster_id,index_tube_first_case_flag,referral_test_result,referral_notes,accounted_for_in_rtr_flag,retest_flag,pool_deconvolution_indiv_test_flag,correspondence_no_referral_flag,agreement_with_ref_or_correspondence_flag,known_positive_not_retest_flag,floodlamp_result_eval
+AG173,2022-12-08,07:06:41,SpABRM367540,2022-12-08,11:10:54,Positive,Positive,,,3,ABRM805764,ABRM771013,ABRM582390,,1,1,Positive,,1,,,0,1,,Referral Confirmed - FL Positive - Positive Pool
+AH112,2022-12-20,07:44:17,SpABRM655136,2022-12-20,10:17:46,Positive,Positive,,,1,ABRM805764,,,,1,,Positive,,1,1,,,,,Referral Confirmed - FL Positive - Re-test
+AJ9480,2022-12-20,07:44:42,SpABRM655136,2022-12-20,10:17:47,Positive,Positive,,,1,ABRM582390,,,,1,,Positive,,1,1,,,,,Referral Confirmed - FL Positive - Re-test
+AG1417,2023-01-12,06:04:09,SpABRM297307,2023-01-12,14:21:01,Inconclusive,Inconclusive,,,3,ABRM947679,ABRM303158,ABRM958852,,4,,NONE,,0,,,,,,
+AG1625,2023-01-13,07:45:24,SpABRM814022,2023-01-13,12:15:48,Inconclusive,Inconclusive,,,1,ABRM515295,,,,5,,NONE,,0,,,,,,
+AJ8942,2023-01-20,07:28:46,SpABRM655136,2023-01-20,10:04:14,Negative,Inconclusive,4.1,RT Jan26 - photo and LUM show Incl call,2,ABRM396076,ABRM492658,,,6,,NONE,,0,,,,,,
+AK9881,2023-03-30,06:04:28,SpABRM297307,2023-03-30,10:29:29,Positive,Positive,,,4,ABRM624478,ABRM739674,ABRM303158,ABRM958852,2,,NONE,,0,,,,,,
+AB9291,2023-05-23,07:14:49,SpABRM128250,2023-05-23,09:37:06,Positive,Positive,,,3,ABRM362882,ABRM165120,ABRM735457,,3,,NONE,,0,,,,,,
+AR1265,2023-05-23,08:06:11,SpABRM655136,2023-05-23,09:37:04,Positive,Positive,,,1,ABRM362882,,,,3,,NONE,,0,,1,,,,
+AR15,2023-05-23,08:07:14,SpABRM655136,2023-05-23,09:37:03,Positive,Positive,,,1,ABRM165120,,,,3,,NONE,,0,,1,,,,
+AK9590,2023-05-23,08:07:49,SpABRM655136,2023-05-23,09:37:01,Positive,Positive,,,1,ABRM735457,,,,3,,NONE,,0,,1,,,,

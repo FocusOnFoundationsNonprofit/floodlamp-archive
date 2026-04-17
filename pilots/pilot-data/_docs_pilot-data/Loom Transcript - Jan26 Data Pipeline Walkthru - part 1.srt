@@ -1,0 +1,2375 @@
+1
+00:00:00,011 --> 00:00:04,622
+Okay, I'm gonna go through a change
+
+2
+00:00:04,623 --> 00:00:09,303
+to the Google Sheets and propagation of that all the way through
+
+3
+00:00:09,304 --> 00:00:14,010
+the data pipeline.
+
+4
+00:00:14,011 --> 00:00:16,036
+Uhm,
+
+5
+00:00:16,046 --> 00:00:19,439
+this is partially for my future self and it's just partially so I can
+
+6
+00:00:19,956 --> 00:00:24,075
+pull the transcript and create an explanation from it.
+
+7
+00:00:24,076 --> 00:00:28,611
+Uhm, so I'm gonna try to make sure I don't show any PHI over
+
+8
+00:00:28,612 --> 00:00:33,120
+here. So I have the pub version file open here.
+
+9
+00:00:33,121 --> 00:00:35,952
+And, uhm,
+
+10
+00:00:35,963 --> 00:00:40,462
+here's the change I just made. Changing this agree positives,
+
+11
+00:00:40,463 --> 00:00:44,048
+which was not very clear, to this.
+
+12
+00:00:44,958 --> 00:00:48,139
+And now, this is a chain.
+
+13
+00:00:48,140 --> 00:00:52,393
+Changing the stats tab, so I need to change this,
+
+14
+00:00:52,394 --> 00:00:54,664
+uh,
+
+15
+00:00:54,674 --> 00:00:56,934
+everywhere. Let me pause.
+
+16
+00:00:59,078 --> 00:01:01,221
+Okay, I got things all arranged now.
+
+17
+00:01:01,477 --> 00:01:05,443
+So, here is the,
+
+18
+00:01:06,062 --> 00:01:08,860
+kind of, index and map to these files.
+
+19
+00:01:12,203 --> 00:01:19,293
+There are ten of them that
+
+20
+00:01:19,294 --> 00:01:21,745
+I'm going to change, because I'm changing the stats tab.
+
+21
+00:01:22,246 --> 00:01:25,685
+And in all of these, it's the APS except for Davey,
+
+22
+00:01:25,686 --> 00:01:29,448
+which is the RSR. And then the stats tab is in the STS for
+
+23
+00:01:29,449 --> 00:01:34,881
+Kenton FDFC. And then it's the same for the PHI
+
+24
+00:01:34,882 --> 00:01:39,327
+version. then there is a third version that I also need to change.
+
+25
+00:01:39,328 --> 00:01:41,928
+Uhm,
+
+26
+00:01:41,939 --> 00:01:45,663
+and that is the DID non-pub version.
+
+27
+00:01:46,232 --> 00:01:50,532
+So I'll show that one. Let me go through and change all these pub
+
+28
+00:01:50,533 --> 00:01:54,107
+ones first. Did I just,
+
+29
+00:01:55,380 --> 00:01:57,871
+Which one did I just change this on?
+
+30
+00:01:59,091 --> 00:02:03,232
+Is it a broom? Is it Kent?
+
+31
+00:02:03,763 --> 00:02:06,164
+Nope. Stats.
+
+32
+00:02:07,665 --> 00:02:10,838
+Was it Rosa? Agree,
+
+33
+00:02:10,839 --> 00:02:13,147
+positives, nope. Where did I change that?
+
+34
+00:02:14,137 --> 00:02:16,655
+Let me pause this for a second and find it.
+
+35
+00:02:17,485 --> 00:02:20,850
+Okay, I found it. It was in Combate. All right,
+
+36
+00:02:20,851 --> 00:02:24,661
+so all I'm going to do is just copy this and paste and come
+
+37
+00:02:24,662 --> 00:02:28,468
+over and just change it everywhere here.
+
+38
+00:02:29,139 --> 00:02:32,019
+Okay, super easy change.
+
+39
+00:02:33,425 --> 00:02:35,686
+Agree, positives becomes this.
+
+40
+00:02:40,451 --> 00:02:44,077
+This is a good one to do a demo of because there's no calculations.
+
+41
+00:02:45,185 --> 00:02:55,576
+A little opportunity. Ooh,
+
+42
+00:02:55,577 --> 00:02:58,081
+I have an extra note here. Let me see if I want to include
+
+43
+00:02:58,082 --> 00:03:01,002
+that. Yeah,
+
+44
+00:03:01,003 --> 00:03:03,241
+this is a good example. Okay, where was that one?
+
+45
+00:03:03,242 --> 00:03:07,804
+Let's fix
+
+46
+00:03:07,805 --> 00:03:10,401
+this up.
+
+47
+00:03:10,402 --> 00:03:15,401
+Let's
+
+48
+00:03:22,475 --> 00:03:24,677
+just make it like that. Okay,
+
+49
+00:03:24,678 --> 00:03:27,183
+so now I need to propagate this everywhere.
+
+50
+00:03:27,184 --> 00:03:27,668
+Let me delete that.
+
+51
+00:03:36,587 --> 00:03:38,963
+What did I do? I just made a
+
+52
+00:03:49,478 --> 00:03:51,682
+mistake over there.
+
+53
+00:03:51,899 --> 00:03:54,199
+This should be good now.
+
+54
+00:03:55,055 --> 00:03:57,301
+And just go through,
+
+55
+00:03:58,275 --> 00:04:00,651
+propagate this.
+
+56
+00:04:00,652 --> 00:04:03,380
+It's tedious.
+
+57
+00:04:03,381 --> 00:04:07,202
+Uh,
+
+58
+00:04:07,240 --> 00:04:13,381
+That was the one that it came from. These comments
+
+59
+00:04:13,382 --> 00:04:18,204
+are specific to the
+
+60
+00:04:18,814 --> 00:04:22,993
+site or the file. Oh,
+
+61
+00:04:22,994 --> 00:04:29,973
+gotta make sure I do it in the right place. Here.
+
+62
+00:04:29,974 --> 00:04:34,528
+I
+
+63
+00:04:34,529 --> 00:04:39,528
+think
+
+64
+00:04:57,304 --> 00:04:59,121
+this is the last one.
+
+65
+00:05:12,843 --> 00:05:17,545
+Okay. That's
+
+66
+00:05:17,546 --> 00:05:19,810
+weird. Okay. Well, anyway,
+
+67
+00:05:19,832 --> 00:05:21,963
+now it's changing all the pub files.
+
+68
+00:05:22,530 --> 00:05:26,527
+So now let me go get the PHI ones.
+
+69
+00:05:28,052 --> 00:05:31,618
+Okay, now I already went through and made sure that the Stats tab was
+
+70
+00:05:31,619 --> 00:05:35,686
+selected for these, so I shouldn't expose any actual PHI,
+
+71
+00:05:35,687 --> 00:05:40,398
+but the whole point, The, the order of these files is the
+
+72
+00:05:40,399 --> 00:05:44,241
+PHI to the DEID non-pub version,
+
+73
+00:05:45,074 --> 00:05:49,253
+and that one then will have the change history,
+
+74
+00:05:49,254 --> 00:05:52,526
+uhm, from the PHI to the DEID,
+
+75
+00:05:52,527 --> 00:05:57,058
+so technically you could go in the history and roll back and see PHI,
+
+76
+00:05:57,059 --> 00:06:00,374
+uhm,
+
+77
+00:06:00,384 --> 00:06:06,723
+and then and then that's, what I do is then copy that regular
+
+78
+00:06:06,724 --> 00:06:10,193
+DEID with the non-pub version to a clean copy,
+
+79
+00:06:10,194 --> 00:06:13,088
+and then that I label with underscore pub,
+
+80
+00:06:13,355 --> 00:06:17,310
+which then should not have any PHI either in the live or in the
+
+81
+00:06:17,311 --> 00:06:20,024
+history. Uhm,
+
+82
+00:06:20,034 --> 00:06:22,209
+and when, when you do that process,
+
+83
+00:06:22,210 --> 00:06:25,035
+uhm, you create anew.
+
+84
+00:06:25,036 --> 00:06:27,744
+Google Sheet, and therefore a new link,
+
+85
+00:06:28,413 --> 00:06:31,453
+so if you discover that you have PHI in the pub version,
+
+86
+00:06:31,454 --> 00:06:36,256
+uhm, then you gotta go back to the non-pub
+
+87
+00:06:36,257 --> 00:06:39,849
+DEID version, cause it'll probably be there as well,
+
+88
+00:06:39,850 --> 00:06:43,343
+change it, then make a copy of that,
+
+89
+00:06:43,915 --> 00:06:47,430
+delete the old DEID underscore pub version,
+
+90
+00:06:47,431 --> 00:06:51,332
+and then, you know, read rename the new one instead of copy of DEID,
+
+91
+00:06:51,333 --> 00:06:55,881
+it'll be, uhm, no copy of and DEID underscore pub,
+
+92
+00:06:55,975 --> 00:07:00,028
+but then you also need to replace the links in,
+
+93
+00:07:01,338 --> 00:07:05,956
+in here, and then you further need to
+
+94
+00:07:06,509 --> 00:07:10,882
+then save this out as a csv.
+
+95
+00:07:11,605 --> 00:07:17,339
+Well, actually it's not this. It's
+
+96
+00:07:17,340 --> 00:07:21,985
+this, so you'll need to change this because when you save
+
+97
+00:07:21,986 --> 00:07:26,789
+this as a csv, with the chips,
+
+98
+00:07:26,790 --> 00:07:29,681
+it doesn't save the urls, so you need to get this urls,
+
+99
+00:07:29,696 --> 00:07:31,835
+and then this is used in,
+
+100
+00:07:31,850 --> 00:07:37,227
+in the code by the Python code to populate links.
+
+101
+00:07:37,228 --> 00:07:39,708
+in the markdown files for the sites,
+
+102
+00:07:39,852 --> 00:07:42,803
+so that's important. Okay, now that I've explained that,
+
+103
+00:07:42,804 --> 00:07:47,265
+uhm, I'm not going to need to do that here because I'm not making
+
+104
+00:07:47,266 --> 00:07:49,869
+a PHI fix, I'm just making,
+
+105
+00:07:49,960 --> 00:07:53,571
+if you make just a number or formula, uhm,
+
+106
+00:07:53,582 --> 00:07:56,320
+or a field description fix,
+
+107
+00:07:56,389 --> 00:07:59,582
+then, then you don't need to re,
+
+108
+00:07:59,865 --> 00:08:03,306
+recreate the, the pub version and replace,
+
+109
+00:08:03,307 --> 00:08:07,480
+uhm, URLs. But you do need to,
+
+110
+00:08:07,481 --> 00:08:10,205
+eh, eh, eh, depending on what the change is,
+
+111
+00:08:11,770 --> 00:08:13,979
+there are a few changes I've made to the only pub,
+
+112
+00:08:14,009 --> 00:08:16,351
+only to the pub version just for expediency.
+
+113
+00:08:16,352 --> 00:08:19,800
+This one I'm going to make to all three of the Google Sheets,
+
+114
+00:08:19,801 --> 00:08:23,938
+the PHI, by the DEID and the DEID pub.
+
+115
+00:08:24,543 --> 00:08:26,581
+So I've made them all. So the, the pub ones,
+
+116
+00:08:26,582 --> 00:08:30,370
+and now I'm going to go through and make them all here.
+
+117
+00:08:31,214 --> 00:08:35,073
+Should be fast. I just click. Oops.
+
+118
+00:08:35,074 --> 00:08:37,776
+I just exposed some PHI with,
+
+119
+00:08:37,777 --> 00:08:40,537
+it's just email addresses. Um,
+
+120
+00:08:40,548 --> 00:08:43,357
+and that's because I clicked on the wrong file.
+
+121
+00:08:43,731 --> 00:08:46,758
+Okay. Here's this.
+
+122
+00:08:48,668 --> 00:08:50,895
+So you gotta be careful. Here. Okay. PHI. Okay.
+
+123
+00:08:50,896 --> 00:08:52,753
+Got to go
+
+124
+00:08:57,738 --> 00:08:59,779
+all the way over here to this one. Okay. And this one.
+
+125
+00:09:05,468 --> 00:09:08,461
+Okay. So I set these up so it would already be on the stats
+
+126
+00:09:08,462 --> 00:09:13,787
+tab. This one. Thank you. I
+
+127
+00:09:13,788 --> 00:09:16,184
+should be counting these. That's 1,
+
+128
+00:09:16,185 --> 00:09:19,091
+2, 3, 4,
+
+129
+00:09:19,092 --> 00:09:21,998
+5, 6, 7,
+
+130
+00:09:21,999 --> 00:09:37,512
+8, 9, and 10.
+
+131
+00:09:37,513 --> 00:09:42,512
+Okay.
+
+132
+00:09:43,342 --> 00:09:46,753
+Now, what I need to do is,
+
+133
+00:09:49,334 --> 00:09:52,116
+I'm going to go through one by one.
+
+134
+00:09:53,300 --> 00:09:59,014
+I'm just going to go through them in this order and this
+
+135
+00:09:59,015 --> 00:10:04,063
+is the folder that the non,
+
+136
+00:10:04,064 --> 00:10:09,063
+uh,
+
+137
+00:10:09,660 --> 00:10:12,550
+non-PubDEID version. Now, these actually should,
+
+138
+00:10:12,551 --> 00:10:16,687
+um, not have any PHI and I'll just click right over to it anyway.
+
+139
+00:10:16,688 --> 00:10:19,846
+So I should just be able to do this on camera. Okay,
+
+140
+00:10:20,117 --> 00:10:22,684
+so I did that. That's done.
+
+141
+00:10:22,685 --> 00:10:25,675
+It's not a broom. I don't know. Okay.
+
+142
+00:10:25,676 --> 00:10:28,900
+This is tedious, right? But shouldn't take too long.
+
+143
+00:10:28,901 --> 00:10:34,907
+Just got to make sure
+
+144
+00:10:34,908 --> 00:10:41,557
+I put it the right
+
+145
+00:10:41,558 --> 00:10:43,932
+file.
+
+146
+00:10:43,933 --> 00:10:47,474
+Oh, I'm going to need to replace these XLS files.
+
+147
+00:10:32,093 --> 00:10:37,093
+Um,
+
+148
+00:10:58,625 --> 00:10:58,848
+Okay, I just need to stay focused on this task.
+
+149
+00:11:27,669 --> 00:11:34,460
+This is a big one. I'm not worried
+
+150
+00:11:34,461 --> 00:11:36,593
+that this number, that this is red now.
+
+151
+00:11:36,594 --> 00:11:38,757
+It's interesting that these are showing true,
+
+152
+00:11:38,758 --> 00:11:41,087
+but it's still red. Uhm,
+
+153
+00:11:41,097 --> 00:11:44,797
+because I did make some changes, uhm,
+
+154
+00:11:44,808 --> 00:11:46,977
+to some formulas. These yellow ones and some other things.
+
+155
+00:11:46,978 --> 00:11:47,862
+Count if false. Oh, there's some false ones down
+
+156
+00:12:01,931 --> 00:12:06,030
+I stopped paying attention to this a little while ago because I just didn't
+
+157
+00:12:06,031 --> 00:12:12,237
+want to keep it updated. Go back
+
+158
+00:12:12,238 --> 00:12:15,326
+here. Here.
+
+159
+00:12:15,648 --> 00:12:21,975
+Now this one. Uh,
+
+160
+00:12:21,986 --> 00:12:27,178
+it looks like I don't have the non-DEID
+
+161
+00:12:27,211 --> 00:12:30,152
+version for Davey because it's kind of like a weird one.
+
+162
+00:12:30,516 --> 00:12:33,485
+And I think there's not PHI in here anyway,
+
+163
+00:12:33,486 --> 00:12:35,526
+except for like some email address for,
+
+164
+00:12:35,527 --> 00:12:39,386
+uhm,
+
+165
+00:12:39,397 --> 00:12:43,896
+the admin. So I think that one is okay I don't have that one
+
+166
+00:12:44,046 --> 00:12:57,347
+okay that's important to remember okay close
+
+167
+00:12:57,348 --> 00:13:02,448
+this part
+
+168
+00:13:02,449 --> 00:13:07,155
+of the reason I'm showing this is because just this one
+
+169
+00:13:07,156 --> 00:13:11,804
+also doesn't have that it's just has the two and so I
+
+170
+00:13:11,805 --> 00:13:15,311
+think that's gonna be the case for Kent as well Yeah,
+
+171
+00:13:15,429 --> 00:13:22,002
+Kent. It's the same as FTC They're
+
+172
+00:13:22,003 --> 00:13:26,395
+weirdos. This one will have it and I think the next one will as
+
+173
+00:13:26,396 --> 00:13:42,320
+well One
+
+174
+00:13:42,321 --> 00:13:43,011
+more
+
+175
+00:13:57,886 --> 00:14:00,913
+Okay, now what I need to do is I need to go through all
+
+176
+00:14:00,914 --> 00:14:05,429
+these And I need to download their
+
+177
+00:14:05,598 --> 00:14:10,482
+xlsx One
+
+178
+00:14:12,560 --> 00:14:15,407
+Two I shouldn't have to count these, they're just going to be sitting in
+
+179
+00:14:15,408 --> 00:14:15,770
+that This is only four
+
+180
+00:14:26,320 --> 00:14:31,038
+Or, the one I just changed Remember Davy is the weird
+
+181
+00:14:31,039 --> 00:14:38,662
+one Where the stats and the weekly are in the RSR,
+
+182
+00:14:38,663 --> 00:14:43,587
+that runs Summary Report This
+
+183
+00:14:43,588 --> 00:14:45,655
+one takes a while because it's big,
+
+184
+00:14:45,720 --> 00:14:49,680
+Coral Springs, but I'm pretty sure I can just keep going on the other
+
+185
+00:14:49,681 --> 00:14:53,023
+ones and it'll catch up Last one.
+
+186
+00:16:02,576 --> 00:16:07,441
+Okay, hang on a sec. I'm just sorting out the Downloads folder.
+
+187
+00:16:09,077 --> 00:16:13,614
+So, I got one that is labeled 1 here that I
+
+188
+00:16:13,672 --> 00:16:17,133
+gotta go find it. The old version.
+
+189
+00:16:19,280 --> 00:16:21,949
+Okay, it looks like that one was just a duplicate download from today,
+
+190
+00:16:21,950 --> 00:16:24,657
+so I deleted the one with the parentheses 1. Okay,
+
+191
+00:16:24,658 --> 00:16:29,151
+so these are now all ready to get downloaded. It dragged over into Cursor,
+
+192
+00:16:29,811 --> 00:16:34,349
+and I don't have a way to parse them to
+
+193
+00:16:34,350 --> 00:16:37,819
+get them to be where they're gonna, supposed to go.
+
+194
+00:16:37,820 --> 00:16:40,191
+I could write a script for this, but I'm just gonna do it manually,
+
+195
+00:16:40,192 --> 00:16:42,959
+cause this might be the last time I'm doing it.
+
+196
+00:16:43,331 --> 00:16:45,869
+Okay, so now, uhm,
+
+197
+00:16:45,879 --> 00:16:48,737
+they're gonna go, start with the Brome.
+
+198
+00:16:49,643 --> 00:16:54,473
+There's an XLS. Here's a
+
+199
+00:16:54,474 --> 00:16:56,650
+curated, uh, this is old.
+
+200
+00:16:57,627 --> 00:16:58,985
+Okay, it's right here.
+
+201
+00:17:03,385 --> 00:17:06,075
+So I'm gonna get the Brome one, and I'm gonna put it here.
+
+202
+00:17:06,743 --> 00:17:09,048
+Replace. Uh,
+
+203
+00:17:09,059 --> 00:17:13,057
+close it. Okay,
+
+204
+00:17:13,058 --> 00:17:16,511
+oops. And the Bend.
+
+205
+00:17:16,512 --> 00:17:20,238
+Uh, let's just close that.
+
+206
+00:17:20,239 --> 00:17:22,296
+Let's just open the one that I'm doing.
+
+207
+00:17:23,766 --> 00:17:25,846
+Let's give myself a little bit bigger target here.
+
+208
+00:17:26,687 --> 00:17:30,777
+Bend. I was gonna do this very often.
+
+209
+00:17:30,778 --> 00:17:36,092
+This would be nice, be nice to automate. So
+
+210
+00:17:36,093 --> 00:17:38,832
+I can see here, that change was automatic.
+
+211
+00:17:38,833 --> 00:17:42,276
+Under, it's this one here.
+
+212
+00:17:42,277 --> 00:17:44,760
+So you can see the changes there. Okay.
+
+213
+00:17:44,761 --> 00:17:49,398
+That can get closed. This one can get opened.
+
+214
+00:17:50,635 --> 00:17:57,076
+That can get opened. Combate can get added. That should replace one.
+
+215
+00:17:57,077 --> 00:18:00,056
+Replace it. All right,
+
+216
+00:18:00,057 --> 00:18:02,891
+let's close one of them.
+
+217
+00:18:02,892 --> 00:18:05,956
+Crossrings. Again,
+
+218
+00:18:05,957 --> 00:18:10,242
+tedious. Just gonna make sure.
+
+219
+00:18:11,180 --> 00:18:14,347
+The check is that when you drag it in, it says replace.
+
+220
+00:18:14,965 --> 00:18:16,768
+If you get the wrong one, it'll just add it.
+
+221
+00:18:21,533 --> 00:18:23,959
+Okay. There we go. Now, Now,
+
+222
+00:18:23,960 --> 00:18:26,534
+CRLN is derivative.
+
+223
+00:18:26,535 --> 00:18:28,682
+That would explain gets created from FLNP,
+
+224
+00:18:28,683 --> 00:18:32,312
+FLSP, and FL, and CRLN get created from FLNP.
+
+225
+00:18:32,313 --> 00:18:34,882
+So there's not, there is no XLSX in here. Uh, okay. XLSX.
+
+226
+00:18:34,883 --> 00:18:50,949
+Uh-huh. Which one is this? Davey. Come down Down
+
+227
+00:18:50,950 --> 00:18:53,721
+here my spot right here. Replace.
+
+228
+00:18:54,191 --> 00:18:56,845
+Bingo. Okay.
+
+229
+00:18:58,466 --> 00:19:01,163
+Okay, I can close Davey,
+
+230
+00:19:03,914 --> 00:19:05,668
+FLNP.
+
+231
+00:19:15,088 --> 00:19:20,126
+Where are the XLS?
+
+232
+00:19:20,127 --> 00:19:22,422
+Not right there. Okay. Replace. Close these. Okay. That's done.
+
+233
+00:19:23,811 --> 00:19:35,683
+There's There.
+
+234
+00:19:35,684 --> 00:19:40,683
+Replace.
+
+235
+00:19:50,406 --> 00:19:55,586
+Okay, three more.
+
+236
+00:20:03,211 --> 00:20:06,084
+Replace.
+
+237
+00:20:07,854 --> 00:20:33,160
+Replace. Okay,
+
+238
+00:20:33,161 --> 00:20:37,531
+now we are in Codeland.
+
+239
+00:20:38,288 --> 00:20:51,339
+Which is great. Uhm.
+
+240
+00:20:51,340 --> 00:20:54,495
+What file is this here? Okay. Close all these. Okay, uhm. So,
+
+241
+00:20:54,496 --> 00:20:58,136
+if we come up here, close down all these,
+
+242
+00:20:58,137 --> 00:20:59,589
+now, you'll see there are three,
+
+243
+00:21:05,723 --> 00:21:07,460
+I think there should be three.
+
+244
+00:21:15,403 --> 00:21:19,060
+Uh, I don't need to change these, these are those lookups that I mentioned,
+
+245
+00:21:19,061 --> 00:21:22,887
+which you can just export as CSV and drag over if the URLs change.
+
+246
+00:21:22,888 --> 00:21:28,735
+And again, you wouldn't need to change this one if you
+
+247
+00:21:28,736 --> 00:21:32,894
+blew out the Google SheetPub and created a new one and you get a
+
+248
+00:21:32,895 --> 00:21:35,208
+new link, but I don't need to do that.
+
+249
+00:21:36,902 --> 00:21:44,051
+Okay, so now there are four
+
+250
+00:21:44,052 --> 00:21:46,760
+Python files that we're gonna need to get into.
+
+251
+00:21:47,452 --> 00:21:50,043
+So the first one is to create the,
+
+252
+00:21:49,675 --> 00:21:52,074
+the CSVs. Okay,
+
+253
+00:21:52,075 --> 00:21:55,246
+I don't need to open that over here. It should already be open over
+
+254
+00:21:55,247 --> 00:21:58,173
+here. This one,
+
+255
+00:21:58,174 --> 00:22:03,349
+this one with the ugly name. Um,
+
+256
+00:22:03,360 --> 00:22:06,002
+right. Insight, Curate, Verify, Manifest.
+
+257
+00:22:06,262 --> 00:22:09,020
+Is this it? Yeah, this is it.
+
+258
+00:22:09,439 --> 00:22:11,898
+Okay, sure, it should be just set up to run.
+
+259
+00:22:17,617 --> 00:22:20,161
+Okay, so let's do this.
+
+260
+00:22:21,647 --> 00:22:24,727
+It's, you can uncomment this one to just run a single one,
+
+261
+00:22:24,728 --> 00:22:27,035
+but we're gonna run one, two, three,
+
+262
+00:22:27,036 --> 00:22:29,205
+four, five. six, seven,
+
+263
+00:22:29,206 --> 00:22:31,225
+eight, nine. All of them except Floodlamp.
+
+264
+00:22:31,226 --> 00:22:53,656
+So let's run them. This, this might to
+
+265
+00:22:53,657 --> 00:22:58,482
+this as it comes up. It should be verifying,
+
+266
+00:22:58,483 --> 00:22:59,075
+uhm, as it goes. I guess we should be looking
+
+267
+00:23:06,909 --> 00:23:10,093
+at this maybe. The Verify Pass,
+
+268
+00:23:10,094 --> 00:23:12,290
+Pass. I mean, I should accumulate this,
+
+269
+00:23:12,291 --> 00:23:14,827
+uhm,
+
+270
+00:23:14,838 --> 00:23:17,562
+many of these contain missing.
+
+271
+00:23:17,563 --> 00:23:24,263
+This is just showing us which ones are there. Uhm,
+
+272
+00:23:24,274 --> 00:23:44,291
+let's check the Verify. This
+
+273
+00:23:44,292 --> 00:23:50,150
+worries me a little bit. Uh,
+
+274
+00:23:50,161 --> 00:23:53,504
+Weekly Summary Not- Weekly Sheet Not Found.
+
+275
+00:23:54,047 --> 00:24:06,807
+Which one is this for? Okay,
+
+276
+00:24:06,808 --> 00:24:11,786
+I'm seeing here that it's saying- all- all these normal ones are-
+
+277
+00:24:11,787 --> 00:24:14,161
+like, the normal ones are Abroam, Ben,
+
+278
+00:24:14,162 --> 00:24:16,517
+Combate, uh,
+
+279
+00:24:16,528 --> 00:24:20,150
+Fudlamp, Needem, although- actually,
+
+280
+00:24:20,156 --> 00:24:22,301
+you know, Abroam, Ben,
+
+281
+00:24:22,302 --> 00:24:24,535
+and Combate are the most normal. So,
+
+282
+00:24:24,536 --> 00:24:26,710
+I'm seeing this Skip APS Weekly,
+
+283
+00:24:26,711 --> 00:24:31,236
+Weekly Sheet Not Found. I think that's probably just a bug in that
+
+284
+00:24:31,237 --> 00:24:36,497
+it's not looking for the Ref Weekly, but I'm just gonna ask AI this,
+
+285
+00:24:37,201 --> 00:24:42,916
+so I'm gonna do Command-L,
+
+286
+00:24:44,036 --> 00:24:48,764
+gonna do a new thread, I'm gonna paste this in from
+
+287
+00:24:48,765 --> 00:24:50,806
+the terminal, I'm gonna drag this over,
+
+288
+00:24:50,807 --> 00:24:52,932
+Thank very I'm gonna say,
+
+289
+00:24:53,819 --> 00:24:56,915
+okay, I'm running this, uhm,
+
+290
+00:24:56,926 --> 00:25:00,630
+Python module to create the curated CSVs,
+
+291
+00:25:00,802 --> 00:25:05,775
+and I'm seeing in the verification step that it's showing
+
+292
+00:25:05,776 --> 00:25:09,422
+that it's skipping the verification on the,
+
+293
+00:25:09,423 --> 00:25:11,490
+uhm,
+
+294
+00:25:11,501 --> 00:25:16,048
+Weekly Summaries.
+
+295
+00:25:16,049 --> 00:25:19,299
+CSV, because it's not,
+
+296
+00:25:19,354 --> 00:25:24,423
+Weekly Sheet isn't found. It said it tried RefWeekly first.
+
+297
+00:25:24,424 --> 00:25:29,423
+Uhm,
+
+298
+00:25:29,935 --> 00:25:32,121
+so, explain what's going on with that.
+
+299
+00:25:32,122 --> 00:25:36,167
+I think this code is working. I mean, I think it,
+
+300
+00:25:36,264 --> 00:25:40,107
+this code is correctly creating the Weekly Summary CSV.
+
+301
+00:25:40,108 --> 00:25:43,633
+It's just, something's wrong with that verification.
+
+302
+00:25:43,990 --> 00:25:47,208
+So, uh,
+
+303
+00:25:47,218 --> 00:25:51,193
+what is that, and what needs to be done to fix it.
+
+304
+00:25:51,389 --> 00:25:51,707
+Yeah, I don't want to,
+
+305
+00:26:04,171 --> 00:26:08,371
+I don't want to troubleshoot, and I don't want to try to improve this
+
+306
+00:26:08,372 --> 00:26:10,626
+code too much, because, you know,
+
+307
+00:26:10,627 --> 00:26:13,964
+it's working, this is a one-off thing,
+
+308
+00:26:13,965 --> 00:26:17,424
+it's, it's not gonna, you know,
+
+309
+00:26:17,562 --> 00:26:20,702
+this is not gonna be put into production, or run again on any other
+
+310
+00:26:20,703 --> 00:26:24,919
+files, so it just needs to work to serve its purpose here,
+
+311
+00:26:24,920 --> 00:26:28,245
+and it's okay if it's a little clunky.
+
+312
+00:26:28,246 --> 00:26:30,815
+Uhm, so,
+
+313
+00:26:30,816 --> 00:26:32,739
+I'm just gonna proceed, we'll come back and take a look at this in
+
+314
+00:26:32,740 --> 00:26:33,528
+a second, uhm, and, uhm, just scanning these, you know, verify and pass, I
+
+315
+00:26:33,529 --> 00:26:37,164
+mean, I've run this a bunch and not looked at these,
+
+316
+00:26:37,165 --> 00:26:38,619
+and I guess I didn't notice that before.
+
+317
+00:26:52,299 --> 00:26:56,958
+So, what this did
+
+318
+00:26:56,959 --> 00:27:03,403
+was this went and you can see that
+
+319
+00:27:03,404 --> 00:27:07,641
+the only file that's changed here, I think it recreated and wrote over all
+
+320
+00:27:07,642 --> 00:27:09,891
+these files, but they're, you know,
+
+321
+00:27:09,892 --> 00:27:13,175
+byte, byte for byte, identical, except for this one,
+
+322
+00:27:13,846 --> 00:27:15,942
+and now this one should have the change we made,
+
+323
+00:27:15,943 --> 00:27:19,764
+and that's is down here, uh,
+
+324
+00:27:19,774 --> 00:27:22,854
+which we gotta go back and look.
+
+325
+00:27:26,248 --> 00:27:29,646
+Okay, it's the second one under Referrals and Respondent,
+
+326
+00:27:29,788 --> 00:27:33,793
+Number of Referral Confirmed Floodlamp Positives.
+
+327
+00:27:33,882 --> 00:27:38,454
+That's what we're looking for. I'm pretty certain it's there.
+
+328
+00:27:40,427 --> 00:27:44,137
+Number of Referral Confirmed Floodlamp Positives.
+
+329
+00:27:44,138 --> 00:27:49,227
+Okay, that's right over here. And it's in line 45.
+
+330
+00:27:49,228 --> 00:27:52,864
+Okay. And I'm not gonna go bother going to check this on all of
+
+331
+00:27:52,865 --> 00:27:54,991
+them. It, it should be there.
+
+332
+00:27:54,992 --> 00:27:59,401
+Uhm, you can see it's here,
+
+333
+00:28:00,315 --> 00:28:03,440
+yeah. Okay,
+
+334
+00:28:03,441 --> 00:28:05,482
+so this one hasn't changed at this aggregate,
+
+335
+00:28:05,483 --> 00:28:08,169
+and you'll see why here in a second. Okay,
+
+336
+00:28:08,170 --> 00:28:14,161
+so, uhm, for these, uh,
+
+337
+00:28:14,172 --> 00:28:18,383
+four Python modules, these create the CSVs,
+
+338
+00:28:18,384 --> 00:28:22,424
+so now I need to run Floodlamp, because you'll also see if we come
+
+339
+00:28:22,425 --> 00:28:26,982
+over here to this, this one hasn't changed
+
+340
+00:28:26,983 --> 00:28:29,788
+yet, but it should be after we run this.
+
+341
+00:28:34,145 --> 00:28:38,054
+This one's a special version for FLMP,
+
+342
+00:28:38,055 --> 00:28:41,184
+because FLMP contains the two programs,
+
+343
+00:28:41,185 --> 00:28:43,641
+CRLN and FLSP.
+
+344
+00:28:52,619 --> 00:28:57,297
+Okay,
+
+345
+00:28:57,312 --> 00:28:59,451
+done. Look, that got created.
+
+346
+00:29:00,734 --> 00:29:04,219
+Okay, so we're good there.
+
+347
+00:29:04,220 --> 00:29:08,055
+Let's just check this one. Close.
+
+348
+00:29:15,259 --> 00:29:17,280
+Referral confirmed, FLMP positive. There it is.
+
+349
+00:29:17,281 --> 00:29:21,063
+Okay, great. So now we've run two of
+
+350
+00:29:25,502 --> 00:29:30,191
+two of these, and now this gets a little fuzzy for
+
+351
+00:29:30,192 --> 00:29:34,648
+me because I haven't done this kind of end-to-end before.
+
+352
+00:29:34,649 --> 00:29:39,606
+Uhm,
+
+353
+00:29:39,616 --> 00:29:41,989
+I think we can run this one now.
+
+354
+00:29:43,300 --> 00:29:45,220
+Okay, this one should
+
+355
+00:29:51,168 --> 00:29:53,728
+do the aggregate and do the markdowns.
+
+356
+00:29:55,294 --> 00:29:59,730
+And these could be combined to do all of these additional steps in a
+
+357
+00:29:59,731 --> 00:30:04,811
+row, but I don't think it's worth it to,
+
+358
+00:30:04,812 --> 00:30:07,300
+,change the code and do that.
+
+359
+00:30:07,812 --> 00:30:10,819
+Okay, so what this created is this zips file,
+
+360
+00:30:12,845 --> 00:30:16,752
+,er, folder, which contains all the zips and CSVs and the XLS and then
+
+361
+00:30:16,753 --> 00:30:19,640
+combines them. Notice aggregate's not in here.
+
+362
+00:30:20,521 --> 00:30:22,803
+It has now made the aggregate folder,
+
+363
+00:30:24,519 --> 00:30:26,630
+,here. And now,
+
+364
+00:30:26,631 --> 00:30:28,880
+again, this is,
+
+365
+00:30:28,881 --> 00:30:31,972
+,this, this has changed. That's interesting.
+
+366
+00:30:31,973 --> 00:30:34,621
+Data summary. Oh yeah,
+
+367
+00:30:34,622 --> 00:30:38,199
+I think this... Oh,
+
+368
+00:30:38,200 --> 00:30:40,234
+that's a markdown. Okay, great.
+
+369
+00:30:40,491 --> 00:30:45,422
+So, ,this
+
+370
+00:30:45,423 --> 00:30:46,440
+one's changed.
+
+371
+00:30:51,345 --> 00:30:56,581
+It's gonna be that same one. Oh,
+
+372
+00:30:56,582 --> 00:30:59,096
+ooh, that's interesting.
+
+373
+00:30:59,097 --> 00:31:01,131
+This one didn't change yet.
+
+374
+00:31:02,147 --> 00:31:02,657
+Why not?
+
+375
+00:31:17,003 --> 00:31:19,183
+See, it's good to spot-check this stuff.
+
+376
+00:31:19,184 --> 00:31:24,183
+Let
+
+377
+00:31:35,412 --> 00:31:39,941
+me troubleshoot this a second. I'm gonna come over here to Source Control and
+
+378
+00:31:40,401 --> 00:31:45,017
+look at that. Okay, before I come back
+
+379
+00:31:45,018 --> 00:31:47,176
+to troubleshoot the aggregate one,
+
+380
+00:31:47,177 --> 00:31:49,628
+uhm,
+
+381
+00:31:49,639 --> 00:31:53,815
+this is finished and I can see what's going on here.
+
+382
+00:31:54,600 --> 00:31:59,906
+It's getting the weekly summary from the RFR instead of from the APS because
+
+383
+00:31:59,907 --> 00:32:04,104
+the sheet names are incorrect here for what it should be looking for.
+
+384
+00:32:04,398 --> 00:32:06,790
+Bye. The,
+
+385
+00:32:07,353 --> 00:32:09,338
+the, uhm, this weekly,
+
+386
+00:32:14,091 --> 00:32:18,789
+like if we go to one
+
+387
+00:32:18,790 --> 00:32:21,598
+of the normal ones, Combate or Brome,
+
+388
+00:32:21,599 --> 00:32:26,408
+this is drawing from,
+
+389
+00:32:27,077 --> 00:32:29,195
+from the RFR anyway.
+
+390
+00:32:29,196 --> 00:32:32,452
+So it's the same, but the code,
+
+391
+00:32:32,453 --> 00:32:38,551
+I wanted the code to pull
+
+392
+00:32:38,552 --> 00:32:39,062
+from the APS.
+
+393
+00:32:53,259 --> 00:32:55,664
+Weekly.
+
+394
+00:32:56,632 --> 00:33:00,068
+There we go. And then we don't need this one.
+
+395
+00:33:00,513 --> 00:33:03,222
+It shouldn't be lowercase.
+
+396
+00:33:03,223 --> 00:33:06,689
+We're gonna just force it to be what they actually are.
+
+397
+00:33:07,699 --> 00:33:11,400
+Okay. I'm not even gonna run that again to test it because it doesn't
+
+398
+00:33:11,401 --> 00:33:13,692
+matter. Okay,
+
+399
+00:33:13,693 --> 00:33:17,278
+so now, why is aggregate 1?
+
+400
+00:33:17,323 --> 00:33:20,076
+Not getting the update.
+
+401
+00:33:21,436 --> 00:33:25,111
+I'm just gonna ask AI. So,
+
+402
+00:33:25,112 --> 00:33:27,292
+I'm gonna give it this file.
+
+403
+00:34:05,451 --> 00:34:09,657
+And I'll give it, for the other one,
+
+404
+00:34:09,658 --> 00:34:36,770
+a Brome. Okay,
+
+405
+00:34:36,771 --> 00:34:38,887
+I'm troubleshooting a, uhm,
+
+406
+00:34:38,897 --> 00:34:40,923
+propagation of a change through this,
+
+407
+00:34:40,924 --> 00:34:43,301
+uhm,
+
+408
+00:34:43,311 --> 00:34:46,041
+data pilot's data processing pipeline,
+
+409
+00:34:46,042 --> 00:34:51,297
+and I've updated one of the metric,
+
+410
+00:34:51,298 --> 00:34:54,090
+uhm, descriptions for why one of the,
+
+411
+00:34:54,091 --> 00:34:58,515
+one of these fields, it's the second one down in the section that's called,
+
+412
+00:34:58,516 --> 00:35:01,170
+uhm,
+
+413
+00:35:01,181 --> 00:35:03,792
+referrals and correspondence.
+
+414
+00:35:04,743 --> 00:35:11,330
+And I changed agree positives
+
+415
+00:35:14,594 --> 00:35:18,778
+to number of referral confirmed floodlamp positives.
+
+416
+00:35:19,343 --> 00:35:21,966
+And everything's been working.
+
+417
+00:35:21,967 --> 00:35:24,525
+I'm seeing it propagate to the individual sites and it,
+
+418
+00:35:24,653 --> 00:35:28,833
+and it propagates to this StatsKeyValues.csv.
+
+419
+00:35:29,035 --> 00:35:32,058
+So I've included one of those here.
+
+420
+00:35:32,059 --> 00:35:35,496
+I mean, that's the ABRM one.
+
+421
+00:35:36,029 --> 00:35:39,841
+And it, so it's making its way through to the StatsKeyValues.csv.
+
+422
+00:35:39,842 --> 00:35:42,314
+That's all correct. But now, I want I ran,
+
+423
+00:35:42,315 --> 00:35:45,652
+uhm,
+
+424
+00:35:45,662 --> 00:35:49,842
+I ran the, uhm,
+
+425
+00:35:49,852 --> 00:35:53,627
+the ZipPilotData with Markdown and AggregatePythonModule.
+
+426
+00:35:53,628 --> 00:35:56,045
+Uhm, And it,
+
+427
+00:35:56,390 --> 00:35:59,116
+what I ran in that is this,
+
+428
+00:35:59,117 --> 00:36:03,629
+get
+
+429
+00:36:03,630 --> 00:36:05,771
+this out of the way.
+
+430
+00:36:05,772 --> 00:36:10,366
+This PilotDataPipeline with everything equal
+
+431
+00:36:10,367 --> 00:36:13,709
+to true, here I'll paste in that section so you can focus on it.
+
+432
+00:36:14,230 --> 00:36:19,679
+And this should create the aggregate, and it
+
+433
+00:36:19,680 --> 00:36:24,749
+should overwrite the one that's there, and it should have the new updated,
+
+434
+00:36:24,750 --> 00:36:27,052
+uhm,
+
+435
+00:36:27,063 --> 00:36:29,840
+metric that I changed, but it doesn't.
+
+436
+00:36:29,841 --> 00:36:32,617
+So, uhm,
+
+437
+00:36:32,628 --> 00:36:36,100
+let me include that aggregate one that doesn't have it.
+
+438
+00:36:36,907 --> 00:36:39,619
+Yep, this one still has agree positives.
+
+439
+00:36:40,244 --> 00:36:42,998
+Although, interestingly, it is showing up as changed.
+
+440
+00:36:43,859 --> 00:36:46,147
+So I don't know why that is. So,
+
+441
+00:36:46,148 --> 00:36:49,811
+tell me why that change isn't propagating through to the aggregate.
+
+442
+00:36:50,789 --> 00:36:53,899
+I mean, I could try deleting the CSV and re-use it.
+
+443
+00:36:53,900 --> 00:36:56,226
+Rerunning it, but I shouldn't have to do that.
+
+444
+00:36:56,582 --> 00:36:58,700
+So, tell me, tell me what's going on here.
+
+445
+00:36:59,162 --> 00:37:01,884
+And if a change needs to be made to the code, make a change.
+
+446
+00:37:01,885 --> 00:37:04,992
+But make it be a super targeted change. Because I don't want to risk
+
+447
+00:37:04,993 --> 00:37:07,304
+breaking anything in this Python module.
+
+448
+00:37:07,564 --> 00:37:08,445
+Okay, do it.
+
+449
+00:37:12,906 --> 00:37:15,002
+Alright, I'll pause it and wait for this response.
+
+450
+00:37:16,882 --> 00:37:23,456
+Okay, let's check this out. So
+
+451
+00:37:23,457 --> 00:37:25,671
+the broom file has a new metric name,
+
+452
+00:37:25,672 --> 00:37:27,854
+number of referral confirmed positives.
+
+453
+00:37:28,308 --> 00:37:31,202
+Okay. Oh,
+
+454
+00:37:31,858 --> 00:37:33,982
+it's a hardcoded metric definition?
+
+455
+00:37:33,983 --> 00:37:37,469
+Huh. Okay,
+
+456
+00:37:37,470 --> 00:37:40,513
+well,
+
+457
+00:37:40,514 --> 00:37:46,601
+some things
+
+458
+00:37:46,602 --> 00:37:55,124
+were hardcoded.
+
+459
+00:37:55,125 --> 00:38:01,823
+Uh, you know,
+
+460
+00:38:01,824 --> 00:38:04,475
+I'm just gonna, again,
+
+461
+00:38:04,476 --> 00:38:08,149
+we're not trying to, win any awards for this code here,
+
+462
+00:38:08,670 --> 00:38:15,548
+so I'm just gonna let
+
+463
+00:38:15,549 --> 00:38:18,490
+it fix it and deal with it being hardcoded.
+
+464
+00:38:18,491 --> 00:38:23,726
+Now, you know, we might have this
+
+465
+00:38:25,398 --> 00:38:30,155
+update based on what's in the files.
+
+466
+00:38:30,156 --> 00:38:36,658
+Uhm, uhm.
+
+467
+00:38:36,659 --> 00:38:41,658
+I'm
+
+468
+00:38:55,850 --> 00:38:59,624
+debating, I mean, how, what I could do is have it modify the code
+
+469
+00:38:59,625 --> 00:39:04,534
+to compare to see if those are all the same across
+
+470
+00:39:04,535 --> 00:39:08,025
+all the sites, confirm that they are,
+
+471
+00:39:08,549 --> 00:39:12,813
+and then use that instead of the hard-coded version.
+
+472
+00:39:12,814 --> 00:39:17,813
+Uhm.
+
+473
+00:39:18,283 --> 00:39:23,086
+Maybe I'll have it make an extra little module to
+
+474
+00:39:23,087 --> 00:39:26,685
+do that and just run that.
+
+475
+00:39:27,420 --> 00:39:31,269
+That seems like a good middle ground between doing it the right way and
+
+476
+00:39:31,270 --> 00:39:36,493
+doing it a kludged but wait
+
+477
+00:39:36,494 --> 00:39:41,632
+it's not changing this too much so let
+
+478
+00:39:41,633 --> 00:39:44,290
+me just make sure sure that it's fixed.
+
+479
+00:39:46,257 --> 00:39:53,222
+Yeah, okay, good, it's fixed now. Uhm,
+
+480
+00:39:53,233 --> 00:39:57,007
+okay, I accepted that change and it did fix it but it's a bit
+
+481
+00:39:57,008 --> 00:40:00,045
+of a kludged thing to have these just hardcoded in there because as you
+
+482
+00:40:00,046 --> 00:40:02,716
+can see I changed it and then it doesn't propagate and I don't know
+
+483
+00:40:02,717 --> 00:40:06,411
+that. So, what I'd like you to do is,
+
+484
+00:40:06,412 --> 00:40:09,950
+I want you to create an additional function,
+
+485
+00:40:09,951 --> 00:40:13,000
+uhm,
+
+486
+00:40:13,010 --> 00:40:18,401
+and you can put it right before the RunPilotDataPipeline
+
+487
+00:40:18,730 --> 00:40:23,114
+and what I want this one to do is to check all of these
+
+488
+00:40:23,719 --> 00:40:29,915
+metrics in the StatsKeyValues.csv
+
+489
+00:40:29,916 --> 00:40:34,750
+for all of the sites and it
+
+490
+00:40:34,751 --> 00:40:40,782
+should check that, uhm, all the metrics,
+
+491
+00:40:40,958 --> 00:40:45,495
+the section and the metrics are the same
+
+492
+00:40:47,120 --> 00:40:49,997
+and this, there's going to have to be one exception and I think that's
+
+493
+00:40:49,998 --> 00:40:54,544
+for FLMP key, which has an extra.
+
+494
+00:40:54,545 --> 00:40:59,864
+Section called
+
+495
+00:40:59,865 --> 00:41:03,772
+Pooling at the end. So ignore the section Pooling,
+
+496
+00:41:03,773 --> 00:41:06,224
+uhm, in FLMP.
+
+497
+00:41:06,225 --> 00:41:09,412
+Uhm,
+
+498
+00:41:09,423 --> 00:41:15,148
+and what this little extra utility kind of function
+
+499
+00:41:15,149 --> 00:41:18,603
+should do is, uhm,
+
+500
+00:41:18,604 --> 00:41:23,342
+it should check that they're all the same,
+
+501
+00:41:23,343 --> 00:41:25,597
+and then, in the current CSVs,
+
+502
+00:41:25,598 --> 00:41:29,117
+and it should check that it's the same as the
+
+503
+00:41:38,059 --> 00:41:42,667
+I gotta see where, I don't even know where that's hardcoded.
+
+504
+00:41:42,668 --> 00:41:52,581
+I'm just
+
+505
+00:41:52,582 --> 00:41:54,832
+gonna search for this.
+
+506
+00:42:30,795 --> 00:42:37,384
+against that, and confirm
+
+507
+00:42:37,385 --> 00:42:40,649
+that it's all the same. And then,
+
+508
+00:42:41,316 --> 00:42:44,402
+let's just add, have this return a Boolean,
+
+509
+00:42:44,450 --> 00:42:47,280
+like, does this check pass, and if it passes,
+
+510
+00:42:48,022 --> 00:42:50,820
+then return true, if it doesn't pass, return false,
+
+511
+00:42:51,423 --> 00:42:54,501
+and so then let's just, again,
+
+512
+00:42:54,502 --> 00:42:59,171
+this is a bit of a kludge, but put in the run pilot data
+
+513
+00:42:59,172 --> 00:43:01,297
+pipeline, put doing this check,
+
+514
+00:43:01,887 --> 00:43:06,073
+and if the check fails, have it abort,
+
+515
+00:43:06,716 --> 00:43:11,779
+and report to the user to update the metrics
+
+516
+00:43:11,780 --> 00:43:15,649
+global dictionary, uhm,
+
+517
+00:43:15,660 --> 00:43:19,370
+and then report, you know, if there's a mismatch between the sites,
+
+518
+00:43:19,371 --> 00:43:22,521
+have it report that as well. Okay,
+
+519
+00:43:22,522 --> 00:43:25,261
+so that would be, just be a, yes, it's a kludge way to do
+
+520
+00:43:25,262 --> 00:43:29,041
+this, but, uhm, it should prevent this problem that we just had,
+
+521
+00:43:29,042 --> 00:43:33,069
+and be, you know, an acceptable path forward.
+
+522
+00:43:33,542 --> 00:43:34,350
+Okay, do that.
+
+523
+00:43:42,997 --> 00:43:47,529
+Uhm,
+
+524
+00:43:47,539 --> 00:43:49,746
+one of the things I'm doing right now with the code is I'm only
+
+525
+00:43:49,747 --> 00:43:51,937
+wanting it to really do additions,
+
+526
+00:43:52,268 --> 00:43:54,901
+and that ends up making it kind of kludged.
+
+527
+00:43:55,520 --> 00:43:59,406
+I don't want to, like, end up doing a significant refactor and change of
+
+528
+00:43:59,407 --> 00:44:03,466
+things, because this is working. Uhm,
+
+529
+00:44:03,467 --> 00:44:06,374
+and,
+
+530
+00:44:06,375 --> 00:44:10,905
+yeah. And this very
+
+531
+00:44:10,906 --> 00:44:14,002
+well may be the last time I run this code, and it very well
+
+532
+00:44:14,003 --> 00:44:18,262
+may be the last time anybody runs this code.
+
+533
+00:44:19,072 --> 00:44:21,817
+It very well may be the case that no human being ever runs this
+
+534
+00:44:21,818 --> 00:44:25,304
+code again. Uhm,
+
+535
+00:44:25,315 --> 00:44:29,953
+so, that argues for just getting this
+
+536
+00:44:29,954 --> 00:44:31,115
+done, even if it's a big change.
+
+537
+00:44:38,334 --> 00:44:40,620
+Okay. Okay, I'm updating my checklist here,
+
+538
+00:44:40,621 --> 00:44:45,167
+and while this is running, I'm going to read through what it says
+
+539
+00:44:45,168 --> 00:44:47,193
+here at the end. I like these summaries.
+
+540
+00:44:55,179 --> 00:44:59,419
+This looks like it's doing what I want.
+
+541
+00:44:59,852 --> 00:45:04,289
+I'm not sure why I made this, these metrics.
+
+542
+00:45:04,290 --> 00:45:09,289
+It's
+
+543
+00:45:21,153 --> 00:45:23,313
+a lot of extra code,
+
+544
+00:45:23,424 --> 00:45:28,092
+but that's okay. Run
+
+545
+00:45:28,093 --> 00:45:33,359
+PilotDataPipeline. It looks like these are just additions,
+
+546
+00:45:33,360 --> 00:45:34,349
+right? So it's
+
+547
+00:45:38,546 --> 00:45:41,084
+Okay, aggregates, Okay,
+
+548
+00:45:41,085 --> 00:45:42,939
+you know, I could have kept them. I don't know why I changed it
+
+549
+00:45:42,940 --> 00:45:47,454
+to aggregates. That's, I guess it's, Okay, uhm.
+
+550
+00:45:47,465 --> 00:45:47,966
+Uh-oh.
+
+551
+00:46:07,371 --> 00:46:09,434
+Oh,
+
+552
+00:46:09,435 --> 00:46:11,753
+crap.
+
+553
+00:46:11,754 --> 00:46:16,753
+Okay,
+
+554
+00:46:37,713 --> 00:46:38,931
+let me,
+
+555
+00:46:44,068 --> 00:46:48,408
+Okay, I was afraid of this. Uhm,
+
+556
+00:46:48,419 --> 00:46:50,983
+maybe there are more inconsistencies than I know.
+
+557
+00:46:50,984 --> 00:46:55,195
+And, gosh, I don't want to rerun this whole pipeline,
+
+558
+00:46:55,196 --> 00:46:58,793
+but, I do, These really should be consistent.
+
+559
+00:46:58,794 --> 00:47:03,388
+Uhm, so, look at this and see
+
+560
+00:47:03,389 --> 00:47:09,099
+what's going on. And,
+
+561
+00:47:09,100 --> 00:47:10,276
+troubleshoot this.
+
+562
+00:47:19,563 --> 00:47:23,878
+closer look at this as well, but I want you to help me understand
+
+563
+00:47:24,854 --> 00:47:28,508
+what's inconsistent here with these,
+
+564
+00:47:28,509 --> 00:47:31,587
+uh, you know, metric definitions and the stats.
+
+565
+00:47:32,861 --> 00:47:35,745
+Because I'm gonna have to go back to the Google Sheets to,
+
+566
+00:47:35,867 --> 00:47:38,088
+to look and to fix them and then propagate this.
+
+567
+00:47:38,089 --> 00:47:40,681
+Again, And this could take a while,
+
+568
+00:47:41,604 --> 00:47:43,632
+and I'm not excited about it, but these are.
+
+569
+00:47:43,633 --> 00:47:46,138
+These do need to be consistent.
+
+570
+00:47:50,434 --> 00:47:52,844
+At this point, they shouldn't be different among the Google Sheets.
+
+571
+00:48:07,691 --> 00:48:10,290
+Go back and make them all reference off the same thing,
+
+572
+00:48:11,734 --> 00:48:14,104
+which is maybe the best approach,
+
+573
+00:48:14,105 --> 00:48:17,350
+but I'm not excited about making that change.
+
+574
+00:48:17,351 --> 00:48:20,069
+So, uhm,
+
+575
+00:48:20,080 --> 00:48:22,700
+yeah, let's just look at this and see, see what's going on.
+
+576
+00:48:23,217 --> 00:48:24,888
+Tell me, tell me what's inconsistent.
+
+577
+00:48:31,755 --> 00:48:35,726
+Okay,
+
+578
+00:48:35,727 --> 00:48:38,120
+it looks like there are a number of things to fix here in terms
+
+579
+00:48:38,121 --> 00:48:41,073
+of getting these consistent. Uh,
+
+580
+00:48:41,084 --> 00:48:43,240
+some are typos in the Google Sheets,
+
+581
+00:48:43,491 --> 00:48:45,682
+and one of them has it correct.
+
+582
+00:48:45,762 --> 00:48:48,590
+Referrals misspelled. Average misspelled.
+
+583
+00:48:48,591 --> 00:48:51,682
+Uhm,
+
+584
+00:48:51,692 --> 00:48:53,788
+then it's reporting a structural inconsistency.
+
+585
+00:48:53,789 --> 00:48:55,819
+This worries me a little bit more. I gotta fix that.
+
+586
+00:48:55,820 --> 00:48:58,447
+You know,
+
+587
+00:48:58,448 --> 00:48:58,743
+before
+
+588
+00:49:07,565 --> 00:49:11,121
+I hit keep here, I'm gonna go check all the Google files.
+
+589
+00:49:13,195 --> 00:49:16,346
+And try to just get all these fixed and consistent.
+
+590
+00:49:17,939 --> 00:49:21,476
+So, let me do that. And then I should just be able to paste
+
+591
+00:49:21,477 --> 00:49:23,494
+the same thing into all of them.
+
+592
+00:49:24,991 --> 00:49:27,427
+Get this, get this done once and for all.
+
+593
+00:49:28,306 --> 00:49:31,859
+Okay. You know, I'm gonna go ahead and stop this video and then pick
+
+594
+00:49:31,860 --> 00:49:33,537
+up from here and the next one.

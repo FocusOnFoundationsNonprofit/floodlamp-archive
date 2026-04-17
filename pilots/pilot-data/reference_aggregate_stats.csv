@@ -1,0 +1,51 @@
+section,metric,details,aggregate_value
+Overall,Number of Tubes Tested (initial only - no re-runs),initial run tubes only so excludes re-runs,"16,209"
+Overall,Number of Tube Tests Run (includes re-runs),includes re-runs,"16,484"
+Overall,Number of Initial Runs,,795
+Overall,Number of APS Only Tubes run,,"8,727"
+Overall,Number of Test Reactions (RFR plus APS only tubes run),includes technical replicates (the same tube sample in multiple reactions in the same run),"17,096"
+Overall,Number of Participant Results,counts individual samples in pools and excludes re-runs,"37,706"
+Overall,Number of ARF Tubes,tubes run and present in RFR but not in Appivo - created tube IDs that start with ARF,386
+Overall,Sum of Participant Results plus ARF Tubes,Will be equal to the number of tubes tested if no pooling.,"38,092"
+Overall,Average Pool Level (excludes ARF),,2.383
+Re-runs,Number of Run Tubes (re-runs only),from RFR Audit Num Run Tubes,275
+Re-runs,Number of Reactions (re-runs only),from RFR Audit Num rxns (excl ctrls),705
+Re-runs,Re-run % of Tubes,re-run / initial,1.7%
+Re-runs,Number of Initial Runs with Re-runs,,148
+Re-runs,% Initial Runs with Re-runs,,18.6%
+Positives,Number of Tubes with Final Result Positive,,884
+Positives,% of Tubes Positives (Final Result),,5.5%
+Positives,Number of Cases with Final Result Positive (Indiv or Pool),Subtract off Re-tests,87
+Positives,Known Positive Cases,Previous tested (including by FloodLAMP test) or reported positive,337
+Positives,Unknown Positive Cases,,134
+Inconclusives,Number of Tubes with Final Result Inconclusive,,14
+Inconclusives,Number of Tubes in RFR Audit Inconclusive not in Appivo Final Results,,3
+Inconclusives,Total Number of Inconclusive Tubes,,17
+Inconclusives,% of Tubes Inconclusive,,0.1%
+Inconclusives,Number of Inconclusive Tubes resolved Positive by Referral Test or Correspondence,,4
+Inconclusives,% Inconclusives resolved Positive by Referral Tests,,24%
+Inconclusives,Number of Inconclusive Tubes with Referral Test or Correspondence Negative,,3
+Inconclusives,Number of Inconclusive Tubes with no Referral Test result or Correspondence,,9
+Inconclusives,Number of Tubes with Initial Inconclusives and Re-run Negative,"Count Result Correction Code=2.5 in preDel col AJ, or from RFR preExcl if not resulted as Incl in App",68
+Inconclusives,Number of Inconclusive Test Run Calls,includes re-runs - from RFR Audit only and excludes any APS only resulted inconclusives,159
+Inconclusives,% Tube Tests Run Called Inconclusive,includes re-runs,1.0%
+Referrals and Correspondence,Number of FloodLAMP Cases with Referral Tests or Correspondence,"Indiv or Pool, Cases used instead of Person to account for people being contracting COVID multiple times, and instead of Results to exclude re-tests",127
+Referrals and Correspondence,Number of Referral Confirmed FloodLAMP Positives,Sometimes also termed Agree Positives - Include initial Inconclusive with Referral or Correspondence Positive,121
+Referrals and Correspondence,FL Inconclusives with Referal / Correspondence Positive,,4
+Referrals and Correspondence,% FloodLAMP Positive or Inconclusive with Referral / Correspondence Positive,,98%
+Referrals and Correspondence,FL Inconclusives but Referral / Correspondence Negative,,2
+Referrals and Correspondence,FL Inconclusives with No Referral Tests or Correspondence,,12
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Referral Antigen Tests (including non-Same Day),,68
+Comparison to Antigen,Number of FloodLAMP Test Person Cases with Same Day Referral Antigen Tests,,62
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases with Same Day Antigen Negative,Agree with Referral Test Positive (usually PCR or later Antigen) but Initial Antigen Negative,15
+Comparison to Antigen,% Confirmed FloodLAMP Positives with Same Day Antigen Negative,,
+Comparison to Antigen,Number of FloodLAMP Positive Test Person Cases confirmed with Referral Tests but Antigen and Other Non-Antigen Test Negative,,1
+Comparison to Antigen,% Confirmed FloodLAMP Positives that were Antigen and Other Non-Antigen Test Negative,,
+False Calls,False Positives Final Results,From reviewing APS/Pos and Incl tab Unconfirmed FL Positives,0
+False Calls,False Negative Final Results (Suspected),From reviewing Referral Tests by Person and correspondence with Program Admin,0
+People,Number of Unique Indivuals Tested,Includes UnknownPerson additions but not ARF tubes,"2,752"
+People,Number of Unique Sponsors,People who collect using the app,481
+Positivity,Number of Unique Individual Tested FloodLAMP Positive,includes Inconclusive FloodLAMP result confirmed Positive by follow-up or Referral,444
+Positivity,% of Population FloodLAMP Positive (excluding pools not deconv),,16%
+Positivity,Number of Unique Individual Tested FloodLAMP Positive (including if in a positive pool),,475
+Positivity,% of Population FloodLAMP Positive (including everyone in a positive pool),,17%
