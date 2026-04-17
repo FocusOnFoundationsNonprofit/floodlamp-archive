@@ -140,6 +140,9 @@ git commit -m "$SNAPSHOT_MSG"
 # Replace main and force-push
 git branch -M "$BRANCH"
 echo "Force-pushing rewritten history to $REMOTE/$BRANCH..."
+# Large repos (>1 GB) can fail over HTTPS with "the remote end hung up unexpectedly".
+# Increase the HTTP post buffer to 2 GB to handle the full pack in one transfer.
+git config http.postBuffer 2147483648
 git push --force "$REMOTE" "$BRANCH"
 
 # Cleanup: prune + local gc (optional but nice)
